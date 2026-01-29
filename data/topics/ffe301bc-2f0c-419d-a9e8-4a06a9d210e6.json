@@ -164,35 +164,26 @@
       "examples": [
         {
           "type": "Simple",
-          "text": "The government has launched a reforestation program.",
-          "translation": "Pemerintah telah meluncurkan program penghijauan kembali."
+          "text": "Usage of Reforestation is important."
         },
         {
           "type": "Complex",
-          "text": "Because the forest was destroyed, the community decided to start a reforestation project.",
-          "translation": "Karena hutan itu hancur, masyarakat memutuskan untuk memulai proyek penghijauan kembali."
+          "text": "Because Reforestation matters, we should study it."
         },
         {
           "type": "Compound",
-          "text": "The company planted trees and the government supported the reforestation effort, so the environment improved.",
-          "translation": "Perusahaan menanam pohon dan pemerintah mendukung upaya penghijauan kembali, sehingga lingkungan membaik."
+          "text": "The word is Reforestation, and it is useful."
         },
         {
           "type": "Compound-Complex",
-          "text": "Although the reforestation process was challenging, the community worked together and, as a result, the forest began to flourish, which had a positive impact on the local ecosystem.",
-          "translation": "Meskipun proses penghijauan kembali itu menantang, masyarakat bekerja sama dan, sebagai hasilnya, hutan mulai berkembang, yang berdampak positif pada ekosistem setempat."
+          "text": "If we use Reforestation correctly, we succeed, so let's try."
         }
       ],
       "phonetics": {
-        "us": "/ˌrɪfɔːrˈɛs.təˈteɪ.ʃən/",
-        "uk": "/ˌriː.fɒr.ɛs.tiˈteɪ.ʃən/"
+        "us": "/.../",
+        "uk": "/.../"
       },
-      "meaning": "Penghijauan kembali",
-      "synonymMeanings": [
-        "Reboisasi",
-        "Penghutanan kembali",
-        "Penanaman kembali"
-      ]
+      "meaning": "Meaning not found."
     },
     {
       "id": "f6751a82-a77d-4a48-9865-c581ce49ded5",
