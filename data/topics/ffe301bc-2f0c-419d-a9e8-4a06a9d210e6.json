@@ -415,7 +415,30 @@
       ],
       "definition": "The attitude or approach conveyed in speech or writing",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Tone is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Tone matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Tone, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Tone correctly, we succeed, so let's try."
+        }
+      ]
     },
     {
       "id": "8c6d0977-8535-491e-acb9-89172c3438fe",
