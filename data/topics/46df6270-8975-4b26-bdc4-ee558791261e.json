@@ -843,7 +843,30 @@
       ],
       "definition": "Criminal behavior by minors",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Juvenile delinquency is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Juvenile delinquency matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Juvenile delinquency, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Juvenile delinquency correctly, we succeed, so let's try."
+        }
+      ]
     },
     {
       "id": "5034b1c7-306c-4d4b-8e45-50646b229e0f",
