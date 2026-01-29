@@ -82,16 +82,19 @@ export function TopicList() {
                                         />
                                     </div>
 
-                                    <BookOpen className="w-4 h-4" />
-                                    Review & Practice
-                                </button>
-                            </div>
+                                    <button
+                                        onClick={() => selectTopic(topic.id)}
+                                        className="w-full flex items-center justify-center gap-2 py-3.5 bg-slate-800 hover:bg-slate-700 text-slate-100 rounded-xl font-bold transition-all border border-slate-700/50"
+                                    >
+                                        <BookOpen className="w-4 h-4" />
+                                        Review & Practice
+                                    </button>
+                                </div>
                             </motion.div>
                         ))}
-                </AnimatePresence>
+                    </AnimatePresence>
                 </div>
-    )
-}
-        </div >
+            )}
+        </div>
     );
 }
