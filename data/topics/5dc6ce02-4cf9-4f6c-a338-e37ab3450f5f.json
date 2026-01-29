@@ -1,0 +1,712 @@
+{
+  "id": "5dc6ce02-4cf9-4f6c-a338-e37ab3450f5f",
+  "name": "HEALTH",
+  "items": [
+    {
+      "id": "1224371e-8c61-4b88-830d-c4c2b9a44195",
+      "word": "Well-being",
+      "synonyms": [
+        "Wellness",
+        "good health"
+      ],
+      "definition": "A state of health and happiness",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "0c40f089-70af-4aa8-bd66-fb2a9b30e554",
+      "word": "Immunity",
+      "synonyms": [
+        "Resistance",
+        "defense"
+      ],
+      "definition": "The body’s ability to resist disease",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "5492f24a-fa37-460b-bf85-6c0f9f3f5a30",
+      "word": "Nutrition",
+      "synonyms": [
+        "Diet",
+        "nourishment"
+      ],
+      "definition": "The process of obtaining food necessary for health",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "39dfa10f-e952-4fa5-8ffd-b18aa8eeecb9",
+      "word": "Obesity",
+      "synonyms": [
+        "Overweight",
+        "excessive fat"
+      ],
+      "definition": "Excessive body weight caused by fat accumulation",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "b9ac9776-0325-424d-ac5e-15ec03664d82",
+      "word": "Sedentary lifestyle",
+      "synonyms": [
+        "Inactive lifestyle",
+        "desk-bound routine"
+      ],
+      "definition": "A way of life with little physical activity",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "cfabfa98-154c-450f-a9e3-30803f2e806b",
+      "word": "Cardiovascular disease",
+      "synonyms": [
+        "Heart disease",
+        "circulatory disorder"
+      ],
+      "definition": "Diseases affecting the heart and blood vessels",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "077d0ac6-1c9a-4e74-9163-3d017e598fc2",
+      "word": "Diabetes",
+      "synonyms": [
+        "Blood sugar disorder",
+        "hyperglycemia"
+      ],
+      "definition": "A metabolic disease with high blood sugar levels",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "979f0398-3997-4b54-9277-61abc214ce5a",
+      "word": "Hypertension",
+      "synonyms": [
+        "High BP",
+        "elevated pressure"
+      ],
+      "definition": "High blood pressure",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "91a2dd83-ce50-4861-bc18-5196d8d4ce9a",
+      "word": "Allergy",
+      "synonyms": [
+        "Hypersensitivity",
+        "allergic reaction"
+      ],
+      "definition": "A reaction to a particular substance by the immune system",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "63e7e06c-2e3a-4353-8e7b-5e3c88b8f03f",
+      "word": "Mental health",
+      "synonyms": [
+        "Psychological wellness",
+        "emotional"
+      ],
+      "definition": "Psychological and emotional well-being",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "d6acc89f-7db9-4b21-b950-98311be419cf",
+      "word": "Depression",
+      "synonyms": [
+        "Melancholy",
+        "major depressive disorder"
+      ],
+      "definition": "A mental disorder with persistent sadness",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "5beb8de3-5ddd-4a03-a0af-fd30a541d8cf",
+      "word": "Anxiety disorder",
+      "synonyms": [
+        "Nervous disorder",
+        "panic disorder"
+      ],
+      "definition": "A mental condition characterized by excessive worry",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "b3ced70b-5015-4a56-86ab-aab88f351176",
+      "word": "Therapy",
+      "synonyms": [
+        "Rehabilitation",
+        "counseling"
+      ],
+      "definition": "Treatment for a mental or physical illness",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "ac63b3c1-ab56-4376-a784-bd242b364aaa",
+      "word": "Vaccination",
+      "synonyms": [
+        "Immunization",
+        "inoculation"
+      ],
+      "definition": "A process of immunization against diseases",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "5837a8f6-23bf-4999-b231-001f35f8f1ca",
+      "word": "Epidemic",
+      "synonyms": [
+        "Outbreak",
+        "pandemic"
+      ],
+      "definition": "A widespread occurrence of a disease",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "9ab221b1-7667-422b-a7a5-e790fc182482",
+      "word": "Contagious",
+      "synonyms": [
+        "Infectious",
+        "transmittable"
+      ],
+      "definition": "Capable of being transmitted from person to person",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "15966760-fd68-4015-9260-d9d94f6fdddf",
+      "word": "Rehabilitation",
+      "synonyms": [
+        "Recovery",
+        "therapy"
+      ],
+      "definition": "The process of recovering from an illness or injury",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "4f745f2a-217c-4804-a770-46ed7ffc1836",
+      "word": "Malnutrition",
+      "synonyms": [
+        "Undernourishment",
+        "starvation"
+      ],
+      "definition": "Poor nutrition due to an unbalanced diet",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "1d741244-2995-46ad-b4e3-c20ec25488ad",
+      "word": "Holistic medicine",
+      "synonyms": [
+        "Alternative medicine",
+        "integrative health"
+      ],
+      "definition": "A treatment approach that considers the whole person",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "4d4c4cb6-8827-4b09-896e-cd071fe277a2",
+      "word": "Herbal remedies",
+      "synonyms": [
+        "Natural medicine",
+        "traditional healing"
+      ],
+      "definition": "Natural treatments derived from plants",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "53cc691c-d6f2-448b-a27d-7fca0c0eb3b5",
+      "word": "Addiction",
+      "synonyms": [
+        "Dependency",
+        "substance abuse"
+      ],
+      "definition": "A compulsive dependency on substances or activities",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "ccd6bfeb-b760-407b-977c-21f75f217219",
+      "word": "Withdrawal symptoms",
+      "synonyms": [
+        "Detox effects",
+        "cravings"
+      ],
+      "definition": "Physical or psychological effects after stopping a substance",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "e210c373-1058-43d2-a798-3a0f53f82eb9",
+      "word": "Genetic disorder",
+      "synonyms": [
+        "Inherited disease",
+        "congenital disorder"
+      ],
+      "definition": "A disease caused by genetic abnormalities",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "89f9d11e-4157-49f9-ab7d-c42deab76cec",
+      "word": "Immune system",
+      "synonyms": [
+        "Immunity",
+        "defense system"
+      ],
+      "definition": "The body’s defense mechanism against infections",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "c8bba173-3473-447a-b878-aecbe0eea2e6",
+      "word": "Respiratory illness",
+      "synonyms": [
+        "Lung disease",
+        "breathing disorder"
+      ],
+      "definition": "Diseases affecting the lungs and airways",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "80e27dcb-8975-4276-bc14-aa20fb6c8fa1",
+      "word": "Chronic disease",
+      "synonyms": [
+        "Long-lasting illness",
+        "persistent condition"
+      ],
+      "definition": "A long-term health condition",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "fb262cd7-4530-4bcc-a1e0-44c912b392bf",
+      "word": "Acute illness",
+      "synonyms": [
+        "Short-term disease",
+        "rapid-onset illness"
+      ],
+      "definition": "A sudden and severe medical condition",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "2b0df7df-a132-4d07-982a-f0512519295e",
+      "word": "Occupational health",
+      "synonyms": [
+        "Workplace safety",
+        "employee health"
+      ],
+      "definition": "The well-being of workers in their workplace",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "ba3065f2-826b-4303-905f-64374b863e36",
+      "word": "Hygiene",
+      "synonyms": [
+        "Sanitation",
+        "cleanliness"
+      ],
+      "definition": "Practices that maintain cleanliness and health",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "d8481229-b468-4195-85b4-885f21fa5532",
+      "word": "Adolescence",
+      "synonyms": [
+        "Teenage years",
+        "youth"
+      ],
+      "definition": "The transitional stage from childhood to adulthood",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "e44b3973-a444-4dda-be2b-7b13fc53f605",
+      "word": "Puberty",
+      "synonyms": [
+        "Maturation",
+        "biological development"
+      ],
+      "definition": "The period when a person undergoes physical changes",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "60ac6d9c-d324-44bd-b5da-314312d85541",
+      "word": "Cognitive development",
+      "synonyms": [
+        "Intellectual growth",
+        "mental development"
+      ],
+      "definition": "The growth of thinking and understanding abilities",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "541eae5b-3b97-4774-a69b-a2d526cd7232",
+      "word": "Emotional maturity",
+      "synonyms": [
+        "Psychological growth",
+        "emotional"
+      ],
+      "definition": "The ability to manage emotions effectively",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "de883684-6095-4ea1-883e-b3742882b07b",
+      "word": "Social skills",
+      "synonyms": [
+        "Communication skills",
+        "interpersonal"
+      ],
+      "definition": "The ability to interact effectively with others",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "fd3fd0c2-8837-4bb8-893a-d6ab1e6129a4",
+      "word": "Peer pressure",
+      "synonyms": [
+        "Social influence",
+        "group pressure"
+      ],
+      "definition": "Influence from one’s social group",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "cde67b5f-a86b-4b7a-8391-354d061673bd",
+      "word": "Independence",
+      "synonyms": [
+        "Self-sufficiency",
+        "autonomy"
+      ],
+      "definition": "The ability to take care of oneself without relying on others",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "14822fbe-1cf5-407b-9bc5-c622dc7fa8a3",
+      "word": "Discipline",
+      "synonyms": [
+        "Self-discipline",
+        "regulation"
+      ],
+      "definition": "The practice of self-control and obedience to rules",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "968262c7-8408-4edc-9808-5fae5e45946c",
+      "word": "Responsibility",
+      "synonyms": [
+        "Obligation",
+        "accountability"
+      ],
+      "definition": "The duty of being accountable for one’s actions",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "6fd095ab-0ffd-4a1e-b886-acae13df2570",
+      "word": "Self-esteem",
+      "synonyms": [
+        "Self-respect",
+        "self-worth"
+      ],
+      "definition": "Confidence in one’s abilities and worth",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "a12ca53a-5d6b-40ff-a82d-fca9a59004ee",
+      "word": "Aerobic exercise",
+      "synonyms": [
+        "Cardio",
+        "endurance training"
+      ],
+      "definition": "Physical activity that increases heart rate and oxygen intake",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "a09463ae-720c-424a-ba69-841ab647e5d7",
+      "word": "Anaerobic exercise",
+      "synonyms": [
+        "Strength training",
+        "resistance exercise"
+      ],
+      "definition": "Short bursts of high-intensity activity that do not rely on oxygen",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "7cf0309c-9994-42c2-81f9-70253ba00a64",
+      "word": "Endurance",
+      "synonyms": [
+        "Stamina",
+        "resilience"
+      ],
+      "definition": "The ability to sustain physical activity over time",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "2dde3bc4-70c7-43fe-b49a-fab25c8ac905",
+      "word": "Flexibility",
+      "synonyms": [
+        "Suppleness",
+        "mobility"
+      ],
+      "definition": "The ability of muscles and joints to move through their full range of",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "1382edb7-6773-4017-a5b5-fd670f93fb64",
+      "word": "Strength training",
+      "synonyms": [
+        "Resistance training",
+        "weightlifting"
+      ],
+      "definition": "Exercise designed to increase muscle power and endurance",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "076d46b2-1b53-48ac-baf4-87cb51749c51",
+      "word": "Cardiovascular fitness",
+      "synonyms": [
+        "Heart health",
+        "stamina"
+      ],
+      "definition": "The efficiency of the heart, lungs, and blood vessels during exercise",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "5e51646d-b8a5-4dce-9823-9c9077552f71",
+      "word": "Muscle hypertrophy",
+      "synonyms": [
+        "Muscle growth",
+        "bodybuilding"
+      ],
+      "definition": "The increase in muscle size due to resistance training",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "1703a718-3efd-46f2-b04d-0d626d4d713f",
+      "word": "Metabolism",
+      "synonyms": [
+        "Caloric burn",
+        "energy expenditure"
+      ],
+      "definition": "The body’s process of converting food into energy",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "fdf06bdb-e5a0-4745-9dec-b28318ced7bd",
+      "word": "High-Intensity Interval Training",
+      "synonyms": [
+        "Intense cardio",
+        "interval training"
+      ],
+      "definition": "A workout involving short bursts of intense activity followed by rest",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "2dd7d8a0-e694-40b8-9d2f-922aec3bddc9",
+      "word": "Body composition",
+      "synonyms": [
+        "Physical makeup",
+        "body structure"
+      ],
+      "definition": "The proportion of fat, muscle, and bone in the body",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "5dd0f2c0-04ea-4691-854b-8cc2142fd1dc",
+      "word": "Resistance bands",
+      "synonyms": [
+        "Elastic training tools",
+        "tension bands"
+      ],
+      "definition": "Elastic bands used for strength training exercises",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "6aa16ec2-e52b-448a-84e5-72b1510dc29a",
+      "word": "Repetition",
+      "synonyms": [
+        "Exercise cycle",
+        "movement count"
+      ],
+      "definition": "The number of times an exercise is performed in a set",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "1916a63c-6dea-4080-9c8c-e349e5948baf",
+      "word": "Set",
+      "synonyms": [
+        "Exercise round",
+        "sequence"
+      ],
+      "definition": "A group of repetitions performed without rest",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "a22fe229-03e2-446a-9fa6-1c1539e0579f",
+      "word": "Warm-up",
+      "synonyms": [
+        "Pre-workout routine",
+        "stretching"
+      ],
+      "definition": "A preparatory activity before intense exercise",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "45022215-6b6c-47e2-8d92-c306fc5e5491",
+      "word": "Cool-down",
+      "synonyms": [
+        "Post-workout routine",
+        "relaxation"
+      ],
+      "definition": "A set of low-intensity exercises performed after a workout",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "018045e9-fa8c-49a3-9693-343f117c685c",
+      "word": "Plyometrics",
+      "synonyms": [
+        "Jump training",
+        "explosive workouts"
+      ],
+      "definition": "Exercises that involve explosive movements to improve power",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "91695d61-0e71-46f8-ba03-2c3831092d2a",
+      "word": "Agility",
+      "synonyms": [
+        "Quickness",
+        "nimbleness"
+      ],
+      "definition": "The ability to move quickly and easily",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "2d54b6a7-a37b-42b6-9612-81d802d956a3",
+      "word": "Core strength",
+      "synonyms": [
+        "Midsection stability",
+        "core fitness"
+      ],
+      "definition": "The strength of the muscles around the abdomen and lower back",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "6c54ae3c-7c49-478a-91b3-86efb287f22a",
+      "word": "Posture",
+      "synonyms": [
+        "Alignment",
+        "stance"
+      ],
+      "definition": "The way in which a person holds their body",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "db7c52a4-11ae-4bfd-a394-24da70516248",
+      "word": "Recovery time",
+      "synonyms": [
+        "Rest period",
+        "healing phase"
+      ],
+      "definition": "The period needed for muscles to heal after exercise",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "ff064543-c1dd-4d9d-a3e1-520a5dd33e0a",
+      "word": "Lactic acid",
+      "synonyms": [
+        "Metabolic byproduct",
+        "fatigue cause"
+      ],
+      "definition": "A substance that builds up in muscles during intense exercise",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "5d8f5610-712c-4162-96d6-730e3f3e3f6a",
+      "word": "Hydration",
+      "synonyms": [
+        "Fluid intake",
+        "water consumption"
+      ],
+      "definition": "Maintaining sufficient water levels in the body",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "40e670bf-5192-4200-9799-84e6bcfa08bf",
+      "word": "Overtraining",
+      "synonyms": [
+        "Burnout",
+        "physical strain"
+      ],
+      "definition": "Excessive exercise that leads to fatigue and decreased performance",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "628c9fde-187e-475f-b793-fae197ce5143",
+      "word": "Interval training",
+      "synonyms": [
+        "Sprint training",
+        "circuit training"
+      ],
+      "definition": "Alternating between high and low-intensity exercise",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "071d6339-c7d9-463f-88b6-6b11c3621d60",
+      "word": "Mind-muscle connection",
+      "synonyms": [
+        "Neuromuscular control",
+        "conscious",
+        "movement"
+      ],
+      "definition": "The ability to focus on muscle engagement during exercise",
+      "userGuesses": [],
+      "status": "hidden"
+    }
+  ],
+  "createdAt": 1769720179456
+}
