@@ -663,9 +663,42 @@
         "Infectious",
         "transmittable"
       ],
-      "definition": "Capable of being transmitted from person to person",
+      "definition": "able to spread or catch a disease",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "menular",
+      "phonetics": {
+        "us": "/kənˈteɪdʒəs/",
+        "uk": "/kənˈteɪdʒəs/"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "The doctor said the illness is contagious.",
+          "translation": "Dokter mengatakan penyakit itu menular."
+        },
+        {
+          "type": "Complex",
+          "text": "Although she was feeling unwell, she still came to the party because she didn't know that her illness was contagious.",
+          "translation": "Meskipun dia merasa tidak enak badan, dia tetap datang ke pesta karena dia tidak tahu bahwa penyakitnya menular."
+        },
+        {
+          "type": "Compound",
+          "text": "The contagious disease spread quickly, and many people got sick, but fortunately, the hospital was able to provide treatment.",
+          "translation": "Penyakit menular itu menyebar dengan cepat, dan banyak orang jatuh sakit, tapi untungnya, rumah sakit dapat menyediakan pengobatan."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "While the contagious disease spread quickly, and many people got sick, the hospital was able to provide treatment, but only because the doctors had experience with similar cases before.",
+          "translation": "Sementara penyakit menular itu menyebar dengan cepat, dan banyak orang jatuh sakit, rumah sakit dapat menyediakan pengobatan, tapi hanya karena dokter-dokter tersebut memiliki pengalaman dengan kasus serupa sebelumnya."
+        }
+      ],
+      "synonymMeanings": [
+        "penyakit menular",
+        "penyakit berjangkit",
+        "infeksius",
+        "menyebar"
+      ]
     },
     {
       "id": "15966760-fd68-4015-9260-d9d94f6fdddf",
