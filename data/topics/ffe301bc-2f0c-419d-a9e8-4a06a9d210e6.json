@@ -1166,7 +1166,30 @@
       ],
       "definition": "Alternating between languages or\ndialects in conversation",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Code-switching is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Code-switching matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Code-switching, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Code-switching correctly, we succeed, so let's try."
+        }
+      ]
     },
     {
       "id": "53b14e32-6d41-4684-b715-1fc1b39984ac",
