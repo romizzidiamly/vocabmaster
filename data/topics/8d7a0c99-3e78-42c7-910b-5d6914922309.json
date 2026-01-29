@@ -317,7 +317,30 @@
       ],
       "definition": "Information provided as a response to a message or performance",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Feedback is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Feedback matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Feedback, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Feedback correctly, we succeed, so let's try."
+        }
+      ]
     },
     {
       "id": "b18e37af-213f-402f-ad93-e0f6334db7b0",
