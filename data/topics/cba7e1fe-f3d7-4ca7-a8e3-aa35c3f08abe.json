@@ -9,9 +9,42 @@
         "Oral communication",
         "speech"
       ],
-      "definition": "The use of spoken words to convey messages",
+      "definition": "the act of communicating or expressing ideas, thoughts, or opinions using words, either spoken or written",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Komunikasi Verbal",
+      "phonetics": {
+        "us": "/ˈvərbəl kəmʊnɪˈkeɪʃən/",
+        "uk": "/ˈvɜːb(ə)l kəmjuːnɪˈkeɪʃən/"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Verbal communication is essential in any workplace.",
+          "translation": "Komunikasi verbal sangat penting di tempat kerja mana pun."
+        },
+        {
+          "type": "Complex",
+          "text": "Because verbal communication is a two-way process, it involves both the sender and the receiver.",
+          "translation": "Karena komunikasi verbal adalah proses dua arah, maka melibatkan baik pengirim maupun penerima."
+        },
+        {
+          "type": "Compound",
+          "text": "Verbal communication helps to build trust, and nonverbal communication helps to build rapport, both are important in business.",
+          "translation": "Komunikasi verbal membantu membangun kepercayaan, dan komunikasi nonverbal membantu membangun hubungan baik, keduanya penting dalam bisnis."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "While verbal communication is important, because it allows for immediate feedback, nonverbal communication also plays a significant role, since it can convey emotions and attitudes, which are essential in building strong relationships.",
+          "translation": "Sementara komunikasi verbal penting, karena memungkinkan umpan balik langsung, komunikasi nonverbal juga memainkan peran signifikan, karena dapat menyampaikan emosi dan sikap, yang sangat penting dalam membangun hubungan yang kuat."
+        }
+      ],
+      "synonymMeanings": [
+        "Komunikasi Lisan",
+        "Komunikasi Ucapan",
+        "Percakapan",
+        "Komunikasi Tatap Muka"
+      ]
     },
     {
       "id": "f6ace7bc-c7cd-4608-842b-2ad76f27c4e8",
