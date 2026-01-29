@@ -1098,7 +1098,30 @@
       ],
       "definition": "A condition affecting a person’s ability to speak clearly",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Speech Impediment is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Speech Impediment matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Speech Impediment, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Speech Impediment correctly, we succeed, so let's try."
+        }
+      ]
     },
     {
       "id": "8d5a1fbb-fc9f-4560-a019-c9426883fe44",
