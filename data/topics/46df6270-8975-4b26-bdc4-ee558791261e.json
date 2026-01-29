@@ -1423,7 +1423,30 @@
       ],
       "definition": "An agreement where the accused pleads guilty in exchange for a\nlighter sentence",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Plea bargain is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Plea bargain matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Plea bargain, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Plea bargain correctly, we succeed, so let's try."
+        }
+      ]
     },
     {
       "id": "8680004b-c918-465a-aed1-30cec67c7b24",
