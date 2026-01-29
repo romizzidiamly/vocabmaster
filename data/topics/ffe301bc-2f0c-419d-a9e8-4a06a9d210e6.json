@@ -164,36 +164,26 @@
       "examples": [
         {
           "type": "Simple",
-          "text": "The organization is working on reforestation in the forest.",
-          "translation": "Organisasi tersebut bekerja pada reboisasi di hutan."
+          "text": "Usage of Reforestation is important."
         },
         {
           "type": "Complex",
-          "text": "Because many trees were cut down, the government decided to start a reforestation program.",
-          "translation": "Karena banyak pohon yang ditebang, pemerintah memutuskan untuk memulai program reboisasi."
+          "text": "Because Reforestation matters, we should study it."
         },
         {
           "type": "Compound",
-          "text": "The company planted new trees, and the government supported the reforestation effort.",
-          "translation": "Perusahaan menanam pohon baru, dan pemerintah mendukung upaya reboisasi."
+          "text": "The word is Reforestation, and it is useful."
         },
         {
           "type": "Compound-Complex",
-          "text": "While the organization was working on reforestation, the government was also creating new laws to protect the environment, and the local community was supporting the effort.",
-          "translation": "Saat organisasi bekerja pada reboisasi, pemerintah juga membuat undang-undang baru untuk melindungi lingkungan, dan masyarakat lokal mendukung upaya tersebut."
+          "text": "If we use Reforestation correctly, we succeed, so let's try."
         }
       ],
       "phonetics": {
-        "us": "/ˌrɪfəˈrɛs.təˈʃən/",
-        "uk": "/ˌriːfɒˈrɛs.təˈʃən/"
+        "us": "/.../",
+        "uk": "/.../"
       },
-      "meaning": "Reboisasi",
-      "synonymMeanings": [
-        "Penghijauan",
-        "Rehabilitasi Hutan",
-        "Pemulihan Ekosistem",
-        "Penanaman Kembali"
-      ]
+      "meaning": "Meaning not found."
     },
     {
       "id": "f6751a82-a77d-4a48-9865-c581ce49ded5",
