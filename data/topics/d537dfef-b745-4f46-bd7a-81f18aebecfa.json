@@ -24,19 +24,19 @@
       "examples": [
         {
           "type": "Simple",
-          "text": "Vaccination provides immunity to certain diseases."
+          "text": "The vaccine provides immunity to certain diseases."
         },
         {
           "type": "Complex",
-          "text": "Because vaccination has been widely implemented, the population has developed immunity to many infectious diseases."
+          "text": "Because the vaccine has been widely administered, the community has developed immunity to the disease, which has significantly reduced its spread."
         },
         {
           "type": "Compound",
-          "text": "Vaccination programs are effective, and they provide immunity to many diseases, but they can be expensive to implement."
+          "text": "The vaccine provides immunity to certain diseases, and it also reduces the severity of symptoms."
         },
         {
           "type": "Compound-Complex",
-          "text": "While vaccination programs are effective and provide immunity to many diseases, they can be expensive to implement, and because they require significant resources, their deployment is often limited to affluent countries."
+          "text": "While the vaccine provides immunity to certain diseases, it is also important to note that because it has been widely administered, the community has developed immunity, which has significantly reduced the spread of the disease, and it also reduces the severity of symptoms in those who are infected."
         }
       ],
       "phonetics": {

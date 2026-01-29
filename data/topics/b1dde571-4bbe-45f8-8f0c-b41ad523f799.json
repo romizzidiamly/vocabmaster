@@ -47,8 +47,7 @@
       "word": "Deforestation",
       "synonyms": [
         "Logging",
-        "forest",
-        "degradation"
+        "forest degradation"
       ],
       "userGuesses": [],
       "status": "hidden"
@@ -58,8 +57,7 @@
       "word": "Reforestation",
       "synonyms": [
         "Afforestation",
-        "ecological",
-        "restoration"
+        "ecological restoration"
       ],
       "userGuesses": [],
       "status": "discovered",
@@ -121,8 +119,7 @@
       "word": "Non-renewable energy",
       "synonyms": [
         "Fossil fuels",
-        "exhaustible",
-        "energy"
+        "exhaustible energy"
       ],
       "userGuesses": [],
       "status": "hidden"
@@ -151,8 +148,7 @@
       "id": "fad1c4c5-539f-4b06-8330-7c04e7a42c28",
       "word": "Carbon emissions",
       "synonyms": [
-        "Greenhouse gas",
-        "emissions",
+        "Greenhouse gas emissions",
         "pollutants"
       ],
       "userGuesses": [],
@@ -183,8 +179,7 @@
       "word": "Air pollution",
       "synonyms": [
         "Smog",
-        "atmospheric",
-        "contamination"
+        "atmospheric contamination"
       ],
       "userGuesses": [],
       "status": "hidden"
@@ -263,8 +258,7 @@
       "id": "909f2949-8774-4ea1-be31-ed5694b12c65",
       "word": "Habitat destruction",
       "synonyms": [
-        "Environmental",
-        "degradation",
+        "Environmental degradation",
         "deforestation"
       ],
       "userGuesses": [],
@@ -275,8 +269,7 @@
       "word": "Ozone layer depletion",
       "synonyms": [
         "Atmospheric damage",
-        "UV",
-        "exposure"
+        "UV exposure"
       ],
       "userGuesses": [],
       "status": "hidden"
@@ -316,8 +309,7 @@
       "word": "Composting",
       "synonyms": [
         "Organic recycling",
-        "soil",
-        "enrichment"
+        "soil enrichment"
       ],
       "userGuesses": [],
       "status": "hidden"
@@ -357,8 +349,7 @@
       "word": "Wildlife preservation",
       "synonyms": [
         "Conservation",
-        "species",
-        "protection"
+        "species protection"
       ],
       "userGuesses": [],
       "status": "hidden"
