@@ -2048,7 +2048,30 @@
       ],
       "definition": "Elastic bands used for strength training exercises",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Resistance bands is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Resistance bands matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Resistance bands, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Resistance bands correctly, we succeed, so let's try."
+        }
+      ]
     },
     {
       "id": "6aa16ec2-e52b-448a-84e5-72b1510dc29a",
