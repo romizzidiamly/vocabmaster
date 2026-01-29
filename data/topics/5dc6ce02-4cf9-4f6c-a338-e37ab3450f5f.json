@@ -1464,9 +1464,42 @@
         "Social influence",
         "group pressure"
       ],
-      "definition": "Influence from one’s social group",
+      "definition": "the strong influence that a group of people of the same age can have on each other, especially on young people",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "tekanan teman sebaya",
+      "phonetics": {
+        "us": "/ˈpɪr ˈprɛʃər/",
+        "uk": "/ˈpɪə ˈprɛʃə/"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "She gave in to peer pressure and started smoking.",
+          "translation": "Dia menyerah pada tekanan teman sebaya dan mulai merokok."
+        },
+        {
+          "type": "Complex",
+          "text": "Because she wanted to fit in, she started wearing the same clothes as her friends, even though she didn't like them, which showed that she was vulnerable to peer pressure.",
+          "translation": "Karena dia ingin bergabung, dia mulai mengenakan pakaian yang sama dengan teman-temannya, meskipun dia tidak menyukainya, yang menunjukkan bahwa dia rentan terhadap tekanan teman sebaya."
+        },
+        {
+          "type": "Compound",
+          "text": "She joined the club because of peer pressure, and she also wanted to meet new people.",
+          "translation": "Dia bergabung dengan klub karena tekanan teman sebaya, dan dia juga ingin bertemu orang baru."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "While she was aware that peer pressure had influenced her decision to join the club, she also realized that she had been wanting to meet new people, and because her friends were already members, she decided to join, even though she was initially hesitant.",
+          "translation": "Sementara dia menyadari bahwa tekanan teman sebaya telah mempengaruhi keputusannya untuk bergabung dengan klub, dia juga menyadari bahwa dia telah ingin bertemu orang baru, dan karena teman-temannya sudah menjadi anggota, dia memutuskan untuk bergabung, meskipun awalnya dia ragu-ragu."
+        }
+      ],
+      "synonymMeanings": [
+        "pengaruh sosial",
+        "tekanan kelompok",
+        "pengaruh teman",
+        "iklim sosial"
+      ]
     },
     {
       "id": "cde67b5f-a86b-4b7a-8391-354d061673bd",
