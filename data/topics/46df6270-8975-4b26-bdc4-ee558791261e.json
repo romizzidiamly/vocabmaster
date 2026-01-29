@@ -216,7 +216,30 @@
       ],
       "definition": "The unlawful killing of a person\nwithout premeditation",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Manslaughter is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Manslaughter matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Manslaughter, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Manslaughter correctly, we succeed, so let's try."
+        }
+      ]
     },
     {
       "id": "9e8e905b-3480-466f-b4ab-3b8e902f8805",
