@@ -10,7 +10,29 @@
         "good health"
       ],
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "The government should prioritize the well-being of its citizens by providing adequate healthcare services."
+        },
+        {
+          "type": "Complex",
+          "text": "Because a healthy diet is essential for our well-being, we should make a conscious effort to avoid consuming excessive amounts of sugar and salt."
+        },
+        {
+          "type": "Compound",
+          "text": "Regular exercise improves our well-being, and a balanced diet helps us maintain a healthy weight."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "While some people believe that wealth is the key to happiness, others argue that true well-being depends on a combination of factors, including good relationships and a sense of purpose, because a fulfilling life is one that balances personal satisfaction with contributions to the greater good."
+        }
+      ],
+      "phonetics": {
+        "us": "/ˈwɛlˌbiɪŋ/",
+        "uk": "/ˈwɛl.bɪɪŋ/"
+      }
     },
     {
       "id": "d00f247a-2a01-48d3-bcc4-d2373f7b1b69",
@@ -19,8 +41,11 @@
         "Resistance",
         "defense"
       ],
-      "userGuesses": [],
-      "status": "discovered",
+      "userGuesses": [
+        "DEFENSE",
+        "RESISTANCE"
+      ],
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -62,7 +87,29 @@
         "excessive fat"
       ],
       "userGuesses": [],
-      "status": "hidden"
+      "status": "discovered",
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "The increasing prevalence of obesity is a significant public health concern worldwide."
+        },
+        {
+          "type": "Complex",
+          "text": "Because obesity is closely linked to a range of chronic diseases, it is essential to address this issue through a combination of dietary changes and regular exercise."
+        },
+        {
+          "type": "Compound",
+          "text": "The government needs to implement policies to reduce obesity, and individuals must take responsibility for their own health and wellbeing."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "While some argue that obesity is solely the result of personal choices, it is also true that socioeconomic factors, such as access to healthy food and safe spaces for physical activity, play a significant role, and therefore, a multifaceted approach is necessary to tackle this complex issue."
+        }
+      ],
+      "phonetics": {
+        "us": "/ˈoʊbɪsɪti/",
+        "uk": "/ɒbəˈsiːɪti/"
+      }
     },
     {
       "id": "dd200e64-a577-415c-9999-75bb28b16716",

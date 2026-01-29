@@ -8,6 +8,7 @@ interface VocabContextType {
     topics: Topic[];
     gameState: GameState;
     addTopic: (name: string, items: VocabItem[]) => void;
+    updateTopic: (id: string, updatedTopic: Topic) => void;
     deleteTopic: (id: string) => void;
     selectTopic: (id: string) => void;
     setPhase: (phase: GamePhase) => void;
@@ -83,6 +84,15 @@ export function VocabProvider({ children }: { children: React.ReactNode }) {
             score: 0
         });
         await syncTopicToServer(newTopic);
+    };
+
+    const updateTopic = async (id: string, updatedTopic: Topic) => {
+        setTopics(prev => prev.map(t => t.id === id ? updatedTopic : t));
+        // If the updated topic is currently active, update the active items too
+        if (gameState.activeTopicId === id) {
+            setGameState(prev => ({ ...prev, items: updatedTopic.items }));
+        }
+        await syncTopicToServer(updatedTopic);
     };
 
     const deleteTopic = async (id: string) => {
@@ -221,7 +231,7 @@ export function VocabProvider({ children }: { children: React.ReactNode }) {
             <div className="flex h-screen items-center justify-center bg-slate-950">
                 <div className="flex flex-col items-center gap-4">
                     <div className="w-12 h-12 border-4 border-indigo-500 border-t-transparent rounded-full animate-spin" />
-                    <p className="text-slate-500 font-bold uppercase tracking-widest text-xs">Loading Knowledge Base...</p>
+                    <p className="text-slate-500 font-bold uppercase tracking-widest text-xs">Accessing Knowledge Base...</p>
                 </div>
             </div>
         );
@@ -266,6 +276,7 @@ export function VocabProvider({ children }: { children: React.ReactNode }) {
             topics,
             gameState,
             addTopic,
+            updateTopic,
             deleteTopic,
             selectTopic,
             setPhase,

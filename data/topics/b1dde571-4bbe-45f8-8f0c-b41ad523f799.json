@@ -1,6 +1,6 @@
 {
   "id": "b1dde571-4bbe-45f8-8f0c-b41ad523f799",
-  "name": "environment",
+  "name": "ENVIRONMENT",
   "items": [
     {
       "id": "4011e0d3-bf20-4af5-9edc-11bb095780db",
@@ -50,7 +50,29 @@
         "forest degradation"
       ],
       "userGuesses": [],
-      "status": "hidden"
+      "status": "discovered",
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Deforestation is a significant threat to biodiversity."
+        },
+        {
+          "type": "Complex",
+          "text": "Because deforestation leads to soil erosion, many countries are now taking measures to prevent it."
+        },
+        {
+          "type": "Compound",
+          "text": "Deforestation destroys ecosystems, and pollution contaminates water sources."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "While deforestation is a significant environmental issue, because it leads to loss of habitat, many organizations are working to prevent it, and some countries are implementing policies to reduce pollution."
+        }
+      ],
+      "phonetics": {
+        "us": "/ˌdɛfəˈrɛstəˈʃən/",
+        "uk": "/ˌdefəˈrɛstəˈʃən/"
+      }
     },
     {
       "id": "8f4abdc9-aeb4-40de-b771-16eec9f4ffec",
@@ -60,7 +82,7 @@
         "ecological restoration"
       ],
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -389,8 +411,7 @@
       "word": "Alternative energy",
       "synonyms": [
         "Renewable energy",
-        "green",
-        "power"
+        "green power"
       ],
       "userGuesses": [],
       "status": "hidden"
@@ -551,8 +572,7 @@
       "word": "Waste management",
       "synonyms": [
         "Recycling",
-        "disposal",
-        "planning"
+        "disposal planning"
       ],
       "userGuesses": [],
       "status": "hidden"
