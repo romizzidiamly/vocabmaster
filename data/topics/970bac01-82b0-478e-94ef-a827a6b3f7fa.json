@@ -662,7 +662,30 @@
       ],
       "definition": "The protection and preservation of\nnatural resources",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Conservation is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Conservation matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Conservation, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Conservation correctly, we succeed, so let's try."
+        }
+      ]
     },
     {
       "id": "cddc6965-6bf1-4f12-8fa5-96b8b02bea0c",
