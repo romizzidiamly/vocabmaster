@@ -152,14 +152,20 @@ export default function AdminDashboard() {
                 </div>
 
                 <div className="mt-auto p-8 space-y-6">
-                    <div className="bg-white/[0.02] p-4 rounded-2xl border border-white/5">
+                    <div className="bg-white/[0.02] p-4 rounded-2xl border border-white/5 mb-4">
                         <p className="text-[10px] font-black text-slate-500 uppercase tracking-widest mb-2">Authenticated User</p>
                         <div className="flex items-center gap-3">
                             <div className="w-8 h-8 rounded-full bg-gradient-to-br from-primary to-accent" />
                             <span className="font-black text-xs uppercase">Romizzidi9999</span>
                         </div>
                     </div>
-
+                    <Link
+                        href="/"
+                        className="flex items-center gap-3 px-6 py-4 rounded-2xl text-slate-500 hover:text-red-500 hover:bg-red-500/10 transition-all group"
+                    >
+                        <LogOut size={18} />
+                        <span className="text-[10px] font-black uppercase tracking-widest">Exit to Home</span>
+                    </Link>
                     <div className="space-y-4">
                         <Link href="/" className="flex items-center gap-3 text-xs font-black text-slate-500 hover:text-white transition-colors uppercase tracking-[0.2em] group">
                             <ArrowLeft size={16} className="group-hover:-translate-x-1 transition-transform" /> Public Interface

@@ -122,6 +122,9 @@ export function VocabProvider({ children }: { children: React.ReactNode }) {
 
     const setPhase = (phase: GamePhase) => {
         setGameState(prev => ({ ...prev, phase }));
+        if (typeof window !== 'undefined') {
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+        }
     };
 
     const resetGame = () => {
