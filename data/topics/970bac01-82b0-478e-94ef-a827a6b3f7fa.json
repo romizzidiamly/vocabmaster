@@ -454,7 +454,30 @@
       ],
       "definition": "The act of offering money or favors\nto influence someone illegally",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Bribery is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Bribery matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Bribery, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Bribery correctly, we succeed, so let's try."
+        }
+      ]
     },
     {
       "id": "a20740b4-7adb-4190-b358-4d29aa94d40c",
