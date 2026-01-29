@@ -1355,7 +1355,30 @@
       ],
       "definition": "The system responsible for upholding laws and catching\ncriminals",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Law enforcement is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Law enforcement matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Law enforcement, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Law enforcement correctly, we succeed, so let's try."
+        }
+      ]
     },
     {
       "id": "5c3c58ab-01a1-4748-bddb-56a44578d822",
