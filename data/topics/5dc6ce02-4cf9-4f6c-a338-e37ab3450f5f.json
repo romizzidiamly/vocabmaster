@@ -576,9 +576,41 @@
         "Immunization",
         "inoculation"
       ],
-      "definition": "A process of immunization against diseases",
+      "definition": "the act of giving someone a vaccine to prevent them from getting a disease",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "vaksinasi",
+      "phonetics": {
+        "us": "/ˌvæksɪˈneɪʃən/",
+        "uk": "/ˌvaksɪˈneɪʃən/"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "The doctor recommended vaccination against influenza.",
+          "translation": "Dokter merekomendasikan vaksinasi terhadap influenza."
+        },
+        {
+          "type": "Complex",
+          "text": "Because vaccination is mandatory, all children must receive the vaccine before starting school.",
+          "translation": "Karena vaksinasi adalah wajib, semua anak harus menerima vaksin sebelum memulai sekolah."
+        },
+        {
+          "type": "Compound",
+          "text": "The hospital offers vaccination and medical check-ups for free, and people can visit the clinic on weekends or weekdays.",
+          "translation": "Rumah sakit menawarkan vaksinasi dan pemeriksaan medis secara gratis, dan orang dapat mengunjungi klinik pada akhir pekan atau hari kerja."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "While vaccination is an effective way to prevent the spread of diseases, it is also important to note that people who have certain medical conditions may not be able to receive the vaccine, and they can visit the doctor on weekends or weekdays to discuss their options.",
+          "translation": "Sementara vaksinasi adalah cara yang efektif untuk mencegah penyebaran penyakit, juga penting untuk dicatat bahwa orang-orang yang memiliki kondisi medis tertentu mungkin tidak dapat menerima vaksin, dan mereka dapat mengunjungi dokter pada akhir pekan atau hari kerja untuk membahas pilihan mereka."
+        }
+      ],
+      "synonymMeanings": [
+        "imunisasi",
+        "penyuntikan vaksin",
+        "pemberian vaksin"
+      ]
     },
     {
       "id": "5837a8f6-23bf-4999-b231-001f35f8f1ca",
