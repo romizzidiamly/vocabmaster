@@ -1,0 +1,450 @@
+{
+  "id": "8d7a0c99-3e78-42c7-910b-5d6914922309",
+  "name": "COMMUNICATION",
+  "items": [
+    {
+      "id": "f86a4869-2f1d-4882-94d8-394e1a6708a6",
+      "word": "Verbal Communication",
+      "synonyms": [
+        "Oral communication",
+        "speech"
+      ],
+      "definition": "The use of spoken words to convey messages",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "cb6bb6f5-d197-48b3-9a07-49944b61f982",
+      "word": "Nonverbal Communication",
+      "synonyms": [
+        "Body language",
+        "gestures"
+      ],
+      "definition": "Conveying messages without words,\nusing body language, gestures, or facial expressions",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "49cb2717-9511-4ad3-9520-85fd1ea9f362",
+      "word": "Written Communication",
+      "synonyms": [
+        "Documentation",
+        "correspondence"
+      ],
+      "definition": "Exchanging information through written text",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "6e7d598e-9481-4682-9d97-cab49b72bab1",
+      "word": "Interpersonal Communication",
+      "synonyms": [
+        "Personal interaction",
+        "social exchange"
+      ],
+      "definition": "Direct, face-to-face communication between individuals",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "10b58870-b7d5-4960-9a76-21d0c2db6f13",
+      "word": "Mass Communication",
+      "synonyms": [
+        "Broadcasting",
+        "public communication"
+      ],
+      "definition": "The process of distributing\ninformation to large audiences through media",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "83adaf26-a860-4e8c-a17c-3dc08e0a2fa9",
+      "word": "Digital Communication",
+      "synonyms": [
+        "Online communication",
+        "virtual interaction"
+      ],
+      "definition": "The exchange of information through electronic means",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "85caa331-b7d0-45d0-b868-b9dbe1177728",
+      "word": "Active Listening",
+      "synonyms": [
+        "Attentive listening",
+        "engaged listening"
+      ],
+      "definition": "Fully concentrating, understanding,\nand responding to a speaker",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "b19c0c47-7196-4d86-aec4-40870a9988f5",
+      "word": "Public Speaking",
+      "synonyms": [
+        "Oration",
+        "presentation"
+      ],
+      "definition": "The act of delivering a speech or\npresentation to an audience",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "13928f2e-e91f-4795-abb4-31056ec25162",
+      "word": "Persuasion",
+      "synonyms": [
+        "Influence",
+        "convincing"
+      ],
+      "definition": "The ability to convince others to\nadopt a certain viewpoint",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "4e499eba-d7b9-4add-aaea-a9811738af4d",
+      "word": "Feedback",
+      "synonyms": [
+        "Response",
+        "critique"
+      ],
+      "definition": "Information provided as a response to a message or performance",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "b18e37af-213f-402f-ad93-e0f6334db7b0",
+      "word": "Clarity",
+      "synonyms": [
+        "Lucidity",
+        "precision"
+      ],
+      "definition": "The quality of being easily\nunderstood",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "d480d8fd-c360-4855-bbef-c5af795c6745",
+      "word": "Tone",
+      "synonyms": [
+        "Manner",
+        "inflection"
+      ],
+      "definition": "The attitude or approach conveyed in speech or writing",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "6148f114-b529-4f37-ac81-679917695c7f",
+      "word": "Conciseness",
+      "synonyms": [
+        "Brevity",
+        "succinctness"
+      ],
+      "definition": "Expressing ideas clearly and briefly",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "d29bf3c4-ef9d-4926-ab2a-f7c887461f35",
+      "word": "Articulation",
+      "synonyms": [
+        "Eloquence",
+        "enunciation"
+      ],
+      "definition": "The ability to express ideas clearly\nand effectively",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "0d5f8c27-4eb2-4601-91d9-dabb5b43fa57",
+      "word": "Diplomacy",
+      "synonyms": [
+        "Tact",
+        "discretion"
+      ],
+      "definition": "The skill of handling negotiations or\nsensitive situations tactfully",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "63627936-6db6-42ef-97d2-8aba5ef12488",
+      "word": "Empathy",
+      "synonyms": [
+        "Compassion",
+        "understanding"
+      ],
+      "definition": "The ability to understand and share others' feelings",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "ec0ea53f-c07b-447d-862e-3b24b9a6a633",
+      "word": "Assertiveness",
+      "synonyms": [
+        "Confidence",
+        "self-assurance"
+      ],
+      "definition": "The ability to express thoughts confidently and respectfully",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "fa019ebd-2a0e-4c61-bf3f-b71d37fe214a",
+      "word": "Jargon",
+      "synonyms": [
+        "Terminology",
+        "technical language"
+      ],
+      "definition": "Specialized language used by a specific profession or group",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "2938f345-0bca-46d9-b44a-7ed9e3541081",
+      "word": "Rhetoric",
+      "synonyms": [
+        "Oratory",
+        "eloquence"
+      ],
+      "definition": "The art of persuasive speaking or writing",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "88d349f9-8e78-43d8-9af7-282bc99a63a3",
+      "word": "Miscommunication",
+      "synonyms": [
+        "Misinterpretation",
+        "confusion"
+      ],
+      "definition": "A failure to communicate clearly,\nleading to misunderstanding",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "ac65c9e2-e237-4341-8de2-72bd815ae9e8",
+      "word": "Body Language",
+      "synonyms": [
+        "Nonverbal communication",
+        "gestures"
+      ],
+      "definition": "Nonverbal cues such as gestures and facial expressions",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "9ce96f28-fdb7-4287-a7ad-8f34d9b3b28e",
+      "word": "Eye Contact",
+      "synonyms": [
+        "Visual engagement",
+        "direct",
+        "gaze"
+      ],
+      "definition": "Looking directly into another\nperson’s eyes during conversation",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "fe0a7669-9919-44c0-82a3-faab766271e6",
+      "word": "Tone of Voice",
+      "synonyms": [
+        "Vocal expression",
+        "intonation"
+      ],
+      "definition": "The way a person's voice conveys\nemotion or meaning",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "40d4121b-4316-4eaa-aa86-839e1ba990c4",
+      "word": "Inflection",
+      "synonyms": [
+        "Modulation",
+        "intonation"
+      ],
+      "definition": "Variation in pitch or tone of voice",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "34f3e638-647e-489f-a833-83507698475e",
+      "word": "Listening Comprehension",
+      "synonyms": [
+        "Auditory understanding",
+        "receptive skills"
+      ],
+      "definition": "The ability to understand spoken language",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "562c7886-ef05-4211-a9fc-66840c0d0c80",
+      "word": "Negotiation",
+      "synonyms": [
+        "Bargaining",
+        "mediation"
+      ],
+      "definition": "Discussion aimed at reaching an\nagreement",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "33bf5bdb-5788-4708-a5d5-a2092d6993bb",
+      "word": "Conflict Resolution",
+      "synonyms": [
+        "Mediation",
+        "dispute resolution"
+      ],
+      "definition": "The process of resolving disagreements effectively",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "62e76b75-23ba-4b3f-b0c6-ed315064bad1",
+      "word": "Small Talk",
+      "synonyms": [
+        "Chit-chat",
+        "informal talk"
+      ],
+      "definition": "Casual conversation about\nnon-controversial topics",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "1651ad0c-aef3-4eeb-b713-b62533ab68b7",
+      "word": "Social Cues",
+      "synonyms": [
+        "Context clues",
+        "behavioral",
+        "signals"
+      ],
+      "definition": "Nonverbal signals that guide\ninteractions",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "93d4f424-e800-4507-8a51-616076b8c9c9",
+      "word": "Virtual Communication",
+      "synonyms": [
+        "Online communication",
+        "remote interaction"
+      ],
+      "definition": "Interaction conducted through digital platforms",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "ebe4849a-2112-4242-a81b-dd39dd979655",
+      "word": "Cross-cultural Communication",
+      "synonyms": [
+        "Intercultural",
+        "communication",
+        "global interaction"
+      ],
+      "definition": "Interaction between people from different cultural backgrounds",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "5e37b8d9-7854-4c81-b168-731a98740a39",
+      "word": "Speech Impediment",
+      "synonyms": [
+        "Speech disorder",
+        "articulation difficulty"
+      ],
+      "definition": "A condition affecting a person’s ability to speak clearly",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "85e8b233-e428-430f-ac1f-5b1bcd8e39d3",
+      "word": "Intonation",
+      "synonyms": [
+        "Modulation",
+        "inflection"
+      ],
+      "definition": "The rise and fall of voice pitch in\nspeech",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "56956bfe-f49d-417f-9d84-cff32abea0d0",
+      "word": "Code-switching",
+      "synonyms": [
+        "Language shifting",
+        "bilingual switching"
+      ],
+      "definition": "Alternating between languages or\ndialects in conversation",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "0906467b-0445-4b1a-a133-61d5a4258bac",
+      "word": "Eloquence",
+      "synonyms": [
+        "Articulateness",
+        "expressiveness"
+      ],
+      "definition": "The ability to speak or write in a\nfluent, persuasive manner",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "1b6815e5-90ec-4a21-8254-301e8de992f1",
+      "word": "Redundancy",
+      "synonyms": [
+        "Wordiness",
+        "verbosity"
+      ],
+      "definition": "The use of unnecessary repetition in\nspeech or writing",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "e2f6349e-a837-43a0-b2db-bcd703bd9c0b",
+      "word": "Ambiguity",
+      "synonyms": [
+        "Vagueness",
+        "uncertainty"
+      ],
+      "definition": "Unclear or multiple meanings in communication",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "0eaa830b-12c7-4183-9799-156e0d4a05d0",
+      "word": "Gossip",
+      "synonyms": [
+        "Rumors",
+        "hearsay"
+      ],
+      "definition": "Informal conversation about others,\noften unverified",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "35cc3158-d4cc-4a11-91fe-2bbb751396f6",
+      "word": "Censorship",
+      "synonyms": [
+        "Restriction",
+        "suppression"
+      ],
+      "definition": "The suppression of speech or writing\nconsidered inappropriate",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "d2d36b25-81a4-41fb-9aba-2a8775c4b3a3",
+      "word": "Silence",
+      "synonyms": [
+        "Quietness",
+        "muteness"
+      ],
+      "definition": "The absence of sound or speech",
+      "userGuesses": [],
+      "status": "hidden"
+    }
+  ],
+  "createdAt": 1769720598152
+}
