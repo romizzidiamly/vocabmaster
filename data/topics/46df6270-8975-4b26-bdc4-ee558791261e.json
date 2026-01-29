@@ -739,7 +739,30 @@
       ],
       "definition": "The deliberate destruction of\nproperty",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Vandalism is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Vandalism matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Vandalism, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Vandalism correctly, we succeed, so let's try."
+        }
+      ]
     },
     {
       "id": "63aa7dd0-c3f3-4bb6-b0bd-05cb94c1080a",
