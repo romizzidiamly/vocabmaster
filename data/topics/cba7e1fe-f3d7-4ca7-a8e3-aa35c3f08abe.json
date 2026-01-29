@@ -177,7 +177,30 @@
       ],
       "definition": "The process of distributing\ninformation to large audiences through media",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Mass Communication is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Mass Communication matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Mass Communication, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Mass Communication correctly, we succeed, so let's try."
+        }
+      ]
     },
     {
       "id": "5026211c-1648-4a44-9734-b27ae2843604",
@@ -188,7 +211,30 @@
       ],
       "definition": "The exchange of information through electronic means",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Digital Communication is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Digital Communication matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Digital Communication, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Digital Communication correctly, we succeed, so let's try."
+        }
+      ]
     },
     {
       "id": "b4e3897a-5c23-413d-808b-5b03628fb81d",
