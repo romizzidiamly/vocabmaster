@@ -146,42 +146,9 @@
         "forest",
         "degradation"
       ],
-      "definition": "The act of cutting down or destroying all or most of the trees in an area.",
+      "definition": "The clearing or destruction of forests\nfor human use",
       "userGuesses": [],
-      "status": "discovered",
-      "examples": [
-        {
-          "type": "Simple",
-          "text": "Deforestation is a major environmental issue.",
-          "translation": "Penggundulan hutan merupakan isu lingkungan yang besar."
-        },
-        {
-          "type": "Complex",
-          "text": "Because deforestation occurs, many animals lose their habitats.",
-          "translation": "Karena penggundulan hutan terjadi, banyak hewan kehilangan habitatnya."
-        },
-        {
-          "type": "Compound",
-          "text": "Deforestation happens quickly, and forests disappear forever.",
-          "translation": "Penggundulan hutan terjadi dengan cepat, dan hutan menghilang selamanya."
-        },
-        {
-          "type": "Compound-Complex",
-          "text": "While deforestation is a significant problem, it can be addressed through sustainable forest management, and many countries are working to protect their forests, because they provide important ecosystem services.",
-          "translation": "Sementara penggundulan hutan merupakan masalah yang signifikan, hal ini dapat diatasi melalui pengelolaan hutan berkelanjutan, dan banyak negara bekerja untuk melindungi hutan mereka, karena mereka menyediakan layanan ekosistem yang penting."
-        }
-      ],
-      "phonetics": {
-        "us": "/ˌdɛfəˈrɛstəˈʃən/",
-        "uk": "/ˌdefəˈrɛstəˈʃən/"
-      },
-      "meaning": "Penggundulan hutan",
-      "synonymMeanings": [
-        "Penebangan hutan",
-        "Penghancuran hutan",
-        "Pengrusakan hutan",
-        "Kerusakan hutan"
-      ]
+      "status": "hidden"
     },
     {
       "id": "1b14d3dd-4661-4d0d-8308-7ddaf4f32de9",
@@ -191,40 +158,41 @@
         "ecological",
         "restoration"
       ],
-      "definition": "The act of planting trees in an area where they have been cut down",
+      "definition": "the act of planting trees in an area where they have been cut down",
       "userGuesses": [],
       "status": "discovered",
       "examples": [
         {
           "type": "Simple",
-          "text": "The government started a reforestation program in the village.",
-          "translation": "Pemerintah memulai program penghijauan kembali di desa tersebut."
+          "text": "The government has launched a reforestation program.",
+          "translation": "Pemerintah telah meluncurkan program penghijauan kembali."
         },
         {
           "type": "Complex",
-          "text": "Because the forest was destroyed, the government decided to start a reforestation program.",
-          "translation": "Karena hutan itu telah musnah, pemerintah memutuskan untuk memulai program penghijauan kembali."
+          "text": "Because the forest was destroyed, the organization initiated a reforestation project to restore the ecosystem.",
+          "translation": "Karena hutan itu telah hancur, organisasi tersebut memulai proyek penghijauan kembali untuk memulihkan ekosistem."
         },
         {
           "type": "Compound",
-          "text": "The company invested in reforestation and also built a new factory.",
-          "translation": "Perusahaan tersebut berinvestasi dalam penghijauan kembali dan juga membangun pabrik baru."
+          "text": "The company will invest in reforestation and also reduce carbon emissions.",
+          "translation": "Perusahaan itu akan berinvestasi dalam penghijauan kembali dan juga mengurangi emisi karbon."
         },
         {
           "type": "Compound-Complex",
-          "text": "While the company was investing in reforestation, it also built a new factory, because the government had given them a special permit.",
-          "translation": "Ketika perusahaan tersebut berinvestasi dalam penghijauan kembali, mereka juga membangun pabrik baru, karena pemerintah telah memberikan mereka izin khusus."
+          "text": "While the community was aware of the importance of reforestation, they also knew that it would take time, and because the forest was destroyed quickly, the organization initiated a project to restore the ecosystem.",
+          "translation": "Sementara masyarakat menyadari pentingnya penghijauan kembali, mereka juga tahu bahwa itu akan membutuhkan waktu, dan karena hutan itu telah hancur dengan cepat, organisasi tersebut memulai proyek untuk memulihkan ekosistem."
         }
       ],
       "phonetics": {
-        "us": "/ˌriːfəˈrɛs.təˈʃən/",
-        "uk": "/ˌriːfɒˈrɛs.təˈʃən/"
+        "us": "/ˌriːfəˈres.təˈʃən/",
+        "uk": "/ˌriːfəˈrestaɪˈteɪʃən/"
       },
-      "meaning": "Penghijauan kembali",
+      "meaning": "penghijauan kembali",
       "synonymMeanings": [
-        "Reboisasi",
-        "Penghutanan kembali",
-        "Penghijauan"
+        "rehutanan",
+        "penghijauan",
+        "penanaman kembali",
+        "pembibitan"
       ]
     },
     {
