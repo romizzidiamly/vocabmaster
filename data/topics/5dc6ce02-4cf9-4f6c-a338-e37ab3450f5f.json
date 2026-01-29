@@ -53,9 +53,42 @@
         "Resistance",
         "defense"
       ],
-      "definition": "The body’s ability to resist disease",
+      "definition": "the state of being protected against a disease or infection, or the state of being safe from harm or injury",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "kekebalan",
+      "phonetics": {
+        "us": "/ɪˈmjuːnɪti/",
+        "uk": "/ɪˈmjuːnɪti/"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Vaccination provides immunity to many diseases.",
+          "translation": "Vaksinasi memberikan kekebalan terhadap banyak penyakit."
+        },
+        {
+          "type": "Complex",
+          "text": "Because she had been infected with the disease before, she developed immunity to it.",
+          "translation": "Karena dia telah terinfeksi penyakit itu sebelumnya, dia mengembangkan kekebalan terhadapnya."
+        },
+        {
+          "type": "Compound",
+          "text": "The country has immunity to the disease, but the neighboring country does not.",
+          "translation": "Negara tersebut memiliki kekebalan terhadap penyakit itu, tetapi negara tetangga tidak."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "While the new vaccine provides immunity to the disease, it also has some side effects, because it contains certain chemicals that can cause allergic reactions.",
+          "translation": "Sementara vaksin baru memberikan kekebalan terhadap penyakit itu, juga memiliki beberapa efek samping, karena mengandung bahan kimia tertentu yang dapat menyebabkan reaksi alergi."
+        }
+      ],
+      "synonymMeanings": [
+        "perlindungan",
+        "pembebasan",
+        "keamanan",
+        "keterlindungan"
+      ]
     },
     {
       "id": "5492f24a-fa37-460b-bf85-6c0f9f3f5a30",
