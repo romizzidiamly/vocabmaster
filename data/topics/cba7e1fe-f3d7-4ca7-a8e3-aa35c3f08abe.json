@@ -245,7 +245,30 @@
       ],
       "definition": "Fully concentrating, understanding,\nand responding to a speaker",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Active Listening is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Active Listening matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Active Listening, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Active Listening correctly, we succeed, so let's try."
+        }
+      ]
     },
     {
       "id": "c843bb9b-f881-46cc-a4be-2f07e37be61b",
@@ -256,7 +279,30 @@
       ],
       "definition": "The act of delivering a speech or\npresentation to an audience",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Public Speaking is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Public Speaking matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Public Speaking, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Public Speaking correctly, we succeed, so let's try."
+        }
+      ]
     },
     {
       "id": "fd15a320-c92c-43db-b3db-33e9ac085f4c",
@@ -267,7 +313,30 @@
       ],
       "definition": "The ability to convince others to\nadopt a certain viewpoint",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Persuasion is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Persuasion matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Persuasion, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Persuasion correctly, we succeed, so let's try."
+        }
+      ]
     },
     {
       "id": "aaddf500-755d-4966-8b10-d6083a83f181",
@@ -278,7 +347,30 @@
       ],
       "definition": "Information provided as a response to a message or performance",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Feedback is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Feedback matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Feedback, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Feedback correctly, we succeed, so let's try."
+        }
+      ]
     },
     {
       "id": "400f1c58-8b96-4760-8454-27fd7ff421fd",
