@@ -636,7 +636,30 @@
       ],
       "definition": "Criminal activities carried out using\ndigital technology",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Cybercrime is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Cybercrime matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Cybercrime, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Cybercrime correctly, we succeed, so let's try."
+        }
+      ]
     },
     {
       "id": "df47d670-a191-44e2-9002-4e8686198fa8",
