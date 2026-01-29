@@ -2487,7 +2487,30 @@
       ],
       "definition": "Excessive exercise that leads to fatigue and decreased performance",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Overtraining is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Overtraining matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Overtraining, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Overtraining correctly, we succeed, so let's try."
+        }
+      ]
     },
     {
       "id": "628c9fde-187e-475f-b793-fae197ce5143",
