@@ -808,7 +808,30 @@
       ],
       "definition": "Financially motivated, non-violent\ncrime committed by professionals",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of White-collar crime is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because White-collar crime matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is White-collar crime, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use White-collar crime correctly, we succeed, so let's try."
+        }
+      ]
     },
     {
       "id": "06bfe0bc-ddb7-457a-9538-a19c8dcbfe0a",
