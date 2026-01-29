@@ -423,7 +423,30 @@
       ],
       "definition": "The release of carbon dioxide into\nthe atmosphere",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Carbon emissions is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Carbon emissions matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Carbon emissions, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Carbon emissions correctly, we succeed, so let's try."
+        }
+      ]
     },
     {
       "id": "a570a321-dd2c-4130-9b12-5e283a7e6065",
