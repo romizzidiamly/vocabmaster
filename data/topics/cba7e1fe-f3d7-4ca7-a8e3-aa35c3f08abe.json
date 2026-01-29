@@ -271,9 +271,41 @@
         "Home loan",
         "financing"
       ],
-      "definition": "A loan used to purchase property",
+      "definition": "an agreement that allows you to borrow money from a bank or other lender to buy a house, and in which the house is used as a guarantee that you will pay back the money",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "hipotek",
+      "phonetics": {
+        "us": "/ˈmɔrɡɪdʒ/",
+        "uk": "/ˈmɔːɡɪdʒ/"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "The family had to take out a mortgage to buy their new home.",
+          "translation": "Keluarga itu harus mengambil hipotek untuk membeli rumah baru mereka."
+        },
+        {
+          "type": "Complex",
+          "text": "Because they had a stable income, the bank approved their application for a mortgage.",
+          "translation": "Karena mereka memiliki penghasilan yang stabil, bank menyetujui permohonan mereka untuk hipotek."
+        },
+        {
+          "type": "Compound",
+          "text": "The couple bought a house and they got a mortgage, but they also inherited some money from a relative.",
+          "translation": "Pasangan itu membeli rumah dan mereka mendapatkan hipotek, tetapi mereka juga mewarisi beberapa uang dari seorang kerabat."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "While they were waiting for the bank to approve their mortgage application, they also started looking for furniture, because they had already sold their old apartment and they needed to move into the new house quickly, but they also wanted to make sure they could afford the monthly payments.",
+          "translation": "Saat mereka menunggu bank untuk menyetujui permohonan hipotek mereka, mereka juga mulai mencari perabot, karena mereka sudah menjual apartemen lama mereka dan mereka perlu pindah ke rumah baru dengan cepat, tetapi mereka juga ingin memastikan bahwa mereka bisa membayar cicilan bulanan."
+        }
+      ],
+      "synonymMeanings": [
+        "pinjaman",
+        "kredit",
+        "hutang"
+      ]
     },
     {
       "id": "22281197-325c-4144-8e24-9fcdf3f3bdac",
