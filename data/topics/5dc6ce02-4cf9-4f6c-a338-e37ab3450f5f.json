@@ -1101,7 +1101,12 @@
       ],
       "definition": "A long-term health condition",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "n/a",
+      "phonetics": {
+        "us": "n/a",
+        "uk": "n/a"
+      }
     },
     {
       "id": "fb262cd7-4530-4bcc-a1e0-44c912b392bf",
