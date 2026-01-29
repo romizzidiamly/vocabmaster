@@ -284,7 +284,30 @@
       ],
       "definition": "The unlawful taking of someone’s\nproperty",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Theft is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Theft matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Theft, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Theft correctly, we succeed, so let's try."
+        }
+      ]
     },
     {
       "id": "234619e6-2737-4f7b-ad5d-bd2cc793f77f",
