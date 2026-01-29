@@ -52,9 +52,42 @@
         "Shelter",
         "dwelling"
       ],
-      "definition": "Buildings or structures where people\nlive",
+      "definition": "Houses and flats, especially when considered as a place where people live",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Perumahan",
+      "phonetics": {
+        "us": "/ˈhaʊzɪŋ/",
+        "uk": "/ˈhaʊzɪŋ/"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "The housing in this area is very expensive.",
+          "translation": "Perumahan di daerah ini sangat mahal."
+        },
+        {
+          "type": "Complex",
+          "text": "Because the city is growing rapidly, the government has to provide more housing for its citizens.",
+          "translation": "Karena kota ini tumbuh dengan cepat, pemerintah harus menyediakan lebih banyak perumahan bagi warganya."
+        },
+        {
+          "type": "Compound",
+          "text": "I like the housing in the city, but I also like the housing in the countryside.",
+          "translation": "Saya suka perumahan di kota, tetapi saya juga suka perumahan di pedesaan."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "While the new housing development has improved the quality of life for many residents, it has also led to increased traffic and pollution, which is a concern for some people who value the environment.",
+          "translation": "Sementara pengembangan perumahan baru telah meningkatkan kualitas hidup bagi banyak penduduk, hal itu juga menyebabkan peningkatan lalu lintas dan polusi, yang menjadi perhatian bagi beberapa orang yang menghargai lingkungan."
+        }
+      ],
+      "synonymMeanings": [
+        "tempat tinggal",
+        "penginapan",
+        "peristirahatan",
+        "rumah"
+      ]
     },
     {
       "id": "52300981-01c8-4085-abb7-55f8ab30db7f",
