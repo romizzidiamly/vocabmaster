@@ -1389,7 +1389,30 @@
       ],
       "definition": "Scientific methods used in crime\ninvestigation",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Forensics is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Forensics matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Forensics, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Forensics correctly, we succeed, so let's try."
+        }
+      ]
     },
     {
       "id": "f8f46f5c-6eca-4f46-b50c-b642b923548a",
