@@ -1115,9 +1115,42 @@
         "Short-term disease",
         "rapid-onset illness"
       ],
-      "definition": "A sudden and severe medical condition",
+      "definition": "a short-term illness that has severe symptoms",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "penyakit akut",
+      "phonetics": {
+        "us": "/əˈkuːt ˈɪl.nəs/",
+        "uk": "/əˈkjuːt ˈɪl.nəs/"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "The patient was diagnosed with an acute illness.",
+          "translation": "Pasien didiagnosis menderita penyakit akut."
+        },
+        {
+          "type": "Complex",
+          "text": "Because the patient had been experiencing severe symptoms, the doctor determined that she had an acute illness.",
+          "translation": "Karena pasien telah mengalami gejala parah, dokter menentukan bahwa dia menderita penyakit akut."
+        },
+        {
+          "type": "Compound",
+          "text": "The doctor treated the patient for an acute illness, and the nurse provided additional care.",
+          "translation": "Dokter mengobati pasien untuk penyakit akut, dan perawat memberikan perawatan tambahan."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "While the doctor treated the patient for an acute illness, the nurse provided additional care because the patient had been experiencing severe symptoms for several days.",
+          "translation": "Ketika dokter mengobati pasien untuk penyakit akut, perawat memberikan perawatan tambahan karena pasien telah mengalami gejala parah selama beberapa hari."
+        }
+      ],
+      "synonymMeanings": [
+        "penyakit serius",
+        "penyakit singkat",
+        "penyakit parah",
+        "penyakit mendadak"
+      ]
     },
     {
       "id": "2b0df7df-a132-4d07-982a-f0512519295e",
