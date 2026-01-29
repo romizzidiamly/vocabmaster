@@ -1599,7 +1599,12 @@
       ],
       "definition": "The duty of being accountable for one’s actions",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "n/a",
+      "phonetics": {
+        "us": "n/a",
+        "uk": "n/a"
+      }
     },
     {
       "id": "6fd095ab-0ffd-4a1e-b886-acae13df2570",
