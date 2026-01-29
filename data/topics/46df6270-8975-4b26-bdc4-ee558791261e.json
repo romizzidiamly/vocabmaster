@@ -1251,7 +1251,30 @@
       ],
       "definition": "The state of being imprisoned",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Incarceration is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Incarceration matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Incarceration, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Incarceration correctly, we succeed, so let's try."
+        }
+      ]
     },
     {
       "id": "29e3d0c1-8f1a-477c-b8fc-e7a8f9669468",
