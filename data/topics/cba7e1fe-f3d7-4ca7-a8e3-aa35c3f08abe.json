@@ -3,536 +3,445 @@
   "name": "ENVIRONMENT 2",
   "items": [
     {
-      "id": "3398cbdb-a55f-4d4f-ab63-46764290f8a1",
-      "word": "Accommodation",
+      "id": "2f13eb69-4cbe-4a1a-8d5b-33b138d1af3f",
+      "word": "Verbal Communication",
       "synonyms": [
-        "Lodging",
-        "residence"
+        "Oral communication",
+        "speech"
       ],
-      "definition": "a place to stay, especially when you are on holiday or visiting a place",
-      "userGuesses": [],
-      "status": "hidden",
-      "meaning": "akomodasi",
-      "phonetics": {
-        "us": "/əkɒməˈdeɪʃən/",
-        "uk": "/əkɒməˈdeɪʃən/"
-      },
-      "examples": [
-        {
-          "type": "Simple",
-          "text": "The hotel provided comfortable accommodation for the guests.",
-          "translation": "Hotel tersebut menyediakan akomodasi yang nyaman bagi para tamu."
-        },
-        {
-          "type": "Complex",
-          "text": "Because the city was crowded, we had to book our accommodation well in advance.",
-          "translation": "Karena kota itu sangat ramai, kami harus memesan akomodasi jauh-jauh hari sebelumnya."
-        },
-        {
-          "type": "Compound",
-          "text": "The resort offered accommodation and food, but the price was too high, and the location was not convenient.",
-          "translation": "Resor tersebut menawarkan akomodasi dan makanan, tetapi harga terlalu tinggi, dan lokasinya tidak nyaman."
-        },
-        {
-          "type": "Compound-Complex",
-          "text": "While the hotel room was comfortable, the accommodation package included a free breakfast, and because we booked early, we got a discount, but the location was still not ideal.",
-          "translation": "Sementara kamar hotelnya nyaman, paket akomodasi termasuk sarapan gratis, dan karena kami memesan lebih awal, kami mendapatkan diskon, tetapi lokasinya masih tidak ideal."
-        }
-      ],
-      "synonymMeanings": [
-        "penginapan",
-        "tempat tinggal",
-        "penampungan"
-      ]
-    },
-    {
-      "id": "1816f65b-607a-425a-a83b-bdba3aba510b",
-      "word": "Housing",
-      "synonyms": [
-        "Shelter",
-        "dwelling"
-      ],
-      "definition": "Houses and flats, especially when considered as a place where people live",
-      "userGuesses": [],
-      "status": "hidden",
-      "meaning": "Perumahan",
-      "phonetics": {
-        "us": "/ˈhaʊzɪŋ/",
-        "uk": "/ˈhaʊzɪŋ/"
-      },
-      "examples": [
-        {
-          "type": "Simple",
-          "text": "The housing in this area is very expensive.",
-          "translation": "Perumahan di daerah ini sangat mahal."
-        },
-        {
-          "type": "Complex",
-          "text": "Because the city is growing rapidly, the government has to provide more housing for its citizens.",
-          "translation": "Karena kota ini tumbuh dengan cepat, pemerintah harus menyediakan lebih banyak perumahan bagi warganya."
-        },
-        {
-          "type": "Compound",
-          "text": "I like the housing in the city, but I also like the housing in the countryside.",
-          "translation": "Saya suka perumahan di kota, tetapi saya juga suka perumahan di pedesaan."
-        },
-        {
-          "type": "Compound-Complex",
-          "text": "While the new housing development has improved the quality of life for many residents, it has also led to increased traffic and pollution, which is a concern for some people who value the environment.",
-          "translation": "Sementara pengembangan perumahan baru telah meningkatkan kualitas hidup bagi banyak penduduk, hal itu juga menyebabkan peningkatan lalu lintas dan polusi, yang menjadi perhatian bagi beberapa orang yang menghargai lingkungan."
-        }
-      ],
-      "synonymMeanings": [
-        "tempat tinggal",
-        "penginapan",
-        "peristirahatan",
-        "rumah"
-      ]
-    },
-    {
-      "id": "52300981-01c8-4085-abb7-55f8ab30db7f",
-      "word": "Residence",
-      "synonyms": [
-        "Home",
-        "dwelling"
-      ],
-      "definition": "the house or flat where someone lives",
-      "userGuesses": [],
-      "status": "hidden",
-      "meaning": "tempat tinggal",
-      "phonetics": {
-        "us": "/ˈrɛzɪdəns/",
-        "uk": "/ˈrɛzɪdəns/"
-      },
-      "examples": [
-        {
-          "type": "Simple",
-          "text": "My residence is near the city center.",
-          "translation": "Tempat tinggalku dekat dengan pusat kota."
-        },
-        {
-          "type": "Complex",
-          "text": "Because I live in a big residence, I have to pay a lot of money for the electricity bill.",
-          "translation": "Karena aku tinggal di rumah besar, aku harus membayar tagihan listrik yang banyak."
-        },
-        {
-          "type": "Compound",
-          "text": "I live in a residence, and my sister lives in an apartment.",
-          "translation": "Aku tinggal di rumah, dan adikku tinggal di apartemen."
-        },
-        {
-          "type": "Compound-Complex",
-          "text": "While I was living in my residence, I realized that I had to move to a new place because the rent was too high, but my sister was happy to stay in her apartment.",
-          "translation": "Ketika aku tinggal di rumahku, aku menyadari bahwa aku harus pindah ke tempat baru karena sewanya terlalu tinggi, tetapi adikku senang tinggal di apartemennya."
-        }
-      ],
-      "synonymMeanings": [
-        "rumah",
-        "tempat tinggal",
-        "kediaman",
-        "domisili"
-      ]
-    },
-    {
-      "id": "0945a9b6-995d-414c-b849-cf7895f45066",
-      "word": "Rental",
-      "synonyms": [
-        "Lease",
-        "tenancy"
-      ],
-      "definition": "a thing that is rented, or the act of renting something",
-      "userGuesses": [],
-      "status": "hidden",
-      "meaning": "sewaan",
-      "phonetics": {
-        "us": "/ˈrɛntəl/",
-        "uk": "/ˈrɛntəl/"
-      },
-      "examples": [
-        {
-          "type": "Simple",
-          "text": "The rental car was waiting for us at the airport.",
-          "translation": "Mobil sewaan tersebut sudah menunggu kami di bandara."
-        },
-        {
-          "type": "Complex",
-          "text": "Because the hotel was fully booked, we had to look for a rental apartment in the city.",
-          "translation": "Karena hotel tersebut sudah penuh, kami harus mencari apartemen sewaan di kota."
-        },
-        {
-          "type": "Compound",
-          "text": "I rented a car and a bike, both were rentals for the weekend.",
-          "translation": "Saya menyewa mobil dan sepeda, keduanya disewa untuk akhir pekan."
-        },
-        {
-          "type": "Compound-Complex",
-          "text": "While we were on vacation, we stayed in a rental house, but because it was not comfortable, we had to look for a hotel, and also had to return the rental car, which was not in good condition.",
-          "translation": "Ketika kami sedang berlibur, kami menginap di rumah sewaan, tapi karena tidak nyaman, kami harus mencari hotel, dan juga harus mengembalikan mobil sewaan, yang tidak dalam kondisi baik."
-        }
-      ],
-      "synonymMeanings": [
-        "sewa",
-        "pinjaman",
-        "kontrak"
-      ]
-    },
-    {
-      "id": "2085bafa-8d87-4000-98c2-a8fedeb94e56",
-      "word": "Landlord",
-      "synonyms": [
-        "Property owner",
-        "lessor"
-      ],
-      "definition": "a person who owns a building or land and rents it to someone else",
-      "userGuesses": [],
-      "status": "hidden",
-      "meaning": "Pemilik tanah atau bangunan yang menyewakannya kepada orang lain",
-      "phonetics": {
-        "us": "/ˈlænd.lɔrd/",
-        "uk": "/ˈlænd.lɔːd/"
-      },
-      "examples": [
-        {
-          "type": "Simple",
-          "text": "The landlord is very kind.",
-          "translation": "Pemilik tanah sangat baik."
-        },
-        {
-          "type": "Complex",
-          "text": "If the tenant breaks the rules, the landlord will evict them.",
-          "translation": "Jika penyewa melanggar aturan, pemilik tanah akan mengusir mereka."
-        },
-        {
-          "type": "Compound",
-          "text": "The landlord is rich and the tenant is poor, but they are friends.",
-          "translation": "Pemilik tanah kaya dan penyewa miskin, tetapi mereka berteman."
-        },
-        {
-          "type": "Compound-Complex",
-          "text": "While the landlord was checking the apartment, the tenant was explaining that they had already paid the rent, but the landlord did not believe them.",
-          "translation": "Saat pemilik tanah memeriksa apartemen, penyewa menjelaskan bahwa mereka sudah membayar sewa, tetapi pemilik tanah tidak mempercayai mereka."
-        }
-      ],
-      "synonymMeanings": [
-        "Pemilik properti",
-        "Pengusaha persewaan",
-        "Pemilik real estat",
-        "Pengelola gedung"
-      ]
-    },
-    {
-      "id": "a68226e0-5658-414b-8b37-54a81bb2fa92",
-      "word": "Tenant",
-      "synonyms": [
-        "Renter",
-        "occupant"
-      ],
-      "definition": "a person who pays rent to use a building, land, or room, especially for a long period of time",
-      "userGuesses": [],
-      "status": "hidden",
-      "meaning": "penyewa",
-      "phonetics": {
-        "us": "/ˈtɛnənt/",
-        "uk": "/ˈtɛnənt/"
-      },
-      "examples": [
-        {
-          "type": "Simple",
-          "text": "The tenant has lived in the apartment for five years.",
-          "translation": "Penyewa telah tinggal di apartemen itu selama lima tahun."
-        },
-        {
-          "type": "Complex",
-          "text": "Because the tenant did not pay the rent on time, the landlord had to take action.",
-          "translation": "Karena penyewa tidak membayar sewa tepat waktu, pemilik rumah harus mengambil tindakan."
-        },
-        {
-          "type": "Compound",
-          "text": "The tenant signed the lease, and the landlord gave her the keys, so she could move in immediately.",
-          "translation": "Penyewa menandatangani sewa, dan pemilik rumah memberinya kunci, sehingga dia bisa pindah segera."
-        },
-        {
-          "type": "Compound-Complex",
-          "text": "While the tenant was waiting for the lease to be signed, she was also making plans to move, because she had already given notice to her current landlord, and the new landlord was willing to let her move in as soon as possible.",
-          "translation": "Sementara penyewa menunggu sewa untuk ditandatangani, dia juga membuat rencana untuk pindah, karena dia sudah memberi pemberitahuan kepada pemilik rumah saat ini, dan pemilik rumah baru bersedia membiarkannya pindah secepat mungkin."
-        }
-      ],
-      "synonymMeanings": [
-        "penghuni",
-        "penempati",
-        "orang yang menyewa",
-        "penggarap"
-      ]
-    },
-    {
-      "id": "cf0e9507-f31a-4d04-bbb8-0b3e3349abaa",
-      "word": "Mortgage",
-      "synonyms": [
-        "Home loan",
-        "financing"
-      ],
-      "definition": "an agreement that allows you to borrow money from a bank or other lender to buy a house, and in which the house is used as a guarantee that you will pay back the money",
-      "userGuesses": [],
-      "status": "hidden",
-      "meaning": "hipotek",
-      "phonetics": {
-        "us": "/ˈmɔrɡɪdʒ/",
-        "uk": "/ˈmɔːɡɪdʒ/"
-      },
-      "examples": [
-        {
-          "type": "Simple",
-          "text": "The family had to take out a mortgage to buy their new home.",
-          "translation": "Keluarga itu harus mengambil hipotek untuk membeli rumah baru mereka."
-        },
-        {
-          "type": "Complex",
-          "text": "Because they had a stable income, the bank approved their application for a mortgage.",
-          "translation": "Karena mereka memiliki penghasilan yang stabil, bank menyetujui permohonan mereka untuk hipotek."
-        },
-        {
-          "type": "Compound",
-          "text": "The couple bought a house and they got a mortgage, but they also inherited some money from a relative.",
-          "translation": "Pasangan itu membeli rumah dan mereka mendapatkan hipotek, tetapi mereka juga mewarisi beberapa uang dari seorang kerabat."
-        },
-        {
-          "type": "Compound-Complex",
-          "text": "While they were waiting for the bank to approve their mortgage application, they also started looking for furniture, because they had already sold their old apartment and they needed to move into the new house quickly, but they also wanted to make sure they could afford the monthly payments.",
-          "translation": "Saat mereka menunggu bank untuk menyetujui permohonan hipotek mereka, mereka juga mulai mencari perabot, karena mereka sudah menjual apartemen lama mereka dan mereka perlu pindah ke rumah baru dengan cepat, tetapi mereka juga ingin memastikan bahwa mereka bisa membayar cicilan bulanan."
-        }
-      ],
-      "synonymMeanings": [
-        "pinjaman",
-        "kredit",
-        "hutang"
-      ]
-    },
-    {
-      "id": "22281197-325c-4144-8e24-9fcdf3f3bdac",
-      "word": "Deposit",
-      "synonyms": [
-        "Down payment",
-        "security",
-        "fee"
-      ],
-      "definition": "a sum of money paid into a bank or building society account, or a sum of money paid as part of the cost of something, especially a house, that you will pay for in full later",
-      "userGuesses": [],
-      "status": "hidden",
-      "meaning": "uang muka atau uang yang disetorkan ke rekening bank",
-      "phonetics": {
-        "us": "/dɪˈpɑzɪt/",
-        "uk": "/dɪˈpɒzɪt/"
-      },
-      "examples": [
-        {
-          "type": "Simple",
-          "text": "I made a deposit into my savings account.",
-          "translation": "Saya melakukan setoran ke rekening tabungan saya."
-        },
-        {
-          "type": "Complex",
-          "text": "Because I had made a deposit, I was able to withdraw some cash when I needed it.",
-          "translation": "Karena saya telah melakukan setoran, saya dapat menarik sejumlah uang tunai ketika saya membutuhkannya."
-        },
-        {
-          "type": "Compound",
-          "text": "I made a deposit and then I transferred the money to my friend's account.",
-          "translation": "Saya melakukan setoran dan kemudian saya mentransfer uang ke rekening teman saya."
-        },
-        {
-          "type": "Compound-Complex",
-          "text": "Although I had made a deposit, I was still worried that I wouldn't have enough money, so I decided to transfer some more, and then I felt relieved because my account balance was sufficient.",
-          "translation": "Meskipun saya telah melakukan setoran, saya masih khawatir bahwa saya tidak akan memiliki cukup uang, jadi saya memutuskan untuk mentransfer beberapa lagi, dan kemudian saya merasa lega karena saldo rekening saya cukup."
-        }
-      ],
-      "synonymMeanings": [
-        "uang muka",
-        "setoran",
-        "penyetoran",
-        "pembayaran awal"
-      ]
-    },
-    {
-      "id": "57b4c241-97c6-4f4b-ae90-436d0bff1cb3",
-      "word": "Lease Agreement",
-      "synonyms": [
-        "Rental contract",
-        "tenancy",
-        "agreement"
-      ],
-      "definition": "A legal contract outlining rental\nterms",
+      "definition": "The use of spoken words to convey messages",
       "userGuesses": [],
       "status": "hidden"
     },
     {
-      "id": "a06e2d72-6d89-47ec-8779-1b6f2144f59a",
-      "word": "Furnished Apartment",
+      "id": "f6ace7bc-c7cd-4608-842b-2ad76f27c4e8",
+      "word": "Nonverbal Communication",
       "synonyms": [
-        "Fully equipped apartment",
-        "ready-to-move-in housing"
+        "Body language",
+        "gestures"
       ],
-      "definition": "A rental unit equipped with furniture",
+      "definition": "Conveying messages without words,\nusing body language, gestures, or facial expressions",
       "userGuesses": [],
       "status": "hidden"
     },
     {
-      "id": "cdbe68b0-27c7-48c0-9e08-423b319726ce",
-      "word": "Studio Apartment",
+      "id": "1636d85e-d453-40d1-afd7-0052f200c920",
+      "word": "Written Communication",
       "synonyms": [
-        "One-room flat",
-        "efficiency",
-        "apartment"
+        "Documentation",
+        "correspondence"
       ],
-      "definition": "A small, self-contained living space\nwith an open layout",
+      "definition": "Exchanging information through written text",
       "userGuesses": [],
       "status": "hidden"
     },
     {
-      "id": "4e7d6ec2-2226-40d3-b621-4c966ed81b0e",
-      "word": "Shared Accommodation",
+      "id": "b51102ca-0d2e-4fa1-8106-9490fcfbeb79",
+      "word": "Interpersonal Communication",
       "synonyms": [
-        "Co-living",
-        "communal",
-        "housing"
+        "Personal interaction",
+        "social exchange"
       ],
-      "definition": "Housing where multiple people live\ntogether",
+      "definition": "Direct, face-to-face communication between individuals",
       "userGuesses": [],
       "status": "hidden"
     },
     {
-      "id": "14f30598-3dcf-4aa6-a792-da44c2207668",
-      "word": "Hall of Residence",
+      "id": "ba500cb6-424e-45b5-876d-76c21d8c20b6",
+      "word": "Mass Communication",
       "synonyms": [
-        "Dormitory",
-        "student",
-        "housing"
+        "Broadcasting",
+        "public communication"
       ],
-      "definition": "University-owned accommodation\nfor students",
+      "definition": "The process of distributing\ninformation to large audiences through media",
       "userGuesses": [],
       "status": "hidden"
     },
     {
-      "id": "9db3b9f5-10d2-4630-a580-e2e22fe2e911",
-      "word": "Homestay",
+      "id": "5026211c-1648-4a44-9734-b27ae2843604",
+      "word": "Digital Communication",
       "synonyms": [
-        "Host family arrangement",
-        "cultural immersion",
-        "housing"
+        "Online communication",
+        "virtual interaction"
       ],
-      "definition": "Living with a local family, often for cultural exchange",
+      "definition": "The exchange of information through electronic means",
       "userGuesses": [],
       "status": "hidden"
     },
     {
-      "id": "65efae42-3b59-46fa-b822-c4b4a51aa746",
-      "word": "Lodging",
+      "id": "b4e3897a-5c23-413d-808b-5b03628fb81d",
+      "word": "Active Listening",
       "synonyms": [
-        "Shelter",
-        "temporary",
-        "housing"
+        "Attentive listening",
+        "engaged listening"
       ],
-      "definition": "Temporary accommodation, often for\ntravelers",
+      "definition": "Fully concentrating, understanding,\nand responding to a speaker",
       "userGuesses": [],
       "status": "hidden"
     },
     {
-      "id": "5448cccc-d127-46f3-b5bb-be2bd61f8714",
-      "word": "Suburb",
+      "id": "c843bb9b-f881-46cc-a4be-2f07e37be61b",
+      "word": "Public Speaking",
       "synonyms": [
-        "Outskirts",
-        "residential district"
+        "Oration",
+        "presentation"
       ],
-      "definition": "A residential area located on the outskirts of a city",
+      "definition": "The act of delivering a speech or\npresentation to an audience",
       "userGuesses": [],
       "status": "hidden"
     },
     {
-      "id": "0464f7c9-f6e6-4ee4-8a8b-96dd3feb9b4e",
-      "word": "Urban Housing",
+      "id": "fd15a320-c92c-43db-b3db-33e9ac085f4c",
+      "word": "Persuasion",
       "synonyms": [
-        "City accommodation",
-        "metropolitan housing"
+        "Influence",
+        "convincing"
       ],
-      "definition": "Residential buildings located in cities",
+      "definition": "The ability to convince others to\nadopt a certain viewpoint",
       "userGuesses": [],
       "status": "hidden"
     },
     {
-      "id": "ca04d980-c8b6-4a1a-86b1-d023739cf981",
-      "word": "Rural Housing",
+      "id": "aaddf500-755d-4966-8b10-d6083a83f181",
+      "word": "Feedback",
       "synonyms": [
-        "Countryside residence",
-        "farmstead"
+        "Response",
+        "critique"
       ],
-      "definition": "Accommodation in non-urban areas,\noften with more space and nature",
+      "definition": "Information provided as a response to a message or performance",
       "userGuesses": [],
       "status": "hidden"
     },
     {
-      "id": "3ad66efa-b36d-4c56-bcab-0c42d5d49d27",
-      "word": "Affordable Housing",
+      "id": "400f1c58-8b96-4760-8454-27fd7ff421fd",
+      "word": "Clarity",
       "synonyms": [
-        "Low-cost housing",
-        "budget-friendly homes"
+        "Lucidity",
+        "precision"
       ],
-      "definition": "Housing options that are financially\naccessible to low-income individuals",
+      "definition": "The quality of being easily\nunderstood",
       "userGuesses": [],
       "status": "hidden"
     },
     {
-      "id": "c2557642-1015-436f-89d6-97219de91242",
-      "word": "Overcrowding",
+      "id": "5ede7610-0c19-41bf-bccb-8c38319b58fd",
+      "word": "Tone",
       "synonyms": [
-        "Congestion",
-        "excessive",
-        "occupancy"
+        "Manner",
+        "inflection"
       ],
-      "definition": "A situation where too many people\nlive in a confined space",
+      "definition": "The attitude or approach conveyed in speech or writing",
       "userGuesses": [],
       "status": "hidden"
     },
     {
-      "id": "c855e541-c154-42d8-9392-e6b0816e30da",
-      "word": "Eviction",
+      "id": "8c6d0977-8535-491e-acb9-89172c3438fe",
+      "word": "Conciseness",
       "synonyms": [
-        "Forced removal",
-        "displacement"
+        "Brevity",
+        "succinctness"
       ],
-      "definition": "The legal removal of tenants from a\nproperty",
+      "definition": "Expressing ideas clearly and briefly",
       "userGuesses": [],
       "status": "hidden"
     },
     {
-      "id": "56e2e58b-4106-4cb6-b0f8-b1b23893304d",
-      "word": "Property Market",
+      "id": "3a3fad4d-f579-491c-bc7a-b584470cde5c",
+      "word": "Articulation",
       "synonyms": [
-        "Real estate industry",
-        "housing market"
+        "Eloquence",
+        "enunciation"
       ],
-      "definition": "The buying, selling, and renting of\nreal estate",
+      "definition": "The ability to express ideas clearly\nand effectively",
       "userGuesses": [],
       "status": "hidden"
     },
     {
-      "id": "ba8a99bc-0392-4019-968f-0e1bd9e3c5a0",
-      "word": "Utilities",
+      "id": "edfe235b-257f-453a-bf78-719ffbc380a0",
+      "word": "Diplomacy",
       "synonyms": [
-        "Basic services",
-        "household",
-        "necessities"
+        "Tact",
+        "discretion"
       ],
-      "definition": "Essential services like electricity,\nwater, and gas in a residence",
+      "definition": "The skill of handling negotiations or\nsensitive situations tactfully",
       "userGuesses": [],
       "status": "hidden"
     },
     {
-      "id": "35a5b935-cacd-4a79-a451-64abfcbbb9b0",
-      "word": "Gentrification",
+      "id": "8d2f1cee-1680-4748-a7d4-e17f8023aafd",
+      "word": "Empathy",
       "synonyms": [
-        "Urban renewal",
-        "redevelopment"
+        "Compassion",
+        "understanding"
       ],
-      "definition": "The process of renovating an area, often leading to displacement of\nlow-income residents",
+      "definition": "The ability to understand and share others' feelings",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "84611ba1-3429-49f2-9b6e-d2281b13c850",
+      "word": "Assertiveness",
+      "synonyms": [
+        "Confidence",
+        "self-assurance"
+      ],
+      "definition": "The ability to express thoughts confidently and respectfully",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "9a734379-ded9-46df-bb89-d9a53e030e9c",
+      "word": "Jargon",
+      "synonyms": [
+        "Terminology",
+        "technical language"
+      ],
+      "definition": "Specialized language used by a specific profession or group",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "4e9337d9-8474-4fcd-9414-d4e687e3276f",
+      "word": "Rhetoric",
+      "synonyms": [
+        "Oratory",
+        "eloquence"
+      ],
+      "definition": "The art of persuasive speaking or writing",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "630ed929-50e6-48f9-98f7-bb0681d82213",
+      "word": "Miscommunication",
+      "synonyms": [
+        "Misinterpretation",
+        "confusion"
+      ],
+      "definition": "A failure to communicate clearly,\nleading to misunderstanding",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "abb3ddd5-a2bf-4cf7-9fc5-06c4e0a0c3b0",
+      "word": "Body Language",
+      "synonyms": [
+        "Nonverbal communication",
+        "gestures"
+      ],
+      "definition": "Nonverbal cues such as gestures and facial expressions",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "d375c1ee-f839-4695-b750-9e29d528d506",
+      "word": "Eye Contact",
+      "synonyms": [
+        "Visual engagement",
+        "direct",
+        "gaze"
+      ],
+      "definition": "Looking directly into another\nperson’s eyes during conversation",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "5035d5ff-afba-4070-b5af-4463e1bb0894",
+      "word": "Tone of Voice",
+      "synonyms": [
+        "Vocal expression",
+        "intonation"
+      ],
+      "definition": "The way a person's voice conveys\nemotion or meaning",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "4ba73a6c-a59b-4e5c-94d0-880bb5fc784c",
+      "word": "Inflection",
+      "synonyms": [
+        "Modulation",
+        "intonation"
+      ],
+      "definition": "Variation in pitch or tone of voice",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "712afc19-21ef-4dfe-92e3-9c96c7ac735a",
+      "word": "Listening Comprehension",
+      "synonyms": [
+        "Auditory understanding",
+        "receptive skills"
+      ],
+      "definition": "The ability to understand spoken language",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "7b82b5d6-be3c-4440-9a45-1b2b157d2c32",
+      "word": "Negotiation",
+      "synonyms": [
+        "Bargaining",
+        "mediation"
+      ],
+      "definition": "Discussion aimed at reaching an\nagreement",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "b24aa8a6-501a-4954-9951-5a716b5feaae",
+      "word": "Conflict Resolution",
+      "synonyms": [
+        "Mediation",
+        "dispute resolution"
+      ],
+      "definition": "The process of resolving disagreements effectively",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "c0a03444-cf48-406e-9a5e-a1324de094d9",
+      "word": "Small Talk",
+      "synonyms": [
+        "Chit-chat",
+        "informal talk"
+      ],
+      "definition": "Casual conversation about\nnon-controversial topics",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "07b1caaf-0a4f-44c9-badd-dc5e1d925434",
+      "word": "Social Cues",
+      "synonyms": [
+        "Context clues",
+        "behavioral",
+        "signals"
+      ],
+      "definition": "Nonverbal signals that guide\ninteractions",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "f8a6a32a-bfe1-4be3-b9b9-b95031d1ec34",
+      "word": "Virtual Communication",
+      "synonyms": [
+        "Online communication",
+        "remote interaction"
+      ],
+      "definition": "Interaction conducted through digital platforms",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "90647c57-4eca-4086-8400-344c11da8608",
+      "word": "Cross-cultural Communication",
+      "synonyms": [
+        "Intercultural",
+        "communication",
+        "global interaction"
+      ],
+      "definition": "Interaction between people from different cultural backgrounds",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "4dc14b22-2966-43fa-854f-4749270120c6",
+      "word": "Speech Impediment",
+      "synonyms": [
+        "Speech disorder",
+        "articulation difficulty"
+      ],
+      "definition": "A condition affecting a person’s ability to speak clearly",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "8d5a1fbb-fc9f-4560-a019-c9426883fe44",
+      "word": "Intonation",
+      "synonyms": [
+        "Modulation",
+        "inflection"
+      ],
+      "definition": "The rise and fall of voice pitch in\nspeech",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "ff5e1e2f-bf4e-4209-9a7d-fed06ce8ac05",
+      "word": "Code-switching",
+      "synonyms": [
+        "Language shifting",
+        "bilingual switching"
+      ],
+      "definition": "Alternating between languages or\ndialects in conversation",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "53b14e32-6d41-4684-b715-1fc1b39984ac",
+      "word": "Eloquence",
+      "synonyms": [
+        "Articulateness",
+        "expressiveness"
+      ],
+      "definition": "The ability to speak or write in a\nfluent, persuasive manner",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "212759a3-90f3-4d3b-9220-e1fc6b418dd4",
+      "word": "Redundancy",
+      "synonyms": [
+        "Wordiness",
+        "verbosity"
+      ],
+      "definition": "The use of unnecessary repetition in\nspeech or writing",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "59a3d89b-56c5-4ff5-81d9-d20e10351ccd",
+      "word": "Ambiguity",
+      "synonyms": [
+        "Vagueness",
+        "uncertainty"
+      ],
+      "definition": "Unclear or multiple meanings in communication",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "51b3b3f3-61bb-42b3-b10a-303d56aeb16e",
+      "word": "Gossip",
+      "synonyms": [
+        "Rumors",
+        "hearsay"
+      ],
+      "definition": "Informal conversation about others,\noften unverified",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "25a3448d-45e3-489c-82fe-3971e91a74ef",
+      "word": "Censorship",
+      "synonyms": [
+        "Restriction",
+        "suppression"
+      ],
+      "definition": "The suppression of speech or writing\nconsidered inappropriate",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "03326db0-2764-4ea6-956f-cbbc63cdfa9e",
+      "word": "Silence",
+      "synonyms": [
+        "Quietness",
+        "muteness"
+      ],
+      "definition": "The absence of sound or speech",
       "userGuesses": [],
       "status": "hidden"
     }
