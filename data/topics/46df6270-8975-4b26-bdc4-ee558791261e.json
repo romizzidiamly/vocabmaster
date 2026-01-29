@@ -182,7 +182,30 @@
       ],
       "definition": "The act of killing another person",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Homicide is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Homicide matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Homicide, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Homicide correctly, we succeed, so let's try."
+        }
+      ]
     },
     {
       "id": "3fd8dcbb-c1d9-49f1-b4ee-05998435cc60",
