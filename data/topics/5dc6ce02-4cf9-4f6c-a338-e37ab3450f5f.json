@@ -2409,7 +2409,30 @@
       ],
       "definition": "A substance that builds up in muscles during intense exercise",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Lactic acid is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Lactic acid matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Lactic acid, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Lactic acid correctly, we succeed, so let's try."
+        }
+      ]
     },
     {
       "id": "5d8f5610-712c-4162-96d6-730e3f3e3f6a",
