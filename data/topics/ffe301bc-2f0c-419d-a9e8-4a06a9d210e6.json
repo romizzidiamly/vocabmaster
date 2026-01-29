@@ -687,7 +687,30 @@
       ],
       "definition": "A failure to communicate clearly,\nleading to misunderstanding",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Miscommunication is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Miscommunication matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Miscommunication, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Miscommunication correctly, we succeed, so let's try."
+        }
+      ]
     },
     {
       "id": "abb3ddd5-a2bf-4cf7-9fc5-06c4e0a0c3b0",
