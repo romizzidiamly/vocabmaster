@@ -285,7 +285,30 @@
       ],
       "definition": "Energy sourced from naturally\nreplenishing resources",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Renewable energy is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Renewable energy matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Renewable energy, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Renewable energy correctly, we succeed, so let's try."
+        }
+      ]
     },
     {
       "id": "9c45bf32-d927-4b4c-87bc-6b90b2373cb6",
