@@ -354,7 +354,30 @@
       ],
       "definition": "The trapping of heat in Earth’s\natmosphere due to gases like CO₂",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Greenhouse effect is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Greenhouse effect matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Greenhouse effect, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Greenhouse effect correctly, we succeed, so let's try."
+        }
+      ]
     },
     {
       "id": "ff24972f-9186-4683-8799-008d53da38cf",
