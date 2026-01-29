@@ -146,9 +146,42 @@
         "forest",
         "degradation"
       ],
-      "definition": "The clearing or destruction of forests\nfor human use",
+      "definition": "The act of cutting down or destroying all or most of the trees in an area.",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "discovered",
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Deforestation is a major environmental issue.",
+          "translation": "Penggundulan hutan merupakan isu lingkungan yang besar."
+        },
+        {
+          "type": "Complex",
+          "text": "Because deforestation occurs, many animals lose their habitats.",
+          "translation": "Karena penggundulan hutan terjadi, banyak hewan kehilangan habitatnya."
+        },
+        {
+          "type": "Compound",
+          "text": "Deforestation happens quickly, and forests disappear forever.",
+          "translation": "Penggundulan hutan terjadi dengan cepat, dan hutan menghilang selamanya."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "While deforestation is a significant problem, it can be addressed through sustainable forest management, and many countries are working to protect their forests, because they provide important ecosystem services.",
+          "translation": "Sementara penggundulan hutan merupakan masalah yang signifikan, hal ini dapat diatasi melalui pengelolaan hutan berkelanjutan, dan banyak negara bekerja untuk melindungi hutan mereka, karena mereka menyediakan layanan ekosistem yang penting."
+        }
+      ],
+      "phonetics": {
+        "us": "/ˌdɛfəˈrɛstəˈʃən/",
+        "uk": "/ˌdefəˈrɛstəˈʃən/"
+      },
+      "meaning": "Penggundulan hutan",
+      "synonymMeanings": [
+        "Penebangan hutan",
+        "Penghancuran hutan",
+        "Pengrusakan hutan",
+        "Kerusakan hutan"
+      ]
     },
     {
       "id": "1b14d3dd-4661-4d0d-8308-7ddaf4f32de9",
@@ -160,7 +193,7 @@
       ],
       "definition": "The act of planting trees in an area where they have been cut down",
       "userGuesses": [],
-      "status": "hidden",
+      "status": "discovered",
       "examples": [
         {
           "type": "Simple",
