@@ -313,7 +313,30 @@
       ],
       "definition": "The ability to convince others to\nadopt a certain viewpoint",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Persuasion is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Persuasion matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Persuasion, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Persuasion correctly, we succeed, so let's try."
+        }
+      ]
     },
     {
       "id": "aaddf500-755d-4966-8b10-d6083a83f181",
