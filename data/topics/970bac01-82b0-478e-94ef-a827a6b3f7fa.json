@@ -79,7 +79,30 @@
       ],
       "definition": "Long-term shifts in temperature and\nweather patterns",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Climate change is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Climate change matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Climate change, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Climate change correctly, we succeed, so let's try."
+        }
+      ]
     },
     {
       "id": "42690f32-bcb5-49c2-ab6a-ce921804a06b",
