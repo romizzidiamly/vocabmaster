@@ -9,9 +9,42 @@
         "Wellness",
         "good health"
       ],
-      "definition": "A state of health and happiness",
+      "definition": "The state of being happy, healthy, and comfortable.",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Kesejahteraan",
+      "phonetics": {
+        "us": "/ˈwɛlˌbiɪŋ/",
+        "uk": "/ˈwɛlˌbiːɪŋ/"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "She prioritizes her well-being by exercising regularly.",
+          "translation": "Dia memprioritaskan kesejahteraannya dengan berolahraga secara teratur."
+        },
+        {
+          "type": "Complex",
+          "text": "If she doesn't take care of her well-being, she will get sick easily.",
+          "translation": "Jika dia tidak menjaga kesejahteraannya, dia akan sakit dengan mudah."
+        },
+        {
+          "type": "Compound",
+          "text": "She exercises regularly and eats healthy food to maintain her well-being.",
+          "translation": "Dia berolahraga secara teratur dan makan makanan sehat untuk menjaga kesejahteraannya."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "While she was working, she realized that her well-being was more important than her job, so she decided to quit and start her own business, which allowed her to have more time for herself and her family.",
+          "translation": "Saat dia bekerja, dia menyadari bahwa kesejahteraannya lebih penting daripada pekerjaannya, sehingga dia memutuskan untuk berhenti dan memulai bisnis sendiri, yang memungkinkan dia untuk memiliki lebih banyak waktu untuk dirinya sendiri dan keluarganya."
+        }
+      ],
+      "synonymMeanings": [
+        "Kesehatan",
+        "Kebahagiaan",
+        "Kenyamanan",
+        "Keberkahan"
+      ]
     },
     {
       "id": "0c40f089-70af-4aa8-bd66-fb2a9b30e554",
