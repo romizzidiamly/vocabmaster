@@ -79,7 +79,30 @@
       ],
       "definition": "Someone who carries out a crime or\nharmful act",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Perpetrator is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Perpetrator matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Perpetrator, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Perpetrator correctly, we succeed, so let's try."
+        }
+      ]
     },
     {
       "id": "a73f276b-9ff5-409b-a0fe-884e7f8b630b",
@@ -91,7 +114,30 @@
       ],
       "definition": "A serious crime, often punishable by\nimprisonment",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Felony is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Felony matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Felony, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Felony correctly, we succeed, so let's try."
+        }
+      ]
     },
     {
       "id": "b5e63a9b-e336-49fa-ab69-7a88fb337bd9",
@@ -102,7 +148,30 @@
       ],
       "definition": "A minor wrongdoing, less serious\nthan a felony",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Misdemeanor is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Misdemeanor matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Misdemeanor, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Misdemeanor correctly, we succeed, so let's try."
+        }
+      ]
     },
     {
       "id": "32406d8f-4ef0-4347-9c9b-b4fb88575b7d",
@@ -113,7 +182,30 @@
       ],
       "definition": "The act of killing another person",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Homicide is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Homicide matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Homicide, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Homicide correctly, we succeed, so let's try."
+        }
+      ]
     },
     {
       "id": "3fd8dcbb-c1d9-49f1-b4ee-05998435cc60",
@@ -124,7 +216,30 @@
       ],
       "definition": "The unlawful killing of a person\nwithout premeditation",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Manslaughter is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Manslaughter matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Manslaughter, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Manslaughter correctly, we succeed, so let's try."
+        }
+      ]
     },
     {
       "id": "9e8e905b-3480-466f-b4ab-3b8e902f8805",
@@ -135,7 +250,30 @@
       ],
       "definition": "The act of illegally entering a\nbuilding to commit a crime",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Burglary is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Burglary matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Burglary, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Burglary correctly, we succeed, so let's try."
+        }
+      ]
     },
     {
       "id": "318af7b5-fa04-4adb-a7ba-766c28d3a657",
@@ -146,7 +284,30 @@
       ],
       "definition": "The unlawful taking of someone’s\nproperty",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Theft is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Theft matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Theft, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Theft correctly, we succeed, so let's try."
+        }
+      ]
     },
     {
       "id": "234619e6-2737-4f7b-ad5d-bd2cc793f77f",
