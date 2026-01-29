@@ -795,9 +795,41 @@
         "Alternative medicine",
         "integrative health"
       ],
-      "definition": "A treatment approach that considers the whole person",
+      "definition": "a type of medicine that considers the whole person - physical, mental, and emotional - when treating a disease or illness",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "pengobatan holistik",
+      "phonetics": {
+        "us": "/həˈlɪstɪk/",
+        "uk": "/həˈlɪstɪk/"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "The doctor practices holistic medicine.",
+          "translation": "Dokter tersebut mempraktikkan pengobatan holistik."
+        },
+        {
+          "type": "Complex",
+          "text": "Because she believes in holistic medicine, she always asks about her patients' mental and emotional well-being.",
+          "translation": "Karena dia percaya pada pengobatan holistik, dia selalu bertanya tentang kesejahteraan mental dan emosional pasiennya."
+        },
+        {
+          "type": "Compound",
+          "text": "The hospital offers holistic medicine and traditional treatments for various diseases.",
+          "translation": "Rumah sakit tersebut menawarkan pengobatan holistik dan perawatan tradisional untuk berbagai penyakit."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "While some hospitals specialize in traditional treatments, others prefer holistic medicine, which they believe can cure diseases more effectively because it considers the whole person.",
+          "translation": "Sementara beberapa rumah sakit berspesialisasi dalam perawatan tradisional, yang lain lebih memilih pengobatan holistik, yang mereka percayai dapat menyembuhkan penyakit lebih efektif karena mempertimbangkan keseluruhan manusia."
+        }
+      ],
+      "synonymMeanings": [
+        "pengobatan alternatif",
+        "pengobatan komplementer",
+        "pengobatan integratif"
+      ]
     },
     {
       "id": "4d4c4cb6-8827-4b09-896e-cd071fe277a2",
