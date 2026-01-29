@@ -97,9 +97,41 @@
         "Diet",
         "nourishment"
       ],
-      "definition": "The process of obtaining food necessary for health",
+      "definition": "The study of food and how it affects the body, or the process of eating and using food to keep the body healthy",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Gizi",
+      "phonetics": {
+        "us": "/nuˈtrɪʃən/",
+        "uk": "/njuːˈtrɪʃən/"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Proper nutrition is essential for good health.",
+          "translation": "Gizi yang baik sangat penting untuk kesehatan yang baik."
+        },
+        {
+          "type": "Complex",
+          "text": "Because she had a poor diet, the doctor advised her that proper nutrition was necessary if she wanted to recover quickly.",
+          "translation": "Karena dia memiliki pola makan yang buruk, dokter menyarankannya bahwa gizi yang baik diperlukan jika dia ingin pulih dengan cepat."
+        },
+        {
+          "type": "Compound",
+          "text": "I exercise regularly and I also eat a healthy diet to ensure I get good nutrition and stay fit.",
+          "translation": "Saya berolahraga secara teratur dan saya juga makan makanan sehat untuk memastikan saya mendapatkan gizi yang baik dan tetap bugar."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "While it is true that regular exercise can improve our physical health, it is also important to remember that good nutrition is necessary if we want to achieve the best results, and that is why I always try to eat a balanced diet.",
+          "translation": "Sementara itu benar bahwa olahraga teratur dapat meningkatkan kesehatan fisik kita, juga penting untuk diingat bahwa gizi yang baik diperlukan jika kita ingin mencapai hasil terbaik, dan itulah mengapa saya selalu mencoba makan makanan seimbang."
+        }
+      ],
+      "synonymMeanings": [
+        "Pengaturan makanan",
+        "Pemberian makan",
+        "Keseimbangan gizi"
+      ]
     },
     {
       "id": "39dfa10f-e952-4fa5-8ffd-b18aa8eeecb9",
