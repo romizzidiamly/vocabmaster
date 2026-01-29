@@ -628,7 +628,30 @@
       ],
       "definition": "The process of fertile land becoming\ndesert",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Desertification is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Desertification matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Desertification, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Desertification correctly, we succeed, so let's try."
+        }
+      ]
     },
     {
       "id": "c064e831-5a69-490f-bdaa-50316cb9a199",
