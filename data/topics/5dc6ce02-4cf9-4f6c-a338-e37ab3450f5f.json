@@ -1334,9 +1334,41 @@
         "Intellectual growth",
         "mental development"
       ],
-      "definition": "The growth of thinking and understanding abilities",
+      "definition": "The process by which the brain develops and matures, especially in children, and by which a person becomes able to think, learn and understand more and more complicated things",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Perkembangan kognitif",
+      "phonetics": {
+        "us": "/kɑɡˈnɪtɪv/",
+        "uk": "/kɒɡˈnɪtɪv/"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "The child's cognitive development was amazing.",
+          "translation": "Perkembangan kognitif anak itu luar biasa."
+        },
+        {
+          "type": "Complex",
+          "text": "Because the teacher used interactive methods, the students' cognitive development improved significantly.",
+          "translation": "Karena guru menggunakan metode interaktif, perkembangan kognitif siswa meningkat secara signifikan."
+        },
+        {
+          "type": "Compound",
+          "text": "The child's cognitive development was impressive, and her language skills were excellent.",
+          "translation": "Perkembangan kognitif anak itu mengesankan, dan kemampuan bahasanya sangat baik."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "While the students' cognitive development was progressing well, their social skills also improved because the teacher encouraged teamwork, and as a result, they became more confident.",
+          "translation": "Sementara perkembangan kognitif siswa berjalan dengan baik, kemampuan sosial mereka juga meningkat karena guru mendorong kerja tim, dan sebagai hasilnya, mereka menjadi lebih percaya diri."
+        }
+      ],
+      "synonymMeanings": [
+        "Pembangunan mental",
+        "Perkembangan intelektual",
+        "Pertumbuhan pengetahuan"
+      ]
     },
     {
       "id": "541eae5b-3b97-4774-a69b-a2d526cd7232",
