@@ -15,7 +15,7 @@ export interface Topic {
   createdAt: number;
 }
 
-export type GamePhase = 'topic-list' | 'playing' | 'upload';
+export type GamePhase = 'topic-list' | 'preview' | 'playing' | 'upload';
 
 export interface GameState {
   phase: GamePhase;

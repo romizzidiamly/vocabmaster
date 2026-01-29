@@ -95,7 +95,7 @@ export function VocabProvider({ children }: { children: React.ReactNode }) {
         const topic = topics.find(t => t.id === id);
         if (topic) {
             setGameState({
-                phase: 'playing',
+                phase: 'preview',
                 activeTopicId: id,
                 items: topic.items,
                 score: 0

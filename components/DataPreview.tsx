@@ -1,63 +1,75 @@
 'use client';
 
 import { useVocabStore } from '@/context/VocabContext';
+import { BookText, Play, X, Trophy, Volume2 } from 'lucide-react';
 
 export function DataPreview() {
-    const { gameState, setPhase, resetGame } = useVocabStore();
+    const { gameState, setPhase, resetGame, selectTopic } = useVocabStore();
 
     if (gameState.items.length === 0) return null;
 
+    const speak = (text: string) => {
+        if (!window.speechSynthesis) return;
+        window.speechSynthesis.cancel();
+        const utterance = new SpeechSynthesisUtterance(text);
+        utterance.lang = 'en-US';
+        window.speechSynthesis.speak(utterance);
+    };
+
     return (
-        <div className="w-full max-w-2xl mx-auto animate-in fade-in slide-in-from-bottom-4">
-            <div className="text-center mb-6">
-                <h2 className="text-2xl font-bold mb-2">Data Preview</h2>
-                <p className="text-slate-400">
-                    Found <span className="text-indigo-400 font-mono">{gameState.items.length}</span> vocabulary items.
-                    Please verify the extraction below.
+        <div className="w-full max-w-4xl mx-auto space-y-8 animate-in fade-in slide-in-from-bottom-8 duration-700">
+            <div className="text-center space-y-3">
+                <div className="inline-flex items-center gap-2 px-3 py-1 bg-indigo-500/10 border border-indigo-500/20 rounded-full text-indigo-400 text-[10px] font-black uppercase tracking-widest">
+                    <BookText className="w-3 h-3" /> Vocabulary Review
+                </div>
+                <h2 className="text-4xl font-black text-white tracking-tight">Study List</h2>
+                <p className="text-slate-500 max-w-lg mx-auto">
+                    Review your <span className="text-indigo-400 font-bold">{gameState.items.length} words</span> before starting the recall test.
                 </p>
             </div>
 
-            <div className="bg-slate-800/50 border border-slate-700 rounded-lg overflow-hidden mb-6 max-h-96 overflow-y-auto">
-                <table className="w-full text-left text-sm">
-                    <thead className="bg-slate-800 border-b border-slate-700 sticky top-0">
-                        <tr>
-                            <th className="p-4 font-semibold text-slate-300">Word</th>
-                            <th className="p-4 font-semibold text-slate-300">Synonym</th>
-                        </tr>
-                    </thead>
-                    <tbody className="divide-y divide-slate-700/50">
-                        {gameState.items.slice(0, 50).map((item) => (
-                            <tr key={item.id} className="hover:bg-slate-700/30">
-                                <td className="p-4 font-medium text-slate-200">{item.word}</td>
-                                <td className="p-4 text-slate-400">
-                                    <div className="flex flex-wrap gap-1">
-                                        {item.synonyms.map((syn, idx) => (
-                                            <span key={idx} className="bg-slate-700/50 px-2 py-0.5 rounded text-xs border border-slate-600">
-                                                {syn}
-                                            </span>
-                                        ))}
-                                    </div>
-                                </td>
-                            </tr>
-                        ))}
-                    </tbody>
-                </table>
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+                {gameState.items.map((item) => (
+                    <div
+                        key={item.id}
+                        className="bg-slate-900/50 border border-slate-800 p-5 rounded-2xl hover:border-slate-700 transition-all group"
+                    >
+                        <div className="flex justify-between items-start mb-3">
+                            <h4 className="text-lg font-black text-white group-hover:text-indigo-400 transition-colors uppercase tracking-tight">{item.word}</h4>
+                            <button
+                                onClick={() => speak(item.word)}
+                                className="p-1.5 bg-slate-800 hover:bg-slate-700 text-slate-400 hover:text-white rounded-lg transition-all"
+                            >
+                                <Volume2 className="w-3.5 h-3.5" />
+                            </button>
+                        </div>
+                        <div className="flex flex-wrap gap-1.5">
+                            {item.synonyms.map((syn, idx) => (
+                                <span key={idx} className="bg-slate-950 px-2 py-1 rounded-md text-[10px] font-bold text-slate-400 border border-slate-800/50">
+                                    {syn}
+                                </span>
+                            ))}
+                        </div>
+                    </div>
+                ))}
             </div>
 
-            <div className="flex gap-4 justify-center">
+            <div className="fixed bottom-10 left-1/2 -translate-x-1/2 flex gap-4 p-2 bg-slate-950/80 backdrop-blur-xl border border-white/5 rounded-3xl shadow-2xl z-50">
                 <button
                     onClick={resetGame}
-                    className="px-6 py-2.5 bg-slate-800 hover:bg-slate-700 text-slate-300 rounded-lg font-medium transition-colors border border-slate-700"
+                    className="flex items-center gap-2 px-6 py-3 bg-slate-900 hover:bg-slate-800 text-slate-400 hover:text-white rounded-2xl font-black text-xs uppercase tracking-widest transition-all border border-slate-800"
                 >
-                    Cancel
+                    <X className="w-4 h-4" /> Exit
                 </button>
                 <button
                     onClick={() => setPhase('playing')}
-                    className="px-8 py-2.5 bg-indigo-600 hover:bg-indigo-500 text-white rounded-lg font-medium transition-colors shadow-lg shadow-indigo-500/20"
+                    className="flex items-center gap-3 px-10 py-3 bg-indigo-600 hover:bg-indigo-500 text-white rounded-2xl font-black text-sm uppercase tracking-widest transition-all shadow-xl shadow-indigo-500/20 scale-105"
                 >
-                    Start Test
+                    <Play className="w-5 h-5 fill-current" /> Start Recall Test
                 </button>
             </div>
+
+            <div className="h-24" /> {/* Spacer for fixed buttons */}
         </div>
     );
 }
