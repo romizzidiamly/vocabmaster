@@ -43,19 +43,16 @@ export async function parseExcel(file: File): Promise<VocabItem[]> {
 
             const wIdx = rowStr.findIndex(t => t === 'word' || t === 'vocabulary' || t === 'kata');
             const sIdx = rowStr.findIndex(t => t === 'synonyms' || t === 'synonym' || t === 'sinonim');
-            const dIdx = rowStr.findIndex(t => t === 'definition' || t === 'meaning' || t === 'deskripsi' || t === 'arti');
 
-            console.log(`  Word col: ${wIdx}, Synonyms col: ${sIdx}, Definition col: ${dIdx}`);
+            console.log(`  Word col: ${wIdx}, Synonyms col: ${sIdx}`);
 
             if (wIdx !== -1 && sIdx !== -1) {
                 headerRowIdx = i;
                 wordColIdx = wIdx;
                 synColIdx = sIdx;
-                defColIdx = dIdx;
                 console.log(`✅ HEADER FOUND at row ${i}!`);
                 console.log(`  Word column: ${wordColIdx}`);
                 console.log(`  Synonyms column: ${synColIdx}`);
-                console.log(`  Definition column: ${defColIdx}`);
                 break;
             }
         }
@@ -72,7 +69,6 @@ export async function parseExcel(file: File): Promise<VocabItem[]> {
                     headerRowIdx = i;
                     wordColIdx = wIdx;
                     synColIdx = wIdx + 1; // Try next column for synonyms
-                    defColIdx = wIdx + 2; // Common Excel structure
                     console.log(`✅ FALLBACK HEADER at row ${i}, Word col: ${wordColIdx}, Syn col: ${synColIdx}`);
                     break;
                 }

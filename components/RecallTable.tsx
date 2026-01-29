@@ -131,11 +131,13 @@ export function RecallTable() {
                                         {/* Vocabulary Column */}
                                         <td className="px-6 py-6 align-top">
                                             <div className="flex flex-col gap-3 min-w-[200px]">
-                                                <div className="flex items-center gap-3">
-                                                    <span className={cn("text-2xl font-black tracking-tight", isMastered ? "text-primary" : "text-foreground")}>
-                                                        {item.word}
-                                                    </span>
-                                                    {isMastered && <Sparkles className="w-5 h-5 text-primary animate-pulse" />}
+                                                <div className="flex items-center justify-between gap-3">
+                                                    <div className="flex items-center gap-3">
+                                                        <span className={cn("text-2xl font-black tracking-tight", isMastered ? "text-primary" : "text-foreground")}>
+                                                            {item.word}
+                                                        </span>
+                                                        {isMastered && <Sparkles className="w-5 h-5 text-primary animate-pulse" />}
+                                                    </div>
                                                 </div>
                                                 <div className="flex flex-col gap-2">
                                                     {item.phonetics && typeof item.phonetics === 'object' && (
@@ -169,14 +171,9 @@ export function RecallTable() {
                                                 <div>
                                                     <div className="text-[9px] font-black uppercase text-slate-700 dark:text-slate-500 mb-1 leading-none">Synonym 1 💪 (Type to unlock mastery)</div>
                                                     {synonym1Correct ? (
-                                                        <div className="flex flex-col gap-1.5 p-2.5 rounded-xl bg-green-500/10 border border-green-500/20 animate-in zoom-in-95">
-                                                            <div className="flex items-center gap-2 text-green-500 font-bold">
-                                                                <CheckCircle2 className="w-4 h-4" />
-                                                                <span className="text-sm">{item.userGuesses[0] || item.synonyms[0]}</span>
-                                                            </div>
-                                                            {item.synonymMeanings && item.synonymMeanings[0] && (
-                                                                <div className="text-[9px] font-black text-green-600/70 uppercase tracking-widest pl-6">🇮🇩 {item.synonymMeanings[0]}</div>
-                                                            )}
+                                                        <div className="flex items-center gap-2 p-2.5 rounded-xl bg-green-500/10 border border-green-500/20 animate-in zoom-in-95">
+                                                            <CheckCircle2 className="w-4 h-4 text-green-500" />
+                                                            <span className="text-sm text-green-500 font-bold">{item.userGuesses[0] || item.synonyms[0]}</span>
                                                         </div>
                                                     ) : (
                                                         <input
@@ -194,16 +191,9 @@ export function RecallTable() {
                                                     <div>
                                                         <div className="text-[9px] font-black uppercase text-slate-700 dark:text-slate-500 mb-1 leading-none">Synonym 2+ ✨ (Type to complete mastery)</div>
                                                         {synonym2Correct ? (
-                                                            <div className="flex flex-col gap-1.5 p-2.5 rounded-xl bg-green-500/10 border border-green-500/20 animate-in zoom-in-95">
-                                                                <div className="flex items-center gap-2 text-green-500 font-bold">
-                                                                    <CheckCircle2 className="w-4 h-4" />
-                                                                    <span className="text-sm">{item.userGuesses.slice(1).join(', ') || item.synonyms.slice(1).join(', ')}</span>
-                                                                </div>
-                                                                {item.synonymMeanings && item.synonymMeanings.slice(1).length > 0 && (
-                                                                    <div className="text-[9px] font-black text-green-600/70 uppercase tracking-widest pl-6">
-                                                                        🇮🇩 {item.synonymMeanings.slice(1).join(', ')}
-                                                                    </div>
-                                                                )}
+                                                            <div className="flex items-center gap-2 p-2.5 rounded-xl bg-green-500/10 border border-green-500/20 animate-in zoom-in-95">
+                                                                <CheckCircle2 className="w-4 h-4 text-green-500" />
+                                                                <span className="text-sm text-green-500 font-bold">{item.userGuesses.slice(1).join(', ') || item.synonyms.slice(1).join(', ')}</span>
                                                             </div>
                                                         ) : (
                                                             <input

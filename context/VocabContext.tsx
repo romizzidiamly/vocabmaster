@@ -85,45 +85,7 @@ export function VocabProvider({ children }: { children: React.ReactNode }) {
         });
         await syncTopicToServer(newTopic);
 
-        // Auto-generate AI data for all words sequentially to avoid rate limits
-        const processBulk = async () => {
-            console.log("Starting bulk AI generation for topic:", name);
-            for (const item of items) {
-                try {
-                    const data = await fetchGroqData(item.word);
-                    setGameState(prev => {
-                        const updatedItems = prev.items.map(i =>
-                            i.id === item.id ? {
-                                ...i,
-                                meaning: data.meaning,
-                                definition: data.definition || i.definition,
-                                phonetics: data.phonetics,
-                                examples: data.examples,
-                                synonymMeanings: data.synonymMeanings
-                            } : i
-                        );
-
-                        // Also update topic list for persistence
-                        setTopics(tList => tList.map(t => {
-                            if (t.id === newTopic.id) {
-                                const updatedTopic = { ...t, items: updatedItems };
-                                syncTopicToServer(updatedTopic);
-                                return updatedTopic;
-                            }
-                            return t;
-                        }));
-
-                        return { ...prev, items: updatedItems };
-                    });
-                    // Small delay to respect rate limits
-                    await new Promise(resolve => setTimeout(resolve, 500));
-                } catch (e) {
-                    console.error(`Failed bulk generation for ${item.word}:`, e);
-                }
-            }
-        };
-
-        processBulk();
+        await syncTopicToServer(newTopic);
     };
 
     const updateTopic = async (id: string, updatedTopic: Topic) => {
@@ -191,48 +153,20 @@ export function VocabProvider({ children }: { children: React.ReactNode }) {
     };
 
     const markDiscovered = async (id: string) => {
-        // Find the word from the CURRENT topics/state
-        const topic = topics.find(t => t.id === gameState.activeTopicId);
-        const targetWord = topic?.items.find(i => i.id === id)?.word;
-
-        if (!targetWord) return;
-
-        // Phase 1: Reveal immediately
-        setGameState(prev => ({
-            ...prev,
-            items: prev.items.map(item =>
+        setGameState(prev => {
+            const finalItems = prev.items.map(item =>
                 item.id === id ? { ...item, status: 'discovered' as const } : item
-            )
-        }));
+            );
 
-        // Phase 2: Fetch AI Examples & Phonetics
-        try {
-            const data = await fetchGroqData(targetWord);
+            const updatedTopic = topics.find(t => t.id === prev.activeTopicId);
+            if (updatedTopic) {
+                const newTopic = { ...updatedTopic, items: finalItems };
+                setTopics(tList => tList.map(t => t.id === prev.activeTopicId ? newTopic : t));
+                syncTopicToServer(newTopic);
+            }
 
-            setGameState(prev => {
-                const finalItems = prev.items.map(item =>
-                    item.id === id ? {
-                        ...item,
-                        examples: data.examples,
-                        phonetics: data.phonetics,
-                        meaning: data.meaning,
-                        synonymMeanings: data.synonymMeanings,
-                        definition: data.definition || item.definition
-                    } : item
-                );
-
-                const updatedTopic = topics.find(t => t.id === prev.activeTopicId);
-                if (updatedTopic) {
-                    const newTopic = { ...updatedTopic, items: finalItems };
-                    setTopics(tList => tList.map(t => t.id === prev.activeTopicId ? newTopic : t));
-                    syncTopicToServer(newTopic);
-                }
-
-                return { ...prev, items: finalItems };
-            });
-        } catch (e) {
-            console.error("AI Generation failed in context:", e);
-        }
+            return { ...prev, items: finalItems };
+        });
     };
 
     const guessSynonym = (wordId: string, synonym: string): boolean => {

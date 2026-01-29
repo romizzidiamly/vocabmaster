@@ -1,7 +1,7 @@
 'use client';
 
 import { useState, useCallback } from 'react';
-import { FileText, Loader2, Save, X, Plus, CheckCircle2 } from 'lucide-react';
+import { FileText, Loader2, Save, X, Plus, CheckCircle2, Database } from 'lucide-react';
 import { useVocabStore } from '@/context/VocabContext';
 import { parseExcel } from '@/lib/excel-parser';
 import { cn } from '@/lib/utils';
@@ -200,5 +200,3 @@ export function UploadZone({ onComplete }: { onComplete?: () => void }) {
         </div>
     );
 }
-
-import { Database } from 'lucide-react';

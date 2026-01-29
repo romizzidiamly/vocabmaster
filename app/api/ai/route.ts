@@ -18,30 +18,42 @@ export async function POST(request: NextRequest) {
             }, { status: 500 });
         }
 
-        const prompt = `Act as an IELTS Writing Expert, Lexicographer, and Indonesian Translator. 
+        const prompt = `Act as an IELTS Writing Expert, Professional Lexicographer, and Native Indonesian Translator. 
     For the vocabulary word "${word}", generate:
-    1. A clear English definition (Cambridge Dictionary style).
-    2. Its Indonesian meaning/translation.
-    3. Exactly 4 example sentences (with Indonesian translations) - Simple, Complex, Compound, Compound-Complex.
-    4. Phonetic symbols (US and UK).
-    5. Indonesian meanings for its synonyms.
     
-    IMPORTANT: You MUST return ONLY a JSON object. No intro text.
+    1. A clear, concise English definition (Cambridge Dictionary style).
+    2. Its Indonesian meaning/translation - use NATURAL, CONTEXTUALLY APPROPRIATE Indonesian (not literal word-for-word translation).
+    3. Exactly 4 example sentences suitable for IELTS Task 2 Writing (with natural Indonesian translations):
+       - Simple sentence
+       - Complex sentence
+       - Compound sentence
+       - Compound-Complex sentence
+    4. Phonetic symbols (US and UK pronunciation).
+    5. Indonesian meanings for common synonyms of this word.
+    
+    TRANSLATION GUIDELINES:
+    - Use formal but natural Indonesian (suitable for academic/IELTS context)
+    - Prioritize meaning over literal translation
+    - Use common Indonesian expressions when appropriate
+    - Ensure translations sound natural to native Indonesian speakers
+    - For example sentences, maintain the academic tone of IELTS writing
+    
+    CRITICAL: You MUST return ONLY a valid JSON object. No intro text, no explanations.
     Response format:
     {
       "definition": "Clear English definition...",
-      "meaning": "Indonesian translation...",
+      "meaning": "Natural Indonesian translation (formal, contextual)...",
       "phonetics": {
         "us": "/.../",
-        "uk": "/.../"
+        "uk": "/.../\"
       },
       "examples": [
-        {"type": "Simple", "text": "...", "translation": "..."},
-        {"type": "Complex", "text": "...", "translation": "..."},
-        {"type": "Compound", "text": "...", "translation": "..."},
-        {"type": "Compound-Complex", "text": "...", "translation": "..."}
+        {"type": "Simple", "text": "IELTS-appropriate sentence...", "translation": "Natural Indonesian translation..."},
+        {"type": "Complex", "text": "IELTS-appropriate sentence...", "translation": "Natural Indonesian translation..."},
+        {"type": "Compound", "text": "IELTS-appropriate sentence...", "translation": "Natural Indonesian translation..."},
+        {"type": "Compound-Complex", "text": "IELTS-appropriate sentence...", "translation": "Natural Indonesian translation..."}
       ],
-      "synonymMeanings": ["translation1", "translation2", ...]
+      "synonymMeanings": ["natural translation1", "natural translation2", ...]
     }`;
 
         console.log('Calling Groq Cloud API...');
@@ -56,7 +68,7 @@ export async function POST(request: NextRequest) {
                 messages: [
                     {
                         role: 'system',
-                        content: 'You are an IELTS tutor that provides vocabulary examples in JSON format.'
+                        content: 'You are an expert IELTS tutor and professional Indonesian translator. You provide vocabulary examples in JSON format with natural, contextually appropriate Indonesian translations (not literal word-for-word translations).'
                     },
                     {
                         role: 'user',
@@ -72,6 +84,12 @@ export async function POST(request: NextRequest) {
             const errorText = await response.text();
             console.error('Groq API Error Status:', response.status);
             console.error('Groq API Error Body:', errorText);
+
+            // Relay 429 status for rate limiting
+            if (response.status === 429) {
+                return NextResponse.json({ error: 'Rate limit exceeded', details: errorText }, { status: 429 });
+            }
+
             return NextResponse.json({ error: 'AI Generation Failed', details: errorText }, { status: 502 });
         }
 

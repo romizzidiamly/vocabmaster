@@ -12,7 +12,7 @@ export interface GroqResponse {
     synonymMeanings?: string[];
 }
 
-export async function fetchGroqData(word: string): Promise<GroqResponse> {
+export async function fetchGroqData(word: string, retries = 3, backoff = 1000): Promise<GroqResponse> {
     try {
         const response = await fetch('/api/ai', {
             method: 'POST',
@@ -20,7 +20,18 @@ export async function fetchGroqData(word: string): Promise<GroqResponse> {
             body: JSON.stringify({ word }),
         });
 
+        if (response.status === 429 && retries > 0) {
+            console.warn(`Rate limit hit for ${word}. Retrying in ${backoff}ms... (${retries} retries left)`);
+            await new Promise(resolve => setTimeout(resolve, backoff));
+            return fetchGroqData(word, retries - 1, backoff * 2);
+        }
+
         if (!response.ok) {
+            if (retries > 0) {
+                console.warn(`AI Generation failed for ${word} (Status: ${response.status}). Retrying in ${backoff}ms...`);
+                await new Promise(resolve => setTimeout(resolve, backoff));
+                return fetchGroqData(word, retries - 1, backoff * 2);
+            }
             throw new Error('AI Generation Failed');
         }
 
@@ -33,15 +44,15 @@ export async function fetchGroqData(word: string): Promise<GroqResponse> {
             synonymMeanings: data.synonymMeanings
         };
     } catch (error) {
-        console.error('Failed to fetch Groq data:', error);
+        console.error(`Final failure for ${word}:`, error);
         return {
             meaning: 'Meaning not found.',
             phonetics: { us: '/.../', uk: '/.../' },
             examples: [
-                { type: 'Simple', text: `Usage of ${word} is important.` },
-                { type: 'Complex', text: `Because ${word} matters, we should study it.` },
-                { type: 'Compound', text: `The word is ${word}, and it is useful.` },
-                { type: 'Compound-Complex', text: `If we use ${word} correctly, we succeed, so let's try.` },
+                { type: 'Simple', text: `` },
+                { type: 'Complex', text: `` },
+                { type: 'Compound', text: `` },
+                { type: 'Compound-Complex', text: `` },
             ]
         };
     }
