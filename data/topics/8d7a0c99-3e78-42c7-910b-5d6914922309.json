@@ -45,7 +45,30 @@
       ],
       "definition": "Conveying messages without words,\nusing body language, gestures, or facial expressions",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Nonverbal Communication is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Nonverbal Communication matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Nonverbal Communication, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Nonverbal Communication correctly, we succeed, so let's try."
+        }
+      ]
     },
     {
       "id": "49cb2717-9511-4ad3-9520-85fd1ea9f362",
