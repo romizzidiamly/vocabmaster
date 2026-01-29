@@ -40,13 +40,11 @@ export async function parseExcel(file: File): Promise<VocabItem[]> {
 
             const wIdx = rowStr.findIndex(t => t === 'word' || t === 'vocabulary' || t === 'kata');
             const sIdx = rowStr.findIndex(t => t === 'synonyms' || t === 'synonym' || t === 'sinonim');
-            const eIdx = rowStr.findIndex(t => t.includes('example') || t.includes('sentence') || t.includes('contoh'));
 
             if (wIdx !== -1 && sIdx !== -1) {
                 headerRowIdx = i;
                 wordColIdx = wIdx;
                 synColIdx = sIdx;
-                exampleColIdx = eIdx;
                 break;
             }
         }
@@ -62,7 +60,6 @@ export async function parseExcel(file: File): Promise<VocabItem[]> {
                     headerRowIdx = i;
                     wordColIdx = wIdx;
                     synColIdx = wIdx + 2;
-                    exampleColIdx = wIdx + 3;
                     break;
                 }
             }
@@ -89,7 +86,6 @@ export async function parseExcel(file: File): Promise<VocabItem[]> {
                             id: crypto.randomUUID(),
                             word: cleanedWord,
                             synonyms: synonyms,
-                            example: rawEx.trim(),
                             userGuesses: [],
                             status: 'hidden'
                         });

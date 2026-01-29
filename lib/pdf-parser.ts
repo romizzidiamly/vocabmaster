@@ -137,6 +137,7 @@ export async function parsePdf(file: File): Promise<VocabItem[]> {
                         id: crypto.randomUUID(),
                         word: cleanWord,
                         synonyms: cleanSynonym.split(/[;,]/).map(s => s.trim()).filter(s => s.length > 0),
+                        userGuesses: [],
                         status: 'hidden'
                     });
                 }
