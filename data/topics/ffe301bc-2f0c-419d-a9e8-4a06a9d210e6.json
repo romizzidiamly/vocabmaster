@@ -1064,7 +1064,30 @@
       ],
       "definition": "Interaction between people from different cultural backgrounds",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Cross-cultural Communication is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Cross-cultural Communication matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Cross-cultural Communication, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Cross-cultural Communication correctly, we succeed, so let's try."
+        }
+      ]
     },
     {
       "id": "4dc14b22-2966-43fa-854f-4749270120c6",
