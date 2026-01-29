@@ -3,1079 +3,505 @@
   "name": "ENVIRONMENT",
   "items": [
     {
-      "id": "c98a0a62-459c-45eb-82c9-ffacae7014b1",
-      "word": "Ecosystem",
+      "id": "fae80b6f-9474-42ae-99be-70013be6c5f1",
+      "word": "Crime",
       "synonyms": [
-        "Habitat",
-        "biome"
+        "Offense",
+        "wrongdoing"
       ],
-      "definition": "A community of living organisms\ninteracting with their environment",
-      "userGuesses": [],
-      "status": "hidden",
-      "meaning": "Meaning not found.",
-      "phonetics": {
-        "us": "/.../",
-        "uk": "/.../"
-      },
-      "examples": [
-        {
-          "type": "Simple",
-          "text": "Usage of Ecosystem is important."
-        },
-        {
-          "type": "Complex",
-          "text": "Because Ecosystem matters, we should study it."
-        },
-        {
-          "type": "Compound",
-          "text": "The word is Ecosystem, and it is useful."
-        },
-        {
-          "type": "Compound-Complex",
-          "text": "If we use Ecosystem correctly, we succeed, so let's try."
-        }
-      ]
-    },
-    {
-      "id": "363e996a-bd46-43d7-9bd4-550a537bc12c",
-      "word": "Biodiversity",
-      "synonyms": [
-        "Species richness",
-        "ecological diversity"
-      ],
-      "definition": "The variety of plant and animal life in\na particular habitat",
-      "userGuesses": [],
-      "status": "hidden",
-      "meaning": "Meaning not found.",
-      "phonetics": {
-        "us": "/.../",
-        "uk": "/.../"
-      },
-      "examples": [
-        {
-          "type": "Simple",
-          "text": "Usage of Biodiversity is important."
-        },
-        {
-          "type": "Complex",
-          "text": "Because Biodiversity matters, we should study it."
-        },
-        {
-          "type": "Compound",
-          "text": "The word is Biodiversity, and it is useful."
-        },
-        {
-          "type": "Compound-Complex",
-          "text": "If we use Biodiversity correctly, we succeed, so let's try."
-        }
-      ]
-    },
-    {
-      "id": "903133e9-207a-4be8-ba5f-eaa81fe8218e",
-      "word": "Climate change",
-      "synonyms": [
-        "Global warming",
-        "environmental change"
-      ],
-      "definition": "Long-term shifts in temperature and\nweather patterns",
-      "userGuesses": [],
-      "status": "hidden",
-      "meaning": "Meaning not found.",
-      "phonetics": {
-        "us": "/.../",
-        "uk": "/.../"
-      },
-      "examples": [
-        {
-          "type": "Simple",
-          "text": "Usage of Climate change is important."
-        },
-        {
-          "type": "Complex",
-          "text": "Because Climate change matters, we should study it."
-        },
-        {
-          "type": "Compound",
-          "text": "The word is Climate change, and it is useful."
-        },
-        {
-          "type": "Compound-Complex",
-          "text": "If we use Climate change correctly, we succeed, so let's try."
-        }
-      ]
-    },
-    {
-      "id": "42690f32-bcb5-49c2-ab6a-ce921804a06b",
-      "word": "Global warming",
-      "synonyms": [
-        "Temperature rise",
-        "climate crisis"
-      ],
-      "definition": "The gradual increase in Earth's temperature due to greenhouse\ngases",
-      "userGuesses": [],
-      "status": "hidden",
-      "meaning": "Meaning not found.",
-      "phonetics": {
-        "us": "/.../",
-        "uk": "/.../"
-      },
-      "examples": [
-        {
-          "type": "Simple",
-          "text": "Usage of Global warming is important."
-        },
-        {
-          "type": "Complex",
-          "text": "Because Global warming matters, we should study it."
-        },
-        {
-          "type": "Compound",
-          "text": "The word is Global warming, and it is useful."
-        },
-        {
-          "type": "Compound-Complex",
-          "text": "If we use Global warming correctly, we succeed, so let's try."
-        }
-      ]
-    },
-    {
-      "id": "38ce423c-16c1-46f1-8c6c-11377dfd0312",
-      "word": "Deforestation",
-      "synonyms": [
-        "Logging",
-        "forest",
-        "degradation"
-      ],
-      "definition": "The clearing or destruction of forests\nfor human use",
-      "userGuesses": [],
-      "status": "hidden",
-      "meaning": "Meaning not found.",
-      "phonetics": {
-        "us": "/.../",
-        "uk": "/.../"
-      },
-      "examples": [
-        {
-          "type": "Simple",
-          "text": "Usage of Deforestation is important."
-        },
-        {
-          "type": "Complex",
-          "text": "Because Deforestation matters, we should study it."
-        },
-        {
-          "type": "Compound",
-          "text": "The word is Deforestation, and it is useful."
-        },
-        {
-          "type": "Compound-Complex",
-          "text": "If we use Deforestation correctly, we succeed, so let's try."
-        }
-      ]
-    },
-    {
-      "id": "1b14d3dd-4661-4d0d-8308-7ddaf4f32de9",
-      "word": "Reforestation",
-      "synonyms": [
-        "Afforestation",
-        "ecological",
-        "restoration"
-      ],
-      "definition": "The process of planting trees in\ndeforested areas",
-      "userGuesses": [],
-      "status": "hidden",
-      "meaning": "Meaning not found.",
-      "phonetics": {
-        "us": "/.../",
-        "uk": "/.../"
-      },
-      "examples": [
-        {
-          "type": "Simple",
-          "text": "Usage of Reforestation is important."
-        },
-        {
-          "type": "Complex",
-          "text": "Because Reforestation matters, we should study it."
-        },
-        {
-          "type": "Compound",
-          "text": "The word is Reforestation, and it is useful."
-        },
-        {
-          "type": "Compound-Complex",
-          "text": "If we use Reforestation correctly, we succeed, so let's try."
-        }
-      ]
-    },
-    {
-      "id": "f6751a82-a77d-4a48-9865-c581ce49ded5",
-      "word": "Afforestation",
-      "synonyms": [
-        "Tree planting",
-        "reforestation"
-      ],
-      "definition": "The planting of trees in an area\nwhere there was no forest",
-      "userGuesses": [],
-      "status": "hidden",
-      "meaning": "Meaning not found.",
-      "phonetics": {
-        "us": "/.../",
-        "uk": "/.../"
-      },
-      "examples": [
-        {
-          "type": "Simple",
-          "text": "Usage of Afforestation is important."
-        },
-        {
-          "type": "Complex",
-          "text": "Because Afforestation matters, we should study it."
-        },
-        {
-          "type": "Compound",
-          "text": "The word is Afforestation, and it is useful."
-        },
-        {
-          "type": "Compound-Complex",
-          "text": "If we use Afforestation correctly, we succeed, so let's try."
-        }
-      ]
-    },
-    {
-      "id": "9c9b3ffd-6a02-4c6f-a70f-da86e46ce1d1",
-      "word": "Sustainability",
-      "synonyms": [
-        "Eco-friendliness",
-        "conservation"
-      ],
-      "definition": "The ability to maintain environmental\nbalance for future generations",
-      "userGuesses": [],
-      "status": "hidden",
-      "meaning": "Meaning not found.",
-      "phonetics": {
-        "us": "/.../",
-        "uk": "/.../"
-      },
-      "examples": [
-        {
-          "type": "Simple",
-          "text": "Usage of Sustainability is important."
-        },
-        {
-          "type": "Complex",
-          "text": "Because Sustainability matters, we should study it."
-        },
-        {
-          "type": "Compound",
-          "text": "The word is Sustainability, and it is useful."
-        },
-        {
-          "type": "Compound-Complex",
-          "text": "If we use Sustainability correctly, we succeed, so let's try."
-        }
-      ]
-    },
-    {
-      "id": "3aec6457-05db-464d-86b6-dcc61135aaf3",
-      "word": "Renewable energy",
-      "synonyms": [
-        "Green energy",
-        "sustainable power"
-      ],
-      "definition": "Energy sourced from naturally\nreplenishing resources",
-      "userGuesses": [],
-      "status": "hidden",
-      "meaning": "Meaning not found.",
-      "phonetics": {
-        "us": "/.../",
-        "uk": "/.../"
-      },
-      "examples": [
-        {
-          "type": "Simple",
-          "text": "Usage of Renewable energy is important."
-        },
-        {
-          "type": "Complex",
-          "text": "Because Renewable energy matters, we should study it."
-        },
-        {
-          "type": "Compound",
-          "text": "The word is Renewable energy, and it is useful."
-        },
-        {
-          "type": "Compound-Complex",
-          "text": "If we use Renewable energy correctly, we succeed, so let's try."
-        }
-      ]
-    },
-    {
-      "id": "9c45bf32-d927-4b4c-87bc-6b90b2373cb6",
-      "word": "Non-renewable energy",
-      "synonyms": [
-        "Fossil fuels",
-        "exhaustible",
-        "energy"
-      ],
-      "definition": "Energy derived from finite resources",
-      "userGuesses": [],
-      "status": "hidden",
-      "meaning": "Meaning not found.",
-      "phonetics": {
-        "us": "/.../",
-        "uk": "/.../"
-      },
-      "examples": [
-        {
-          "type": "Simple",
-          "text": "Usage of Non-renewable energy is important."
-        },
-        {
-          "type": "Complex",
-          "text": "Because Non-renewable energy matters, we should study it."
-        },
-        {
-          "type": "Compound",
-          "text": "The word is Non-renewable energy, and it is useful."
-        },
-        {
-          "type": "Compound-Complex",
-          "text": "If we use Non-renewable energy correctly, we succeed, so let's try."
-        }
-      ]
-    },
-    {
-      "id": "b67f98ab-8a9c-4373-9d05-9b6adc300575",
-      "word": "Greenhouse effect",
-      "synonyms": [
-        "Atmospheric warming",
-        "climate impact"
-      ],
-      "definition": "The trapping of heat in Earth’s\natmosphere due to gases like CO₂",
-      "userGuesses": [],
-      "status": "hidden",
-      "meaning": "Meaning not found.",
-      "phonetics": {
-        "us": "/.../",
-        "uk": "/.../"
-      },
-      "examples": [
-        {
-          "type": "Simple",
-          "text": "Usage of Greenhouse effect is important."
-        },
-        {
-          "type": "Complex",
-          "text": "Because Greenhouse effect matters, we should study it."
-        },
-        {
-          "type": "Compound",
-          "text": "The word is Greenhouse effect, and it is useful."
-        },
-        {
-          "type": "Compound-Complex",
-          "text": "If we use Greenhouse effect correctly, we succeed, so let's try."
-        }
-      ]
-    },
-    {
-      "id": "ff24972f-9186-4683-8799-008d53da38cf",
-      "word": "Carbon footprint",
-      "synonyms": [
-        "Environmental impact",
-        "carbon emissions"
-      ],
-      "definition": "The total amount of carbon dioxide\nemitted by an individual or activity",
-      "userGuesses": [],
-      "status": "hidden",
-      "meaning": "Meaning not found.",
-      "phonetics": {
-        "us": "/.../",
-        "uk": "/.../"
-      },
-      "examples": [
-        {
-          "type": "Simple",
-          "text": "Usage of Carbon footprint is important."
-        },
-        {
-          "type": "Complex",
-          "text": "Because Carbon footprint matters, we should study it."
-        },
-        {
-          "type": "Compound",
-          "text": "The word is Carbon footprint, and it is useful."
-        },
-        {
-          "type": "Compound-Complex",
-          "text": "If we use Carbon footprint correctly, we succeed, so let's try."
-        }
-      ]
-    },
-    {
-      "id": "d09ed5bc-bc19-48b6-89c9-ff2be62ac8a6",
-      "word": "Carbon emissions",
-      "synonyms": [
-        "Greenhouse gas",
-        "emissions",
-        "pollutants"
-      ],
-      "definition": "The release of carbon dioxide into\nthe atmosphere",
-      "userGuesses": [],
-      "status": "hidden",
-      "meaning": "Meaning not found.",
-      "phonetics": {
-        "us": "/.../",
-        "uk": "/.../"
-      },
-      "examples": [
-        {
-          "type": "Simple",
-          "text": "Usage of Carbon emissions is important."
-        },
-        {
-          "type": "Complex",
-          "text": "Because Carbon emissions matters, we should study it."
-        },
-        {
-          "type": "Compound",
-          "text": "The word is Carbon emissions, and it is useful."
-        },
-        {
-          "type": "Compound-Complex",
-          "text": "If we use Carbon emissions correctly, we succeed, so let's try."
-        }
-      ]
-    },
-    {
-      "id": "a570a321-dd2c-4130-9b12-5e283a7e6065",
-      "word": "Carbon neutrality",
-      "synonyms": [
-        "Net-zero emissions",
-        "climate neutrality"
-      ],
-      "definition": "Achieving a balance between carbon\nemissions and absorption",
-      "userGuesses": [],
-      "status": "hidden",
-      "meaning": "Meaning not found.",
-      "phonetics": {
-        "us": "/.../",
-        "uk": "/.../"
-      },
-      "examples": [
-        {
-          "type": "Simple",
-          "text": "Usage of Carbon neutrality is important."
-        },
-        {
-          "type": "Complex",
-          "text": "Because Carbon neutrality matters, we should study it."
-        },
-        {
-          "type": "Compound",
-          "text": "The word is Carbon neutrality, and it is useful."
-        },
-        {
-          "type": "Compound-Complex",
-          "text": "If we use Carbon neutrality correctly, we succeed, so let's try."
-        }
-      ]
-    },
-    {
-      "id": "83c37a22-57e5-415d-892b-0b7d12a441ca",
-      "word": "Pollution",
-      "synonyms": [
-        "Contamination",
-        "degradation"
-      ],
-      "definition": "The introduction of harmful\nsubstances into the environment",
-      "userGuesses": [],
-      "status": "hidden",
-      "meaning": "Meaning not found.",
-      "phonetics": {
-        "us": "/.../",
-        "uk": "/.../"
-      },
-      "examples": [
-        {
-          "type": "Simple",
-          "text": "Usage of Pollution is important."
-        },
-        {
-          "type": "Complex",
-          "text": "Because Pollution matters, we should study it."
-        },
-        {
-          "type": "Compound",
-          "text": "The word is Pollution, and it is useful."
-        },
-        {
-          "type": "Compound-Complex",
-          "text": "If we use Pollution correctly, we succeed, so let's try."
-        }
-      ]
-    },
-    {
-      "id": "a5f9ce6a-2962-429b-884c-a3f30aaa531b",
-      "word": "Air pollution",
-      "synonyms": [
-        "Smog",
-        "atmospheric",
-        "contamination"
-      ],
-      "definition": "The presence of harmful substances\nin the air",
-      "userGuesses": [],
-      "status": "hidden",
-      "meaning": "Meaning not found.",
-      "phonetics": {
-        "us": "/.../",
-        "uk": "/.../"
-      },
-      "examples": [
-        {
-          "type": "Simple",
-          "text": "Usage of Air pollution is important."
-        },
-        {
-          "type": "Complex",
-          "text": "Because Air pollution matters, we should study it."
-        },
-        {
-          "type": "Compound",
-          "text": "The word is Air pollution, and it is useful."
-        },
-        {
-          "type": "Compound-Complex",
-          "text": "If we use Air pollution correctly, we succeed, so let's try."
-        }
-      ]
-    },
-    {
-      "id": "e770c7d7-2b6c-4ed2-abd7-5141443a510b",
-      "word": "Water pollution",
-      "synonyms": [
-        "Aquatic contamination",
-        "toxic discharge"
-      ],
-      "definition": "The contamination of water bodies\nwith harmful substances",
-      "userGuesses": [],
-      "status": "hidden",
-      "meaning": "Meaning not found.",
-      "phonetics": {
-        "us": "/.../",
-        "uk": "/.../"
-      },
-      "examples": [
-        {
-          "type": "Simple",
-          "text": "Usage of Water pollution is important."
-        },
-        {
-          "type": "Complex",
-          "text": "Because Water pollution matters, we should study it."
-        },
-        {
-          "type": "Compound",
-          "text": "The word is Water pollution, and it is useful."
-        },
-        {
-          "type": "Compound-Complex",
-          "text": "If we use Water pollution correctly, we succeed, so let's try."
-        }
-      ]
-    },
-    {
-      "id": "64769fae-812d-463d-a7d2-c9d52d7fd7c7",
-      "word": "Soil erosion",
-      "synonyms": [
-        "Land degradation",
-        "deforestation impact"
-      ],
-      "definition": "The wearing away of the topsoil by\nwind or water",
-      "userGuesses": [],
-      "status": "hidden",
-      "meaning": "Meaning not found.",
-      "phonetics": {
-        "us": "/.../",
-        "uk": "/.../"
-      },
-      "examples": [
-        {
-          "type": "Simple",
-          "text": "Usage of Soil erosion is important."
-        },
-        {
-          "type": "Complex",
-          "text": "Because Soil erosion matters, we should study it."
-        },
-        {
-          "type": "Compound",
-          "text": "The word is Soil erosion, and it is useful."
-        },
-        {
-          "type": "Compound-Complex",
-          "text": "If we use Soil erosion correctly, we succeed, so let's try."
-        }
-      ]
-    },
-    {
-      "id": "fe67614a-5f0e-44cd-8b27-494c9e4c8609",
-      "word": "Desertification",
-      "synonyms": [
-        "Land degradation",
-        "drought expansion"
-      ],
-      "definition": "The process of fertile land becoming\ndesert",
-      "userGuesses": [],
-      "status": "hidden",
-      "meaning": "Meaning not found.",
-      "phonetics": {
-        "us": "/.../",
-        "uk": "/.../"
-      },
-      "examples": [
-        {
-          "type": "Simple",
-          "text": "Usage of Desertification is important."
-        },
-        {
-          "type": "Complex",
-          "text": "Because Desertification matters, we should study it."
-        },
-        {
-          "type": "Compound",
-          "text": "The word is Desertification, and it is useful."
-        },
-        {
-          "type": "Compound-Complex",
-          "text": "If we use Desertification correctly, we succeed, so let's try."
-        }
-      ]
-    },
-    {
-      "id": "c064e831-5a69-490f-bdaa-50316cb9a199",
-      "word": "Conservation",
-      "synonyms": [
-        "Preservation",
-        "sustainability"
-      ],
-      "definition": "The protection and preservation of\nnatural resources",
-      "userGuesses": [],
-      "status": "hidden",
-      "meaning": "Meaning not found.",
-      "phonetics": {
-        "us": "/.../",
-        "uk": "/.../"
-      },
-      "examples": [
-        {
-          "type": "Simple",
-          "text": "Usage of Conservation is important."
-        },
-        {
-          "type": "Complex",
-          "text": "Because Conservation matters, we should study it."
-        },
-        {
-          "type": "Compound",
-          "text": "The word is Conservation, and it is useful."
-        },
-        {
-          "type": "Compound-Complex",
-          "text": "If we use Conservation correctly, we succeed, so let's try."
-        }
-      ]
-    },
-    {
-      "id": "cddc6965-6bf1-4f12-8fa5-96b8b02bea0c",
-      "word": "Overfishing",
-      "synonyms": [
-        "Marine depletion",
-        "unsustainable fishing"
-      ],
-      "definition": "The depletion of fish populations due\nto excessive fishing",
+      "definition": "An act that is against the law",
       "userGuesses": [],
       "status": "hidden"
     },
     {
-      "id": "a6408784-9c93-40e9-a66f-fe1c272471f2",
-      "word": "Endangered species",
+      "id": "d95b739c-0fcd-4ace-9b13-c7c45e51946b",
+      "word": "Offender",
       "synonyms": [
-        "Threatened wildlife",
-        "vulnerable species"
+        "Criminal",
+        "perpetrator"
       ],
-      "definition": "A species at risk of extinction",
+      "definition": "A person who commits a crime",
       "userGuesses": [],
       "status": "hidden"
     },
     {
-      "id": "fea6fb4f-138a-4228-b766-46635cbae2ef",
-      "word": "Extinction",
+      "id": "484954ec-3ba3-4aac-954f-a3daf7f2f1f4",
+      "word": "Perpetrator",
       "synonyms": [
-        "Species loss",
-        "annihilation"
+        "Culprit",
+        "wrongdoer"
       ],
-      "definition": "The complete disappearance of a\nspecies",
+      "definition": "Someone who carries out a crime or\nharmful act",
       "userGuesses": [],
       "status": "hidden"
     },
     {
-      "id": "faa577eb-beb1-4835-976a-3b47a4d027cc",
-      "word": "Habitat destruction",
+      "id": "a73f276b-9ff5-409b-a0fe-884e7f8b630b",
+      "word": "Felony",
       "synonyms": [
-        "Environmental",
-        "degradation",
-        "deforestation"
+        "Major crime",
+        "serious",
+        "offense"
       ],
-      "definition": "The process of damaging natural\nenvironments",
+      "definition": "A serious crime, often punishable by\nimprisonment",
       "userGuesses": [],
       "status": "hidden"
     },
     {
-      "id": "8c063859-c513-402b-b494-3876ab01d0cf",
-      "word": "Ozone layer depletion",
+      "id": "b5e63a9b-e336-49fa-ab69-7a88fb337bd9",
+      "word": "Misdemeanor",
       "synonyms": [
-        "Atmospheric damage",
-        "UV",
-        "exposure"
+        "Petty crime",
+        "minor offense"
       ],
-      "definition": "The thinning of Earth's ozone layer\ndue to chemicals",
+      "definition": "A minor wrongdoing, less serious\nthan a felony",
       "userGuesses": [],
       "status": "hidden"
     },
     {
-      "id": "58ed499a-619f-4e74-bed2-30b2c67c46e5",
-      "word": "Eco-friendly",
+      "id": "32406d8f-4ef0-4347-9c9b-b4fb88575b7d",
+      "word": "Homicide",
       "synonyms": [
-        "Environmentally friendly",
-        "sustainable"
+        "Murder",
+        "manslaughter"
       ],
-      "definition": "Not harmful to the environment",
+      "definition": "The act of killing another person",
       "userGuesses": [],
       "status": "hidden"
     },
     {
-      "id": "2bbd67e9-6a78-4116-9d7a-27e67cfba2ff",
-      "word": "Biodegradable",
+      "id": "3fd8dcbb-c1d9-49f1-b4ee-05998435cc60",
+      "word": "Manslaughter",
       "synonyms": [
-        "Compostable",
-        "organic"
+        "Unintentional killing",
+        "accidental death"
       ],
-      "definition": "Capable of being decomposed by\nnatural processes",
+      "definition": "The unlawful killing of a person\nwithout premeditation",
       "userGuesses": [],
       "status": "hidden"
     },
     {
-      "id": "e6193820-aca9-4cab-940c-bdef2c1105a6",
-      "word": "Recycling",
+      "id": "9e8e905b-3480-466f-b4ab-3b8e902f8805",
+      "word": "Burglary",
       "synonyms": [
-        "Waste management",
-        "resource recovery"
+        "Breaking and entering",
+        "housebreaking"
       ],
-      "definition": "The process of converting waste into\nreusable material",
+      "definition": "The act of illegally entering a\nbuilding to commit a crime",
       "userGuesses": [],
       "status": "hidden"
     },
     {
-      "id": "cd8d97e2-8f5f-4035-9f37-52007366f677",
-      "word": "Composting",
+      "id": "318af7b5-fa04-4adb-a7ba-766c28d3a657",
+      "word": "Theft",
       "synonyms": [
-        "Organic recycling",
-        "soil",
-        "enrichment"
+        "Larceny",
+        "stealing"
       ],
-      "definition": "The process of decomposing\norganic waste into nutrient-rich soil",
+      "definition": "The unlawful taking of someone’s\nproperty",
       "userGuesses": [],
       "status": "hidden"
     },
     {
-      "id": "33850c07-cd2b-4fc7-be44-d2e914a19a1c",
-      "word": "Sustainable agriculture",
+      "id": "234619e6-2737-4f7b-ad5d-bd2cc793f77f",
+      "word": "Robbery",
       "synonyms": [
-        "Eco-friendly farming",
-        "regenerative agriculture"
+        "Armed theft",
+        "mugging"
       ],
-      "definition": "Farming practices that protect the\nenvironment",
+      "definition": "The act of stealing from a person or\nplace using force or threats",
       "userGuesses": [],
       "status": "hidden"
     },
     {
-      "id": "878e3121-6e5c-45a9-847c-26ec6e5495cd",
-      "word": "Organic farming",
+      "id": "5ca64a5b-b8f7-467c-a85e-ef36333b5a17",
+      "word": "Embezzlement",
       "synonyms": [
-        "Natural farming",
-        "eco-agriculture"
+        "Fraud",
+        "misappropriation"
       ],
-      "definition": "The cultivation of crops without\nsynthetic chemicals",
+      "definition": "The illegal use of money entrusted\nto one's care",
       "userGuesses": [],
       "status": "hidden"
     },
     {
-      "id": "0ba7cfea-70c7-41fb-8eeb-568d8f5db933",
-      "word": "Eco-tourism",
+      "id": "18891c09-821a-423c-ad9e-363fa73c94cb",
+      "word": "Fraud",
       "synonyms": [
-        "Sustainable tourism",
-        "green travel"
+        "Deceit",
+        "scam"
       ],
-      "definition": "Responsible travel that conserves\nnature and supports communities",
+      "definition": "Deception for personal or financial\ngain",
       "userGuesses": [],
       "status": "hidden"
     },
     {
-      "id": "0b327a99-c941-4a03-95d2-6c2012186b8a",
-      "word": "Wildlife preservation",
+      "id": "c148f773-24e7-4f48-8bf7-e2ca68a80c65",
+      "word": "Forgery",
       "synonyms": [
-        "Conservation",
-        "species",
-        "protection"
+        "Counterfeiting",
+        "falsification"
       ],
-      "definition": "The protection of animal species and\nhabitats",
+      "definition": "The act of making or altering\ndocuments with intent to deceive",
       "userGuesses": [],
       "status": "hidden"
     },
     {
-      "id": "bfd95897-2d18-4f86-b198-69e30f4d21c9",
-      "word": "Deforestation-free",
+      "id": "59cf80b5-7166-44fa-9ea1-f69fb3c2b688",
+      "word": "Bribery",
       "synonyms": [
-        "Sustainable",
-        "forest-friendly"
+        "Corruption",
+        "graft"
       ],
-      "definition": "Not contributing to deforestation",
+      "definition": "The act of offering money or favors\nto influence someone illegally",
       "userGuesses": [],
       "status": "hidden"
     },
     {
-      "id": "71bc610f-714c-412c-b31d-5405ceca22cc",
-      "word": "Eco-conscious",
+      "id": "a20740b4-7adb-4190-b358-4d29aa94d40c",
+      "word": "Extortion",
       "synonyms": [
-        "Environmentally aware",
-        "green-minded"
+        "Blackmail",
+        "coercion"
       ],
-      "definition": "Aware of and concerned about\nenvironmental issues",
+      "definition": "The act of obtaining something\nthrough force or threats",
       "userGuesses": [],
       "status": "hidden"
     },
     {
-      "id": "b92d1851-bf39-44a3-a7c0-62711bc6afc9",
-      "word": "Green initiatives",
+      "id": "171b0571-1807-4151-ae3e-44dccc5329a9",
+      "word": "Assault",
       "synonyms": [
-        "Eco-programs",
-        "conservation efforts"
+        "Physical violence",
+        "attack"
       ],
-      "definition": "Programs that promote\nenvironmental sustainability",
+      "definition": "A physical attack or a threat of\nattack",
       "userGuesses": [],
       "status": "hidden"
     },
     {
-      "id": "0402d020-05d2-44d0-ade2-082685504891",
-      "word": "Alternative energy",
+      "id": "1c0dee15-a562-4e0d-aa6a-af512fd877da",
+      "word": "Kidnapping",
       "synonyms": [
-        "Renewable energy",
-        "green",
-        "power"
+        "Abduction",
+        "hostage-taking"
       ],
-      "definition": "Energy derived from sources other\nthan fossil fuels",
+      "definition": "The act of unlawfully taking and\nholding someone captive",
       "userGuesses": [],
       "status": "hidden"
     },
     {
-      "id": "a3565396-5f5f-43c6-834a-f98c99f49239",
-      "word": "Energy efficiency",
+      "id": "01398aee-241c-4c9d-afbb-e39d44aff41d",
+      "word": "Smuggling",
       "synonyms": [
-        "Conservation",
-        "power-saving"
+        "Trafficking",
+        "illegal trade"
       ],
-      "definition": "Using less energy to achieve the\nsame output",
+      "definition": "The illegal transportation of goods or\npeople",
       "userGuesses": [],
       "status": "hidden"
     },
     {
-      "id": "f174466d-9ce7-4c98-946d-afd8e1ad1529",
-      "word": "Environmental awareness",
+      "id": "76befac3-e486-4088-97ef-90ab9280effb",
+      "word": "Human trafficking",
       "synonyms": [
-        "Eco-consciousness",
-        "sustainability education"
+        "Modern slavery",
+        "forced",
+        "labor"
       ],
-      "definition": "Understanding and concern about\necological issues",
+      "definition": "The illegal trade of humans for\nexploitation",
       "userGuesses": [],
       "status": "hidden"
     },
     {
-      "id": "0486feed-c7dc-4bcc-9e50-04cccb9e65d9",
-      "word": "Silence",
+      "id": "508461ea-09ff-4bda-9a97-ee6d1c32d42e",
+      "word": "Cybercrime",
       "synonyms": [
-        "Quietness",
-        "muteness"
+        "Online fraud",
+        "hacking"
       ],
-      "definition": "The absence of sound or speech",
+      "definition": "Criminal activities carried out using\ndigital technology",
       "userGuesses": [],
       "status": "hidden"
     },
     {
-      "id": "ad4c44ed-7d7a-4c25-ab17-266eb271e283",
-      "word": "Ecological balance",
+      "id": "df47d670-a191-44e2-9002-4e8686198fa8",
+      "word": "Money laundering",
       "synonyms": [
-        "Environmental stability",
-        "ecosystem harmony"
+        "Financial fraud",
+        "illicit",
+        "transactions"
       ],
-      "definition": "A state of equilibrium in the natural\nenvironment",
+      "definition": "The process of disguising illegally\nobtained money as legitimate",
       "userGuesses": [],
       "status": "hidden"
     },
     {
-      "id": "74842e1a-bea3-40fe-9ed6-f394ba299201",
-      "word": "Climate resilience",
+      "id": "b03fac23-f003-413a-ae80-0a30a7bb1472",
+      "word": "Arson",
       "synonyms": [
-        "Environmental adaptability",
-        "sustainability"
+        "Fire-setting",
+        "incendiarism"
       ],
-      "definition": "The ability of ecosystems or\nsocieties to withstand climate change",
+      "definition": "The criminal act of deliberately\nsetting fire to property",
       "userGuesses": [],
       "status": "hidden"
     },
     {
-      "id": "d566c01d-426d-44be-b364-aaec8817df85",
-      "word": "Ecological footprint",
+      "id": "31344f20-149f-402c-b878-b9a6c029173b",
+      "word": "Vandalism",
       "synonyms": [
-        "Environmental impact",
-        "resource consumption"
+        "Property damage",
+        "defacement"
       ],
-      "definition": "The impact of human activities on\nnature",
+      "definition": "The deliberate destruction of\nproperty",
       "userGuesses": [],
       "status": "hidden"
     },
     {
-      "id": "44dd19c4-b4df-4b03-afad-7f02a233d98e",
-      "word": "Fossil fuel dependency",
+      "id": "63aa7dd0-c3f3-4bb6-b0bd-05cb94c1080a",
+      "word": "Domestic violence",
       "synonyms": [
-        "Non-renewable reliance",
-        "carbon dependence"
+        "Family abuse",
+        "intimate",
+        "partner violence"
       ],
-      "definition": "The reliance on coal, oil, and gas for energy",
+      "definition": "Abuse occurring within a household,\noften between partners",
       "userGuesses": [],
       "status": "hidden"
     },
     {
-      "id": "168fea23-206c-4725-9707-91aa168021d5",
-      "word": "Overconsumption",
+      "id": "cecb7ca8-9a21-45fd-bebb-f742ad86d634",
+      "word": "White-collar crime",
       "synonyms": [
-        "Resource depletion",
-        "exploitation"
+        "Corporate crime",
+        "economic fraud"
       ],
-      "definition": "Excessive use of natural resources\nbeyond sustainability",
+      "definition": "Financially motivated, non-violent\ncrime committed by professionals",
       "userGuesses": [],
       "status": "hidden"
     },
     {
-      "id": "47e74a2e-4af4-401c-b3d5-3b95feb3eb98",
-      "word": "Toxic waste",
+      "id": "06bfe0bc-ddb7-457a-9538-a19c8dcbfe0a",
+      "word": "Juvenile delinquency",
       "synonyms": [
-        "Hazardous waste",
-        "pollutants"
+        "Youth crime",
+        "underage",
+        "offenses"
       ],
-      "definition": "Hazardous material harmful to the\nenvironment",
+      "definition": "Criminal behavior by minors",
       "userGuesses": [],
       "status": "hidden"
     },
     {
-      "id": "0b79aee1-136f-4046-b672-08cd8a91f672",
-      "word": "Plastic pollution",
+      "id": "5034b1c7-306c-4d4b-8e45-50646b229e0f",
+      "word": "Recidivism",
       "synonyms": [
-        "Environmental contamination",
-        "non-biodegradable waste"
+        "Reoffending",
+        "relapse"
       ],
-      "definition": "The accumulation of plastic waste in the environment",
+      "definition": "The tendency of convicted criminals\nto re-offend",
       "userGuesses": [],
       "status": "hidden"
     },
     {
-      "id": "349faf97-2e2c-45e0-ba67-ed24bf154cfc",
-      "word": "Sustainable development",
+      "id": "2004784f-41dd-4bfa-8a9e-927539d8bacb",
+      "word": "Capital punishment",
       "synonyms": [
-        "Eco-friendly progress",
-        "responsible growth"
+        "Death penalty",
+        "execution"
       ],
-      "definition": "Economic growth that meets present needs without harming future\ngenerations",
+      "definition": "The legal execution of a criminal as\npunishment for a serious crime",
       "userGuesses": [],
       "status": "hidden"
     },
     {
-      "id": "ef382c22-e4b2-48a2-8c36-6e706266875d",
-      "word": "Green architecture",
+      "id": "d462193e-9071-4381-8ce9-0fbedda41d63",
+      "word": "Accomplice",
       "synonyms": [
-        "Sustainable design",
-        "eco-friendly construction"
+        "Associate",
+        "co-conspirator"
       ],
-      "definition": "Environmentally conscious building design",
+      "definition": "A person who helps another commit\na crime",
       "userGuesses": [],
       "status": "hidden"
     },
     {
-      "id": "a63b77a4-e6e1-46c4-b316-db3ed26f325c",
-      "word": "Environmental degradation",
+      "id": "9936d443-c5f0-41d6-a361-1cd61f8f1959",
+      "word": "Alibi",
       "synonyms": [
-        "Ecological damage",
-        "habitat destruction"
+        "Defense",
+        "justification"
       ],
-      "definition": "The deterioration of the natural world\ndue to human activity",
+      "definition": "Evidence that someone was\nelsewhere when a crime took place",
       "userGuesses": [],
       "status": "hidden"
     },
     {
-      "id": "339dd33f-4174-407c-8204-194afca95e6e",
-      "word": "Airborne pollutants",
+      "id": "843f623a-8711-4471-8079-36c1ef6c78e0",
+      "word": "Bail",
       "synonyms": [
-        "Toxic emissions",
-        "atmospheric",
-        "contaminants"
+        "Conditional release",
+        "bond"
       ],
-      "definition": "Harmful substances released into the air",
+      "definition": "The temporary release of an accused person before trial, usually\nwith payment",
       "userGuesses": [],
       "status": "hidden"
     },
     {
-      "id": "692d6dc0-86bb-4ae4-a975-1239d4a6e87c",
-      "word": "Water scarcity",
+      "id": "836e223d-0151-48fd-b6bb-e5abe6e5811e",
+      "word": "Conviction",
       "synonyms": [
-        "Water shortage",
-        "drought"
+        "Guilty verdict",
+        "sentencing"
       ],
-      "definition": "A lack of sufficient water resources\nto meet demand",
+      "definition": "A formal declaration that someone is\nguilty of a crime",
       "userGuesses": [],
       "status": "hidden"
     },
     {
-      "id": "ee6ae0c5-a3ef-48a8-a22a-37353653b0de",
-      "word": "Waste management",
+      "id": "45c552b1-5b51-490e-8b9a-e0466c13ff41",
+      "word": "Acquittal",
       "synonyms": [
-        "Recycling",
-        "disposal",
-        "planning"
+        "Exoneration",
+        "discharge"
       ],
-      "definition": "The process of handling and\ndisposing of waste efficiently",
+      "definition": "A judgment that a person is not\nguilty of a crime",
       "userGuesses": [],
       "status": "hidden"
     },
     {
-      "id": "03912aa1-5e90-467e-9080-de00146cba9c",
-      "word": "Climate mitigation",
+      "id": "db451112-92b5-4c8b-8a3b-49ff8c08fa17",
+      "word": "Defendant",
       "synonyms": [
-        "Emission reduction",
-        "carbon sequestration"
+        "Accused",
+        "suspect"
       ],
-      "definition": "Efforts to reduce or prevent climate\nchange impacts",
+      "definition": "A person accused of a crime in court",
       "userGuesses": [],
       "status": "hidden"
     },
     {
-      "id": "57e33a22-0b64-403e-bf63-29a34c193488",
-      "word": "Zero-waste lifestyle",
+      "id": "2b6ef211-0124-41bd-bad7-a3f7f955779e",
+      "word": "Plaintiff",
       "synonyms": [
-        "Sustainable living",
-        "waste-free habits"
+        "Complainant",
+        "claimant"
       ],
-      "definition": "A way of living that minimizes waste\nproduction",
+      "definition": "A person who brings a case against\nanother in court",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "81e55c82-f7da-4994-b370-943b22fc9e6e",
+      "word": "Sentence",
+      "synonyms": [
+        "Penalty",
+        "punishment"
+      ],
+      "definition": "The punishment assigned to a\nconvicted criminal",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "fc0dc44e-7a67-41ed-8dc7-288ee37af7c8",
+      "word": "Parole",
+      "synonyms": [
+        "Probation",
+        "early release"
+      ],
+      "definition": "The conditional release of a prisoner\nbefore completing their sentence",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "f4422409-34a7-47ad-8f96-66015aa5cc59",
+      "word": "Incarceration",
+      "synonyms": [
+        "Imprisonment",
+        "detention"
+      ],
+      "definition": "The state of being imprisoned",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "29e3d0c1-8f1a-477c-b8fc-e7a8f9669468",
+      "word": "Probation",
+      "synonyms": [
+        "Supervised release",
+        "trial",
+        "period"
+      ],
+      "definition": "A period of supervised release\ninstead of prison time",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "7a65199d-2ef3-411c-b0a7-2c7bc765cb9a",
+      "word": "Crime rate",
+      "synonyms": [
+        "Criminal statistics",
+        "offense",
+        "rate"
+      ],
+      "definition": "The number of crimes committed per\nunit of population",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "9ad5849a-fab9-4cf3-b207-ec54e9a67e1c",
+      "word": "Law enforcement",
+      "synonyms": [
+        "Policing",
+        "authorities"
+      ],
+      "definition": "The system responsible for upholding laws and catching\ncriminals",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "5c3c58ab-01a1-4748-bddb-56a44578d822",
+      "word": "Forensics",
+      "synonyms": [
+        "Criminal investigation",
+        "forensic science"
+      ],
+      "definition": "Scientific methods used in crime\ninvestigation",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "f8f46f5c-6eca-4f46-b50c-b642b923548a",
+      "word": "Plea bargain",
+      "synonyms": [
+        "Settlement",
+        "negotiation"
+      ],
+      "definition": "An agreement where the accused pleads guilty in exchange for a\nlighter sentence",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "8680004b-c918-465a-aed1-30cec67c7b24",
+      "word": "Repeat offender",
+      "synonyms": [
+        "Recidivist",
+        "habitual",
+        "criminal"
+      ],
+      "definition": "A person who continues to commit\ncrimes after punishment",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "e0cfb5ef-8111-490c-a8c0-1e3be78d734a",
+      "word": "Vigilante",
+      "synonyms": [
+        "Self-appointed enforcer",
+        "avenger"
+      ],
+      "definition": "A person who takes law\nenforcement into their own hands",
       "userGuesses": [],
       "status": "hidden"
     }
