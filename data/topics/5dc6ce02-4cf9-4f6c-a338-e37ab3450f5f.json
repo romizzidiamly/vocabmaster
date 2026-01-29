@@ -1012,9 +1012,41 @@
         "Immunity",
         "defense system"
       ],
-      "definition": "The body’s defense mechanism against infections",
+      "definition": "the system that protects the body from infection and disease",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "sistem kekebalan tubuh",
+      "phonetics": {
+        "us": "/ˌɪm.juːn ˈsɪstəm/",
+        "uk": "/ˌɪm.juːn ˈsɪstəm/"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "The immune system helps fight off infections.",
+          "translation": "Sistem kekebalan tubuh membantu melawan infeksi."
+        },
+        {
+          "type": "Complex",
+          "text": "Because she had a strong immune system, she was able to recover quickly from the illness.",
+          "translation": "Karena dia memiliki sistem kekebalan tubuh yang kuat, dia dapat pulih dengan cepat dari penyakit tersebut."
+        },
+        {
+          "type": "Compound",
+          "text": "The doctor checked her immune system and prescribed some medication, and she started to feel better soon.",
+          "translation": "Dokter memeriksa sistem kekebalan tubuhnya dan meresepkan beberapa obat, dan dia mulai merasa lebih baik segera."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "While the new medicine had improved her condition significantly, it was her immune system that ultimately helped her recover, and she was grateful for the doctor's care.",
+          "translation": "Sementara obat baru tersebut telah memperbaiki kondisinya secara signifikan, namun itu adalah sistem kekebalan tubuhnya yang akhirnya membantunya pulih, dan dia bersyukur atas perawatan dokter."
+        }
+      ],
+      "synonymMeanings": [
+        "sistem pertahanan tubuh",
+        "sistem kekebalan",
+        "daya tahan tubuh"
+      ]
     },
     {
       "id": "c8bba173-3473-447a-b878-aecbe0eea2e6",
