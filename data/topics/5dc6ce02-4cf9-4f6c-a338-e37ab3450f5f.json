@@ -882,9 +882,41 @@
         "Dependency",
         "substance abuse"
       ],
-      "definition": "A compulsive dependency on substances or activities",
+      "definition": "The state of being physically or mentally dependent on something, especially a drug",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Kecanduan",
+      "phonetics": {
+        "us": "/əˈdɪkʃən/",
+        "uk": "/əˈdɪkʃən/"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "He has an addiction to coffee",
+          "translation": "Dia memiliki kecanduan kopi"
+        },
+        {
+          "type": "Complex",
+          "text": "Because he started drinking at a young age, he developed an addiction to alcohol",
+          "translation": "Karena dia mulai minum pada usia muda, dia mengembangkan kecanduan alkohol"
+        },
+        {
+          "type": "Compound",
+          "text": "She has an addiction to shopping and she also loves traveling",
+          "translation": "Dia memiliki kecanduan berbelanja dan dia juga suka bepergian"
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "While she was studying abroad, she developed an addiction to coffee because she often pulled all-nighters, and she also started to love the local cuisine",
+          "translation": "Saat dia belajar di luar negeri, dia mengembangkan kecanduan kopi karena dia sering begadang, dan dia juga mulai menyukai masakan lokal"
+        }
+      ],
+      "synonymMeanings": [
+        "Ketergantungan",
+        "Kecanduan berat",
+        "Penggunaan berlebihan"
+      ]
     },
     {
       "id": "ccd6bfeb-b760-407b-977c-21f75f217219",
