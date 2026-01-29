@@ -38,7 +38,6 @@ export default function Home() {
       {gameState.phase === 'playing' && (
         <section className="space-y-12 pb-20">
           <GameInterface />
-          <MasteryGrid />
           <RecallTable />
         </section>
       )}
