@@ -1,6 +1,6 @@
 'use client';
 
-import { useVocabStore } from '@/hooks/useVocabStore';
+import { useVocabStore } from '@/context/VocabContext';
 
 export function DataPreview() {
     const { gameState, setPhase, resetGame } = useVocabStore();
