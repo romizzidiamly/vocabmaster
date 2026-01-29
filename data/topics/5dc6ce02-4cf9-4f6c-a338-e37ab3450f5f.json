@@ -2126,7 +2126,30 @@
       ],
       "definition": "A group of repetitions performed without rest",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Set is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Set matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Set, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Set correctly, we succeed, so let's try."
+        }
+      ]
     },
     {
       "id": "a22fe229-03e2-446a-9fa6-1c1539e0579f",
