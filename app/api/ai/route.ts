@@ -18,7 +18,7 @@ export async function POST(request: NextRequest) {
             }, { status: 500 });
         }
 
-        const prompt = `Act as an IELTS Writing Expert and Indonesian Translator. For the vocabulary word "${word}", generate its Indonesian meaning/translation, exactly 4 example sentences, and its phonetic symbols in JSON format. 
+        const prompt = `Act as an IELTS Writing Expert and Indonesian Translator. For the vocabulary word "${word}", generate its Indonesian meaning/translation, exactly 4 example sentences (with their Indonesian translations), and its phonetic symbols in JSON format. 
     The sentences must be high-quality and suitable for IELTS Writing Task 2.
     Provide one of each type: "Simple", "Complex", "Compound", "Compound-Complex".
     Also provide the phonetic symbols for American (US) and British (UK) English.
@@ -26,16 +26,16 @@ export async function POST(request: NextRequest) {
     IMPORTANT: You MUST return ONLY a JSON object. No intro text, no conversational filler.
     Response format:
     {
-      "meaning": "Indonesian translation here",
+      "meaning": "Indonesian translation of the main word",
       "phonetics": {
         "us": "/.../",
         "uk": "/.../"
       },
       "examples": [
-        {"type": "Simple", "text": "..."},
-        {"type": "Complex", "text": "..."},
-        {"type": "Compound", "text": "..."},
-        {"type": "Compound-Complex", "text": "..."}
+        {"type": "Simple", "text": "English sentence...", "translation": "Indonesian translation..."},
+        {"type": "Complex", "text": "English sentence...", "translation": "Indonesian translation..."},
+        {"type": "Compound", "text": "English sentence...", "translation": "Indonesian translation..."},
+        {"type": "Compound-Complex", "text": "English sentence...", "translation": "Indonesian translation..."}
       ]
     }`;
 

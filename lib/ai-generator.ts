@@ -1,6 +1,7 @@
 export interface IeltsExamples {
     type: 'Simple' | 'Complex' | 'Compound' | 'Compound-Complex';
     text: string;
+    translation?: string;
 }
 
 export interface GroqResponse {

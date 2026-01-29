@@ -4,7 +4,8 @@ export interface VocabItem {
   synonyms: string[];
   meaning?: string; // Indonesian Translation
   phonetics?: { us: string, uk: string }; // Phonetic symbols
-  examples?: { type: string, text: string }[]; // IELTS Sentence varieties
+  examples?: { type: string, text: string, translation?: string }[]; // Added translation support
+  synonymMeanings?: string[]; // Parallel array for synonym translations
   userGuesses: string[]; // Track which synonyms were correctly guessed
   status: 'hidden' | 'discovered' | 'mastered';
 }

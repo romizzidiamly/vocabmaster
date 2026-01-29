@@ -142,7 +142,7 @@ export function RecallTable() {
                                                     </div>
                                                     {item.meaning && (
                                                         <div className="mt-2 py-2 px-3 bg-primary/5 rounded-xl border border-primary/10">
-                                                            <div className="text-[9px] font-black text-primary uppercase tracking-widest mb-0.5">Meaning (ID) 🇮🇩</div>
+                                                            <div className="text-[9px] font-black text-primary uppercase tracking-widest mb-0.5">Arti Kata 🇮🇩</div>
                                                             <div className="text-sm font-black text-slate-800 dark:text-white leading-tight">{item.meaning}</div>
                                                         </div>
                                                     )}
@@ -201,6 +201,11 @@ export function RecallTable() {
                                                             <div className="absolute top-0 left-0 w-1 h-full bg-primary opacity-30 group-hover/ex:opacity-100 transition-opacity" />
                                                             <span className="text-[9px] font-black uppercase text-primary tracking-widest block mb-2">{ex.type} Example</span>
                                                             <p className="text-xs font-bold text-slate-700 dark:text-slate-400 italic leading-relaxed">&ldquo;{ex.text}&rdquo;</p>
+                                                            {ex.translation && (
+                                                                <p className="text-[10px] font-black text-primary/80 dark:text-primary/60 mt-1.5 leading-tight">
+                                                                    🇮🇩 {ex.translation}
+                                                                </p>
+                                                            )}
                                                         </div>
                                                     ))}
                                                     <button onClick={() => generateAiExamples(item.id)} className="w-full flex items-center justify-center gap-2 py-3 glass-light border border-primary/20 hover:border-primary/50 text-primary rounded-xl text-[10px] font-black uppercase transition-all group/ai">

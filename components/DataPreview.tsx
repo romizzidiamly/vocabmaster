@@ -117,7 +117,7 @@ export function DataPreview() {
                                         {item.meaning && (
                                             <div className="mt-4 p-4 bg-primary/5 border border-primary/20 rounded-2xl relative overflow-hidden group/meaning">
                                                 <div className="flex items-center gap-2 mb-1">
-                                                    <span className="text-[10px] font-black text-primary uppercase tracking-widest">Meaning (ID) 🇮🇩</span>
+                                                    <span className="text-[10px] font-black text-primary uppercase tracking-widest text-primary">Arti Kata 🇮🇩</span>
                                                 </div>
                                                 <p className="text-lg font-black text-slate-900 dark:text-white leading-tight">
                                                     {item.meaning}
@@ -154,7 +154,7 @@ export function DataPreview() {
                                         {item.synonyms.map((syn, idx) => (
                                             <span
                                                 key={idx}
-                                                className="bg-primary text-white border border-white/20 px-5 py-2 rounded-2xl text-[13px] font-black shadow-xl shadow-primary/30 transition-all cursor-default scale-100 hover:scale-105"
+                                                className="bg-slate-900 dark:bg-primary text-white border border-white/20 px-5 py-2 rounded-2xl text-[13px] font-black shadow-xl shadow-primary/30 transition-all cursor-default scale-100 hover:scale-105"
                                             >
                                                 {syn}
                                             </span>
