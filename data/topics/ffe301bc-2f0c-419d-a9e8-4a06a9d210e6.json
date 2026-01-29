@@ -449,7 +449,30 @@
       ],
       "definition": "Expressing ideas clearly and briefly",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Conciseness is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Conciseness matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Conciseness, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Conciseness correctly, we succeed, so let's try."
+        }
+      ]
     },
     {
       "id": "3a3fad4d-f579-491c-bc7a-b584470cde5c",
