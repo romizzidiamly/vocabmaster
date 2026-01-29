@@ -143,7 +143,7 @@ export function DataPreview() {
                                         {item.synonyms.map((syn, idx) => (
                                             <span
                                                 key={idx}
-                                                className="bg-primary/5 dark:bg-primary/10 hover:bg-primary/20 border border-primary/20 px-4 py-1.5 rounded-full text-xs font-black text-slate-800 dark:text-primary transition-all cursor-default"
+                                                className="bg-primary text-white border border-primary/20 px-4 py-1.5 rounded-full text-xs font-black shadow-lg shadow-primary/20 transition-all cursor-default"
                                             >
                                                 {syn}
                                             </span>
