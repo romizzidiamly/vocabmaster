@@ -960,7 +960,30 @@
       ],
       "definition": "Casual conversation about\nnon-controversial topics",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Small Talk is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Small Talk matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Small Talk, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Small Talk correctly, we succeed, so let's try."
+        }
+      ]
     },
     {
       "id": "07b1caaf-0a4f-44c9-badd-dc5e1d925434",
