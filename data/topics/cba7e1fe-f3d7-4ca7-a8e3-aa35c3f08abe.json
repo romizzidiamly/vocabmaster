@@ -53,9 +53,42 @@
         "Body language",
         "gestures"
       ],
-      "definition": "Conveying messages without words,\nusing body language, gestures, or facial expressions",
+      "definition": "communication that does not use words, such as body language, facial expressions, and gestures",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Komunikasi Nonverbal",
+      "phonetics": {
+        "us": "/nɑnˈvɜrbəl kəm.ju.niˈkeɪ.ʃən/",
+        "uk": "/nɒnˈvɜːb(ə)l kəm.juː.nɪˈkeɪ.ʃən/"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Nonverbal communication is very important in business meetings.",
+          "translation": "Komunikasi nonverbal sangat penting dalam pertemuan bisnis."
+        },
+        {
+          "type": "Complex",
+          "text": "Because nonverbal communication can convey emotions more effectively, it is widely used in advertising.",
+          "translation": "Karena komunikasi nonverbal dapat menyampaikan emosi lebih efektif, maka itu digunakan secara luas dalam periklanan."
+        },
+        {
+          "type": "Compound",
+          "text": "Nonverbal communication is essential, and it helps to build trust between people.",
+          "translation": "Komunikasi nonverbal sangat penting, dan itu membantu membangun kepercayaan antara orang-orang."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "While nonverbal communication is crucial in face-to-face interactions, it can also be used in digital media, and this has become increasingly important because it helps to convey the tone and intent of the message.",
+          "translation": "Sementara komunikasi nonverbal sangat penting dalam interaksi tatap muka, itu juga dapat digunakan dalam media digital, dan ini telah menjadi semakin penting karena itu membantu menyampaikan nada dan niat dari pesan."
+        }
+      ],
+      "synonymMeanings": [
+        "Komunikasi Tak Verbal",
+        "Komunikasi Tanpa Kata",
+        "Bahasa Tubuh",
+        "Ekspresi Wajah"
+      ]
     },
     {
       "id": "1636d85e-d453-40d1-afd7-0052f200c920",
@@ -64,9 +97,42 @@
         "Documentation",
         "correspondence"
       ],
-      "definition": "Exchanging information through written text",
+      "definition": "the act or process of communicating something in writing",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Komunikasi Tertulis",
+      "phonetics": {
+        "us": "/ˈrɪtən kəmʊnɪˈkeɪʃən/",
+        "uk": "/ˈrɪtən kəmjuːnɪˈkeɪʃən/"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "She uses written communication to convey her ideas.",
+          "translation": "Dia menggunakan komunikasi tertulis untuk menyampaikan ide-idenya."
+        },
+        {
+          "type": "Complex",
+          "text": "Because she lives abroad, she uses written communication to keep in touch with her family.",
+          "translation": "Karena dia tinggal di luar negeri, dia menggunakan komunikasi tertulis untuk tetap berhubungan dengan keluarganya."
+        },
+        {
+          "type": "Compound",
+          "text": "She uses written communication and phone calls to keep in touch with her friends and family.",
+          "translation": "Dia menggunakan komunikasi tertulis dan panggilan telepon untuk tetap berhubungan dengan teman-teman dan keluarganya."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "While she prefers written communication, she also uses phone calls to discuss important matters, because her family lives abroad and she wants to keep in touch with them regularly.",
+          "translation": "Sementara dia lebih suka komunikasi tertulis, dia juga menggunakan panggilan telepon untuk membahas hal-hal penting, karena keluarganya tinggal di luar negeri dan dia ingin tetap berhubungan dengan mereka secara teratur."
+        }
+      ],
+      "synonymMeanings": [
+        "Komunikasi",
+        "Korespondensi",
+        "Penulisan",
+        "Pengiriman Surat"
+      ]
     },
     {
       "id": "b51102ca-0d2e-4fa1-8106-9490fcfbeb79",
