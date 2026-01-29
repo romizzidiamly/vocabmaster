@@ -1290,9 +1290,42 @@
         "Maturation",
         "biological development"
       ],
-      "definition": "The period when a person undergoes physical changes",
+      "definition": "The period of life when a young person develops physically and sexually to become an adult.",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Masa puber",
+      "phonetics": {
+        "us": "/ˈpʊbərti/",
+        "uk": "/ˈpjuːbəti/"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "She entered puberty at the age of 12.",
+          "translation": "Dia memasuki masa puber pada usia 12."
+        },
+        {
+          "type": "Complex",
+          "text": "Because she entered puberty early, she was often self-conscious about her body.",
+          "translation": "Karena dia memasuki masa puber lebih awal, dia sering merasa tidak nyaman dengan tubuhnya."
+        },
+        {
+          "type": "Compound",
+          "text": "The boy was excited to start high school, but he was also nervous about going through puberty.",
+          "translation": "Anak laki-laki itu bersemangat untuk memulai sekolah menengah, tetapi dia juga gugup tentang melewati masa puber."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "While the girl was excited to start high school, she was also nervous about going through puberty, because she had heard that it could be a difficult time.",
+          "translation": "Saat gadis itu bersemangat untuk memulai sekolah menengah, dia juga gugup tentang melewati masa puber, karena dia telah mendengar bahwa itu bisa menjadi waktu yang sulit."
+        }
+      ],
+      "synonymMeanings": [
+        "akil balig",
+        "remaja",
+        "usia dewasa",
+        "masa remaja"
+      ]
     },
     {
       "id": "60ac6d9c-d324-44bd-b5da-314312d85541",
