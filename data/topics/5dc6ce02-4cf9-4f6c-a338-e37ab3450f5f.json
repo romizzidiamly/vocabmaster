@@ -1769,9 +1769,41 @@
         "Suppleness",
         "mobility"
       ],
-      "definition": "The ability of muscles and joints to move through their full range of",
+      "definition": "The ability to change or be changed easily according to the situation",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Kelenturan",
+      "phonetics": {
+        "us": "/flɛksəˈbɪlɪti/",
+        "uk": "/flɛksɪˈbɪlɪti/"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "The company values flexibility in its employees.",
+          "translation": "Perusahaan menghargai kelenturan pada karyawannya."
+        },
+        {
+          "type": "Complex",
+          "text": "Because the new policy allows for more flexibility, employees can now work from home.",
+          "translation": "Karena kebijakan baru memungkinkan kelenturan yang lebih besar, karyawan sekarang dapat bekerja dari rumah."
+        },
+        {
+          "type": "Compound",
+          "text": "The teacher offered flexibility in assignment deadlines, and students appreciated it, but some still struggled to meet them.",
+          "translation": "Guru menawarkan kelenturan dalam batas waktu tugas, dan siswa menghargainya, tetapi beberapa masih berjuang untuk memenuhinya."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "While the new employee was grateful for the flexibility in scheduling, she realized that it also meant she had to be available to work at short notice, which was sometimes challenging, but her supervisor was understanding and supportive.",
+          "translation": "Sementara karyawan baru bersyukur atas kelenturan dalam penjadwalan, dia menyadari bahwa itu juga berarti dia harus siap bekerja dengan pemberitahuan singkat, yang terkadang menantang, tetapi atasannya memahami dan mendukung."
+        }
+      ],
+      "synonymMeanings": [
+        "Keluwesan",
+        "Kemampuan menyesuaikan diri",
+        "Kelincahan"
+      ]
     },
     {
       "id": "1382edb7-6773-4017-a5b5-fd670f93fb64",
