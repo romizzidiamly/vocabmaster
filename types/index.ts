@@ -2,6 +2,7 @@ export interface VocabItem {
   id: string;
   word: string;
   synonyms: string[];
+  meaning?: string; // Indonesian Translation
   phonetics?: { us: string, uk: string }; // Phonetic symbols
   examples?: { type: string, text: string }[]; // IELTS Sentence varieties
   userGuesses: string[]; // Track which synonyms were correctly guessed

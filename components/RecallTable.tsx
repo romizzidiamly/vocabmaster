@@ -139,9 +139,15 @@ export function RecallTable() {
                                                         <button onClick={() => speak(item.word, 'en-GB')} className="flex items-center gap-2 px-3 py-1.5 glass-light hover:bg-primary/10 text-primary rounded-xl text-[10px] font-black uppercase transition-all border border-primary/10">
                                                             <Volume2 className="w-3 h-3" /> UK
                                                         </button>
+                                                    )}
+                                                        {item.meaning && (
+                                                            <div className="mt-2 py-2 px-3 bg-primary/5 rounded-xl border border-primary/10">
+                                                                <div className="text-[9px] font-black text-primary uppercase tracking-widest mb-0.5">Meaning (ID) 🇮🇩</div>
+                                                                <div className="text-sm font-black text-slate-800 dark:text-white leading-tight">{item.meaning}</div>
+                                                            </div>
+                                                        )}
                                                     </div>
                                                 </div>
-                                            </div>
                                         </td>
                                         <td className="px-8 py-8 align-top">
                                             <div className="space-y-4 min-w-[200px]">

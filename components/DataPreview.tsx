@@ -114,6 +114,17 @@ export function DataPreview() {
                                                 </p>
                                             )}
                                         </div>
+                                        {item.meaning && (
+                                            <div className="mt-4 p-4 bg-primary/5 border border-primary/20 rounded-2xl relative overflow-hidden group/meaning">
+                                                <div className="flex items-center gap-2 mb-1">
+                                                    <span className="text-[10px] font-black text-primary uppercase tracking-widest">Meaning (ID) 🇮🇩</span>
+                                                </div>
+                                                <p className="text-lg font-black text-slate-900 dark:text-white leading-tight">
+                                                    {item.meaning}
+                                                </p>
+                                                <div className="absolute top-0 right-0 w-20 h-full bg-gradient-to-l from-primary/5 to-transparent pointer-events-none" />
+                                            </div>
+                                        )}
                                     </div>
                                     <div className="flex flex-col gap-2">
                                         <button
