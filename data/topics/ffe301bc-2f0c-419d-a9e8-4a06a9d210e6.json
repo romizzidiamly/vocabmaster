@@ -160,38 +160,39 @@
       ],
       "definition": "the act of planting trees in an area where they have been cut down",
       "userGuesses": [],
-      "status": "hidden",
+      "status": "discovered",
       "examples": [
         {
           "type": "Simple",
-          "text": "The government has launched a reforestation program.",
-          "translation": "Pemerintah telah meluncurkan program penghijauan kembali."
+          "text": "The organization is working on reforestation in the forest.",
+          "translation": "Organisasi tersebut bekerja pada reboisasi di hutan."
         },
         {
           "type": "Complex",
-          "text": "Because the forest was destroyed, the community decided to start a reforestation project.",
-          "translation": "Karena hutan itu hancur, masyarakat memutuskan untuk memulai proyek penghijauan kembali."
+          "text": "Because many trees were cut down, the government decided to start a reforestation program.",
+          "translation": "Karena banyak pohon yang ditebang, pemerintah memutuskan untuk memulai program reboisasi."
         },
         {
           "type": "Compound",
-          "text": "The company planted trees and the government supported the reforestation effort, so the environment improved.",
-          "translation": "Perusahaan menanam pohon dan pemerintah mendukung upaya penghijauan kembali, sehingga lingkungan membaik."
+          "text": "The company planted new trees, and the government supported the reforestation effort.",
+          "translation": "Perusahaan menanam pohon baru, dan pemerintah mendukung upaya reboisasi."
         },
         {
           "type": "Compound-Complex",
-          "text": "Although the reforestation process was challenging, the community worked together and, as a result, the forest began to flourish, which had a positive impact on the local ecosystem.",
-          "translation": "Meskipun proses penghijauan kembali itu menantang, masyarakat bekerja sama dan, sebagai hasilnya, hutan mulai berkembang, yang berdampak positif pada ekosistem setempat."
+          "text": "While the organization was working on reforestation, the government was also creating new laws to protect the environment, and the local community was supporting the effort.",
+          "translation": "Saat organisasi bekerja pada reboisasi, pemerintah juga membuat undang-undang baru untuk melindungi lingkungan, dan masyarakat lokal mendukung upaya tersebut."
         }
       ],
       "phonetics": {
-        "us": "/ˌrɪfɔːrˈɛs.təˈteɪ.ʃən/",
-        "uk": "/ˌriː.fɒr.ɛs.tiˈteɪ.ʃən/"
+        "us": "/ˌrɪfəˈrɛs.təˈʃən/",
+        "uk": "/ˌriːfɒˈrɛs.təˈʃən/"
       },
-      "meaning": "Penghijauan kembali",
+      "meaning": "Reboisasi",
       "synonymMeanings": [
-        "Reboisasi",
-        "Penghutanan kembali",
-        "Penanaman kembali"
+        "Penghijauan",
+        "Rehabilitasi Hutan",
+        "Pemulihan Ekosistem",
+        "Penanaman Kembali"
       ]
     },
     {
