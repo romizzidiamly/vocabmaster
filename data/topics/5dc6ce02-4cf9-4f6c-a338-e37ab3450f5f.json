@@ -707,9 +707,42 @@
         "Recovery",
         "therapy"
       ],
-      "definition": "The process of recovering from an illness or injury",
+      "definition": "The process of helping someone who has been ill or in prison to become healthy or normal again",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Rehabilitasi",
+      "phonetics": {
+        "us": "/ˌrɛhəbɪlɪˈteɪʃən/",
+        "uk": "/ˌriːhəbɪlɪˈteɪʃən/"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "The patient needs rehabilitation after surgery",
+          "translation": "Pasien membutuhkan rehabilitasi setelah operasi"
+        },
+        {
+          "type": "Complex",
+          "text": "Because she suffered a stroke, she requires rehabilitation to regain her speech",
+          "translation": "Karena dia menderita stroke, dia membutuhkan rehabilitasi untuk mendapatkan kembali kemampuan berbicaranya"
+        },
+        {
+          "type": "Compound",
+          "text": "The hospital offers rehabilitation and therapy, and the patient recovers quickly",
+          "translation": "Rumah sakit menawarkan rehabilitasi dan terapi, dan pasien pulih dengan cepat"
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "While the new policy aims to provide rehabilitation for former prisoners, it also requires them to attend therapy sessions because they need to reintegrate into society",
+          "translation": "Sementara kebijakan baru bertujuan untuk menyediakan rehabilitasi bagi mantan narapidana, juga meminta mereka untuk menghadiri sesi terapi karena mereka perlu kembali berintegrasi ke masyarakat"
+        }
+      ],
+      "synonymMeanings": [
+        "Pemulihan",
+        "Pengembalian",
+        "Perbaikan",
+        "Pemuliharaan"
+      ]
     },
     {
       "id": "4f745f2a-217c-4804-a770-46ed7ffc1836",
