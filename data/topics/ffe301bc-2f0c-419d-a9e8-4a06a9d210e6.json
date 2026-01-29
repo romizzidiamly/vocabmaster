@@ -619,7 +619,30 @@
       ],
       "definition": "Specialized language used by a specific profession or group",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Jargon is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Jargon matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Jargon, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Jargon correctly, we succeed, so let's try."
+        }
+      ]
     },
     {
       "id": "4e9337d9-8474-4fcd-9414-d4e687e3276f",
