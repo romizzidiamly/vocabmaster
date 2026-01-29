@@ -1029,7 +1029,30 @@
       ],
       "definition": "Interaction conducted through digital platforms",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Virtual Communication is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Virtual Communication matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Virtual Communication, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Virtual Communication correctly, we succeed, so let's try."
+        }
+      ]
     },
     {
       "id": "90647c57-4eca-4086-8400-344c11da8608",
