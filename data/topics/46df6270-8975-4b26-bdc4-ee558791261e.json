@@ -114,7 +114,30 @@
       ],
       "definition": "A serious crime, often punishable by\nimprisonment",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Felony is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Felony matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Felony, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Felony correctly, we succeed, so let's try."
+        }
+      ]
     },
     {
       "id": "b5e63a9b-e336-49fa-ab69-7a88fb337bd9",
