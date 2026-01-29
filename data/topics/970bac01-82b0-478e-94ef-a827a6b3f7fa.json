@@ -1115,7 +1115,30 @@
       ],
       "definition": "A person accused of a crime in court",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Defendant is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Defendant matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Defendant, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Defendant correctly, we succeed, so let's try."
+        }
+      ]
     },
     {
       "id": "2b6ef211-0124-41bd-bad7-a3f7f955779e",
