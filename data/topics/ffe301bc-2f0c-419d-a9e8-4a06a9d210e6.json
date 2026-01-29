@@ -756,7 +756,30 @@
       ],
       "definition": "Looking directly into another\nperson’s eyes during conversation",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Eye Contact is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Eye Contact matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Eye Contact, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Eye Contact correctly, we succeed, so let's try."
+        }
+      ]
     },
     {
       "id": "5035d5ff-afba-4070-b5af-4463e1bb0894",
