@@ -181,7 +181,30 @@
       ],
       "definition": "The exchange of information through electronic means",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Digital Communication is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Digital Communication matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Digital Communication, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Digital Communication correctly, we succeed, so let's try."
+        }
+      ]
     },
     {
       "id": "85caa331-b7d0-45d0-b868-b9dbe1177728",
