@@ -444,9 +444,42 @@
         "Melancholy",
         "major depressive disorder"
       ],
-      "definition": "A mental disorder with persistent sadness",
+      "definition": "a feeling of sadness and hopelessness, often causing a person to lose interest in things they normally enjoy",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "depresi",
+      "phonetics": {
+        "us": "/dɪˈprɛʃən/",
+        "uk": "/dɪˈprɛʃən/"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "She has been suffering from depression for years.",
+          "translation": "Dia telah menderita depresi selama bertahun-tahun."
+        },
+        {
+          "type": "Complex",
+          "text": "Because she lost her job, she felt depressed and didn't know what to do.",
+          "translation": "Karena dia kehilangan pekerjaannya, dia merasa depresi dan tidak tahu apa yang harus dilakukan."
+        },
+        {
+          "type": "Compound",
+          "text": "She felt depressed and anxious, but she still went to the party.",
+          "translation": "Dia merasa depresi dan cemas, tapi dia masih pergi ke pesta."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "Although she had been suffering from depression for a long time, she still managed to finish her degree because she was determined to succeed, and her family supported her.",
+          "translation": "Meskipun dia telah menderita depresi selama waktu lama, dia masih berhasil menyelesaikan gelarnya karena dia bertekad untuk sukses, dan keluarganya mendukungnya."
+        }
+      ],
+      "synonymMeanings": [
+        "kesedihan",
+        "keputusasaan",
+        "kelesuan",
+        "kemelekan"
+      ]
     },
     {
       "id": "5beb8de3-5ddd-4a03-a0af-fd30a541d8cf",
