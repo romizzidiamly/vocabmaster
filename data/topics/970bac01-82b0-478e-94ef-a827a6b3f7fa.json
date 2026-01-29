@@ -11,7 +11,30 @@
       ],
       "definition": "An act that is against the law",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Crime is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Crime matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Crime, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Crime correctly, we succeed, so let's try."
+        }
+      ]
     },
     {
       "id": "d95b739c-0fcd-4ace-9b13-c7c45e51946b",
