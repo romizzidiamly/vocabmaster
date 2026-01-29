@@ -522,7 +522,30 @@
       ],
       "definition": "A physical attack or a threat of\nattack",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Assault is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Assault matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Assault, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Assault correctly, we succeed, so let's try."
+        }
+      ]
     },
     {
       "id": "1c0dee15-a562-4e0d-aa6a-af512fd877da",
@@ -533,7 +556,30 @@
       ],
       "definition": "The act of unlawfully taking and\nholding someone captive",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Kidnapping is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Kidnapping matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Kidnapping, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Kidnapping correctly, we succeed, so let's try."
+        }
+      ]
     },
     {
       "id": "01398aee-241c-4c9d-afbb-e39d44aff41d",
