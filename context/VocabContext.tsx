@@ -121,6 +121,7 @@ export function VocabProvider({ children }: { children: React.ReactNode }) {
     };
 
     const setPhase = (phase: GamePhase) => {
+        console.log("Setting phase to:", phase);
         setGameState(prev => ({ ...prev, phase }));
     };
 

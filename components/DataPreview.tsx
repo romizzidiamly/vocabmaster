@@ -136,14 +136,14 @@ export function DataPreview() {
                                 </div>
 
                                 <div className="space-y-3 mt-6">
-                                    <p className="text-[10px] font-black text-slate-700 dark:text-slate-400 uppercase tracking-[0.2em] mb-2 leading-none flex items-center gap-1.5">
-                                        <Zap size={12} className="text-primary" /> Accepted Synonyms
+                                    <p className="text-xs font-black text-slate-900 dark:text-slate-300 uppercase tracking-[0.2em] mb-3 leading-none flex items-center gap-2">
+                                        <Zap size={14} className="text-primary" /> Accepted Synonyms
                                     </p>
-                                    <div className="flex flex-wrap gap-2">
+                                    <div className="flex flex-wrap gap-2.5">
                                         {item.synonyms.map((syn, idx) => (
                                             <span
                                                 key={idx}
-                                                className="bg-primary text-white border border-primary/20 px-4 py-1.5 rounded-full text-xs font-black shadow-lg shadow-primary/20 transition-all cursor-default"
+                                                className="bg-primary text-white border border-white/20 px-5 py-2 rounded-2xl text-[13px] font-black shadow-xl shadow-primary/30 transition-all cursor-default scale-100 hover:scale-105"
                                             >
                                                 {syn}
                                             </span>
