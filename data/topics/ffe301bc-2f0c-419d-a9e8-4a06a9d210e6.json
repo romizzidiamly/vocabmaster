@@ -164,26 +164,35 @@
       "examples": [
         {
           "type": "Simple",
-          "text": "Usage of Reforestation is important."
+          "text": "The government has launched a reforestation program.",
+          "translation": "Pemerintah telah meluncurkan program penghijauan kembali."
         },
         {
           "type": "Complex",
-          "text": "Because Reforestation matters, we should study it."
+          "text": "Because the forest was destroyed, the community decided to start a reforestation project.",
+          "translation": "Karena hutan itu hancur, masyarakat memutuskan untuk memulai proyek penghijauan kembali."
         },
         {
           "type": "Compound",
-          "text": "The word is Reforestation, and it is useful."
+          "text": "The company planted trees and the government supported the reforestation effort, so the environment improved.",
+          "translation": "Perusahaan menanam pohon dan pemerintah mendukung upaya penghijauan kembali, sehingga lingkungan membaik."
         },
         {
           "type": "Compound-Complex",
-          "text": "If we use Reforestation correctly, we succeed, so let's try."
+          "text": "Although the reforestation process was challenging, the community worked together and, as a result, the forest began to flourish, which had a positive impact on the local ecosystem.",
+          "translation": "Meskipun proses penghijauan kembali itu menantang, masyarakat bekerja sama dan, sebagai hasilnya, hutan mulai berkembang, yang berdampak positif pada ekosistem setempat."
         }
       ],
       "phonetics": {
-        "us": "/.../",
-        "uk": "/.../"
+        "us": "/ˌrɪfɔːrˈɛs.təˈteɪ.ʃən/",
+        "uk": "/ˌriː.fɒr.ɛs.tiˈteɪ.ʃən/"
       },
-      "meaning": "Meaning not found."
+      "meaning": "Penghijauan kembali",
+      "synonymMeanings": [
+        "Reboisasi",
+        "Penghutanan kembali",
+        "Penanaman kembali"
+      ]
     },
     {
       "id": "f6751a82-a77d-4a48-9865-c581ce49ded5",
@@ -602,26 +611,36 @@
       "examples": [
         {
           "type": "Simple",
-          "text": "Usage of Ecological footprint is important."
+          "text": "The company is trying to reduce its ecological footprint.",
+          "translation": "Perusahaan tersebut berusaha mengurangi jejak ekologisnya."
         },
         {
           "type": "Complex",
-          "text": "Because Ecological footprint matters, we should study it."
+          "text": "Because the company uses renewable energy, its ecological footprint is smaller than that of other companies.",
+          "translation": "Karena perusahaan tersebut menggunakan energi terbarukan, jejak ekologisnya lebih kecil dibandingkan dengan perusahaan lain."
         },
         {
           "type": "Compound",
-          "text": "The word is Ecological footprint, and it is useful."
+          "text": "The company reduced its ecological footprint and increased its profits.",
+          "translation": "Perusahaan tersebut mengurangi jejak ekologisnya dan meningkatkan keuntungannya."
         },
         {
           "type": "Compound-Complex",
-          "text": "If we use Ecological footprint correctly, we succeed, so let's try."
+          "text": "While the company was reducing its ecological footprint, it also increased its profits, because it was able to save money on energy costs.",
+          "translation": "Saat perusahaan tersebut mengurangi jejak ekologisnya, juga meningkatkan keuntungannya, karena dapat menghemat biaya energi."
         }
       ],
       "phonetics": {
-        "us": "/.../",
-        "uk": "/.../"
+        "us": "/ˌɛkəˈlɒdʒɪkəl ˈfʊtprɪnt/",
+        "uk": "/ˌɛkəˈlɒdʒɪkəl ˈfʊtprɪnt/"
       },
-      "meaning": "Meaning not found."
+      "meaning": "jejak ekologis",
+      "synonymMeanings": [
+        "dampak lingkungan",
+        "tanda ekologis",
+        "bekas lingkungan",
+        "pengaruh alam"
+      ]
     },
     {
       "id": "44dd19c4-b4df-4b03-afad-7f02a233d98e",
@@ -687,7 +706,30 @@
       ],
       "definition": "Environmentally conscious building design",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "discovered",
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Green architecture is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Green architecture matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Green architecture, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Green architecture correctly, we succeed, so let's try."
+        }
+      ],
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "meaning": "Meaning not found."
     },
     {
       "id": "a63b77a4-e6e1-46c4-b316-db3ed26f325c",
