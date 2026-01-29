@@ -488,7 +488,30 @@
       ],
       "definition": "The act of obtaining something\nthrough force or threats",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Extortion is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Extortion matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Extortion, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Extortion correctly, we succeed, so let's try."
+        }
+      ]
     },
     {
       "id": "171b0571-1807-4151-ae3e-44dccc5329a9",
