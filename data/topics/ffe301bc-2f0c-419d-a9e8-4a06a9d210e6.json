@@ -541,7 +541,30 @@
       ],
       "definition": "Energy derived from sources other\nthan fossil fuels",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "discovered",
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Alternative energy is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Alternative energy matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Alternative energy, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Alternative energy correctly, we succeed, so let's try."
+        }
+      ],
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "meaning": "Meaning not found."
     },
     {
       "id": "a3565396-5f5f-43c6-834a-f98c99f49239",
@@ -706,30 +729,7 @@
       ],
       "definition": "Environmentally conscious building design",
       "userGuesses": [],
-      "status": "discovered",
-      "examples": [
-        {
-          "type": "Simple",
-          "text": "Usage of Green architecture is important."
-        },
-        {
-          "type": "Complex",
-          "text": "Because Green architecture matters, we should study it."
-        },
-        {
-          "type": "Compound",
-          "text": "The word is Green architecture, and it is useful."
-        },
-        {
-          "type": "Compound-Complex",
-          "text": "If we use Green architecture correctly, we succeed, so let's try."
-        }
-      ],
-      "phonetics": {
-        "us": "/.../",
-        "uk": "/.../"
-      },
-      "meaning": "Meaning not found."
+      "status": "hidden"
     },
     {
       "id": "a63b77a4-e6e1-46c4-b316-db3ed26f325c",
