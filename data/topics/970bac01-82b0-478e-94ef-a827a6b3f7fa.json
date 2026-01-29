@@ -705,7 +705,30 @@
       ],
       "definition": "The criminal act of deliberately\nsetting fire to property",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Arson is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Arson matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Arson, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Arson correctly, we succeed, so let's try."
+        }
+      ]
     },
     {
       "id": "31344f20-149f-402c-b878-b9a6c029173b",
