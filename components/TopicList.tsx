@@ -102,15 +102,6 @@ export function TopicList() {
                                     </div>
 
                                     <div className="space-y-6">
-                                        <div className="h-2 w-full bg-slate-200 dark:bg-white/5 rounded-full overflow-hidden border border-slate-300/50 dark:border-white/5">
-                                            <motion.div
-                                                initial={{ width: 0 }}
-                                                animate={{ width: `${percentage}%` }}
-                                                transition={{ duration: 1, ease: "easeOut" }}
-                                                className="h-full bg-gradient-to-r from-primary via-accent to-primary shadow-[0_0_10px_rgba(var(--primary-rgb),0.5)]"
-                                            />
-                                        </div>
-
                                         <div className="flex items-center justify-between pt-2">
                                             <div className="flex -space-x-2">
                                                 {[...Array(3)].map((_, i) => (
