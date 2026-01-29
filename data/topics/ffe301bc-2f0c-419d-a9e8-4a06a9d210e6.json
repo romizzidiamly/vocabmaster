@@ -158,9 +158,41 @@
         "ecological",
         "restoration"
       ],
-      "definition": "The process of planting trees in\ndeforested areas",
+      "definition": "The act of planting trees in an area where they have been cut down",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "discovered",
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "The government started a reforestation program in the village.",
+          "translation": "Pemerintah memulai program penghijauan kembali di desa tersebut."
+        },
+        {
+          "type": "Complex",
+          "text": "Because the forest was destroyed, the government decided to start a reforestation program.",
+          "translation": "Karena hutan itu telah musnah, pemerintah memutuskan untuk memulai program penghijauan kembali."
+        },
+        {
+          "type": "Compound",
+          "text": "The company invested in reforestation and also built a new factory.",
+          "translation": "Perusahaan tersebut berinvestasi dalam penghijauan kembali dan juga membangun pabrik baru."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "While the company was investing in reforestation, it also built a new factory, because the government had given them a special permit.",
+          "translation": "Ketika perusahaan tersebut berinvestasi dalam penghijauan kembali, mereka juga membangun pabrik baru, karena pemerintah telah memberikan mereka izin khusus."
+        }
+      ],
+      "phonetics": {
+        "us": "/ˌriːfəˈrɛs.təˈʃən/",
+        "uk": "/ˌriːfɒˈrɛs.təˈʃən/"
+      },
+      "meaning": "Penghijauan kembali",
+      "synonymMeanings": [
+        "Reboisasi",
+        "Penghutanan kembali",
+        "Penghijauan"
+      ]
     },
     {
       "id": "f6751a82-a77d-4a48-9865-c581ce49ded5",
