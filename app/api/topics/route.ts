@@ -1,31 +1,32 @@
 import { NextRequest, NextResponse } from 'next/server';
-import fs from 'fs';
-import path from 'path';
+import { kv } from '@vercel/kv';
 
-const DATA_DIR = path.join(process.cwd(), 'data', 'topics');
-
-// Ensure data directory exists
-if (!fs.existsSync(DATA_DIR)) {
-    fs.mkdirSync(DATA_DIR, { recursive: true });
-}
+/**
+ * Vercel KV Implementation
+ * - Topic keys: vocab:topic:{id}
+ * - Set of topic IDs: vocab:topics:ids
+ */
 
 export async function GET() {
     try {
-        const files = fs.readdirSync(DATA_DIR);
-        const topics = files
-            .filter(file => file.endsWith('.json'))
-            .map(file => {
-                const filePath = path.join(DATA_DIR, file);
-                const content = fs.readFileSync(filePath, 'utf-8');
-                return JSON.parse(content);
-            });
+        // Get all topic IDs
+        const ids = await kv.smembers('vocab:topics:ids');
 
-        // Sort by createdAt desc
-        topics.sort((a, b) => b.createdAt - a.createdAt);
+        if (!ids || ids.length === 0) {
+            return NextResponse.json([]);
+        }
 
-        return NextResponse.json(topics);
+        // Fetch all topic objects
+        const topicKeys = ids.map(id => `vocab:topic:${id}`);
+        const topics = await kv.mget<any[]>(...topicKeys);
+
+        // Filter out any potential nulls and sort
+        const validTopics = topics.filter(t => t !== null);
+        validTopics.sort((a, b) => (b.createdAt || 0) - (a.createdAt || 0));
+
+        return NextResponse.json(validTopics);
     } catch (error) {
-        console.error('Failed to read topics:', error);
+        console.error('Failed to read topics from KV:', error);
         return NextResponse.json({ error: 'Failed to load topics' }, { status: 500 });
     }
 }
@@ -37,12 +38,15 @@ export async function POST(request: NextRequest) {
             return NextResponse.json({ error: 'Topic ID is required' }, { status: 400 });
         }
 
-        const filePath = path.join(DATA_DIR, `${topic.id}.json`);
-        fs.writeFileSync(filePath, JSON.stringify(topic, null, 2));
+        // Save topic and add ID to set
+        await Promise.all([
+            kv.set(`vocab:topic:${topic.id}`, topic),
+            kv.sadd('vocab:topics:ids', topic.id)
+        ]);
 
         return NextResponse.json({ success: true });
     } catch (error) {
-        console.error('Failed to save topic:', error);
+        console.error('Failed to save topic to KV:', error);
         return NextResponse.json({ error: 'Failed to save topic' }, { status: 500 });
     }
 }
@@ -56,14 +60,15 @@ export async function DELETE(request: NextRequest) {
             return NextResponse.json({ error: 'ID is required' }, { status: 400 });
         }
 
-        const filePath = path.join(DATA_DIR, `${id}.json`);
-        if (fs.existsSync(filePath)) {
-            fs.unlinkSync(filePath);
-        }
+        // Delete topic and remove ID from set
+        await Promise.all([
+            kv.del(`vocab:topic:${id}`),
+            kv.srem('vocab:topics:ids', id)
+        ]);
 
         return NextResponse.json({ success: true });
     } catch (error) {
-        console.error('Failed to delete topic:', error);
+        console.error('Failed to delete topic from KV:', error);
         return NextResponse.json({ error: 'Failed to delete topic' }, { status: 500 });
     }
 }
