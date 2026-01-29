@@ -351,7 +351,30 @@
       ],
       "definition": "The quality of being easily\nunderstood",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Clarity is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Clarity matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Clarity, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Clarity correctly, we succeed, so let's try."
+        }
+      ]
     },
     {
       "id": "d480d8fd-c360-4855-bbef-c5af795c6745",
