@@ -911,7 +911,30 @@
       ],
       "definition": "The legal execution of a criminal as\npunishment for a serious crime",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Capital punishment is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Capital punishment matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Capital punishment, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Capital punishment correctly, we succeed, so let's try."
+        }
+      ]
     },
     {
       "id": "d462193e-9071-4381-8ce9-0fbedda41d63",
