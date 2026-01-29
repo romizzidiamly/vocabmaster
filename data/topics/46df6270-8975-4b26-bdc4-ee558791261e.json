@@ -602,7 +602,30 @@
       ],
       "definition": "The illegal trade of humans for\nexploitation",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Human trafficking is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Human trafficking matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Human trafficking, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Human trafficking correctly, we succeed, so let's try."
+        }
+      ]
     },
     {
       "id": "508461ea-09ff-4bda-9a97-ee6d1c32d42e",
