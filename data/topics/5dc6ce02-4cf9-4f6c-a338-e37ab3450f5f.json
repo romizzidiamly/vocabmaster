@@ -2158,9 +2158,42 @@
         "Pre-workout routine",
         "stretching"
       ],
-      "definition": "A preparatory activity before intense exercise",
+      "definition": "an activity that you do to prepare yourself for a physical or mental task",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "pemanasan",
+      "phonetics": {
+        "us": "/ˈwɔrm əp/",
+        "uk": "/ˈwɔːm ʌp/"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "The team did a warm-up before the match.",
+          "translation": "Tim melakukan pemanasan sebelum pertandingan."
+        },
+        {
+          "type": "Complex",
+          "text": "Because the concert was about to start, the orchestra did a quick warm-up to get ready.",
+          "translation": "Karena konser akan segera dimulai, orkestra melakukan pemanasan singkat untuk bersiap."
+        },
+        {
+          "type": "Compound",
+          "text": "The coach told the players to do a warm-up and then start practicing their shots.",
+          "translation": "Pelatih memerintahkan pemain untuk melakukan pemanasan dan kemudian memulai berlatih tembakan mereka."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "While the other team was doing their warm-up, our team was already preparing their strategy, and because they were well-prepared, they played exceptionally well.",
+          "translation": "Sementara tim lain melakukan pemanasan, tim kami sudah mempersiapkan strategi mereka, dan karena mereka sudah siap, mereka bermain dengan sangat baik."
+        }
+      ],
+      "synonymMeanings": [
+        "persiapan",
+        "penghangatan",
+        "penyiaran",
+        "pengkondisian"
+      ]
     },
     {
       "id": "45022215-6b6c-47e2-8d92-c306fc5e5491",
