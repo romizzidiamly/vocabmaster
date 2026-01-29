@@ -1246,9 +1246,42 @@
         "Teenage years",
         "youth"
       ],
-      "definition": "The transitional stage from childhood to adulthood",
+      "definition": "The period of life when a young person develops from a child into an adult, from about 13 to 19 years old.",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Masa remaja",
+      "phonetics": {
+        "us": "/ˌædəˈlesns/",
+        "uk": "/ˌædəˈlɛsəns/"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Adolescence is a challenging time for many young people.",
+          "translation": "Masa remaja adalah waktu yang menantang bagi banyak orang muda."
+        },
+        {
+          "type": "Complex",
+          "text": "Because adolescence is a critical period of development, it is essential to provide young people with proper guidance and support.",
+          "translation": "Karena masa remaja adalah periode kritis perkembangan, sangat penting untuk menyediakan orang muda dengan bimbingan dan dukungan yang tepat."
+        },
+        {
+          "type": "Compound",
+          "text": "Adolescence is a time of change, and teenagers often experience mood swings and emotional turmoil, but they also develop new skills and make lasting friendships.",
+          "translation": "Masa remaja adalah waktu perubahan, dan remaja sering mengalami perubahan mood dan badai emosi, tetapi mereka juga mengembangkan keterampilan baru dan membuat persahabatan yang langgeng."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "While adolescence can be a difficult and confusing time, it is also a period of great opportunity, because teenagers who are given the chance to develop their talents and pursue their passions often become confident and successful adults, and they are more likely to make a positive impact on their communities, which in turn can lead to a more harmonious and prosperous society.",
+          "translation": "Sementara masa remaja dapat menjadi waktu yang sulit dan membingungkan, itu juga merupakan periode kesempatan besar, karena remaja yang diberi kesempatan untuk mengembangkan bakat dan mengejar passion mereka sering menjadi dewasa yang percaya diri dan sukses, dan mereka lebih mungkin membuat dampak positif pada masyarakat mereka, yang pada gilirannya dapat menyebabkan masyarakat yang lebih harmonis dan makmur."
+        }
+      ],
+      "synonymMeanings": [
+        "pubertas",
+        "usia belia",
+        "masa puber",
+        "usia remaja"
+      ]
     },
     {
       "id": "e44b3973-a444-4dda-be2b-7b13fc53f605",
