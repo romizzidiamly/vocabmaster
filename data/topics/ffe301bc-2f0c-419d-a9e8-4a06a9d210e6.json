@@ -113,7 +113,30 @@
       ],
       "definition": "The gradual increase in Earth's temperature due to greenhouse\ngases",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Global warming is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Global warming matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Global warming, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Global warming correctly, we succeed, so let's try."
+        }
+      ]
     },
     {
       "id": "38ce423c-16c1-46f1-8c6c-11377dfd0312",
