@@ -9,89 +9,138 @@ export function TopicList() {
     const { topics, deleteTopic, selectTopic } = useVocabStore();
 
     return (
-        <div className="w-full max-w-4xl mx-auto">
-            <div className="flex justify-between items-center mb-8">
-                <div>
-                    <h2 className="text-3xl font-bold text-white mb-2">Saved Topics</h2>
-                    <p className="text-slate-400">Select a topic to continue your session logic.</p>
+        <div className="w-full max-w-5xl mx-auto">
+            {/* Hero Section */}
+            <motion.div
+                initial={{ opacity: 0, y: -20 }}
+                animate={{ opacity: 1, y: 0 }}
+                className="text-center mb-16 space-y-6"
+            >
+                <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full glass-light border border-white/10 text-xs font-black text-indigo-400 uppercase tracking-widest animate-in fade-in slide-in-from-top-4 duration-1000">
+                    <span className="relative flex h-2 w-2">
+                        <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-indigo-400 opacity-75"></span>
+                        <span className="relative inline-flex rounded-full h-2 w-2 bg-indigo-500"></span>
+                    </span>
+                    Professional Vocabulary Mastery
                 </div>
-                <Link
-                    href="/add"
-                    className="flex items-center gap-2 px-6 py-3 bg-indigo-600 hover:bg-indigo-500 text-white rounded-xl font-bold transition-all shadow-lg shadow-indigo-500/20 hover:scale-105"
-                >
-                    <Plus className="w-5 h-5" />
-                    Upload New
-                </Link>
+                <h2 className="text-5xl lg:text-7xl font-black text-white tracking-tight leading-[1.1]">
+                    Master Your Words with <br />
+                    <span className="bg-clip-text text-transparent bg-gradient-to-r from-indigo-400 via-purple-400 to-indigo-400 bg-[length:200%_auto] animate-pulse">Active Recall.</span>
+                </h2>
+                <p className="text-slate-400 text-lg max-w-2xl mx-auto font-medium leading-relaxed">
+                    Transform your vocabulary acquisition with AI-powered active recall and IELTS-ready examples.
+                </p>
+                <div className="pt-4">
+                    <Link
+                        href="/add"
+                        className="inline-flex items-center gap-3 px-8 py-4 bg-indigo-600 hover:bg-indigo-500 text-white rounded-2xl font-black transition-all shadow-[0_0_40px_rgba(79,70,229,0.3)] hover:scale-105 active:scale-95 group"
+                    >
+                        <Plus className="w-5 h-5 group-hover:rotate-90 transition-transform duration-300" />
+                        Upload Vocabulary
+                    </Link>
+                </div>
+            </motion.div>
+
+            <div className="flex justify-between items-end mb-8 border-b border-white/5 pb-6">
+                <div>
+                    <h3 className="text-2xl font-black text-white">Your Library</h3>
+                    <p className="text-slate-500 text-sm font-medium mt-1">Select a topic to start practicing</p>
+                </div>
+                <div className="text-xs font-black text-slate-600 uppercase tracking-widest bg-white/5 px-3 py-1.5 rounded-lg border border-white/5">
+                    {topics.length} {topics.length === 1 ? 'Topic' : 'Topics'}
+                </div>
             </div>
 
             {topics.length === 0 ? (
-                <div className="text-center py-20 bg-slate-900/50 rounded-2xl border border-dashed border-slate-700">
-                    <BookOpen className="w-16 h-16 text-slate-700 mx-auto mb-4" />
-                    <h3 className="text-xl font-medium text-slate-300 mb-2">No topics found</h3>
-                    <p className="text-slate-500 mb-8 max-w-xs mx-auto">Upload an Excel file to start your active recall session.</p>
+                <motion.div
+                    initial={{ opacity: 0 }}
+                    animate={{ opacity: 1 }}
+                    className="text-center py-24 glass rounded-[40px] border border-dashed border-white/10"
+                >
+                    <div className="w-24 h-24 bg-gradient-to-br from-slate-800 to-slate-900 rounded-3xl flex items-center justify-center mx-auto mb-6 shadow-2xl">
+                        <BookOpen className="w-10 h-10 text-slate-600" />
+                    </div>
+                    <h3 className="text-2xl font-black text-white mb-3">No Library Found</h3>
+                    <p className="text-slate-500 mb-10 max-w-sm mx-auto font-medium">Your vocabulary vault is empty. Upload your first Excel or PDF to get started.</p>
                     <Link
                         href="/add"
-                        className="inline-block px-8 py-3 bg-slate-800 hover:bg-slate-700 text-white rounded-lg font-bold transition-all"
+                        className="inline-flex items-center gap-2 px-8 py-4 glass-light hover:bg-white/5 text-white rounded-2xl font-black transition-all border border-white/10"
                     >
-                        Click to Upload
+                        Initialize Library
                     </Link>
-                </div>
+                </motion.div>
             ) : (
-                <div className="grid gap-6 md:grid-cols-2">
+                <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-2">
                     <AnimatePresence>
-                        {topics.map((topic) => (
-                            <motion.div
-                                key={topic.id}
-                                initial={{ opacity: 0, y: 10 }}
-                                animate={{ opacity: 1, y: 0 }}
-                                exit={{ opacity: 0, scale: 0.95 }}
-                                className="bg-slate-900 border border-slate-700/50 rounded-2xl p-6 hover:border-indigo-500/40 hover:shadow-2xl hover:shadow-indigo-500/5 transition-all group relative overflow-hidden"
-                            >
-                                <div className="absolute top-0 left-0 w-1 h-full bg-indigo-500 opacity-0 group-hover:opacity-100 transition-opacity" />
+                        {topics.map((topic) => {
+                            const masteredCount = topic.items.filter(i => i.status === 'mastered').length;
+                            const percentage = Math.round((masteredCount / topic.items.length) * 100);
 
-                                <div className="flex justify-between items-start mb-6">
-                                    <div className="flex-1 min-w-0">
-                                        <h3 className="text-xl font-bold text-white truncate mb-1 pr-4" title={topic.name}>
-                                            {topic.name}
-                                        </h3>
-                                        <div className="flex items-center gap-2 text-xs text-slate-500 font-medium uppercase tracking-widest">
-                                            <Clock className="w-3 h-3" />
-                                            {new Date(topic.createdAt).toLocaleDateString()}
+                            return (
+                                <motion.div
+                                    key={topic.id}
+                                    initial={{ opacity: 0, scale: 0.95 }}
+                                    animate={{ opacity: 1, scale: 1 }}
+                                    exit={{ opacity: 0, scale: 0.9 }}
+                                    className="glass rounded-[32px] p-8 hover:border-indigo-500/50 transition-all group relative cursor-default overflow-hidden"
+                                >
+                                    {/* Glass Glow Effect */}
+                                    <div className="absolute -top-24 -right-24 w-48 h-48 bg-indigo-500/10 blur-[60px] group-hover:bg-indigo-500/20 transition-all duration-700" />
+
+                                    <div className="flex justify-between items-start mb-8">
+                                        <div className="max-w-[80%]">
+                                            <div className="flex items-center gap-2 text-[10px] font-black text-indigo-400 uppercase tracking-widest mb-2">
+                                                <Clock className="w-3 h-3" />
+                                                {new Date(topic.createdAt).toLocaleDateString(undefined, { month: 'short', day: 'numeric', year: 'numeric' })}
+                                            </div>
+                                            <h3 className="text-2xl font-black text-white truncate group-hover:text-indigo-400 transition-colors" title={topic.name}>
+                                                {topic.name}
+                                            </h3>
                                         </div>
-                                    </div>
-                                    <button
-                                        onClick={(e) => { e.stopPropagation(); deleteTopic(topic.id); }}
-                                        className="text-slate-600 hover:text-red-400 p-2 rounded-xl hover:bg-red-400/10 transition-all"
-                                        title="Delete Topic"
-                                    >
-                                        <Trash2 className="w-5 h-5" />
-                                    </button>
-                                </div>
-
-                                <div className="space-y-4">
-                                    <div className="flex justify-between text-sm font-bold">
-                                        <span className="text-slate-400">{topic.items.length} Vocabulary Items</span>
-                                        <span className="text-indigo-400">
-                                            {Math.round((topic.items.filter(i => i.status === 'mastered').length / topic.items.length) * 100)}% Mastered
-                                        </span>
-                                    </div>
-                                    <div className="w-full bg-slate-800 h-2.5 rounded-full overflow-hidden">
-                                        <div
-                                            className="h-full bg-gradient-to-r from-indigo-500 to-purple-500 transition-all duration-700"
-                                            style={{ width: `${(topic.items.filter(i => i.status === 'mastered').length / topic.items.length) * 100}%` }}
-                                        />
+                                        <button
+                                            onClick={(e) => { e.stopPropagation(); deleteTopic(topic.id); }}
+                                            className="text-slate-600 hover:text-red-400 p-2.5 rounded-2xl glass-light hover:bg-red-400/10 transition-all border border-transparent hover:border-red-400/20"
+                                            title="Delete Topic"
+                                        >
+                                            <Trash2 className="w-5 h-5" />
+                                        </button>
                                     </div>
 
-                                    <button
-                                        onClick={() => selectTopic(topic.id)}
-                                        className="w-full flex items-center justify-center gap-2 py-3.5 bg-slate-800 hover:bg-slate-700 text-slate-100 rounded-xl font-bold transition-all border border-slate-700/50"
-                                    >
-                                        <BookOpen className="w-4 h-4" />
-                                        Review & Practice
-                                    </button>
-                                </div>
-                            </motion.div>
-                        ))}
+                                    <div className="space-y-6">
+                                        <div className="flex justify-between items-end">
+                                            <div className="space-y-1">
+                                                <span className="text-3xl font-black text-white leading-none">{topic.items.length}</span>
+                                                <p className="text-[10px] font-black text-slate-500 uppercase tracking-widest">Vocabulary items</p>
+                                            </div>
+                                            <div className="text-right space-y-1">
+                                                <span className="text-xl font-black text-indigo-400 leading-none">{percentage}%</span>
+                                                <p className="text-[10px] font-black text-slate-500 uppercase tracking-widest">Mastery</p>
+                                            </div>
+                                        </div>
+
+                                        <div className="relative w-full h-3 bg-white/5 rounded-full overflow-hidden border border-white/5">
+                                            <motion.div
+                                                initial={{ width: 0 }}
+                                                animate={{ width: `${percentage}%` }}
+                                                transition={{ duration: 1, ease: "easeOut" }}
+                                                className="absolute top-0 left-0 h-full bg-gradient-to-r from-indigo-500 via-purple-500 to-indigo-600 shadow-[0_0_15px_rgba(79,70,229,0.5)]"
+                                            />
+                                        </div>
+
+                                        <button
+                                            onClick={() => selectTopic(topic.id)}
+                                            className="w-full flex items-center justify-center gap-2 py-4 bg-white/5 hover:bg-indigo-600 text-white rounded-2xl font-black transition-all border border-white/10 hover:border-indigo-400 shadow-xl group/btn overflow-hidden relative"
+                                        >
+                                            <span className="relative z-10 flex items-center gap-2">
+                                                <BookOpen className="w-4 h-4" />
+                                                Start Practice
+                                            </span>
+                                            <div className="absolute inset-0 bg-gradient-to-r from-indigo-600 to-purple-600 opacity-0 group-hover/btn:opacity-100 transition-opacity" />
+                                        </button>
+                                    </div>
+                                </motion.div>
+                            );
+                        })}
                     </AnimatePresence>
                 </div>
             )}
