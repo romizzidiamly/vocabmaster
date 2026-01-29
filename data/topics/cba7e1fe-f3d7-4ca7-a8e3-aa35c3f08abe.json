@@ -9,9 +9,41 @@
         "Lodging",
         "residence"
       ],
-      "definition": "A place where someone lives or stays temporarily",
+      "definition": "a place to stay, especially when you are on holiday or visiting a place",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "akomodasi",
+      "phonetics": {
+        "us": "/əkɒməˈdeɪʃən/",
+        "uk": "/əkɒməˈdeɪʃən/"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "The hotel provided comfortable accommodation for the guests.",
+          "translation": "Hotel tersebut menyediakan akomodasi yang nyaman bagi para tamu."
+        },
+        {
+          "type": "Complex",
+          "text": "Because the city was crowded, we had to book our accommodation well in advance.",
+          "translation": "Karena kota itu sangat ramai, kami harus memesan akomodasi jauh-jauh hari sebelumnya."
+        },
+        {
+          "type": "Compound",
+          "text": "The resort offered accommodation and food, but the price was too high, and the location was not convenient.",
+          "translation": "Resor tersebut menawarkan akomodasi dan makanan, tetapi harga terlalu tinggi, dan lokasinya tidak nyaman."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "While the hotel room was comfortable, the accommodation package included a free breakfast, and because we booked early, we got a discount, but the location was still not ideal.",
+          "translation": "Sementara kamar hotelnya nyaman, paket akomodasi termasuk sarapan gratis, dan karena kami memesan lebih awal, kami mendapatkan diskon, tetapi lokasinya masih tidak ideal."
+        }
+      ],
+      "synonymMeanings": [
+        "penginapan",
+        "tempat tinggal",
+        "penampungan"
+      ]
     },
     {
       "id": "1816f65b-607a-425a-a83b-bdba3aba510b",
