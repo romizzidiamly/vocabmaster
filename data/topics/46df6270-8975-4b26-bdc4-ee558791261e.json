@@ -1,0 +1,579 @@
+{
+  "id": "46df6270-8975-4b26-bdc4-ee558791261e",
+  "name": "CRIME",
+  "items": [
+    {
+      "id": "fae80b6f-9474-42ae-99be-70013be6c5f1",
+      "word": "Crime",
+      "synonyms": [
+        "Offense",
+        "wrongdoing"
+      ],
+      "definition": "An act that is against the law",
+      "userGuesses": [],
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Crime is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Crime matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Crime, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Crime correctly, we succeed, so let's try."
+        }
+      ]
+    },
+    {
+      "id": "d95b739c-0fcd-4ace-9b13-c7c45e51946b",
+      "word": "Offender",
+      "synonyms": [
+        "Criminal",
+        "perpetrator"
+      ],
+      "definition": "A person who commits a crime",
+      "userGuesses": [],
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Offender is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Offender matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Offender, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Offender correctly, we succeed, so let's try."
+        }
+      ]
+    },
+    {
+      "id": "484954ec-3ba3-4aac-954f-a3daf7f2f1f4",
+      "word": "Perpetrator",
+      "synonyms": [
+        "Culprit",
+        "wrongdoer"
+      ],
+      "definition": "Someone who carries out a crime or\nharmful act",
+      "userGuesses": [],
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Perpetrator is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Perpetrator matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Perpetrator, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Perpetrator correctly, we succeed, so let's try."
+        }
+      ]
+    },
+    {
+      "id": "a73f276b-9ff5-409b-a0fe-884e7f8b630b",
+      "word": "Felony",
+      "synonyms": [
+        "Major crime",
+        "serious",
+        "offense"
+      ],
+      "definition": "A serious crime, often punishable by\nimprisonment",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "b5e63a9b-e336-49fa-ab69-7a88fb337bd9",
+      "word": "Misdemeanor",
+      "synonyms": [
+        "Petty crime",
+        "minor offense"
+      ],
+      "definition": "A minor wrongdoing, less serious\nthan a felony",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "32406d8f-4ef0-4347-9c9b-b4fb88575b7d",
+      "word": "Homicide",
+      "synonyms": [
+        "Murder",
+        "manslaughter"
+      ],
+      "definition": "The act of killing another person",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "3fd8dcbb-c1d9-49f1-b4ee-05998435cc60",
+      "word": "Manslaughter",
+      "synonyms": [
+        "Unintentional killing",
+        "accidental death"
+      ],
+      "definition": "The unlawful killing of a person\nwithout premeditation",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "9e8e905b-3480-466f-b4ab-3b8e902f8805",
+      "word": "Burglary",
+      "synonyms": [
+        "Breaking and entering",
+        "housebreaking"
+      ],
+      "definition": "The act of illegally entering a\nbuilding to commit a crime",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "318af7b5-fa04-4adb-a7ba-766c28d3a657",
+      "word": "Theft",
+      "synonyms": [
+        "Larceny",
+        "stealing"
+      ],
+      "definition": "The unlawful taking of someone’s\nproperty",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "234619e6-2737-4f7b-ad5d-bd2cc793f77f",
+      "word": "Robbery",
+      "synonyms": [
+        "Armed theft",
+        "mugging"
+      ],
+      "definition": "The act of stealing from a person or\nplace using force or threats",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "5ca64a5b-b8f7-467c-a85e-ef36333b5a17",
+      "word": "Embezzlement",
+      "synonyms": [
+        "Fraud",
+        "misappropriation"
+      ],
+      "definition": "The illegal use of money entrusted\nto one's care",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "18891c09-821a-423c-ad9e-363fa73c94cb",
+      "word": "Fraud",
+      "synonyms": [
+        "Deceit",
+        "scam"
+      ],
+      "definition": "Deception for personal or financial\ngain",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "c148f773-24e7-4f48-8bf7-e2ca68a80c65",
+      "word": "Forgery",
+      "synonyms": [
+        "Counterfeiting",
+        "falsification"
+      ],
+      "definition": "The act of making or altering\ndocuments with intent to deceive",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "59cf80b5-7166-44fa-9ea1-f69fb3c2b688",
+      "word": "Bribery",
+      "synonyms": [
+        "Corruption",
+        "graft"
+      ],
+      "definition": "The act of offering money or favors\nto influence someone illegally",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "a20740b4-7adb-4190-b358-4d29aa94d40c",
+      "word": "Extortion",
+      "synonyms": [
+        "Blackmail",
+        "coercion"
+      ],
+      "definition": "The act of obtaining something\nthrough force or threats",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "171b0571-1807-4151-ae3e-44dccc5329a9",
+      "word": "Assault",
+      "synonyms": [
+        "Physical violence",
+        "attack"
+      ],
+      "definition": "A physical attack or a threat of\nattack",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "1c0dee15-a562-4e0d-aa6a-af512fd877da",
+      "word": "Kidnapping",
+      "synonyms": [
+        "Abduction",
+        "hostage-taking"
+      ],
+      "definition": "The act of unlawfully taking and\nholding someone captive",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "01398aee-241c-4c9d-afbb-e39d44aff41d",
+      "word": "Smuggling",
+      "synonyms": [
+        "Trafficking",
+        "illegal trade"
+      ],
+      "definition": "The illegal transportation of goods or\npeople",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "76befac3-e486-4088-97ef-90ab9280effb",
+      "word": "Human trafficking",
+      "synonyms": [
+        "Modern slavery",
+        "forced",
+        "labor"
+      ],
+      "definition": "The illegal trade of humans for\nexploitation",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "508461ea-09ff-4bda-9a97-ee6d1c32d42e",
+      "word": "Cybercrime",
+      "synonyms": [
+        "Online fraud",
+        "hacking"
+      ],
+      "definition": "Criminal activities carried out using\ndigital technology",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "df47d670-a191-44e2-9002-4e8686198fa8",
+      "word": "Money laundering",
+      "synonyms": [
+        "Financial fraud",
+        "illicit",
+        "transactions"
+      ],
+      "definition": "The process of disguising illegally\nobtained money as legitimate",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "b03fac23-f003-413a-ae80-0a30a7bb1472",
+      "word": "Arson",
+      "synonyms": [
+        "Fire-setting",
+        "incendiarism"
+      ],
+      "definition": "The criminal act of deliberately\nsetting fire to property",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "31344f20-149f-402c-b878-b9a6c029173b",
+      "word": "Vandalism",
+      "synonyms": [
+        "Property damage",
+        "defacement"
+      ],
+      "definition": "The deliberate destruction of\nproperty",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "63aa7dd0-c3f3-4bb6-b0bd-05cb94c1080a",
+      "word": "Domestic violence",
+      "synonyms": [
+        "Family abuse",
+        "intimate",
+        "partner violence"
+      ],
+      "definition": "Abuse occurring within a household,\noften between partners",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "cecb7ca8-9a21-45fd-bebb-f742ad86d634",
+      "word": "White-collar crime",
+      "synonyms": [
+        "Corporate crime",
+        "economic fraud"
+      ],
+      "definition": "Financially motivated, non-violent\ncrime committed by professionals",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "06bfe0bc-ddb7-457a-9538-a19c8dcbfe0a",
+      "word": "Juvenile delinquency",
+      "synonyms": [
+        "Youth crime",
+        "underage",
+        "offenses"
+      ],
+      "definition": "Criminal behavior by minors",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "5034b1c7-306c-4d4b-8e45-50646b229e0f",
+      "word": "Recidivism",
+      "synonyms": [
+        "Reoffending",
+        "relapse"
+      ],
+      "definition": "The tendency of convicted criminals\nto re-offend",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "2004784f-41dd-4bfa-8a9e-927539d8bacb",
+      "word": "Capital punishment",
+      "synonyms": [
+        "Death penalty",
+        "execution"
+      ],
+      "definition": "The legal execution of a criminal as\npunishment for a serious crime",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "d462193e-9071-4381-8ce9-0fbedda41d63",
+      "word": "Accomplice",
+      "synonyms": [
+        "Associate",
+        "co-conspirator"
+      ],
+      "definition": "A person who helps another commit\na crime",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "9936d443-c5f0-41d6-a361-1cd61f8f1959",
+      "word": "Alibi",
+      "synonyms": [
+        "Defense",
+        "justification"
+      ],
+      "definition": "Evidence that someone was\nelsewhere when a crime took place",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "843f623a-8711-4471-8079-36c1ef6c78e0",
+      "word": "Bail",
+      "synonyms": [
+        "Conditional release",
+        "bond"
+      ],
+      "definition": "The temporary release of an accused person before trial, usually\nwith payment",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "836e223d-0151-48fd-b6bb-e5abe6e5811e",
+      "word": "Conviction",
+      "synonyms": [
+        "Guilty verdict",
+        "sentencing"
+      ],
+      "definition": "A formal declaration that someone is\nguilty of a crime",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "45c552b1-5b51-490e-8b9a-e0466c13ff41",
+      "word": "Acquittal",
+      "synonyms": [
+        "Exoneration",
+        "discharge"
+      ],
+      "definition": "A judgment that a person is not\nguilty of a crime",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "db451112-92b5-4c8b-8a3b-49ff8c08fa17",
+      "word": "Defendant",
+      "synonyms": [
+        "Accused",
+        "suspect"
+      ],
+      "definition": "A person accused of a crime in court",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "2b6ef211-0124-41bd-bad7-a3f7f955779e",
+      "word": "Plaintiff",
+      "synonyms": [
+        "Complainant",
+        "claimant"
+      ],
+      "definition": "A person who brings a case against\nanother in court",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "81e55c82-f7da-4994-b370-943b22fc9e6e",
+      "word": "Sentence",
+      "synonyms": [
+        "Penalty",
+        "punishment"
+      ],
+      "definition": "The punishment assigned to a\nconvicted criminal",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "fc0dc44e-7a67-41ed-8dc7-288ee37af7c8",
+      "word": "Parole",
+      "synonyms": [
+        "Probation",
+        "early release"
+      ],
+      "definition": "The conditional release of a prisoner\nbefore completing their sentence",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "f4422409-34a7-47ad-8f96-66015aa5cc59",
+      "word": "Incarceration",
+      "synonyms": [
+        "Imprisonment",
+        "detention"
+      ],
+      "definition": "The state of being imprisoned",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "29e3d0c1-8f1a-477c-b8fc-e7a8f9669468",
+      "word": "Probation",
+      "synonyms": [
+        "Supervised release",
+        "trial",
+        "period"
+      ],
+      "definition": "A period of supervised release\ninstead of prison time",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "7a65199d-2ef3-411c-b0a7-2c7bc765cb9a",
+      "word": "Crime rate",
+      "synonyms": [
+        "Criminal statistics",
+        "offense",
+        "rate"
+      ],
+      "definition": "The number of crimes committed per\nunit of population",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "9ad5849a-fab9-4cf3-b207-ec54e9a67e1c",
+      "word": "Law enforcement",
+      "synonyms": [
+        "Policing",
+        "authorities"
+      ],
+      "definition": "The system responsible for upholding laws and catching\ncriminals",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "5c3c58ab-01a1-4748-bddb-56a44578d822",
+      "word": "Forensics",
+      "synonyms": [
+        "Criminal investigation",
+        "forensic science"
+      ],
+      "definition": "Scientific methods used in crime\ninvestigation",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "f8f46f5c-6eca-4f46-b50c-b642b923548a",
+      "word": "Plea bargain",
+      "synonyms": [
+        "Settlement",
+        "negotiation"
+      ],
+      "definition": "An agreement where the accused pleads guilty in exchange for a\nlighter sentence",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "8680004b-c918-465a-aed1-30cec67c7b24",
+      "word": "Repeat offender",
+      "synonyms": [
+        "Recidivist",
+        "habitual",
+        "criminal"
+      ],
+      "definition": "A person who continues to commit\ncrimes after punishment",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "e0cfb5ef-8111-490c-a8c0-1e3be78d734a",
+      "word": "Vigilante",
+      "synonyms": [
+        "Self-appointed enforcer",
+        "avenger"
+      ],
+      "definition": "A person who takes law\nenforcement into their own hands",
+      "userGuesses": [],
+      "status": "hidden"
+    }
+  ],
+  "createdAt": 1769720394784
+}
