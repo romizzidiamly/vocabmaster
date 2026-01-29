@@ -217,7 +217,30 @@
       ],
       "definition": "The planting of trees in an area\nwhere there was no forest",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Afforestation is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Afforestation matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Afforestation, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Afforestation correctly, we succeed, so let's try."
+        }
+      ]
     },
     {
       "id": "9c9b3ffd-6a02-4c6f-a70f-da86e46ce1d1",
