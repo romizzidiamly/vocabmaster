@@ -2080,9 +2080,42 @@
         "Exercise cycle",
         "movement count"
       ],
-      "definition": "The number of times an exercise is performed in a set",
+      "definition": "The act of doing or saying something again, especially in order to emphasize it or make it more effective",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Pengulangan",
+      "phonetics": {
+        "us": "/ˌrɛpəˈtɪʃən/",
+        "uk": "/ˌrepɪˈtɪʃən/"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "The teacher asked the student to repeat the exercise.",
+          "translation": "Guru meminta siswa untuk mengulangi latihan."
+        },
+        {
+          "type": "Complex",
+          "text": "Because the lesson was not clear, the teacher had to repeat the explanation.",
+          "translation": "Karena pelajaran itu tidak jelas, guru harus mengulangi penjelasannya."
+        },
+        {
+          "type": "Compound",
+          "text": "The company will repeat the advertisement, and they will also offer a discount.",
+          "translation": "Perusahaan akan mengulangi iklan, dan mereka juga akan menawarkan diskon."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "While the teacher was explaining the lesson, she had to repeat some points because the students were not paying attention, but they eventually understood the concept.",
+          "translation": "Saat guru menjelaskan pelajaran, ia harus mengulangi beberapa poin karena siswa tidak memperhatikan, tetapi mereka akhirnya memahami konsepnya."
+        }
+      ],
+      "synonymMeanings": [
+        "Pengulangan",
+        "Peniruan",
+        "Pemulangan",
+        "Penggalangan"
+      ]
     },
     {
       "id": "1916a63c-6dea-4080-9c8c-e349e5948baf",
