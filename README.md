@@ -1,36 +1,61 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🚀 VocabMaster: IELTS Mastery with Grok AI
 
-## Getting Started
+VocabMaster is a premium, AI-powered vocabulary learning platform designed specifically for IELTS Writing Task 2. Elevate your lexical resource with context-aware synonyms, complex sentence structures, and natural translations—all powered by **Llama 3.3 (Grok AI)**.
 
-First, run the development server:
+![Premium UI Showcase](https://raw.githubusercontent.com/romizzidiamly/vocabmaster/main/public/preview.png) *(Note: Placeholder for your actual preview image)*
 
+## ✨ Key Features
+
+- **🧠 Grok AI Integration**: Generate context-specific definitions, phonetics, and IELTS-grade example sentences on the fly.
+- **📚 Four IELTS Sentence Types**: Every word includes examples in **Simple**, **Complex**, **Compound**, and **Compound-Complex** structures.
+- **🇮🇩 Natural Translations**: Context-aware Indonesian translations prioritized for meaning over literal word-for-word translation.
+- **📂 Excel Bulk Upload**: Seamlessly import your custom vocabulary lists from Excel.
+- **🎮 Interactive Practice Mode**: Verify your mastery by recalling synonyms for discovered words.
+- **💎 Premium Design System**: A high-fidelity, polished UI with glassmorphism, smooth animations (Framer Motion), and perfect contrast.
+
+## 🛠️ Tech Stack
+
+- **Framework**: [Next.js 15+](https://nextjs.org/) (App Router)
+- **AI**: [Groq Cloud API](https://groq.com/) (Llama-3.3-70b-versatile)
+- **Styling**: Tailwind CSS & Vanilla CSS
+- **Animations**: Framer Motion
+- **Icons**: Lucide React
+- **Parsing**: xlsx (SheetJS)
+
+## 🚀 Getting Started
+
+### 1. Clone the repository
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+git clone https://github.com/romizzidiamly/vocabmaster.git
+cd vocabmaster
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### 2. Install dependencies
+```bash
+npm install
+```
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### 3. Configure Environment Variables
+Create a `.env.local` file in the root directory:
+```env
+GROQ_API_KEY=your_groq_api_key_here
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### 4. Run the development server
+```bash
+npm run dev
+```
+Open [http://localhost:3000](http://localhost:3000) to start your mastery journey.
 
-## Learn More
+## 📁 Project Structure
 
-To learn more about Next.js, take a look at the following resources:
+- `/components`: UI components (RecallTable, DataPreview, etc.)
+- `/context`: Global state management for vocabulary data.
+- `/lib`: Helper functions for AI generation and Excel parsing.
+- `/app/api/ai`: Groq Cloud API integration route.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🎯 Our Focus: IELTS Excellence
+This app is built to solve the #1 problem in IELTS Writing: **Repetitive Vocabulary**. By focusing on synonyms and diverse sentence structures, VocabMaster helps you hit that Band 7+ Lexical Resource and Grammatical Range & Accuracy.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+Built with ❤️ by Romi & Antigravity AI
