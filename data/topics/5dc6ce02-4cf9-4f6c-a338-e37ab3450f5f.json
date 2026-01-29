@@ -271,9 +271,41 @@
         "Blood sugar disorder",
         "hyperglycemia"
       ],
-      "definition": "A metabolic disease with high blood sugar levels",
+      "definition": "a medical condition in which the body does not produce enough insulin, leading to high blood sugar levels",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "penyakit gula atau kencing manis",
+      "phonetics": {
+        "us": "/daɪəˈbiːtiːz/",
+        "uk": "/daɪəˈbiːtiːz/"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Diabetes is a common disease.",
+          "translation": "Penyakit gula atau kencing manis adalah penyakit yang umum."
+        },
+        {
+          "type": "Complex",
+          "text": "Because she has diabetes, she needs to watch her diet.",
+          "translation": "Karena dia menderita penyakit gula, dia perlu menjaga pola makannya."
+        },
+        {
+          "type": "Compound",
+          "text": "Diabetes is a serious disease, and it requires constant medical attention.",
+          "translation": "Penyakit gula adalah penyakit yang serius, dan memerlukan perawatan medis yang konstan."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "While diabetes is a serious disease, it can be managed with proper diet and exercise, because a healthy lifestyle is crucial for people with this condition.",
+          "translation": "Sementara penyakit gula adalah penyakit yang serius, penyakit ini dapat dikendalikan dengan pola makan dan olahraga yang tepat, karena gaya hidup sehat sangat penting bagi orang-orang dengan kondisi ini."
+        }
+      ],
+      "synonymMeanings": [
+        "penyakit gula",
+        "kencing manis",
+        "hiperglikemia"
+      ]
     },
     {
       "id": "979f0398-3997-4b54-9277-61abc214ce5a",
