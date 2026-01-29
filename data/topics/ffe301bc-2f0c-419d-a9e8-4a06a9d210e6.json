@@ -483,7 +483,30 @@
       ],
       "definition": "The ability to express ideas clearly\nand effectively",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Articulation is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Articulation matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Articulation, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Articulation correctly, we succeed, so let's try."
+        }
+      ]
     },
     {
       "id": "edfe235b-257f-453a-bf78-719ffbc380a0",
