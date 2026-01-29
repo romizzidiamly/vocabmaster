@@ -18,10 +18,11 @@ export async function POST(request: NextRequest) {
             }, { status: 500 });
         }
 
-        const prompt = `Act as an IELTS Writing Expert and Indonesian Translator. For the vocabulary word "${word}", generate its Indonesian meaning/translation, exactly 4 example sentences (with their Indonesian translations), and its phonetic symbols in JSON format. 
+        const prompt = `Act as an IELTS Writing Expert and Indonesian Translator. For the vocabulary word "${word}", generate its Indonesian meaning/translation, exactly 4 example sentences (with their Indonesian translations), its phonetic symbols, and Indonesian meanings for its synonyms in JSON format. 
     The sentences must be high-quality and suitable for IELTS Writing Task 2.
     Provide one of each type: "Simple", "Complex", "Compound", "Compound-Complex".
     Also provide the phonetic symbols for American (US) and British (UK) English.
+    For the synonyms, provide a parallel array of their Indonesian translations.
     
     IMPORTANT: You MUST return ONLY a JSON object. No intro text, no conversational filler.
     Response format:
@@ -36,7 +37,8 @@ export async function POST(request: NextRequest) {
         {"type": "Complex", "text": "English sentence...", "translation": "Indonesian translation..."},
         {"type": "Compound", "text": "English sentence...", "translation": "Indonesian translation..."},
         {"type": "Compound-Complex", "text": "English sentence...", "translation": "Indonesian translation..."}
-      ]
+      ],
+      "synonymMeanings": ["translation1", "translation2", ...]
     }`;
 
         console.log('Calling Groq Cloud API...');

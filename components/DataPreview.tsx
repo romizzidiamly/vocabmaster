@@ -152,12 +152,18 @@ export function DataPreview() {
                                     </p>
                                     <div className="flex flex-wrap gap-2.5">
                                         {item.synonyms.map((syn, idx) => (
-                                            <span
-                                                key={idx}
-                                                className="bg-slate-900 dark:bg-primary text-white border border-white/20 px-5 py-2 rounded-2xl text-[13px] font-black shadow-xl shadow-primary/30 transition-all cursor-default scale-100 hover:scale-105"
-                                            >
-                                                {syn}
-                                            </span>
+                                            <div key={idx} className="flex flex-col gap-0.5">
+                                                <span
+                                                    className="bg-slate-900 dark:bg-primary text-white border border-white/20 px-5 py-2 rounded-2xl text-[13px] font-black shadow-xl shadow-primary/30 transition-all cursor-default scale-100 hover:scale-105"
+                                                >
+                                                    {syn}
+                                                </span>
+                                                {item.synonymMeanings && item.synonymMeanings[idx] && (
+                                                    <span className="text-[10px] font-bold text-slate-500 text-center uppercase tracking-tighter">
+                                                        {item.synonymMeanings[idx]}
+                                                    </span>
+                                                )}
+                                            </div>
                                         ))}
                                     </div>
                                 </div>

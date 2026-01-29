@@ -84,6 +84,45 @@ export function VocabProvider({ children }: { children: React.ReactNode }) {
             score: 0
         });
         await syncTopicToServer(newTopic);
+
+        // Auto-generate AI data for all words sequentially to avoid rate limits
+        const processBulk = async () => {
+            console.log("Starting bulk AI generation for topic:", name);
+            for (const item of items) {
+                try {
+                    const data = await fetchGroqData(item.word);
+                    setGameState(prev => {
+                        const updatedItems = prev.items.map(i =>
+                            i.id === item.id ? {
+                                ...i,
+                                meaning: data.meaning,
+                                phonetics: data.phonetics,
+                                examples: data.examples,
+                                synonymMeanings: data.synonymMeanings
+                            } : i
+                        );
+
+                        // Also update topic list for persistence
+                        setTopics(tList => tList.map(t => {
+                            if (t.id === newTopic.id) {
+                                const updatedTopic = { ...t, items: updatedItems };
+                                syncTopicToServer(updatedTopic);
+                                return updatedTopic;
+                            }
+                            return t;
+                        }));
+
+                        return { ...prev, items: updatedItems };
+                    });
+                    // Small delay to respect rate limits
+                    await new Promise(resolve => setTimeout(resolve, 500));
+                } catch (e) {
+                    console.error(`Failed bulk generation for ${item.word}:`, e);
+                }
+            }
+        };
+
+        processBulk();
     };
 
     const updateTopic = async (id: string, updatedTopic: Topic) => {

@@ -8,6 +8,7 @@ export interface GroqResponse {
     meaning: string;
     phonetics: { us: string, uk: string };
     examples: IeltsExamples[];
+    synonymMeanings?: string[];
 }
 
 export async function fetchGroqData(word: string): Promise<GroqResponse> {
@@ -26,7 +27,8 @@ export async function fetchGroqData(word: string): Promise<GroqResponse> {
         return {
             meaning: data.meaning || 'n/a',
             phonetics: data.phonetics || { us: 'n/a', uk: 'n/a' },
-            examples: data.examples
+            examples: data.examples,
+            synonymMeanings: data.synonymMeanings
         };
     } catch (error) {
         console.error('Failed to fetch Groq data:', error);
