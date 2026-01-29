@@ -11,7 +11,30 @@
       ],
       "definition": "A community of living organisms\ninteracting with their environment",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Ecosystem is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Ecosystem matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Ecosystem, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Ecosystem correctly, we succeed, so let's try."
+        }
+      ]
     },
     {
       "id": "363e996a-bd46-43d7-9bd4-550a537bc12c",
@@ -22,7 +45,30 @@
       ],
       "definition": "The variety of plant and animal life in\na particular habitat",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Biodiversity is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Biodiversity matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Biodiversity, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Biodiversity correctly, we succeed, so let's try."
+        }
+      ]
     },
     {
       "id": "903133e9-207a-4be8-ba5f-eaa81fe8218e",
