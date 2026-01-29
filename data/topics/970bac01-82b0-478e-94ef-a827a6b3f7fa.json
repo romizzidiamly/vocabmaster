@@ -945,7 +945,30 @@
       ],
       "definition": "A person who helps another commit\na crime",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Accomplice is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Accomplice matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Accomplice, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Accomplice correctly, we succeed, so let's try."
+        }
+      ]
     },
     {
       "id": "9936d443-c5f0-41d6-a361-1cd61f8f1959",
