@@ -113,7 +113,30 @@
       ],
       "definition": "The gradual increase in Earth's temperature due to greenhouse\ngases",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Global warming is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Global warming matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Global warming, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Global warming correctly, we succeed, so let's try."
+        }
+      ]
     },
     {
       "id": "38ce423c-16c1-46f1-8c6c-11377dfd0312",
@@ -125,7 +148,30 @@
       ],
       "definition": "The clearing or destruction of forests\nfor human use",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Deforestation is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Deforestation matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Deforestation, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Deforestation correctly, we succeed, so let's try."
+        }
+      ]
     },
     {
       "id": "1b14d3dd-4661-4d0d-8308-7ddaf4f32de9",
@@ -137,7 +183,30 @@
       ],
       "definition": "The process of planting trees in\ndeforested areas",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Reforestation is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Reforestation matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Reforestation, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Reforestation correctly, we succeed, so let's try."
+        }
+      ]
     },
     {
       "id": "f6751a82-a77d-4a48-9865-c581ce49ded5",
