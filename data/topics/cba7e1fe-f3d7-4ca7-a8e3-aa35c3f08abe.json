@@ -143,7 +143,30 @@
       ],
       "definition": "Direct, face-to-face communication between individuals",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Interpersonal Communication is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Interpersonal Communication matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Interpersonal Communication, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Interpersonal Communication correctly, we succeed, so let's try."
+        }
+      ]
     },
     {
       "id": "ba500cb6-424e-45b5-876d-76c21d8c20b6",
