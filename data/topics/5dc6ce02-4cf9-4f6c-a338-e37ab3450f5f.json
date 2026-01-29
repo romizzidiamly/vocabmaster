@@ -925,9 +925,42 @@
         "Detox effects",
         "cravings"
       ],
-      "definition": "Physical or psychological effects after stopping a substance",
+      "definition": "a condition that occurs when the body is no longer able to function normally because it has stopped using a substance, such as a drug, to which it has become accustomed",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "gejala putus zat",
+      "phonetics": {
+        "us": "/wɪðˈdrɔːl ˈsɪmp.təmz/",
+        "uk": "/wɪθˈdrɔːl ˈsɪmptəmz/"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "The patient experienced withdrawal symptoms after quitting smoking.",
+          "translation": "Pasien mengalami gejala putus zat setelah berhenti merokok."
+        },
+        {
+          "type": "Complex",
+          "text": "Because she had been taking the medication for a long time, she suffered from withdrawal symptoms when she stopped using it.",
+          "translation": "Karena dia telah mengonsumsi obat tersebut dalam waktu lama, dia menderita gejala putus zat ketika dia berhenti menggunakannya."
+        },
+        {
+          "type": "Compound",
+          "text": "The doctor warned the patient about withdrawal symptoms, and the patient decided to quit smoking gradually.",
+          "translation": "Dokter memperingatkan pasien tentang gejala putus zat, dan pasien memutuskan untuk berhenti merokok secara bertahap."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "While the new medication helped to reduce the patient's pain, it also caused withdrawal symptoms, because the patient had been taking the old medication for a long time, and the doctor had to adjust the dosage carefully.",
+          "translation": "Sementara obat baru membantu mengurangi rasa sakit pasien, juga menyebabkan gejala putus zat, karena pasien telah mengonsumsi obat lama selama waktu lama, dan dokter harus menyesuaikan dosis dengan hati-hati."
+        }
+      ],
+      "synonymMeanings": [
+        "gejala kecanduan",
+        "gejala sindrom putus obat",
+        "gejala putus obat",
+        "gejala kehilangan zat"
+      ]
     },
     {
       "id": "e210c373-1058-43d2-a798-3a0f53f82eb9",
