@@ -995,7 +995,30 @@
       ],
       "definition": "Nonverbal signals that guide\ninteractions",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Social Cues is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Social Cues matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Social Cues, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Social Cues correctly, we succeed, so let's try."
+        }
+      ]
     },
     {
       "id": "f8a6a32a-bfe1-4be3-b9b9-b95031d1ec34",
