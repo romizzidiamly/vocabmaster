@@ -1202,9 +1202,42 @@
         "Sanitation",
         "cleanliness"
       ],
-      "definition": "Practices that maintain cleanliness and health",
+      "definition": "The state of being clean and free from dirt, bacteria, or other things that can cause disease",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Kebersihan",
+      "phonetics": {
+        "us": "/ˈhaɪˌdʒiːn/",
+        "uk": "/ˈhaɪˌdʒiːn/"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Washing your hands is an important part of personal hygiene.",
+          "translation": "Mencuci tangan adalah bagian penting dari kebersihan pribadi."
+        },
+        {
+          "type": "Complex",
+          "text": "Because she didn't practice good hygiene, she got sick easily.",
+          "translation": "Karena dia tidak berkebersihan yang baik, dia mudah sakit."
+        },
+        {
+          "type": "Compound",
+          "text": "I exercise regularly and I also practice good hygiene to stay healthy.",
+          "translation": "Saya berolahraga secara teratur dan saya juga berkebersihan yang baik untuk menjaga kesehatan."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "While I was traveling, I made sure to practice good hygiene, because I knew that if I didn't, I would get sick, and also I didn't want to infect others.",
+          "translation": "Ketika saya bepergian, saya memastikan untuk berkebersihan yang baik, karena saya tahu bahwa jika saya tidak, saya akan sakit, dan juga saya tidak ingin menginfeksi orang lain."
+        }
+      ],
+      "synonymMeanings": [
+        "Kebersihan",
+        "Keseimbangan",
+        "Kesehatan",
+        "Sanitasi"
+      ]
     },
     {
       "id": "d8481229-b468-4195-85b4-885f21fa5532",
