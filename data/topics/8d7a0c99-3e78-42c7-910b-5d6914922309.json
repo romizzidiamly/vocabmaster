@@ -147,7 +147,30 @@
       ],
       "definition": "The process of distributing\ninformation to large audiences through media",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Mass Communication is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Mass Communication matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Mass Communication, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Mass Communication correctly, we succeed, so let's try."
+        }
+      ]
     },
     {
       "id": "83adaf26-a860-4e8c-a17c-3dc08e0a2fa9",
