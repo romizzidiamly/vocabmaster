@@ -1737,7 +1737,30 @@
       ],
       "definition": "The ability to sustain physical activity over time",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Endurance is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Endurance matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Endurance, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Endurance correctly, we succeed, so let's try."
+        }
+      ]
     },
     {
       "id": "2dde3bc4-70c7-43fe-b49a-fab25c8ac905",
