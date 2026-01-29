@@ -183,9 +183,42 @@
         "Property owner",
         "lessor"
       ],
-      "definition": "A person who owns and rents out\nproperty",
+      "definition": "a person who owns a building or land and rents it to someone else",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Pemilik tanah atau bangunan yang menyewakannya kepada orang lain",
+      "phonetics": {
+        "us": "/ˈlænd.lɔrd/",
+        "uk": "/ˈlænd.lɔːd/"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "The landlord is very kind.",
+          "translation": "Pemilik tanah sangat baik."
+        },
+        {
+          "type": "Complex",
+          "text": "If the tenant breaks the rules, the landlord will evict them.",
+          "translation": "Jika penyewa melanggar aturan, pemilik tanah akan mengusir mereka."
+        },
+        {
+          "type": "Compound",
+          "text": "The landlord is rich and the tenant is poor, but they are friends.",
+          "translation": "Pemilik tanah kaya dan penyewa miskin, tetapi mereka berteman."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "While the landlord was checking the apartment, the tenant was explaining that they had already paid the rent, but the landlord did not believe them.",
+          "translation": "Saat pemilik tanah memeriksa apartemen, penyewa menjelaskan bahwa mereka sudah membayar sewa, tetapi pemilik tanah tidak mempercayai mereka."
+        }
+      ],
+      "synonymMeanings": [
+        "Pemilik properti",
+        "Pengusaha persewaan",
+        "Pemilik real estat",
+        "Pengelola gedung"
+      ]
     },
     {
       "id": "a68226e0-5658-414b-8b37-54a81bb2fa92",
