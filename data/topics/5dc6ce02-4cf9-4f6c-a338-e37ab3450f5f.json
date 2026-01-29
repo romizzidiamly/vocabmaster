@@ -2393,7 +2393,12 @@
       ],
       "definition": "The period needed for muscles to heal after exercise",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "n/a",
+      "phonetics": {
+        "us": "n/a",
+        "uk": "n/a"
+      }
     },
     {
       "id": "ff064543-c1dd-4d9d-a3e1-520a5dd33e0a",
