@@ -1132,7 +1132,30 @@
       ],
       "definition": "The rise and fall of voice pitch in\nspeech",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Intonation is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Intonation matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Intonation, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Intonation correctly, we succeed, so let's try."
+        }
+      ]
     },
     {
       "id": "ff5e1e2f-bf4e-4209-9a7d-fed06ce8ac05",
