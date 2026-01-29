@@ -1183,7 +1183,30 @@
       ],
       "definition": "The punishment assigned to a\nconvicted criminal",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Sentence is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Sentence matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Sentence, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Sentence correctly, we succeed, so let's try."
+        }
+      ]
     },
     {
       "id": "fc0dc44e-7a67-41ed-8dc7-288ee37af7c8",
