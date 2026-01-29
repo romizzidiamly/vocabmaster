@@ -79,7 +79,30 @@
       ],
       "definition": "Exchanging information through written text",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Written Communication is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Written Communication matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Written Communication, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Written Communication correctly, we succeed, so let's try."
+        }
+      ]
     },
     {
       "id": "6e7d598e-9481-4682-9d97-cab49b72bab1",
