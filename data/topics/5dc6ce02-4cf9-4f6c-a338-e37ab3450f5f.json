@@ -1924,9 +1924,42 @@
         "Caloric burn",
         "energy expenditure"
       ],
-      "definition": "The body’s process of converting food into energy",
+      "definition": "The chemical processes that happen within a living organism to maintain life",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "metabolisme",
+      "phonetics": {
+        "us": "/məˈtæbəlɪzəm/",
+        "uk": "/məˈtæbɒlɪzəm/"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "The doctor explained that a fast metabolism helps burn calories.",
+          "translation": "Dokter menjelaskan bahwa metabolisme yang cepat membantu membakar kalori."
+        },
+        {
+          "type": "Complex",
+          "text": "Because she had a high metabolism, she was able to eat a lot without gaining weight.",
+          "translation": "Karena dia memiliki metabolisme yang tinggi, dia bisa makan banyak tanpa mendapatkan berat badan."
+        },
+        {
+          "type": "Compound",
+          "text": "Exercise boosts metabolism, and a healthy diet also helps to increase it.",
+          "translation": "Olahraga meningkatkan metabolisme, dan pola makan sehat juga membantu meningkatkannya."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "While a fast metabolism can be beneficial for weight loss, it can also lead to nutritional deficiencies if not properly managed, because the body burns calories quickly.",
+          "translation": "Sementara metabolisme yang cepat dapat bermanfaat untuk penurunan berat badan, juga dapat menyebabkan kekurangan gizi jika tidak dikelola dengan baik, karena tubuh membakar kalori dengan cepat."
+        }
+      ],
+      "synonymMeanings": [
+        "pemecahan",
+        "pembentukan",
+        "perubahan kimia",
+        "proses biokimia"
+      ]
     },
     {
       "id": "fdf06bdb-e5a0-4745-9dec-b28318ced7bd",
