@@ -2314,9 +2314,41 @@
         "Midsection stability",
         "core fitness"
       ],
-      "definition": "The strength of the muscles around the abdomen and lower back",
+      "definition": "The strength that you have in the central part of your body, which helps you to keep your balance and gives you power when you move",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Kekuatan inti",
+      "phonetics": {
+        "us": "/kɔr ˈstrɛŋθ/",
+        "uk": "/kɔː ˈstrɛŋθ/"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Having core strength is essential for good posture.",
+          "translation": "Mempunyai kekuatan inti sangat penting untuk postur tubuh yang baik."
+        },
+        {
+          "type": "Complex",
+          "text": "Because she regularly practices yoga, she has developed the core strength that enables her to perform complex poses.",
+          "translation": "Karena dia secara teratur berlatih yoga, dia telah mengembangkan kekuatan inti yang memungkinkannya untuk melakukan pose yang kompleks."
+        },
+        {
+          "type": "Compound",
+          "text": "Core strength is important, and regular exercise helps to improve it, so I try to work out every day.",
+          "translation": "Kekuatan inti sangat penting, dan olahraga teratur membantu meningkatkannya, jadi saya mencoba berolahraga setiap hari."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "While having strong arms and legs is important, core strength is also crucial because it helps to stabilize the body, and regular exercise can improve it, which is why I try to work out every day.",
+          "translation": "Sementara memiliki lengan dan kaki yang kuat sangat penting, kekuatan inti juga sangat penting karena membantu menstabilkan tubuh, dan olahraga teratur dapat meningkatkannya, yang merupakan alasan mengapa saya mencoba berolahraga setiap hari."
+        }
+      ],
+      "synonymMeanings": [
+        "Kekuatan otot perut",
+        "Kekuatan pusat tubuh",
+        "Keseimbangan tubuh"
+      ]
     },
     {
       "id": "6c54ae3c-7c49-478a-91b3-86efb287f22a",
