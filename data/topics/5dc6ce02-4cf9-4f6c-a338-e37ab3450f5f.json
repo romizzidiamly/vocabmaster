@@ -184,9 +184,42 @@
         "Inactive lifestyle",
         "desk-bound routine"
       ],
-      "definition": "A way of life with little physical activity",
+      "definition": "a way of life in which people spend a lot of time sitting or not being physically active",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "gaya hidup kurang gerak",
+      "phonetics": {
+        "us": "/sɪˈdɛn.tɝ.i/",
+        "uk": "/sɪˈdɛn.tə.ri/"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "She leads a sedentary lifestyle.",
+          "translation": "Dia menjalani gaya hidup kurang gerak."
+        },
+        {
+          "type": "Complex",
+          "text": "Because she works from home, she has a sedentary lifestyle.",
+          "translation": "Karena dia bekerja dari rumah, dia menjalani gaya hidup kurang gerak."
+        },
+        {
+          "type": "Compound",
+          "text": "She leads a sedentary lifestyle and never exercises, but her brother is very active.",
+          "translation": "Dia menjalani gaya hidup kurang gerak dan tidak pernah berolahraga, tetapi saudaranya sangat aktif."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "While she leads a sedentary lifestyle, her brother is very active because he works outdoors and enjoys playing sports.",
+          "translation": "Sementara dia menjalani gaya hidup kurang gerak, saudaranya sangat aktif karena dia bekerja di luar ruangan dan menikmati bermain olahraga."
+        }
+      ],
+      "synonymMeanings": [
+        "gaya hidup diam",
+        "gaya hidup tidak aktif",
+        "kehidupan yang tidak banyak bergerak",
+        "gaya hidup malas"
+      ]
     },
     {
       "id": "cfabfa98-154c-450f-a9e3-30803f2e806b",
