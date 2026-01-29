@@ -774,7 +774,30 @@
       ],
       "definition": "Abuse occurring within a household,\noften between partners",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Domestic violence is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Domestic violence matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Domestic violence, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Domestic violence correctly, we succeed, so let's try."
+        }
+      ]
     },
     {
       "id": "cecb7ca8-9a21-45fd-bebb-f742ad86d634",
