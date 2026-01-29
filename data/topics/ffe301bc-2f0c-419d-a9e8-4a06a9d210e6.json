@@ -517,7 +517,30 @@
       ],
       "definition": "The skill of handling negotiations or\nsensitive situations tactfully",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Diplomacy is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Diplomacy matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Diplomacy, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Diplomacy correctly, we succeed, so let's try."
+        }
+      ]
     },
     {
       "id": "8d2f1cee-1680-4748-a7d4-e17f8023aafd",
