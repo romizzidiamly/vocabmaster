@@ -400,9 +400,42 @@
         "Psychological wellness",
         "emotional"
       ],
-      "definition": "Psychological and emotional well-being",
+      "definition": "A person's condition with regard to their psychological and emotional well-being.",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Kesehatan mental",
+      "phonetics": {
+        "us": "/ˈmɛntəl ˈhɛlθ/",
+        "uk": "/ˈmɛntəl ˈhɛlθ/"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "She takes care of her mental health by exercising regularly.",
+          "translation": "Dia menjaga kesehatan mentalnya dengan berolahraga secara teratur."
+        },
+        {
+          "type": "Complex",
+          "text": "Because she suffered from anxiety, she decided to seek help from a therapist to improve her mental health.",
+          "translation": "Karena dia menderita kecemasan, dia memutuskan untuk mencari bantuan dari seorang terapis untuk memperbaiki kesehatan mentalnya."
+        },
+        {
+          "type": "Compound",
+          "text": "Mental health is important, and she takes care of it, but her sister neglects her own.",
+          "translation": "Kesehatan mental penting, dan dia menjaganya, tapi adiknya mengabaikan kesehatan mentalnya sendiri."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "While mental health is crucial for overall well-being, she has been struggling to maintain hers because she has a lot of work, and her sister, who has the same problem, has been trying to find a balance between work and personal life.",
+          "translation": "Sementara kesehatan mental sangat penting untuk kesejahteraan secara keseluruhan, dia telah berjuang untuk mempertahankannya karena dia memiliki banyak pekerjaan, dan adiknya, yang memiliki masalah yang sama, telah mencoba untuk menemukan keseimbangan antara pekerjaan dan kehidupan pribadi."
+        }
+      ],
+      "synonymMeanings": [
+        "Kesehatan jiwa",
+        "Kondisi psikologis",
+        "Kesejahteraan emosional",
+        "Kesehatan psikiatrik"
+      ]
     },
     {
       "id": "d6acc89f-7db9-4b21-b950-98311be419cf",
