@@ -1,0 +1,280 @@
+{
+  "id": "cba7e1fe-f3d7-4ca7-a8e3-aa35c3f08abe",
+  "name": "ENVIRONMENT 2",
+  "items": [
+    {
+      "id": "3398cbdb-a55f-4d4f-ab63-46764290f8a1",
+      "word": "Accommodation",
+      "synonyms": [
+        "Lodging",
+        "residence"
+      ],
+      "definition": "A place where someone lives or stays temporarily",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "1816f65b-607a-425a-a83b-bdba3aba510b",
+      "word": "Housing",
+      "synonyms": [
+        "Shelter",
+        "dwelling"
+      ],
+      "definition": "Buildings or structures where people\nlive",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "52300981-01c8-4085-abb7-55f8ab30db7f",
+      "word": "Residence",
+      "synonyms": [
+        "Home",
+        "dwelling"
+      ],
+      "definition": "A place where someone lives, especially long-term",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "0945a9b6-995d-414c-b849-cf7895f45066",
+      "word": "Rental",
+      "synonyms": [
+        "Lease",
+        "tenancy"
+      ],
+      "definition": "Property that is leased to tenants",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "2085bafa-8d87-4000-98c2-a8fedeb94e56",
+      "word": "Landlord",
+      "synonyms": [
+        "Property owner",
+        "lessor"
+      ],
+      "definition": "A person who owns and rents out\nproperty",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "a68226e0-5658-414b-8b37-54a81bb2fa92",
+      "word": "Tenant",
+      "synonyms": [
+        "Renter",
+        "occupant"
+      ],
+      "definition": "A person who rents a property",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "cf0e9507-f31a-4d04-bbb8-0b3e3349abaa",
+      "word": "Mortgage",
+      "synonyms": [
+        "Home loan",
+        "financing"
+      ],
+      "definition": "A loan used to purchase property",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "22281197-325c-4144-8e24-9fcdf3f3bdac",
+      "word": "Deposit",
+      "synonyms": [
+        "Down payment",
+        "security",
+        "fee"
+      ],
+      "definition": "A sum of money paid upfront as\nsecurity for renting a property",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "57b4c241-97c6-4f4b-ae90-436d0bff1cb3",
+      "word": "Lease Agreement",
+      "synonyms": [
+        "Rental contract",
+        "tenancy",
+        "agreement"
+      ],
+      "definition": "A legal contract outlining rental\nterms",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "a06e2d72-6d89-47ec-8779-1b6f2144f59a",
+      "word": "Furnished Apartment",
+      "synonyms": [
+        "Fully equipped apartment",
+        "ready-to-move-in housing"
+      ],
+      "definition": "A rental unit equipped with furniture",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "cdbe68b0-27c7-48c0-9e08-423b319726ce",
+      "word": "Studio Apartment",
+      "synonyms": [
+        "One-room flat",
+        "efficiency",
+        "apartment"
+      ],
+      "definition": "A small, self-contained living space\nwith an open layout",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "4e7d6ec2-2226-40d3-b621-4c966ed81b0e",
+      "word": "Shared Accommodation",
+      "synonyms": [
+        "Co-living",
+        "communal",
+        "housing"
+      ],
+      "definition": "Housing where multiple people live\ntogether",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "14f30598-3dcf-4aa6-a792-da44c2207668",
+      "word": "Hall of Residence",
+      "synonyms": [
+        "Dormitory",
+        "student",
+        "housing"
+      ],
+      "definition": "University-owned accommodation\nfor students",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "9db3b9f5-10d2-4630-a580-e2e22fe2e911",
+      "word": "Homestay",
+      "synonyms": [
+        "Host family arrangement",
+        "cultural immersion",
+        "housing"
+      ],
+      "definition": "Living with a local family, often for cultural exchange",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "65efae42-3b59-46fa-b822-c4b4a51aa746",
+      "word": "Lodging",
+      "synonyms": [
+        "Shelter",
+        "temporary",
+        "housing"
+      ],
+      "definition": "Temporary accommodation, often for\ntravelers",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "5448cccc-d127-46f3-b5bb-be2bd61f8714",
+      "word": "Suburb",
+      "synonyms": [
+        "Outskirts",
+        "residential district"
+      ],
+      "definition": "A residential area located on the outskirts of a city",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "0464f7c9-f6e6-4ee4-8a8b-96dd3feb9b4e",
+      "word": "Urban Housing",
+      "synonyms": [
+        "City accommodation",
+        "metropolitan housing"
+      ],
+      "definition": "Residential buildings located in cities",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "ca04d980-c8b6-4a1a-86b1-d023739cf981",
+      "word": "Rural Housing",
+      "synonyms": [
+        "Countryside residence",
+        "farmstead"
+      ],
+      "definition": "Accommodation in non-urban areas,\noften with more space and nature",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "3ad66efa-b36d-4c56-bcab-0c42d5d49d27",
+      "word": "Affordable Housing",
+      "synonyms": [
+        "Low-cost housing",
+        "budget-friendly homes"
+      ],
+      "definition": "Housing options that are financially\naccessible to low-income individuals",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "c2557642-1015-436f-89d6-97219de91242",
+      "word": "Overcrowding",
+      "synonyms": [
+        "Congestion",
+        "excessive",
+        "occupancy"
+      ],
+      "definition": "A situation where too many people\nlive in a confined space",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "c855e541-c154-42d8-9392-e6b0816e30da",
+      "word": "Eviction",
+      "synonyms": [
+        "Forced removal",
+        "displacement"
+      ],
+      "definition": "The legal removal of tenants from a\nproperty",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "56e2e58b-4106-4cb6-b0f8-b1b23893304d",
+      "word": "Property Market",
+      "synonyms": [
+        "Real estate industry",
+        "housing market"
+      ],
+      "definition": "The buying, selling, and renting of\nreal estate",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "ba8a99bc-0392-4019-968f-0e1bd9e3c5a0",
+      "word": "Utilities",
+      "synonyms": [
+        "Basic services",
+        "household",
+        "necessities"
+      ],
+      "definition": "Essential services like electricity,\nwater, and gas in a residence",
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "35a5b935-cacd-4a79-a451-64abfcbbb9b0",
+      "word": "Gentrification",
+      "synonyms": [
+        "Urban renewal",
+        "redevelopment"
+      ],
+      "definition": "The process of renovating an area, often leading to displacement of\nlow-income residents",
+      "userGuesses": [],
+      "status": "hidden"
+    }
+  ],
+  "createdAt": 1769720323654
+}
