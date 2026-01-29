@@ -1286,7 +1286,30 @@
       ],
       "definition": "A period of supervised release\ninstead of prison time",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Probation is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Probation matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Probation, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Probation correctly, we succeed, so let's try."
+        }
+      ]
     },
     {
       "id": "7a65199d-2ef3-411c-b0a7-2c7bc765cb9a",
