@@ -121,10 +121,15 @@ export function RecallTable() {
                                                     {isMastered && <Sparkles className="w-5 h-5 text-primary animate-pulse" />}
                                                 </div>
                                                 <div className="flex flex-col gap-2">
-                                                    {item.phonetics && (
+                                                    {item.phonetics && typeof item.phonetics === 'object' && (
                                                         <div className="flex gap-2 text-[10px] font-medium text-slate-500 font-serif italic mb-1">
-                                                            <span>US: [{item.phonetics.us}]</span>
-                                                            <span>UK: [{item.phonetics.uk}]</span>
+                                                            <span>US: [{item.phonetics.us || '...'}]</span>
+                                                            <span>UK: [{item.phonetics.uk || '...'}]</span>
+                                                        </div>
+                                                    )}
+                                                    {item.phonetics && typeof item.phonetics === 'string' && (
+                                                        <div className="flex gap-2 text-[10px] font-medium text-slate-500 font-serif italic mb-1">
+                                                            <span>[{item.phonetics}]</span>
                                                         </div>
                                                     )}
                                                     <div className="flex gap-2">

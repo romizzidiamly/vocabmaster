@@ -22,7 +22,31 @@ export function GameInterface() {
     }, [feedback]);
 
     const handleSubmit = (e: React.FormEvent) => {
-        // ... (logic remains same)
+        e.preventDefault();
+        const cleanInput = input.trim().toLowerCase();
+        if (!cleanInput) return;
+
+        // Word Discovery Only
+        const found = gameState.items.find(
+            item => item.word.toLowerCase() === cleanInput
+        );
+
+        if (found) {
+            if (found.status !== 'hidden') {
+                setFeedback({ type: 'info', message: `"${found.word}" is already revealed! 👀` });
+                setInput('');
+                return;
+            }
+
+            markDiscovered(found.id);
+            setFeedback({ type: 'success', message: `Discovered: "${found.word}"! Amazing! 🔥` });
+            setInput('');
+
+            // Auto-clear success feedback
+            setTimeout(() => setFeedback(null), 2000);
+        } else {
+            setFeedback({ type: 'error', message: 'Word not found. Try again! 🤔' });
+        }
     };
 
     return (

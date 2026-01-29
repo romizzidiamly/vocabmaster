@@ -102,14 +102,7 @@ export function TopicList() {
                                     </div>
 
                                     <div className="space-y-6">
-                                        <div className="flex items-center justify-between text-xs font-bold">
-                                            <span className="text-slate-600 dark:text-slate-400 uppercase tracking-widest flex items-center gap-2 whitespace-nowrap">
-                                                <BookOpen className="w-4 h-4" /> Mastery Level
-                                            </span>
-                                            <span className="text-primary font-black">{percentage}%</span>
-                                        </div>
-
-                                        <div className="h-2 w-full bg-white/5 rounded-full overflow-hidden border border-white/5">
+                                        <div className="h-2 w-full bg-slate-200 dark:bg-white/5 rounded-full overflow-hidden border border-slate-300/50 dark:border-white/5">
                                             <motion.div
                                                 initial={{ width: 0 }}
                                                 animate={{ width: `${percentage}%` }}
