@@ -227,9 +227,42 @@
         "Renter",
         "occupant"
       ],
-      "definition": "A person who rents a property",
+      "definition": "a person who pays rent to use a building, land, or room, especially for a long period of time",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "penyewa",
+      "phonetics": {
+        "us": "/ˈtɛnənt/",
+        "uk": "/ˈtɛnənt/"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "The tenant has lived in the apartment for five years.",
+          "translation": "Penyewa telah tinggal di apartemen itu selama lima tahun."
+        },
+        {
+          "type": "Complex",
+          "text": "Because the tenant did not pay the rent on time, the landlord had to take action.",
+          "translation": "Karena penyewa tidak membayar sewa tepat waktu, pemilik rumah harus mengambil tindakan."
+        },
+        {
+          "type": "Compound",
+          "text": "The tenant signed the lease, and the landlord gave her the keys, so she could move in immediately.",
+          "translation": "Penyewa menandatangani sewa, dan pemilik rumah memberinya kunci, sehingga dia bisa pindah segera."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "While the tenant was waiting for the lease to be signed, she was also making plans to move, because she had already given notice to her current landlord, and the new landlord was willing to let her move in as soon as possible.",
+          "translation": "Sementara penyewa menunggu sewa untuk ditandatangani, dia juga membuat rencana untuk pindah, karena dia sudah memberi pemberitahuan kepada pemilik rumah saat ini, dan pemilik rumah baru bersedia membiarkannya pindah secepat mungkin."
+        }
+      ],
+      "synonymMeanings": [
+        "penghuni",
+        "penempati",
+        "orang yang menyewa",
+        "penggarap"
+      ]
     },
     {
       "id": "cf0e9507-f31a-4d04-bbb8-0b3e3349abaa",
