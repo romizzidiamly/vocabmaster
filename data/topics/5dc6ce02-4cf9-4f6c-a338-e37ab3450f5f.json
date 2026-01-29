@@ -969,9 +969,41 @@
         "Inherited disease",
         "congenital disorder"
       ],
-      "definition": "A disease caused by genetic abnormalities",
+      "definition": "A condition that someone is born with, which is caused by a problem with their genes",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Gangguan genetik",
+      "phonetics": {
+        "us": "/dɪˈsɔrdər/",
+        "uk": "/dɪˈsɔːdə/"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "The child was born with a genetic disorder.",
+          "translation": "Anak itu lahir dengan gangguan genetik."
+        },
+        {
+          "type": "Complex",
+          "text": "Because the family has a history of genetic disorders, they decided to undergo genetic testing.",
+          "translation": "Karena keluarga memiliki riwayat gangguan genetik, mereka memutuskan untuk melakukan tes genetik."
+        },
+        {
+          "type": "Compound",
+          "text": "The doctor studied the patient's genetic disorder, and she also examined the family's medical history.",
+          "translation": "Dokter itu mempelajari gangguan genetik pasien, dan dia juga memeriksa riwayat medis keluarga."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "While the researchers were studying the genetic disorder, they discovered a new gene that was linked to it, and they also found that it was more common in certain populations.",
+          "translation": "Saat para peneliti mempelajari gangguan genetik, mereka menemukan gen baru yang terkait dengannya, dan mereka juga menemukan bahwa itu lebih umum di beberapa populasi tertentu."
+        }
+      ],
+      "synonymMeanings": [
+        "kelainan bawaan",
+        "penyakit keturunan",
+        "kelainan gen"
+      ]
     },
     {
       "id": "89f9d11e-4157-49f9-ab7d-c42deab76cec",
