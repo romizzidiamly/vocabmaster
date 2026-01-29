@@ -140,9 +140,42 @@
         "Overweight",
         "excessive fat"
       ],
-      "definition": "Excessive body weight caused by fat accumulation",
+      "definition": "The condition of being grossly fat or overweight, to the point of being unhealthy.",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Kegemukan",
+      "phonetics": {
+        "us": "/ˈoʊbəsiːti/",
+        "uk": "/ɒbəˈsiːti/"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Obesity is a major health problem.",
+          "translation": "Kegemukan adalah masalah kesehatan yang besar."
+        },
+        {
+          "type": "Complex",
+          "text": "Because obesity is a major health problem, many people try to lose weight.",
+          "translation": "Karena kegemukan adalah masalah kesehatan yang besar, banyak orang berusaha untuk menurunkan berat badan."
+        },
+        {
+          "type": "Compound",
+          "text": "Obesity is a major health problem, and it affects many people worldwide.",
+          "translation": "Kegemukan adalah masalah kesehatan yang besar, dan itu mempengaruhi banyak orang di seluruh dunia."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "While obesity is a major health problem that affects many people worldwide, it can be prevented by eating a healthy diet and exercising regularly, because a healthy lifestyle is essential for overall well-being.",
+          "translation": "Sementara kegemukan adalah masalah kesehatan yang besar yang mempengaruhi banyak orang di seluruh dunia, itu dapat dicegah dengan makan makanan yang sehat dan berolahraga secara teratur, karena gaya hidup sehat sangat penting untuk kesejahteraan secara keseluruhan."
+        }
+      ],
+      "synonymMeanings": [
+        "Kegemukan berlebihan",
+        "Kelebihan berat badan",
+        "Obesitas",
+        "Kegemukan yang berlebihan"
+      ]
     },
     {
       "id": "b9ac9776-0325-424d-ac5e-15ec03664d82",
