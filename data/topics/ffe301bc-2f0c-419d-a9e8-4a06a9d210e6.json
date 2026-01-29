@@ -160,7 +160,7 @@
       ],
       "definition": "the act of planting trees in an area where they have been cut down",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -541,7 +541,7 @@
       ],
       "definition": "Energy derived from sources other\nthan fossil fuels",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -630,7 +630,7 @@
       ],
       "definition": "the effect that a person, company, etc. has on the environment, for example by the amount of energy they use, the waste they produce, etc.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
