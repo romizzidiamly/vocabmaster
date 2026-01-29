@@ -491,7 +491,30 @@
       ],
       "definition": "The introduction of harmful\nsubstances into the environment",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Pollution is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Pollution matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Pollution, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Pollution correctly, we succeed, so let's try."
+        }
+      ]
     },
     {
       "id": "a5f9ce6a-2962-429b-884c-a3f30aaa531b",
