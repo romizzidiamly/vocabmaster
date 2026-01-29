@@ -2519,9 +2519,42 @@
         "Sprint training",
         "circuit training"
       ],
-      "definition": "Alternating between high and low-intensity exercise",
+      "definition": "a method of training in which you do short periods of energetic exercise followed by short periods of rest",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "latihan interval",
+      "phonetics": {
+        "us": "/ˈɪntərˌvɑl ˈtreɪnɪŋ/",
+        "uk": "/ˈɪntəvəl ˈtreɪnɪŋ/"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "She does interval training to improve her endurance.",
+          "translation": "Dia melakukan latihan interval untuk meningkatkan ketahanannya."
+        },
+        {
+          "type": "Complex",
+          "text": "Because interval training is effective, many athletes use it to improve their performance.",
+          "translation": "Karena latihan interval efektif, banyak atlet menggunakan metode ini untuk meningkatkan kinerja mereka."
+        },
+        {
+          "type": "Compound",
+          "text": "Interval training is good for the heart, and it also improves muscle strength.",
+          "translation": "Latihan interval baik untuk jantung, dan juga meningkatkan kekuatan otot."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "While interval training can be challenging, many athletes use it because it is effective, and it also improves cardiovascular health.",
+          "translation": "Meskipun latihan interval bisa menantang, banyak atlet menggunakan metode ini karena efektif, dan juga meningkatkan kesehatan kardiovaskuler."
+        }
+      ],
+      "synonymMeanings": [
+        "latihan selang",
+        "pelatihan berkala",
+        "latihan bergantian",
+        "pelatihan bergilir"
+      ]
     },
     {
       "id": "071d6339-c7d9-463f-88b6-6b11c3621d60",
