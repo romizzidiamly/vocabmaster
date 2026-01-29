@@ -98,9 +98,14 @@ export function DataPreview() {
                                             {item.word}
                                         </h4>
                                         {item.phonetics && (
-                                            <p className="text-xs font-medium text-slate-500 font-serif italic mt-1 bg-white/5 inline-block px-2 py-0.5 rounded-lg">
-                                                [{item.phonetics}]
-                                            </p>
+                                            <div className="flex gap-2 items-center mt-1">
+                                                <p className="text-[10px] font-medium text-slate-500 font-serif italic bg-white/5 px-2 py-0.5 rounded-lg">
+                                                    US: [{item.phonetics.us}]
+                                                </p>
+                                                <p className="text-[10px] font-medium text-slate-500 font-serif italic bg-white/5 px-2 py-0.5 rounded-lg">
+                                                    UK: [{item.phonetics.uk}]
+                                                </p>
+                                            </div>
                                         )}
                                     </div>
                                     <div className="flex flex-col gap-2">

@@ -120,13 +120,21 @@ export function RecallTable() {
                                                     </span>
                                                     {isMastered && <Sparkles className="w-5 h-5 text-primary animate-pulse" />}
                                                 </div>
-                                                <div className="flex gap-2">
-                                                    <button onClick={() => speak(item.word, 'en-US')} className="flex items-center gap-2 px-3 py-1.5 glass-light hover:bg-primary/10 text-primary rounded-xl text-[10px] font-black uppercase transition-all border border-primary/10">
-                                                        <Volume2 className="w-3 h-3" /> US
-                                                    </button>
-                                                    <button onClick={() => speak(item.word, 'en-GB')} className="flex items-center gap-2 px-3 py-1.5 glass-light hover:bg-primary/10 text-primary rounded-xl text-[10px] font-black uppercase transition-all border border-primary/10">
-                                                        <Volume2 className="w-3 h-3" /> UK
-                                                    </button>
+                                                <div className="flex flex-col gap-2">
+                                                    {item.phonetics && (
+                                                        <div className="flex gap-2 text-[10px] font-medium text-slate-500 font-serif italic mb-1">
+                                                            <span>US: [{item.phonetics.us}]</span>
+                                                            <span>UK: [{item.phonetics.uk}]</span>
+                                                        </div>
+                                                    )}
+                                                    <div className="flex gap-2">
+                                                        <button onClick={() => speak(item.word, 'en-US')} className="flex items-center gap-2 px-3 py-1.5 glass-light hover:bg-primary/10 text-primary rounded-xl text-[10px] font-black uppercase transition-all border border-primary/10">
+                                                            <Volume2 className="w-3 h-3" /> US
+                                                        </button>
+                                                        <button onClick={() => speak(item.word, 'en-GB')} className="flex items-center gap-2 px-3 py-1.5 glass-light hover:bg-primary/10 text-primary rounded-xl text-[10px] font-black uppercase transition-all border border-primary/10">
+                                                            <Volume2 className="w-3 h-3" /> UK
+                                                        </button>
+                                                    </div>
                                                 </div>
                                             </div>
                                         </td>
