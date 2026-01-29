@@ -1321,7 +1321,30 @@
       ],
       "definition": "The number of crimes committed per\nunit of population",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Crime rate is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Crime rate matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Crime rate, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Crime rate correctly, we succeed, so let's try."
+        }
+      ]
     },
     {
       "id": "9ad5849a-fab9-4cf3-b207-ec54e9a67e1c",
