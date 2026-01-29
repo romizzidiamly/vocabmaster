@@ -1659,7 +1659,30 @@
       ],
       "definition": "Physical activity that increases heart rate and oxygen intake",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Aerobic exercise is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Aerobic exercise matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Aerobic exercise, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Aerobic exercise correctly, we succeed, so let's try."
+        }
+      ]
     },
     {
       "id": "a09463ae-720c-424a-ba69-841ab647e5d7",
