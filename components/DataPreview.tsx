@@ -97,15 +97,20 @@ export function DataPreview() {
                                         <h4 className="text-3xl font-black text-foreground group-hover:text-primary transition-colors tracking-tighter uppercase leading-none">
                                             {item.word}
                                         </h4>
-                                        {item.phonetics && (
+                                        {item.phonetics && typeof item.phonetics === 'object' && (
                                             <div className="flex gap-2 items-center mt-1">
                                                 <p className="text-[10px] font-medium text-slate-500 font-serif italic bg-white/5 px-2 py-0.5 rounded-lg">
-                                                    US: [{item.phonetics.us}]
+                                                    US: [{item.phonetics.us || '...'}]
                                                 </p>
                                                 <p className="text-[10px] font-medium text-slate-500 font-serif italic bg-white/5 px-2 py-0.5 rounded-lg">
-                                                    UK: [{item.phonetics.uk}]
+                                                    UK: [{item.phonetics.uk || '...'}]
                                                 </p>
                                             </div>
+                                        )}
+                                        {item.phonetics && typeof item.phonetics === 'string' && (
+                                            <p className="text-[10px] font-medium text-slate-500 font-serif italic mt-1 bg-white/5 px-2 py-0.5 rounded-lg">
+                                                [{item.phonetics}]
+                                            </p>
                                         )}
                                     </div>
                                     <div className="flex flex-col gap-2">
