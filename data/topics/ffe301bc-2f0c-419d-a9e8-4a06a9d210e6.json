@@ -790,7 +790,30 @@
       ],
       "definition": "The way a person's voice conveys\nemotion or meaning",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Tone of Voice is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Tone of Voice matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Tone of Voice, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Tone of Voice correctly, we succeed, so let's try."
+        }
+      ]
     },
     {
       "id": "4ba73a6c-a59b-4e5c-94d0-880bb5fc784c",
