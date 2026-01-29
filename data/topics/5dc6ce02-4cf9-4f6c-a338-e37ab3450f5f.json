@@ -1814,7 +1814,30 @@
       ],
       "definition": "Exercise designed to increase muscle power and endurance",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Strength training is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Strength training matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Strength training, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Strength training correctly, we succeed, so let's try."
+        }
+      ]
     },
     {
       "id": "076d46b2-1b53-48ac-baf4-87cb51749c51",
