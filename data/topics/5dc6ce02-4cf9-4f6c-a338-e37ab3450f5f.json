@@ -2565,7 +2565,30 @@
       ],
       "definition": "The ability to focus on muscle engagement during exercise",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Mind-muscle connection is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Mind-muscle connection matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Mind-muscle connection, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Mind-muscle connection correctly, we succeed, so let's try."
+        }
+      ]
     }
   ],
   "createdAt": 1769720179456
