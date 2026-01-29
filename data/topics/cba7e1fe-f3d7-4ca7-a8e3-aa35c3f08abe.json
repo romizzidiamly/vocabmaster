@@ -315,9 +315,42 @@
         "security",
         "fee"
       ],
-      "definition": "A sum of money paid upfront as\nsecurity for renting a property",
+      "definition": "a sum of money paid into a bank or building society account, or a sum of money paid as part of the cost of something, especially a house, that you will pay for in full later",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "uang muka atau uang yang disetorkan ke rekening bank",
+      "phonetics": {
+        "us": "/dɪˈpɑzɪt/",
+        "uk": "/dɪˈpɒzɪt/"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "I made a deposit into my savings account.",
+          "translation": "Saya melakukan setoran ke rekening tabungan saya."
+        },
+        {
+          "type": "Complex",
+          "text": "Because I had made a deposit, I was able to withdraw some cash when I needed it.",
+          "translation": "Karena saya telah melakukan setoran, saya dapat menarik sejumlah uang tunai ketika saya membutuhkannya."
+        },
+        {
+          "type": "Compound",
+          "text": "I made a deposit and then I transferred the money to my friend's account.",
+          "translation": "Saya melakukan setoran dan kemudian saya mentransfer uang ke rekening teman saya."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "Although I had made a deposit, I was still worried that I wouldn't have enough money, so I decided to transfer some more, and then I felt relieved because my account balance was sufficient.",
+          "translation": "Meskipun saya telah melakukan setoran, saya masih khawatir bahwa saya tidak akan memiliki cukup uang, jadi saya memutuskan untuk mentransfer beberapa lagi, dan kemudian saya merasa lega karena saldo rekening saya cukup."
+        }
+      ],
+      "synonymMeanings": [
+        "uang muka",
+        "setoran",
+        "penyetoran",
+        "pembayaran awal"
+      ]
     },
     {
       "id": "57b4c241-97c6-4f4b-ae90-436d0bff1cb3",
