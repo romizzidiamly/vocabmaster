@@ -420,7 +420,30 @@
       ],
       "definition": "The act of making or altering\ndocuments with intent to deceive",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Forgery is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Forgery matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Forgery, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Forgery correctly, we succeed, so let's try."
+        }
+      ]
     },
     {
       "id": "59cf80b5-7166-44fa-9ea1-f69fb3c2b688",
