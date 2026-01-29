@@ -320,7 +320,30 @@
       ],
       "definition": "Energy derived from finite resources",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Non-renewable energy is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Non-renewable energy matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Non-renewable energy, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Non-renewable energy correctly, we succeed, so let's try."
+        }
+      ]
     },
     {
       "id": "b67f98ab-8a9c-4373-9d05-9b6adc300575",
