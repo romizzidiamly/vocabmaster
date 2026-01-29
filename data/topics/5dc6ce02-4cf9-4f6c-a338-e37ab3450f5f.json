@@ -1055,9 +1055,42 @@
         "Lung disease",
         "breathing disorder"
       ],
-      "definition": "Diseases affecting the lungs and airways",
+      "definition": "a disease or condition that affects the lungs or airways, such as asthma or pneumonia",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "penyakit pernapasan",
+      "phonetics": {
+        "us": "/rɪˈspɪrətɔri/",
+        "uk": "/rɪˈspɪrətri/"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "The patient was diagnosed with a respiratory illness.",
+          "translation": "Pasien tersebut didiagnosis menderita penyakit pernapasan."
+        },
+        {
+          "type": "Complex",
+          "text": "Because she had a respiratory illness, she had to stay in the hospital for several days.",
+          "translation": "Karena dia menderita penyakit pernapasan, dia harus tinggal di rumah sakit selama beberapa hari."
+        },
+        {
+          "type": "Compound",
+          "text": "The doctor specialized in respiratory illness, and she also taught at the university.",
+          "translation": "Dokter tersebut berspesialisasi dalam penyakit pernapasan, dan dia juga mengajar di universitas."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "While the new medication helped to alleviate the symptoms of the respiratory illness, it also had some side effects, and the patient had to be monitored closely.",
+          "translation": "Sementara obat baru membantu mengurangi gejala penyakit pernapasan, obat tersebut juga memiliki beberapa efek samping, dan pasien harus dipantau dengan ketat."
+        }
+      ],
+      "synonymMeanings": [
+        "penyakit paru-paru",
+        "gangguan pernapasan",
+        "infeksi saluran pernapasan",
+        "penyakit saluran pernapasan"
+      ]
     },
     {
       "id": "80e27dcb-8975-4276-bc14-aa20fb6c8fa1",
