@@ -352,7 +352,30 @@
       ],
       "definition": "The illegal use of money entrusted\nto one's care",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Embezzlement is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Embezzlement matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Embezzlement, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Embezzlement correctly, we succeed, so let's try."
+        }
+      ]
     },
     {
       "id": "18891c09-821a-423c-ad9e-363fa73c94cb",
