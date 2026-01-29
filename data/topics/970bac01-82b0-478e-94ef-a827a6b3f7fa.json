@@ -1013,7 +1013,30 @@
       ],
       "definition": "The temporary release of an accused person before trial, usually\nwith payment",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Bail is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Bail matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Bail, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Bail correctly, we succeed, so let's try."
+        }
+      ]
     },
     {
       "id": "836e223d-0151-48fd-b6bb-e5abe6e5811e",
