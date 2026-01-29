@@ -19,12 +19,12 @@ export function DataPreview() {
     return (
         <div className="w-full max-w-4xl mx-auto space-y-8 animate-in fade-in slide-in-from-bottom-8 duration-700">
             <div className="text-center space-y-3">
-                <div className="inline-flex items-center gap-2 px-3 py-1 bg-indigo-500/10 border border-indigo-500/20 rounded-full text-indigo-400 text-[10px] font-black uppercase tracking-widest">
+                <div className="inline-flex items-center gap-2 px-3 py-1 bg-red-500/10 border border-red-500/20 rounded-full text-red-500 text-[10px] font-black uppercase tracking-widest">
                     <BookText className="w-3 h-3" /> Vocabulary Review
                 </div>
                 <h2 className="text-4xl font-black text-white tracking-tight">Study List</h2>
                 <p className="text-slate-500 max-w-lg mx-auto">
-                    Review your <span className="text-indigo-400 font-bold">{gameState.items.length} words</span> before starting the recall test.
+                    Review your <span className="text-red-500 font-bold">{gameState.items.length} words</span> before starting the recall test.
                 </p>
             </div>
 
@@ -32,10 +32,10 @@ export function DataPreview() {
                 {gameState.items.map((item) => (
                     <div
                         key={item.id}
-                        className="bg-slate-900/50 border border-slate-800 p-5 rounded-2xl hover:border-slate-700 transition-all group"
+                        className="bg-slate-900/50 border border-slate-800 p-5 rounded-2xl hover:border-red-500/30 transition-all group"
                     >
                         <div className="flex justify-between items-start mb-3">
-                            <h4 className="text-lg font-black text-white group-hover:text-indigo-400 transition-colors uppercase tracking-tight">{item.word}</h4>
+                            <h4 className="text-lg font-black text-white group-hover:text-red-500 transition-colors uppercase tracking-tight">{item.word}</h4>
                             <button
                                 onClick={() => speak(item.word)}
                                 className="p-1.5 bg-slate-800 hover:bg-slate-700 text-slate-400 hover:text-white rounded-lg transition-all"
@@ -63,7 +63,7 @@ export function DataPreview() {
                 </button>
                 <button
                     onClick={() => setPhase('playing')}
-                    className="flex items-center gap-3 px-10 py-3 bg-indigo-600 hover:bg-indigo-500 text-white rounded-2xl font-black text-sm uppercase tracking-widest transition-all shadow-xl shadow-indigo-500/20 scale-105"
+                    className="flex items-center gap-3 px-10 py-3 bg-red-700 hover:bg-red-600 text-white rounded-2xl font-black text-sm uppercase tracking-widest transition-all shadow-xl shadow-red-900/30 scale-105"
                 >
                     <Play className="w-5 h-5 fill-current" /> Start Recall Test
                 </button>

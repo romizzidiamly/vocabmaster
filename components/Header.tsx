@@ -9,13 +9,13 @@ export function Header() {
     return (
         <header className="sticky top-6 z-50 mb-16 flex items-center justify-between glass px-6 py-4 rounded-3xl shadow-2xl shadow-black/20">
             <div className="flex items-center gap-3 group cursor-pointer" onClick={() => resetGame()}>
-                <div className="w-11 h-11 bg-gradient-to-br from-indigo-500 to-purple-600 rounded-2xl flex items-center justify-center font-black text-white text-xl shadow-lg shadow-indigo-500/30 group-hover:scale-110 transition-transform duration-300">
+                <div className="w-11 h-11 bg-gradient-to-br from-red-600 to-red-800 rounded-2xl flex items-center justify-center font-black text-white text-xl shadow-lg shadow-red-900/30 group-hover:scale-110 transition-transform duration-300">
                     V
                 </div>
                 <div className="flex flex-col">
                     <h1 className="text-xl font-black tracking-tight text-white leading-none">VocabMaster</h1>
-                    <span className="text-[10px] items-center gap-1 font-bold text-indigo-400 uppercase tracking-[0.2em] mt-1 flex">
-                        <div className="w-1.5 h-1.5 rounded-full bg-indigo-500 animate-pulse" />
+                    <span className="text-[10px] items-center gap-1 font-bold text-red-500 uppercase tracking-[0.2em] mt-1 flex">
+                        <div className="w-1.5 h-1.5 rounded-full bg-red-600 animate-pulse" />
                         Active Recall
                     </span>
                 </div>

@@ -22,8 +22,8 @@ export default function RootLayout({
       <body className={`${inter.className} bg-slate-950 text-slate-100 min-h-screen antialiased selection:bg-indigo-500/30 overflow-x-hidden`}>
         {/* Modern Background Elements */}
         <div className="bg-mesh" />
-        <div className="bg-orb w-[600px] h-[600px] bg-indigo-500/20 -top-40 -left-60 animate-pulse-slow" />
-        <div className="bg-orb w-[500px] h-[500px] bg-purple-500/10 -bottom-20 -right-40" />
+        <div className="bg-orb w-[600px] h-[600px] bg-red-600/10 -top-40 -left-60 animate-pulse-slow" />
+        <div className="bg-orb w-[500px] h-[500px] bg-red-900/5 -bottom-20 -right-40" />
 
         <VocabProvider key="v1">
           <div className="relative z-10 mx-auto max-w-6xl px-4 sm:px-6 lg:px-8 py-8 lg:py-12">

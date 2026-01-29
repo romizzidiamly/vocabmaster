@@ -1,11 +1,11 @@
 @import "tailwindcss";
 
 :root {
-  --background: #020617;
-  --foreground: #f8fafc;
-  --primary: #6366f1;
-  --glass: rgba(15, 23, 42, 0.6);
-  --glass-border: rgba(255, 255, 255, 0.08);
+  --background: #1C1C1C;
+  --foreground: #F5F5F5;
+  --primary: #B11226;
+  --glass: rgba(30, 30, 30, 0.7);
+  --glass-border: rgba(255, 255, 255, 0.05);
 }
 
 @theme inline {
@@ -14,10 +14,19 @@
   --color-primary: var(--primary);
   --font-sans: 'Inter', system-ui, sans-serif;
   --animate-pulse-slow: pulse-slow 8s cubic-bezier(0.4, 0, 0.6, 1) infinite;
-  
+
   @keyframes pulse-slow {
-    0%, 100% { opacity: 0.3; transform: scale(1); }
-    50% { opacity: 0.6; transform: scale(1.1); }
+
+    0%,
+    100% {
+      opacity: 0.3;
+      transform: scale(1);
+    }
+
+    50% {
+      opacity: 0.6;
+      transform: scale(1.1);
+    }
   }
 }
 
@@ -52,16 +61,16 @@ body {
   height: 100%;
   z-index: -1;
   overflow: hidden;
-  background: radial-gradient(circle at 0% 0%, #0f172a 0%, transparent 50%),
-              radial-gradient(circle at 100% 0%, #1e1b4b 0%, transparent 50%),
-              radial-gradient(circle at 100% 100%, #020617 0%, transparent 50%),
-              radial-gradient(circle at 0% 100%, #0f172a 0%, transparent 50%);
+  background: radial-gradient(circle at 0% 0%, #1a1a1a 0%, transparent 50%),
+    radial-gradient(circle at 100% 0%, #2d0a0a 0%, transparent 50%),
+    radial-gradient(circle at 100% 100%, #1c1c1c 0%, transparent 50%),
+    radial-gradient(circle at 0% 100%, #1a1a1a 0%, transparent 50%);
 }
 
 .bg-orb {
   position: absolute;
   filter: blur(80px);
-  opacity: 0.4;
+  opacity: 0.25;
   z-index: -1;
   border-radius: 50%;
   pointer-events: none;
@@ -73,14 +82,14 @@ body {
 }
 
 ::-webkit-scrollbar-track {
-  background: #020617;
+  background: #1c1c1c;
 }
 
 ::-webkit-scrollbar-thumb {
-  background: #1e293b;
+  background: #2d2d2d;
   border-radius: 10px;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: #334155;
+  background: #B11226;
 }

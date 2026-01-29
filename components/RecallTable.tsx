@@ -72,13 +72,13 @@ export function RecallTable() {
                 </div>
                 <div className="flex items-center gap-6 bg-slate-900 px-6 py-2 rounded-2xl border border-slate-700/50">
                     <div className="flex items-center gap-2">
-                        <div className="w-2 h-2 rounded-full bg-blue-500 shadow-[0_0_10px_rgba(59,130,246,0.5)]" />
+                        <div className="w-2 h-2 rounded-full bg-red-600 shadow-[0_0_10px_rgba(177,18,38,0.5)]" />
                         <span className="text-white font-black">{stats.discoveredCount}</span>
                         <span className="text-slate-600 text-[10px] font-black uppercase">Revealed</span>
                     </div>
                     <div className="w-px h-4 bg-slate-800" />
                     <div className="flex items-center gap-2">
-                        <div className="w-2 h-2 rounded-full bg-green-500 shadow-[0_0_10px_rgba(34,197,94,0.5)]" />
+                        <div className="w-2 h-2 rounded-full bg-emerald-500 shadow-[0_0_10px_rgba(16,185,129,0.3)]" />
                         <span className="text-white font-black">{stats.masteredCount}</span>
                         <span className="text-slate-600 text-[10px] font-black uppercase">Mastered</span>
                     </div>
@@ -109,7 +109,7 @@ export function RecallTable() {
                             return (
                                 <tr key={item.id} className={cn(
                                     "transition-all duration-300",
-                                    isMastered ? "bg-green-500/5" : "hover:bg-slate-800/30"
+                                    isMastered ? "bg-emerald-500/5" : "hover:bg-slate-800/30"
                                 )}>
                                     <td className="px-6 py-8 text-slate-700 font-mono italic text-xs text-center align-top">
                                         {index + 1}
@@ -119,8 +119,8 @@ export function RecallTable() {
                                             <div className="flex items-center gap-3">
                                                 <span className="font-black text-xl text-white tracking-tight">{item.word}</span>
                                                 {isMastered && (
-                                                    <div className="bg-green-500/10 p-0.5 rounded">
-                                                        <Trophy className="w-4 h-4 text-green-500" />
+                                                    <div className="bg-emerald-500/10 p-0.5 rounded">
+                                                        <Trophy className="w-4 h-4 text-emerald-500" />
                                                     </div>
                                                 )}
                                             </div>
@@ -137,14 +137,14 @@ export function RecallTable() {
                                             <div className="flex items-center gap-2 mt-1">
                                                 <button
                                                     onClick={() => speak(item.word, 'en-US')}
-                                                    className="flex items-center gap-1.5 px-3 py-1.5 bg-slate-800 hover:bg-slate-700 text-indigo-400 hover:text-white rounded-lg transition-all text-[10px] font-black uppercase tracking-widest border border-slate-700/50"
+                                                    className="flex items-center gap-1.5 px-3 py-1.5 bg-slate-800 hover:bg-slate-700 text-red-500 hover:text-white rounded-lg transition-all text-[10px] font-black uppercase tracking-widest border border-slate-700/50"
                                                     title="American Pronunciation"
                                                 >
                                                     <Volume2 className="w-3.5 h-3.5" /> US
                                                 </button>
                                                 <button
                                                     onClick={() => speak(item.word, 'en-GB')}
-                                                    className="flex items-center gap-1.5 px-3 py-1.5 bg-slate-800 hover:bg-slate-700 text-purple-400 hover:text-white rounded-lg transition-all text-[10px] font-black uppercase tracking-widest border border-slate-700/50"
+                                                    className="flex items-center gap-1.5 px-3 py-1.5 bg-slate-800 hover:bg-slate-700 text-red-700 hover:text-white rounded-lg transition-all text-[10px] font-black uppercase tracking-widest border border-slate-700/50"
                                                     title="British Pronunciation"
                                                 >
                                                     <Volume2 className="w-3.5 h-3.5" /> UK
@@ -172,7 +172,7 @@ export function RecallTable() {
                                                         onKeyDown={(e) => {
                                                             if (e.key === 'Enter') handleGuess(item.id, 1);
                                                         }}
-                                                        className="bg-slate-950 border border-slate-800 rounded-lg px-3 py-1.5 text-xs text-white w-full focus:border-indigo-500 transition-all shadow-inner"
+                                                        className="bg-slate-950 border border-slate-800 rounded-lg px-3 py-1.5 text-xs text-white w-full focus:border-red-600 transition-all shadow-inner"
                                                     />
                                                 )}
                                             </div>
@@ -181,7 +181,7 @@ export function RecallTable() {
                                                 <div>
                                                     <div className="text-[9px] font-black uppercase text-slate-600 mb-1">Synonym 2+</div>
                                                     {synonym2Correct ? (
-                                                        <div className="flex items-center gap-2 text-green-400 font-bold animate-in fade-in duration-500">
+                                                        <div className="flex items-center gap-2 text-emerald-400 font-bold animate-in fade-in duration-500">
                                                             <CheckCircle2 className="w-3.5 h-3.5" />
                                                             <span className="text-sm">
                                                                 {item.userGuesses.slice(1).join(', ') || item.synonyms.slice(1).join(', ')}
@@ -196,9 +196,10 @@ export function RecallTable() {
                                                             onKeyDown={(e) => {
                                                                 if (e.key === 'Enter') handleGuess(item.id, 2);
                                                             }}
-                                                            className="bg-slate-950 border border-slate-800 rounded-lg px-3 py-1.5 text-xs text-white w-full focus:border-indigo-500 transition-all shadow-inner"
+                                                            className="bg-slate-950 border border-slate-800 rounded-lg px-3 py-1.5 text-xs text-white w-full focus:border-red-600 transition-all shadow-inner"
                                                         />
                                                     )}
+
                                                 </div>
                                             )}
                                         </div>
@@ -212,8 +213,8 @@ export function RecallTable() {
                                                     {item.examples.map((ex, i) => (
                                                         <div key={i} className="bg-slate-950/40 border border-slate-800/50 rounded-xl p-3 hover:border-slate-700 transition-colors group/ex">
                                                             <div className="flex items-center gap-2 mb-1.5">
-                                                                <BookText className="w-3 h-3 text-indigo-400 group-hover/ex:rotate-12 transition-transform" />
-                                                                <span className="text-[9px] font-black uppercase tracking-widest text-indigo-300">{ex.type}</span>
+                                                                <BookText className="w-3 h-3 text-red-500 group-hover/ex:rotate-12 transition-transform" />
+                                                                <span className="text-[9px] font-black uppercase tracking-widest text-red-400">{ex.type}</span>
                                                             </div>
                                                             <p className="text-slate-400 text-xs leading-relaxed italic">
                                                                 {ex.text}
@@ -234,17 +235,18 @@ export function RecallTable() {
                                         ) : (
                                             <div className="flex flex-col items-center justify-center py-8 border border-dashed border-slate-800 rounded-2xl bg-slate-950/20 group">
                                                 <div className="relative mb-4">
-                                                    <Wand2 className="w-8 h-8 text-indigo-500/30 animate-pulse" />
-                                                    <Loader2 className="w-5 h-5 text-indigo-400 animate-spin absolute -top-1 -right-1" />
+                                                    <Wand2 className="w-8 h-8 text-red-600/30 animate-pulse" />
+                                                    <Loader2 className="w-5 h-5 text-red-500 animate-spin absolute -top-1 -right-1" />
                                                 </div>
                                                 <button
                                                     onClick={() => generateAiExamples(item.id)}
-                                                    className="px-6 py-2.5 bg-indigo-600 hover:bg-indigo-500 text-white rounded-xl font-black text-xs uppercase tracking-widest shadow-lg shadow-indigo-500/20 transition-all active:scale-95 flex items-center gap-2"
+                                                    className="px-6 py-2.5 bg-red-700 hover:bg-red-600 text-white rounded-xl font-black text-xs uppercase tracking-widest shadow-lg shadow-red-900/40 transition-all active:scale-95 flex items-center gap-2"
                                                 >
                                                     <Wand2 className="w-4 h-4" />
                                                     Generate Examples
                                                 </button>
                                             </div>
+
                                         )}
                                     </td>
                                 </tr>

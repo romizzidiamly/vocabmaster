@@ -47,7 +47,7 @@ export function GameInterface() {
     return (
         <div className="w-full max-w-2xl mx-auto mb-12">
             <div className="relative z-10">
-                <div className="absolute inset-0 bg-gradient-to-r from-indigo-500/10 to-purple-500/10 rounded-2xl blur-3xl opacity-50" />
+                <div className="absolute inset-0 bg-gradient-to-r from-red-600/10 to-red-900/10 rounded-2xl blur-3xl opacity-50" />
                 <div className="bg-slate-900/80 backdrop-blur-md border border-slate-800 rounded-3xl p-8 shadow-2xl relative">
 
                     <form onSubmit={handleSubmit} className="relative">
@@ -67,14 +67,14 @@ export function GameInterface() {
                                     "w-full bg-slate-950 border-2 rounded-2xl px-8 py-6 text-3xl text-white placeholder:text-slate-800 focus:outline-none focus:ring-4 transition-all shadow-inner",
                                     feedback?.type === 'error' ? "border-red-500/50 focus:ring-red-500/10" :
                                         feedback?.type === 'success' ? "border-green-500/50 focus:ring-green-500/10" :
-                                            "border-slate-800 focus:ring-indigo-500/10"
+                                            "border-slate-800 focus:ring-red-600/10"
                                 )}
                                 placeholder="Recall a word..."
                                 autoComplete="off"
                             />
                             <button
                                 type="submit"
-                                className="absolute right-4 top-4 bottom-4 aspect-square bg-indigo-600 hover:bg-indigo-500 text-white rounded-xl flex items-center justify-center transition-all disabled:opacity-20 shadow-lg shadow-indigo-500/30 group active:scale-95"
+                                className="absolute right-4 top-4 bottom-4 aspect-square bg-red-700 hover:bg-red-600 text-white rounded-xl flex items-center justify-center transition-all disabled:opacity-20 shadow-lg shadow-red-900/30 group active:scale-95"
                                 disabled={!input.trim()}
                             >
                                 <Send className="w-8 h-8 group-hover:translate-x-1 group-hover:-translate-y-1 transition-transform duration-300" />
