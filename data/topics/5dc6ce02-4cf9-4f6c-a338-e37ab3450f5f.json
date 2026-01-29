@@ -2359,7 +2359,30 @@
       ],
       "definition": "The way in which a person holds their body",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Posture is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Posture matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Posture, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Posture correctly, we succeed, so let's try."
+        }
+      ]
     },
     {
       "id": "db7c52a4-11ae-4bfd-a394-24da70516248",
