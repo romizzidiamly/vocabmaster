@@ -140,9 +140,41 @@
         "Lease",
         "tenancy"
       ],
-      "definition": "Property that is leased to tenants",
+      "definition": "a thing that is rented, or the act of renting something",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "sewaan",
+      "phonetics": {
+        "us": "/ˈrɛntəl/",
+        "uk": "/ˈrɛntəl/"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "The rental car was waiting for us at the airport.",
+          "translation": "Mobil sewaan tersebut sudah menunggu kami di bandara."
+        },
+        {
+          "type": "Complex",
+          "text": "Because the hotel was fully booked, we had to look for a rental apartment in the city.",
+          "translation": "Karena hotel tersebut sudah penuh, kami harus mencari apartemen sewaan di kota."
+        },
+        {
+          "type": "Compound",
+          "text": "I rented a car and a bike, both were rentals for the weekend.",
+          "translation": "Saya menyewa mobil dan sepeda, keduanya disewa untuk akhir pekan."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "While we were on vacation, we stayed in a rental house, but because it was not comfortable, we had to look for a hotel, and also had to return the rental car, which was not in good condition.",
+          "translation": "Ketika kami sedang berlibur, kami menginap di rumah sewaan, tapi karena tidak nyaman, kami harus mencari hotel, dan juga harus mengembalikan mobil sewaan, yang tidak dalam kondisi baik."
+        }
+      ],
+      "synonymMeanings": [
+        "sewa",
+        "pinjaman",
+        "kontrak"
+      ]
     },
     {
       "id": "2085bafa-8d87-4000-98c2-a8fedeb94e56",
