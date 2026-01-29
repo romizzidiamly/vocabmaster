@@ -1691,9 +1691,42 @@
         "Strength training",
         "resistance exercise"
       ],
-      "definition": "Short bursts of high-intensity activity that do not rely on oxygen",
+      "definition": "Exercise, such as weightlifting or push-ups, that does not need oxygen to generate energy",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Olahraga anaerobik",
+      "phonetics": {
+        "us": "/ˌænəˈroʊbɪk/",
+        "uk": "/ˌanəˈrəʊbɪk/"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Anaerobic exercise helps build muscle mass.",
+          "translation": "Olahraga anaerobik membantu membangun massa otot."
+        },
+        {
+          "type": "Complex",
+          "text": "Because anaerobic exercise is intense, it improves cardiovascular health.",
+          "translation": "Karena olahraga anaerobik sangat intens, maka itu memperbaiki kesehatan kardiovaskular."
+        },
+        {
+          "type": "Compound",
+          "text": "Anaerobic exercise helps build muscle mass, and it also improves bone density.",
+          "translation": "Olahraga anaerobik membantu membangun massa otot, dan juga memperbaiki kepadatan tulang."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "While anaerobic exercise is beneficial for building muscle, it can be harmful if overdone, because it increases the risk of injury, and it also puts excessive strain on the muscles.",
+          "translation": "Sementara olahraga anaerobik bermanfaat untuk membangun otot, itu bisa berbahaya jika berlebihan, karena itu meningkatkan risiko cedera, dan juga memberikan tekanan berlebih pada otot-otot."
+        }
+      ],
+      "synonymMeanings": [
+        "Latihan Beban",
+        "Olahraga Kekuatan",
+        "Latihan Kekuatan",
+        "Olahraga Berat"
+      ]
     },
     {
       "id": "7cf0309c-9994-42c2-81f9-70253ba00a64",
