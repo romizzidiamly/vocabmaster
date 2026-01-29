@@ -1,6 +1,6 @@
 {
   "id": "ffe301bc-2f0c-419d-a9e8-4a06a9d210e6",
-  "name": "ENVIRONMENT",
+  "name": "COMMUNICATION",
   "items": [
     {
       "id": "2f13eb69-4cbe-4a1a-8d5b-33b138d1af3f",
@@ -653,7 +653,30 @@
       ],
       "definition": "The art of persuasive speaking or writing",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Rhetoric is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Rhetoric matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Rhetoric, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Rhetoric correctly, we succeed, so let's try."
+        }
+      ]
     },
     {
       "id": "630ed929-50e6-48f9-98f7-bb0681d82213",
