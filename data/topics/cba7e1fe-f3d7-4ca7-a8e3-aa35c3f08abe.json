@@ -96,9 +96,42 @@
         "Home",
         "dwelling"
       ],
-      "definition": "A place where someone lives, especially long-term",
+      "definition": "the house or flat where someone lives",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "tempat tinggal",
+      "phonetics": {
+        "us": "/ˈrɛzɪdəns/",
+        "uk": "/ˈrɛzɪdəns/"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "My residence is near the city center.",
+          "translation": "Tempat tinggalku dekat dengan pusat kota."
+        },
+        {
+          "type": "Complex",
+          "text": "Because I live in a big residence, I have to pay a lot of money for the electricity bill.",
+          "translation": "Karena aku tinggal di rumah besar, aku harus membayar tagihan listrik yang banyak."
+        },
+        {
+          "type": "Compound",
+          "text": "I live in a residence, and my sister lives in an apartment.",
+          "translation": "Aku tinggal di rumah, dan adikku tinggal di apartemen."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "While I was living in my residence, I realized that I had to move to a new place because the rent was too high, but my sister was happy to stay in her apartment.",
+          "translation": "Ketika aku tinggal di rumahku, aku menyadari bahwa aku harus pindah ke tempat baru karena sewanya terlalu tinggi, tetapi adikku senang tinggal di apartemennya."
+        }
+      ],
+      "synonymMeanings": [
+        "rumah",
+        "tempat tinggal",
+        "kediaman",
+        "domisili"
+      ]
     },
     {
       "id": "0945a9b6-995d-414c-b849-cf7895f45066",
