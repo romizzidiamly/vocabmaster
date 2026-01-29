@@ -245,7 +245,30 @@
       ],
       "definition": "Fully concentrating, understanding,\nand responding to a speaker",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Active Listening is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Active Listening matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Active Listening, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Active Listening correctly, we succeed, so let's try."
+        }
+      ]
     },
     {
       "id": "c843bb9b-f881-46cc-a4be-2f07e37be61b",
