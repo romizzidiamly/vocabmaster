@@ -1492,7 +1492,30 @@
       ],
       "definition": "A person who takes law\nenforcement into their own hands",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Vigilante is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Vigilante matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Vigilante, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Vigilante correctly, we succeed, so let's try."
+        }
+      ]
     }
   ],
   "createdAt": 1769720394784
