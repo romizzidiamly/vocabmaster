@@ -858,7 +858,30 @@
       ],
       "definition": "The ability to understand spoken language",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Listening Comprehension is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Listening Comprehension matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Listening Comprehension, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Listening Comprehension correctly, we succeed, so let's try."
+        }
+      ]
     },
     {
       "id": "7b82b5d6-be3c-4440-9a45-1b2b157d2c32",
