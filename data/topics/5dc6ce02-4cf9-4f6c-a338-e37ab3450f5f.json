@@ -488,9 +488,42 @@
         "Nervous disorder",
         "panic disorder"
       ],
-      "definition": "A mental condition characterized by excessive worry",
+      "definition": "a mental health condition where a person feels worried, nervous, or frightened all the time",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "gangguan kecemasan",
+      "phonetics": {
+        "us": "/æŋˈzaɪəti ˈdɪsɔrdər/",
+        "uk": "/æŋˈzaɪəti ˈdɪsɔːdə/"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "She has an anxiety disorder.",
+          "translation": "Dia memiliki gangguan kecemasan."
+        },
+        {
+          "type": "Complex",
+          "text": "Because she has an anxiety disorder, she often feels nervous in public.",
+          "translation": "Karena dia memiliki gangguan kecemasan, dia sering merasa gugup di depan umum."
+        },
+        {
+          "type": "Compound",
+          "text": "She has an anxiety disorder, and she also struggles with depression.",
+          "translation": "Dia memiliki gangguan kecemasan, dan dia juga berjuang melawan depresi."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "While she has an anxiety disorder, and she also struggles with depression, her therapist helps her to manage both conditions.",
+          "translation": "Sementara dia memiliki gangguan kecemasan, dan dia juga berjuang melawan depresi, terapisnya membantunya untuk mengelola kedua kondisi tersebut."
+        }
+      ],
+      "synonymMeanings": [
+        "kegelisahan",
+        "kekhawatiran",
+        "ketakutan",
+        "kecemasan berlebihan"
+      ]
     },
     {
       "id": "b3ced70b-5015-4a56-86ab-aab88f351176",
