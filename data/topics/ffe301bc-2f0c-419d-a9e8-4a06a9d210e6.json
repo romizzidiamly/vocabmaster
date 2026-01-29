@@ -158,41 +158,41 @@
         "ecological",
         "restoration"
       ],
-      "definition": "the act of planting trees in an area where they have been cut down",
+      "definition": "The act of planting trees in an area where they have been cut down",
       "userGuesses": [],
       "status": "discovered",
       "examples": [
         {
           "type": "Simple",
-          "text": "The government has launched a reforestation program.",
-          "translation": "Pemerintah telah meluncurkan program penghijauan kembali."
+          "text": "The government launched a reforestation program.",
+          "translation": "Pemerintah meluncurkan program reboisasi."
         },
         {
           "type": "Complex",
-          "text": "Because the forest was destroyed, the organization initiated a reforestation project to restore the ecosystem.",
-          "translation": "Karena hutan itu telah hancur, organisasi tersebut memulai proyek penghijauan kembali untuk memulihkan ekosistem."
+          "text": "Because the forest was destroyed, the community decided to start a reforestation project.",
+          "translation": "Karena hutan itu hancur, masyarakat memutuskan untuk memulai proyek reboisasi."
         },
         {
           "type": "Compound",
-          "text": "The company will invest in reforestation and also reduce carbon emissions.",
-          "translation": "Perusahaan itu akan berinvestasi dalam penghijauan kembali dan juga mengurangi emisi karbon."
+          "text": "The company invested in reforestation and also built a new factory.",
+          "translation": "Perusahaan itu berinvestasi dalam reboisasi dan juga membangun pabrik baru."
         },
         {
           "type": "Compound-Complex",
-          "text": "While the community was aware of the importance of reforestation, they also knew that it would take time, and because the forest was destroyed quickly, the organization initiated a project to restore the ecosystem.",
-          "translation": "Sementara masyarakat menyadari pentingnya penghijauan kembali, mereka juga tahu bahwa itu akan membutuhkan waktu, dan karena hutan itu telah hancur dengan cepat, organisasi tersebut memulai proyek untuk memulihkan ekosistem."
+          "text": "While the government was working on the reforestation project, the company was also building a new road, and because of this, the local economy started to grow.",
+          "translation": "Sementara pemerintah bekerja pada proyek reboisasi, perusahaan juga membangun jalan baru, dan karena itu, perekonomian lokal mulai tumbuh."
         }
       ],
       "phonetics": {
-        "us": "/ˌriːfəˈres.təˈʃən/",
-        "uk": "/ˌriːfəˈrestaɪˈteɪʃən/"
+        "us": "/ˌrɪfəˈrɛsˌteɪʃən/",
+        "uk": "/ˌriːfɔːˈrɛstɪkeɪʃən/"
       },
-      "meaning": "penghijauan kembali",
+      "meaning": "Reboisasi",
       "synonymMeanings": [
-        "rehutanan",
-        "penghijauan",
-        "penanaman kembali",
-        "pembibitan"
+        "Penghijauan",
+        "Rehabilitasi hutan",
+        "Penanaman kembali",
+        "Konservasi hutan"
       ]
     },
     {
