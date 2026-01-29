@@ -1552,9 +1552,43 @@
         "Self-discipline",
         "regulation"
       ],
-      "definition": "The practice of self-control and obedience to rules",
+      "definition": "the practice of training people to obey rules or a code of behaviour, using punishment or penalties to correct disobedience",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "disiplin",
+      "phonetics": {
+        "us": "/ˈdɪsəplɪn/",
+        "uk": "/ˈdɪsɪplɪn/"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "She has the discipline to finish her homework on time.",
+          "translation": "Dia memiliki disiplin untuk menyelesaikan pekerjaan rumahnya tepat waktu."
+        },
+        {
+          "type": "Complex",
+          "text": "Because she has discipline, she can control her emotions and make rational decisions.",
+          "translation": "Karena dia memiliki disiplin, dia dapat mengontrol emosinya dan membuat keputusan rasional."
+        },
+        {
+          "type": "Compound",
+          "text": "She studies hard and plays sports regularly, and she believes that discipline is essential for success in both areas.",
+          "translation": "Dia belajar dengan giat dan berolahraga secara teratur, dan dia percaya bahwa disiplin sangat penting untuk kesuksesan di kedua bidang tersebut."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "While some people think that discipline is restrictive, she believes that it is liberating because it allows her to achieve her goals, and she has learned to appreciate the value of discipline through her experiences.",
+          "translation": "Sementara beberapa orang berpikir bahwa disiplin membatasi, dia percaya bahwa itu membebaskan karena itu memungkinkan dia untuk mencapai tujuannya, dan dia telah belajar untuk menghargai nilai disiplin melalui pengalamannya."
+        }
+      ],
+      "synonymMeanings": [
+        "pengendalian",
+        "kedisiplinan",
+        "pengawasan",
+        "ketertiban",
+        "penundukan"
+      ]
     },
     {
       "id": "968262c7-8408-4edc-9808-5fae5e45946c",
