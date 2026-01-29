@@ -457,7 +457,30 @@
       ],
       "definition": "Achieving a balance between carbon\nemissions and absorption",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Carbon neutrality is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Carbon neutrality matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Carbon neutrality, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Carbon neutrality correctly, we succeed, so let's try."
+        }
+      ]
     },
     {
       "id": "83c37a22-57e5-415d-892b-0b7d12a441ca",
