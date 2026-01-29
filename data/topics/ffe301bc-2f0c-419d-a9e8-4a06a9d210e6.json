@@ -926,7 +926,30 @@
       ],
       "definition": "The process of resolving disagreements effectively",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Conflict Resolution is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Conflict Resolution matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Conflict Resolution, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Conflict Resolution correctly, we succeed, so let's try."
+        }
+      ]
     },
     {
       "id": "c0a03444-cf48-406e-9a5e-a1324de094d9",
