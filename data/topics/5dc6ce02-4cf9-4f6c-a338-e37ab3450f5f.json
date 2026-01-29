@@ -1846,9 +1846,42 @@
         "Heart health",
         "stamina"
       ],
-      "definition": "The efficiency of the heart, lungs, and blood vessels during exercise",
+      "definition": "The state of being physically fit and healthy, especially in relation to the heart and lungs.",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Kesehatan dan kebugaran jantung serta paru-paru",
+      "phonetics": {
+        "us": "/ˌkɑrdioʊˈvæskjʊlər/",
+        "uk": "/ˌkɑːdiəʊˈvæskjʊlə/"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Regular exercise improves cardiovascular fitness.",
+          "translation": "Olahraga teratur meningkatkan kesehatan dan kebugaran jantung serta paru-paru."
+        },
+        {
+          "type": "Complex",
+          "text": "Because cardiovascular fitness is essential for overall health, people should engage in physical activities regularly.",
+          "translation": "Karena kesehatan dan kebugaran jantung serta paru-paru sangat penting untuk kesehatan secara keseluruhan, orang harus terlibat dalam kegiatan fisik secara teratur."
+        },
+        {
+          "type": "Compound",
+          "text": "Cardiovascular fitness is important, and people should exercise regularly, or they may face health problems.",
+          "translation": "Kesehatan dan kebugaran jantung serta paru-paru sangat penting, dan orang harus berolahraga secara teratur, atau mereka mungkin menghadapi masalah kesehatan."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "While cardiovascular fitness is crucial for overall well-being, people who exercise regularly not only improve their heart health but also reduce the risk of other diseases, or they may experience a decline in their physical condition.",
+          "translation": "Sementara kesehatan dan kebugaran jantung serta paru-paru sangat penting untuk kesejahteraan secara keseluruhan, orang yang berolahraga secara teratur tidak hanya meningkatkan kesehatan jantung mereka tetapi juga mengurangi risiko penyakit lain, atau mereka mungkin mengalami penurunan kondisi fisik mereka."
+        }
+      ],
+      "synonymMeanings": [
+        "kebugaran",
+        "kesehatan fisik",
+        "kekuatan jantung",
+        "daya tahan tubuh"
+      ]
     },
     {
       "id": "5e51646d-b8a5-4dce-9823-9c9077552f71",
