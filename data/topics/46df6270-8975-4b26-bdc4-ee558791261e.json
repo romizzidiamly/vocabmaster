@@ -318,7 +318,30 @@
       ],
       "definition": "The act of stealing from a person or\nplace using force or threats",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Robbery is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Robbery matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Robbery, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Robbery correctly, we succeed, so let's try."
+        }
+      ]
     },
     {
       "id": "5ca64a5b-b8f7-467c-a85e-ef36333b5a17",
