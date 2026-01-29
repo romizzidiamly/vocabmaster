@@ -605,9 +605,42 @@
         "Environmental impact",
         "resource consumption"
       ],
-      "definition": "The impact of human activities on\nnature",
+      "definition": "the effect that a person, company, etc. has on the environment, for example by the amount of energy they use, the waste they produce, etc.",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "discovered",
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "The company is trying to reduce its ecological footprint.",
+          "translation": "Perusahaan tersebut berusaha mengurangi jejak ekologisnya."
+        },
+        {
+          "type": "Complex",
+          "text": "Because the company uses renewable energy, its ecological footprint is smaller than that of other companies.",
+          "translation": "Karena perusahaan tersebut menggunakan energi terbarukan, jejak ekologisnya lebih kecil dibandingkan dengan perusahaan lain."
+        },
+        {
+          "type": "Compound",
+          "text": "The company reduced its ecological footprint and increased its profits.",
+          "translation": "Perusahaan tersebut mengurangi jejak ekologisnya dan meningkatkan keuntungannya."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "While the company was reducing its ecological footprint, it also increased its profits, because it was able to save money on energy costs.",
+          "translation": "Saat perusahaan tersebut mengurangi jejak ekologisnya, juga meningkatkan keuntungannya, karena dapat menghemat biaya energi."
+        }
+      ],
+      "phonetics": {
+        "us": "/ˌɛkəˈlɒdʒɪkəl ˈfʊtprɪnt/",
+        "uk": "/ˌɛkəˈlɒdʒɪkəl ˈfʊtprɪnt/"
+      },
+      "meaning": "jejak ekologis",
+      "synonymMeanings": [
+        "dampak lingkungan",
+        "tanda ekologis",
+        "bekas lingkungan",
+        "pengaruh alam"
+      ]
     },
     {
       "id": "44dd19c4-b4df-4b03-afad-7f02a233d98e",
