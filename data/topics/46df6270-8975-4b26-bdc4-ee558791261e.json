@@ -1458,7 +1458,30 @@
       ],
       "definition": "A person who continues to commit\ncrimes after punishment",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Repeat offender is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Repeat offender matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Repeat offender, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Repeat offender correctly, we succeed, so let's try."
+        }
+      ]
     },
     {
       "id": "e0cfb5ef-8111-490c-a8c0-1e3be78d734a",
