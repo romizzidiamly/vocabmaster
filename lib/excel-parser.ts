@@ -72,7 +72,6 @@ export async function parseExcel(file: File): Promise<VocabItem[]> {
 
                 const rawWord = row[wordColIdx] !== undefined ? String(row[wordColIdx]) : '';
                 const rawSyn = row[synColIdx] !== undefined ? String(row[synColIdx]) : '';
-                const rawEx = exampleColIdx !== -1 && row[exampleColIdx] !== undefined ? String(row[exampleColIdx]) : '';
 
                 if (rawWord && rawSyn) {
                     const cleanedWord = cleanWord(rawWord);

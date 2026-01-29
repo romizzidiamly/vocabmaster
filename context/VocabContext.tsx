@@ -68,6 +68,7 @@ export function VocabProvider({ children }: { children: React.ReactNode }) {
     }, []);
 
     const addTopic = async (name: string, items: VocabItem[]) => {
+        console.log("Adding new topic:", name);
         const newTopic: Topic = {
             id: crypto.randomUUID(),
             name,
@@ -75,7 +76,12 @@ export function VocabProvider({ children }: { children: React.ReactNode }) {
             createdAt: Date.now()
         };
         setTopics(prev => [newTopic, ...prev]);
-        setGameState(prev => ({ ...prev, phase: 'topic-list' }));
+        setGameState({
+            phase: 'preview',
+            activeTopicId: newTopic.id,
+            items: newTopic.items,
+            score: 0
+        });
         await syncTopicToServer(newTopic);
     };
 
@@ -92,6 +98,7 @@ export function VocabProvider({ children }: { children: React.ReactNode }) {
     };
 
     const selectTopic = (id: string) => {
+        console.log("Selecting topic:", id);
         const topic = topics.find(t => t.id === id);
         if (topic) {
             setGameState({
