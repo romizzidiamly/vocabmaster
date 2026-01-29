@@ -15,7 +15,10 @@ export default function Home() {
 
   useEffect(() => {
     setMounted(true);
-  }, []);
+    if (typeof window !== 'undefined') {
+      window.scrollTo(0, 0);
+    }
+  }, [gameState.phase]);
 
   if (!mounted) {
     return (

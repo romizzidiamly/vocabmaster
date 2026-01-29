@@ -33,7 +33,7 @@ export function TopicList() {
                         {theme === 'vibrant' ? 'Level Up Now! 💎' : 'Active Recall. 🧠'}
                     </span>
                 </h2>
-                <p className="text-slate-600 dark:text-slate-400 text-lg max-w-2xl mx-auto font-medium leading-relaxed">
+                <p className="text-slate-700 dark:text-slate-400 text-lg max-w-2xl mx-auto font-black leading-relaxed">
                     The ultimate vocabulary toolkit for ambitious learners. <br className="hidden sm:block" />
                     Built for business masters and language legends. 🏆
                 </p>
@@ -44,7 +44,7 @@ export function TopicList() {
                     <h3 className="text-2xl font-black text-foreground flex items-center gap-2">
                         Project Library 📚
                     </h3>
-                    <p className="text-slate-600 dark:text-slate-400 text-sm font-medium mt-1">Ready to crush another session? 💪</p>
+                    <p className="text-slate-700 dark:text-slate-400 text-sm font-black mt-1">Ready to crush another session? 💪</p>
                 </div>
                 <div className="text-xs font-black text-primary uppercase tracking-widest bg-primary/10 px-3 py-1.5 rounded-lg border border-primary/20">
                     {topics.length} {topics.length === 1 ? 'Module' : 'Modules'} 📦
@@ -61,7 +61,7 @@ export function TopicList() {
                         <BookOpen className="w-10 h-10 text-primary/50" />
                     </div>
                     <h3 className="text-2xl font-black text-foreground mb-3">Vault is Locked 🏜️</h3>
-                    <p className="text-slate-600 dark:text-slate-400 mb-10 max-w-sm mx-auto font-medium">No vocabulary detected yet. Only the Admin can initialize new modules. 🏁</p>
+                    <p className="text-slate-700 dark:text-slate-400 mb-10 max-w-sm mx-auto font-black">No vocabulary detected yet. Only the Admin can initialize new modules. 🏁</p>
                     {!isAdmin && (
                         <Link
                             href="/login"
@@ -75,9 +75,6 @@ export function TopicList() {
                 <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-2">
                     <AnimatePresence>
                         {topics.map((topic) => {
-                            const masteredCount = topic.items.filter(i => i.status === 'mastered').length;
-                            const percentage = Math.round((masteredCount / topic.items.length) * 100);
-
                             return (
                                 <motion.div
                                     key={topic.id}

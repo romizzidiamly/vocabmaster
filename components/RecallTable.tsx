@@ -98,10 +98,10 @@ export function RecallTable() {
                 <div className="overflow-x-auto">
                     <table className="w-full text-left border-collapse">
                         <thead>
-                            <tr className="bg-white/5 text-[10px] font-black uppercase tracking-[0.2em] text-slate-500">
-                                <th className="px-8 py-6 border-b border-white/5">Vocabulary 📚</th>
-                                <th className="px-8 py-6 border-b border-white/5">Synonyms entry ✨</th>
-                                <th className="px-8 py-6 border-b border-white/5 max-w-md">IELTS examples 💡</th>
+                            <tr className="bg-slate-100 dark:bg-white/5 text-[10px] font-black uppercase tracking-[0.2em] text-slate-600 dark:text-slate-400">
+                                <th className="px-8 py-6 border-b border-slate-200 dark:border-white/5">Vocabulary 📚</th>
+                                <th className="px-8 py-6 border-b border-slate-200 dark:border-white/5">Synonyms entry ✨</th>
+                                <th className="px-8 py-6 border-b border-slate-200 dark:border-white/5 max-w-md">IELTS examples 💡</th>
                             </tr>
                         </thead>
                         <tbody className="divide-y divide-white/5">
@@ -122,13 +122,13 @@ export function RecallTable() {
                                                 </div>
                                                 <div className="flex flex-col gap-2">
                                                     {item.phonetics && typeof item.phonetics === 'object' && (
-                                                        <div className="flex gap-2 text-[10px] font-medium text-slate-500 font-serif italic mb-1">
+                                                        <div className="flex gap-2 text-[10px] font-bold text-slate-600 dark:text-slate-400 font-serif italic mb-1">
                                                             <span>US: [{item.phonetics.us || '...'}]</span>
                                                             <span>UK: [{item.phonetics.uk || '...'}]</span>
                                                         </div>
                                                     )}
                                                     {item.phonetics && typeof item.phonetics === 'string' && (
-                                                        <div className="flex gap-2 text-[10px] font-medium text-slate-500 font-serif italic mb-1">
+                                                        <div className="flex gap-2 text-[10px] font-bold text-slate-600 dark:text-slate-400 font-serif italic mb-1">
                                                             <span>[{item.phonetics}]</span>
                                                         </div>
                                                     )}
@@ -147,7 +147,7 @@ export function RecallTable() {
                                             <div className="space-y-4 min-w-[200px]">
                                                 {/* Synonym 1 */}
                                                 <div>
-                                                    <div className="text-[9px] font-black uppercase text-slate-600 mb-1 leading-none">Synonym 1 💪</div>
+                                                    <div className="text-[9px] font-black uppercase text-slate-700 dark:text-slate-500 mb-1 leading-none">Synonym 1 💪</div>
                                                     {synonym1Correct ? (
                                                         <div className="flex items-center gap-2 text-green-500 font-bold bg-green-500/10 p-2.5 rounded-xl border border-green-500/20 animate-in zoom-in-95">
                                                             <CheckCircle2 className="w-4 h-4" />
@@ -167,7 +167,7 @@ export function RecallTable() {
                                                 {/* Synonym 2 */}
                                                 {item.synonyms.length >= 2 && (
                                                     <div>
-                                                        <div className="text-[9px] font-black uppercase text-slate-600 mb-1 leading-none">Synonym 2+ ✨</div>
+                                                        <div className="text-[9px] font-black uppercase text-slate-700 dark:text-slate-500 mb-1 leading-none">Synonym 2+ ✨</div>
                                                         {synonym2Correct ? (
                                                             <div className="flex items-center gap-2 text-green-500 font-bold bg-green-500/10 p-2.5 rounded-xl border border-green-500/20 animate-in zoom-in-95">
                                                                 <CheckCircle2 className="w-4 h-4" />
@@ -194,7 +194,7 @@ export function RecallTable() {
                                                         <div key={i} className="glass-light border-white/5 p-4 rounded-2xl relative group/ex overflow-hidden">
                                                             <div className="absolute top-0 left-0 w-1 h-full bg-primary opacity-30 group-hover/ex:opacity-100 transition-opacity" />
                                                             <span className="text-[9px] font-black uppercase text-primary tracking-widest block mb-2">{ex.type} Example</span>
-                                                            <p className="text-xs font-medium text-slate-500 dark:text-slate-400 italic leading-relaxed">&ldquo;{ex.text}&rdquo;</p>
+                                                            <p className="text-xs font-bold text-slate-700 dark:text-slate-400 italic leading-relaxed">&ldquo;{ex.text}&rdquo;</p>
                                                         </div>
                                                     ))}
                                                     <button onClick={() => generateAiExamples(item.id)} className="w-full flex items-center justify-center gap-2 py-3 glass-light border border-primary/20 hover:border-primary/50 text-primary rounded-xl text-[10px] font-black uppercase transition-all group/ai">

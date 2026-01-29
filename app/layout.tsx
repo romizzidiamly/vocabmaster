@@ -32,7 +32,7 @@ export default function RootLayout({
             <div className="bg-orb w-[600px] h-[600px] bg-red-600/10 -top-40 -left-60 animate-pulse-slow" />
             <div className="bg-orb w-[500px] h-[500px] bg-red-900/5 -bottom-20 -right-40" />
 
-            <VocabProvider key="v1">
+            <VocabProvider>
               <LayoutWrapper>
                 {children}
               </LayoutWrapper>

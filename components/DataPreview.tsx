@@ -97,21 +97,23 @@ export function DataPreview() {
                                         <h4 className="text-3xl font-black text-foreground group-hover:text-primary transition-colors tracking-tighter uppercase leading-none">
                                             {item.word}
                                         </h4>
-                                        {item.phonetics && typeof item.phonetics === 'object' && (
-                                            <div className="flex gap-2 items-center mt-1">
-                                                <p className="text-[10px] font-medium text-slate-500 font-serif italic bg-white/5 px-2 py-0.5 rounded-lg">
-                                                    US: [{item.phonetics.us || '...'}]
+                                        <div className="flex flex-col gap-1">
+                                            {item.phonetics && typeof item.phonetics === 'object' && (
+                                                <div className="flex gap-2 items-center mt-1">
+                                                    <p className="text-[10px] font-bold text-slate-600 dark:text-slate-400 font-serif italic bg-slate-100 dark:bg-white/5 px-2 py-0.5 rounded-lg border border-slate-200 dark:border-transparent">
+                                                        US: [{item.phonetics.us || '...'}]
+                                                    </p>
+                                                    <p className="text-[10px] font-bold text-slate-600 dark:text-slate-400 font-serif italic bg-slate-100 dark:bg-white/5 px-2 py-0.5 rounded-lg border border-slate-200 dark:border-transparent">
+                                                        UK: [{item.phonetics.uk || '...'}]
+                                                    </p>
+                                                </div>
+                                            )}
+                                            {item.phonetics && typeof item.phonetics === 'string' && (
+                                                <p className="text-[10px] font-bold text-slate-600 dark:text-slate-400 font-serif italic mt-1 bg-slate-100 dark:bg-white/5 px-2 py-0.5 rounded-lg border border-slate-200 dark:border-transparent">
+                                                    [{item.phonetics}]
                                                 </p>
-                                                <p className="text-[10px] font-medium text-slate-500 font-serif italic bg-white/5 px-2 py-0.5 rounded-lg">
-                                                    UK: [{item.phonetics.uk || '...'}]
-                                                </p>
-                                            </div>
-                                        )}
-                                        {item.phonetics && typeof item.phonetics === 'string' && (
-                                            <p className="text-[10px] font-medium text-slate-500 font-serif italic mt-1 bg-white/5 px-2 py-0.5 rounded-lg">
-                                                [{item.phonetics}]
-                                            </p>
-                                        )}
+                                            )}
+                                        </div>
                                     </div>
                                     <div className="flex flex-col gap-2">
                                         <button
@@ -134,7 +136,7 @@ export function DataPreview() {
                                 </div>
 
                                 <div className="space-y-3 mt-6">
-                                    <p className="text-[10px] font-black text-slate-600 uppercase tracking-[0.2em] mb-2 leading-none flex items-center gap-1.5">
+                                    <p className="text-[10px] font-black text-slate-700 dark:text-slate-400 uppercase tracking-[0.2em] mb-2 leading-none flex items-center gap-1.5">
                                         <Zap size={12} className="text-primary" /> Accepted Synonyms
                                     </p>
                                     <div className="flex flex-wrap gap-2">

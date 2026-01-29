@@ -10,28 +10,28 @@
         "good health"
       ],
       "userGuesses": [],
-      "status": "hidden",
+      "status": "discovered",
       "examples": [
         {
           "type": "Simple",
-          "text": "The government should prioritize the well-being of its citizens by providing adequate healthcare services."
+          "text": "Regular exercise is essential for our overall well-being."
         },
         {
           "type": "Complex",
-          "text": "Because a healthy diet is essential for our well-being, we should make a conscious effort to avoid consuming excessive amounts of sugar and salt."
+          "text": "Because a healthy diet is crucial for our well-being, we should avoid consuming excessive sugar and salt."
         },
         {
           "type": "Compound",
-          "text": "Regular exercise improves our well-being, and a balanced diet helps us maintain a healthy weight."
+          "text": "Eating a balanced diet improves our well-being, and regular physical activity enhances our mental health."
         },
         {
           "type": "Compound-Complex",
-          "text": "While some people believe that wealth is the key to happiness, others argue that true well-being depends on a combination of factors, including good relationships and a sense of purpose, because a fulfilling life is one that balances personal satisfaction with contributions to the greater good."
+          "text": "While a sedentary lifestyle can negatively impact our well-being, incorporating physical activity into our daily routine not only improves our physical health but also boosts our mental well-being."
         }
       ],
       "phonetics": {
         "us": "/ˈwɛlˌbiɪŋ/",
-        "uk": "/ˈwɛl.bɪɪŋ/"
+        "uk": "/ˈwɛlˌbiːɪŋ/"
       }
     },
     {
@@ -139,7 +139,29 @@
         "hyperglycemia"
       ],
       "userGuesses": [],
-      "status": "hidden"
+      "status": "discovered",
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "The doctor informed the patient that she had diabetes."
+        },
+        {
+          "type": "Complex",
+          "text": "Because diabetes is a chronic disease, patients need to monitor their blood sugar levels regularly to avoid complications."
+        },
+        {
+          "type": "Compound",
+          "text": "Diabetes is a serious health issue, and obesity is a significant risk factor for this disease."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "While diabetes is a serious health issue that affects millions of people worldwide, because it can be managed through a combination of medication and lifestyle changes, patients can lead normal lives, and furthermore, early detection is crucial for effective treatment."
+        }
+      ],
+      "phonetics": {
+        "us": "/daɪəˈbiːtiːz/",
+        "uk": "/ˌdaɪəˈbiːtiːz/"
+      }
     },
     {
       "id": "247c9b35-208e-4761-8f11-2b35b36e3ca4",
@@ -229,7 +251,29 @@
         "transmittable"
       ],
       "userGuesses": [],
-      "status": "hidden"
+      "status": "discovered",
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "The contagious laughter of the children made the whole atmosphere joyful."
+        },
+        {
+          "type": "Complex",
+          "text": "Because the new policy has been implemented, the contagious enthusiasm of the employees has significantly improved the overall productivity of the company."
+        },
+        {
+          "type": "Compound",
+          "text": "The contagious energy of the crowd was electric, and the band played a fantastic show, while the audience danced all night."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "While the contagious smile of the tourist attracted the attention of the locals, the fact that she was lost in the city made her rely on their help, and they willingly provided her with directions, which made her journey even more enjoyable."
+        }
+      ],
+      "phonetics": {
+        "us": "/kənˈteɪdʒəs/",
+        "uk": "/kənˈteɪdʒəs/"
+      }
     },
     {
       "id": "afa1f9b1-103e-4445-970f-3c7f6b4643e2",
