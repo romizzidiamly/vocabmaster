@@ -2441,9 +2441,42 @@
         "Fluid intake",
         "water consumption"
       ],
-      "definition": "Maintaining sufficient water levels in the body",
+      "definition": "The process of giving someone or something enough water or other liquid to keep them or it healthy and working properly",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "pemberian cairan",
+      "phonetics": {
+        "us": "/haɪˈdreɪʃən/",
+        "uk": "/haɪˈdreɪʃən/"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Drinking water is essential for hydration.",
+          "translation": "Minum air sangat penting untuk pemberian cairan."
+        },
+        {
+          "type": "Complex",
+          "text": "Because she didn't drink enough water, her body lacked proper hydration, which made her feel weak.",
+          "translation": "Karena dia tidak minum air yang cukup, tubuhnya kekurangan cairan, sehingga membuatnya merasa lemah."
+        },
+        {
+          "type": "Compound",
+          "text": "I drink water to stay hydrated, and I also eat fruits to get more fluids.",
+          "translation": "Saya minum air untuk tetap terhidrasi, dan saya juga makan buah untuk mendapatkan lebih banyak cairan."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "While it's true that drinking water is essential for hydration, it's also important to note that eating foods with high water content can help, but only if you don't have certain medical conditions that require special hydration needs.",
+          "translation": "Sementara itu benar bahwa minum air sangat penting untuk pemberian cairan, juga penting untuk dicatat bahwa makan makanan dengan kandungan air tinggi dapat membantu, tetapi hanya jika Anda tidak memiliki kondisi medis tertentu yang memerlukan kebutuhan hidrasi khusus."
+        }
+      ],
+      "synonymMeanings": [
+        "kelembaban",
+        "pemberian cairan",
+        "hidrasi",
+        "kelembapan"
+      ]
     },
     {
       "id": "40e670bf-5192-4200-9799-84e6bcfa08bf",
