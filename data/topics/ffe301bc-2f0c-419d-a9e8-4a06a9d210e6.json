@@ -551,7 +551,30 @@
       ],
       "definition": "The ability to understand and share others' feelings",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Empathy is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Empathy matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Empathy, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Empathy correctly, we succeed, so let's try."
+        }
+      ]
     },
     {
       "id": "84611ba1-3429-49f2-9b6e-d2281b13c850",
@@ -562,7 +585,30 @@
       ],
       "definition": "The ability to express thoughts confidently and respectfully",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Assertiveness is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Assertiveness matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Assertiveness, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Assertiveness correctly, we succeed, so let's try."
+        }
+      ]
     },
     {
       "id": "9a734379-ded9-46df-bb89-d9a53e030e9c",
