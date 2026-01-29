@@ -386,7 +386,30 @@
       ],
       "definition": "Deception for personal or financial\ngain",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Fraud is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Fraud matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Fraud, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Fraud correctly, we succeed, so let's try."
+        }
+      ]
     },
     {
       "id": "c148f773-24e7-4f48-8bf7-e2ca68a80c65",
