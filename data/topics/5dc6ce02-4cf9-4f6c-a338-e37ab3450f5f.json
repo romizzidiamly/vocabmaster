@@ -2282,7 +2282,30 @@
       ],
       "definition": "The ability to move quickly and easily",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Agility is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Agility matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Agility, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Agility correctly, we succeed, so let's try."
+        }
+      ]
     },
     {
       "id": "2d54b6a7-a37b-42b6-9612-81d802d956a3",
