@@ -97,9 +97,42 @@
         "Documentation",
         "correspondence"
       ],
-      "definition": "Exchanging information through written text",
+      "definition": "the act or process of communicating something in writing",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Komunikasi Tertulis",
+      "phonetics": {
+        "us": "/ˈrɪtən kəmʊnɪˈkeɪʃən/",
+        "uk": "/ˈrɪtən kəmjuːnɪˈkeɪʃən/"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "She uses written communication to convey her ideas.",
+          "translation": "Dia menggunakan komunikasi tertulis untuk menyampaikan ide-idenya."
+        },
+        {
+          "type": "Complex",
+          "text": "Because she lives abroad, she uses written communication to keep in touch with her family.",
+          "translation": "Karena dia tinggal di luar negeri, dia menggunakan komunikasi tertulis untuk tetap berhubungan dengan keluarganya."
+        },
+        {
+          "type": "Compound",
+          "text": "She uses written communication and phone calls to keep in touch with her friends and family.",
+          "translation": "Dia menggunakan komunikasi tertulis dan panggilan telepon untuk tetap berhubungan dengan teman-teman dan keluarganya."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "While she prefers written communication, she also uses phone calls to discuss important matters, because her family lives abroad and she wants to keep in touch with them regularly.",
+          "translation": "Sementara dia lebih suka komunikasi tertulis, dia juga menggunakan panggilan telepon untuk membahas hal-hal penting, karena keluarganya tinggal di luar negeri dan dia ingin tetap berhubungan dengan mereka secara teratur."
+        }
+      ],
+      "synonymMeanings": [
+        "Komunikasi",
+        "Korespondensi",
+        "Penulisan",
+        "Pengiriman Surat"
+      ]
     },
     {
       "id": "b51102ca-0d2e-4fa1-8106-9490fcfbeb79",
@@ -110,7 +143,30 @@
       ],
       "definition": "Direct, face-to-face communication between individuals",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Interpersonal Communication is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Interpersonal Communication matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Interpersonal Communication, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Interpersonal Communication correctly, we succeed, so let's try."
+        }
+      ]
     },
     {
       "id": "ba500cb6-424e-45b5-876d-76c21d8c20b6",
@@ -121,7 +177,30 @@
       ],
       "definition": "The process of distributing\ninformation to large audiences through media",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Mass Communication is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Mass Communication matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Mass Communication, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Mass Communication correctly, we succeed, so let's try."
+        }
+      ]
     },
     {
       "id": "5026211c-1648-4a44-9734-b27ae2843604",
