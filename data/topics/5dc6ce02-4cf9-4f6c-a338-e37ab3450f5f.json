@@ -357,9 +357,41 @@
         "Hypersensitivity",
         "allergic reaction"
       ],
-      "definition": "A reaction to a particular substance by the immune system",
+      "definition": "a condition that makes someone sick or uncomfortable when they eat, touch, or breathe something",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Alergi",
+      "phonetics": {
+        "us": "/ˈælərdʒi/",
+        "uk": "/ˈælədʒi/"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "She has an allergy to peanuts.",
+          "translation": "Dia memiliki alergi kacang tanah."
+        },
+        {
+          "type": "Complex",
+          "text": "Because she has an allergy to dust, she always wears a mask when cleaning.",
+          "translation": "Karena dia memiliki alergi debu, dia selalu mengenakan masker saat membersihkan."
+        },
+        {
+          "type": "Compound",
+          "text": "She has an allergy to cats, and she also hates dogs.",
+          "translation": "Dia memiliki alergi kucing, dan dia juga membenci anjing."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "Although she has an allergy to shellfish, she loves eating fish, but she always checks the ingredients carefully.",
+          "translation": "Meskipun dia memiliki alergi kerang, dia suka makan ikan, tetapi dia selalu memeriksa bahan-bahan dengan hati-hati."
+        }
+      ],
+      "synonymMeanings": [
+        "Intoleransi",
+        "Kepekaan",
+        "Sensitivitas"
+      ]
     },
     {
       "id": "63e7e06c-2e3a-4353-8e7b-5e3c88b8f03f",
