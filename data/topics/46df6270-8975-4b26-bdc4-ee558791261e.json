@@ -148,7 +148,30 @@
       ],
       "definition": "A minor wrongdoing, less serious\nthan a felony",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Misdemeanor is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Misdemeanor matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Misdemeanor, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Misdemeanor correctly, we succeed, so let's try."
+        }
+      ]
     },
     {
       "id": "32406d8f-4ef0-4347-9c9b-b4fb88575b7d",
