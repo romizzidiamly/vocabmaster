@@ -45,7 +45,30 @@
       ],
       "definition": "A person who commits a crime",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Offender is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Offender matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Offender, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Offender correctly, we succeed, so let's try."
+        }
+      ]
     },
     {
       "id": "484954ec-3ba3-4aac-954f-a3daf7f2f1f4",
