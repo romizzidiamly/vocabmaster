@@ -58,6 +58,7 @@ export function UploadZone() {
             return;
         }
         if (pendingItems) {
+            console.log("Saving topic and redirecting...");
             addTopic(topicName.trim(), pendingItems);
             router.push('/');
         }
