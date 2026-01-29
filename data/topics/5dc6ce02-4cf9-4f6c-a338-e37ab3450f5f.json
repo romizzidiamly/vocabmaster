@@ -1970,7 +1970,30 @@
       ],
       "definition": "A workout involving short bursts of intense activity followed by rest",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of High-Intensity Interval Training is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because High-Intensity Interval Training matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is High-Intensity Interval Training, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use High-Intensity Interval Training correctly, we succeed, so let's try."
+        }
+      ]
     },
     {
       "id": "2dd7d8a0-e694-40b8-9d2f-922aec3bddc9",
