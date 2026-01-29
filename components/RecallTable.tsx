@@ -9,6 +9,7 @@ import { motion, AnimatePresence } from 'framer-motion';
 export function RecallTable() {
     const { gameState, guessSynonym, generateAiExamples, resetTopicProgress, stats } = useVocabStore();
     const [localInputs, setLocalInputs] = useState<Record<string, string>>({});
+    const [regeneratingId, setRegeneratingId] = useState<string | null>(null);
 
     const handleInputChange = (key: string, value: string) => {
         setLocalInputs(prev => ({ ...prev, [key]: value }));
@@ -37,6 +38,12 @@ export function RecallTable() {
         }
     };
 
+    const handleRegenerate = async (itemId: string) => {
+        setRegeneratingId(itemId);
+        await generateAiExamples(itemId);
+        setRegeneratingId(null);
+    };
+
     const handleReset = () => {
         if (confirm("Reset all progress? You'll need to rediscover words! 🔄")) {
             resetTopicProgress();
@@ -57,7 +64,7 @@ export function RecallTable() {
     }
 
     return (
-        <div className="w-full max-w-6xl mx-auto space-y-8 animate-in fade-in slide-in-from-bottom-8 duration-700">
+        <div className="w-full max-w-[95vw] mx-auto space-y-8 animate-in fade-in slide-in-from-bottom-8 duration-700">
             {/* Stats Header */}
             <div className="flex flex-wrap gap-4">
                 <div className="glass flex-1 min-w-[150px] p-6 rounded-[32px] border-white/5 shadow-xl flex items-center gap-4 group">
@@ -99,20 +106,31 @@ export function RecallTable() {
                     <table className="w-full text-left border-collapse">
                         <thead>
                             <tr className="bg-slate-100 dark:bg-white/5 text-[10px] font-black uppercase tracking-[0.2em] text-slate-600 dark:text-slate-400">
-                                <th className="px-8 py-6 border-b border-slate-200 dark:border-white/5">Vocabulary 📚</th>
-                                <th className="px-8 py-6 border-b border-slate-200 dark:border-white/5">Synonyms entry ✨</th>
+                                <th className="px-6 py-6 border-b border-slate-200 dark:border-white/5">#</th>
+                                <th className="px-6 py-6 border-b border-slate-200 dark:border-white/5">Vocabulary 📚</th>
+                                <th className="px-6 py-6 border-b border-slate-200 dark:border-white/5">Synonyms Entry ✨</th>
+                                <th className="px-6 py-6 border-b border-slate-200 dark:border-white/5">IELTS Task 2 Examples (Simple / Complex / Compound / Compound-Complex)</th>
                             </tr>
                         </thead>
                         <tbody className="divide-y divide-white/5">
-                            {discoveredItems.map((item) => {
+                            {discoveredItems.map((item, idx) => {
                                 const isMastered = item.status === 'mastered';
                                 const synonym1Correct = item.userGuesses.length >= 1;
                                 const synonym2Correct = item.userGuesses.length >= 2 || item.synonyms.length < 2;
+                                const isRegenerating = regeneratingId === item.id;
 
                                 return (
                                     <motion.tr layout key={item.id} className={cn("transition-all duration-300", isMastered ? "bg-primary/5" : "hover:bg-white/[0.02]")}>
-                                        <td className="px-8 py-8 align-top">
-                                            <div className="flex flex-col gap-3">
+                                        {/* Index */}
+                                        <td className="px-6 py-6 align-top">
+                                            <div className="w-8 h-8 rounded-xl bg-primary/10 flex items-center justify-center">
+                                                <span className="text-sm font-black text-primary">{idx + 1}</span>
+                                            </div>
+                                        </td>
+
+                                        {/* Vocabulary Column */}
+                                        <td className="px-6 py-6 align-top">
+                                            <div className="flex flex-col gap-3 min-w-[200px]">
                                                 <div className="flex items-center gap-3">
                                                     <span className={cn("text-2xl font-black tracking-tight", isMastered ? "text-primary" : "text-foreground")}>
                                                         {item.word}
@@ -126,11 +144,6 @@ export function RecallTable() {
                                                             <span>UK: [{item.phonetics.uk || '...'}]</span>
                                                         </div>
                                                     )}
-                                                    {item.phonetics && typeof item.phonetics === 'string' && (
-                                                        <div className="flex gap-2 text-[10px] font-bold text-slate-600 dark:text-slate-400 font-serif italic mb-1">
-                                                            <span>[{item.phonetics}]</span>
-                                                        </div>
-                                                    )}
                                                     <div className="flex gap-2">
                                                         <button onClick={() => speak(item.word, 'en-US')} className="flex items-center gap-2 px-3 py-1.5 glass-light hover:bg-primary/10 text-primary rounded-xl text-[10px] font-black uppercase transition-all border border-primary/10">
                                                             <Volume2 className="w-3 h-3" /> US
@@ -140,19 +153,21 @@ export function RecallTable() {
                                                         </button>
                                                     </div>
                                                     {item.meaning && (
-                                                        <div className="mt-2 py-2 px-3 bg-primary/5 rounded-xl border border-primary/10">
-                                                            <div className="text-[9px] font-black text-primary uppercase tracking-widest mb-0.5">Arti Kata 🇮🇩</div>
-                                                            <div className="text-sm font-black text-slate-800 dark:text-white leading-tight">{item.meaning}</div>
+                                                        <div className="mt-2 py-3 px-4 bg-indigo-100 dark:bg-indigo-900/40 rounded-xl border-2 border-indigo-400 dark:border-indigo-500 shadow-lg">
+                                                            <div className="text-sm font-black text-indigo-700 dark:text-indigo-300 uppercase tracking-widest mb-1">Arti Kata 🇮🇩</div>
+                                                            <div className="text-lg font-black text-indigo-950 dark:text-white leading-tight">{item.meaning}</div>
                                                         </div>
                                                     )}
                                                 </div>
                                             </div>
                                         </td>
-                                        <td className="px-8 py-8 align-top">
-                                            <div className="space-y-4 min-w-[300px]">
+
+                                        {/* Synonyms Entry Column */}
+                                        <td className="px-6 py-6 align-top">
+                                            <div className="space-y-4 min-w-[250px]">
                                                 {/* Synonym 1 */}
                                                 <div>
-                                                    <div className="text-[9px] font-black uppercase text-slate-700 dark:text-slate-500 mb-1 leading-none">Synonym 1 💪</div>
+                                                    <div className="text-[9px] font-black uppercase text-slate-700 dark:text-slate-500 mb-1 leading-none">Synonym 1 💪 (Type to unlock mastery)</div>
                                                     {synonym1Correct ? (
                                                         <div className="flex flex-col gap-1.5 p-2.5 rounded-xl bg-green-500/10 border border-green-500/20 animate-in zoom-in-95">
                                                             <div className="flex items-center gap-2 text-green-500 font-bold">
@@ -166,7 +181,7 @@ export function RecallTable() {
                                                     ) : (
                                                         <input
                                                             type="text"
-                                                            placeholder="Type synonym..."
+                                                            placeholder="Type a synonym and press Enter..."
                                                             value={localInputs[`${item.id}-1`] || ''}
                                                             onChange={(e) => handleInputChange(`${item.id}-1`, e.target.value)}
                                                             onKeyDown={(e) => e.key === 'Enter' && handleGuess(item.id, 1)}
@@ -177,7 +192,7 @@ export function RecallTable() {
                                                 {/* Synonym 2 */}
                                                 {item.synonyms.length >= 2 && (
                                                     <div>
-                                                        <div className="text-[9px] font-black uppercase text-slate-700 dark:text-slate-500 mb-1 leading-none">Synonym 2+ ✨</div>
+                                                        <div className="text-[9px] font-black uppercase text-slate-700 dark:text-slate-500 mb-1 leading-none">Synonym 2+ ✨ (Type to complete mastery)</div>
                                                         {synonym2Correct ? (
                                                             <div className="flex flex-col gap-1.5 p-2.5 rounded-xl bg-green-500/10 border border-green-500/20 animate-in zoom-in-95">
                                                                 <div className="flex items-center gap-2 text-green-500 font-bold">
@@ -193,7 +208,7 @@ export function RecallTable() {
                                                         ) : (
                                                             <input
                                                                 type="text"
-                                                                placeholder="Type synonym..."
+                                                                placeholder="Type another synonym and press Enter..."
                                                                 value={localInputs[`${item.id}-2`] || ''}
                                                                 onChange={(e) => handleInputChange(`${item.id}-2`, e.target.value)}
                                                                 onKeyDown={(e) => e.key === 'Enter' && handleGuess(item.id, 2)}
@@ -202,8 +217,59 @@ export function RecallTable() {
                                                         )}
                                                     </div>
                                                 )}
+                                            </div>
+                                        </td>
 
-                                                {/* Action Button: Regeneration moved here if needed or removed */}
+                                        {/* IELTS Examples Column */}
+                                        <td className="px-6 py-6 align-top">
+                                            <div className="space-y-3 min-w-[400px]">
+                                                {item.examples && item.examples.length > 0 ? (
+                                                    <>
+                                                        {item.examples.map((ex, i) => (
+                                                            <div key={i} className="p-3 bg-slate-100 dark:bg-white/5 rounded-xl border border-slate-200 dark:border-white/5 space-y-1.5">
+                                                                <div className="flex items-center gap-2">
+                                                                    <span className={cn(
+                                                                        "text-[9px] font-black uppercase tracking-wider px-2 py-0.5 rounded-md",
+                                                                        ex.type === 'Simple' && "bg-blue-500/20 text-blue-600 dark:text-blue-400",
+                                                                        ex.type === 'Complex' && "bg-purple-500/20 text-purple-600 dark:text-purple-400",
+                                                                        ex.type === 'Compound' && "bg-green-500/20 text-green-600 dark:text-green-400",
+                                                                        ex.type === 'Compound-Complex' && "bg-orange-500/20 text-orange-600 dark:text-orange-400"
+                                                                    )}>
+                                                                        {ex.type}
+                                                                    </span>
+                                                                </div>
+                                                                <p className="text-xs font-bold text-slate-700 dark:text-slate-300 italic leading-relaxed">
+                                                                    &ldquo;{ex.text}&rdquo;
+                                                                </p>
+                                                                {ex.translation && (
+                                                                    <p className="text-[11px] font-black text-primary/80 dark:text-primary/60 leading-tight">
+                                                                        🇮🇩 {ex.translation}
+                                                                    </p>
+                                                                )}
+                                                            </div>
+                                                        ))}
+                                                        <button
+                                                            onClick={() => handleRegenerate(item.id)}
+                                                            disabled={isRegenerating}
+                                                            className="w-full flex items-center justify-center gap-2 px-4 py-2.5 bg-primary/10 hover:bg-primary/20 text-primary rounded-xl text-[10px] font-black uppercase tracking-wider transition-all border border-primary/20 disabled:opacity-50 disabled:cursor-not-allowed group"
+                                                        >
+                                                            <Wand2 className={cn("w-3.5 h-3.5", isRegenerating && "animate-spin")} />
+                                                            {isRegenerating ? 'Generating...' : 'Re-generate with Groq'}
+                                                        </button>
+                                                    </>
+                                                ) : (
+                                                    <div className="text-center py-8">
+                                                        <div className="text-xs text-slate-500 mb-3">No examples yet</div>
+                                                        <button
+                                                            onClick={() => handleRegenerate(item.id)}
+                                                            disabled={isRegenerating}
+                                                            className="flex items-center justify-center gap-2 px-4 py-2 bg-primary/10 hover:bg-primary/20 text-primary rounded-xl text-[10px] font-black uppercase tracking-wider transition-all border border-primary/20 disabled:opacity-50 mx-auto"
+                                                        >
+                                                            <Wand2 className={cn("w-3.5 h-3.5", isRegenerating && "animate-spin")} />
+                                                            {isRegenerating ? 'Generating...' : 'Generate Examples'}
+                                                        </button>
+                                                    </div>
+                                                )}
                                             </div>
                                         </td>
                                     </motion.tr>

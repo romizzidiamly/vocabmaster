@@ -3,6 +3,7 @@ export interface VocabItem {
   word: string;
   synonyms: string[];
   meaning?: string; // Indonesian Translation
+  definition?: string; // English Definition
   phonetics?: { us: string, uk: string }; // Phonetic symbols
   examples?: { type: string, text: string, translation?: string }[]; // Added translation support
   synonymMeanings?: string[]; // Parallel array for synonym translations

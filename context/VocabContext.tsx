@@ -96,6 +96,7 @@ export function VocabProvider({ children }: { children: React.ReactNode }) {
                             i.id === item.id ? {
                                 ...i,
                                 meaning: data.meaning,
+                                definition: data.definition || i.definition,
                                 phonetics: data.phonetics,
                                 examples: data.examples,
                                 synonymMeanings: data.synonymMeanings
@@ -210,7 +211,14 @@ export function VocabProvider({ children }: { children: React.ReactNode }) {
 
             setGameState(prev => {
                 const finalItems = prev.items.map(item =>
-                    item.id === id ? { ...item, examples: data.examples, phonetics: data.phonetics, meaning: data.meaning } : item
+                    item.id === id ? {
+                        ...item,
+                        examples: data.examples,
+                        phonetics: data.phonetics,
+                        meaning: data.meaning,
+                        synonymMeanings: data.synonymMeanings,
+                        definition: data.definition || item.definition
+                    } : item
                 );
 
                 const updatedTopic = topics.find(t => t.id === prev.activeTopicId);
@@ -294,7 +302,14 @@ export function VocabProvider({ children }: { children: React.ReactNode }) {
 
             setGameState(prev => {
                 const finalItems = prev.items.map(item =>
-                    item.id === id ? { ...item, examples: data.examples, phonetics: data.phonetics, meaning: data.meaning } : item
+                    item.id === id ? {
+                        ...item,
+                        examples: data.examples,
+                        phonetics: data.phonetics,
+                        meaning: data.meaning,
+                        synonymMeanings: data.synonymMeanings,
+                        definition: data.definition || item.definition
+                    } : item
                 );
 
                 const updatedTopic = topics.find(t => t.id === prev.activeTopicId);

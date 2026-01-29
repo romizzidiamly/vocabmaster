@@ -18,25 +18,28 @@ export async function POST(request: NextRequest) {
             }, { status: 500 });
         }
 
-        const prompt = `Act as an IELTS Writing Expert and Indonesian Translator. For the vocabulary word "${word}", generate its Indonesian meaning/translation, exactly 4 example sentences (with their Indonesian translations), its phonetic symbols, and Indonesian meanings for its synonyms in JSON format. 
-    The sentences must be high-quality and suitable for IELTS Writing Task 2.
-    Provide one of each type: "Simple", "Complex", "Compound", "Compound-Complex".
-    Also provide the phonetic symbols for American (US) and British (UK) English.
-    For the synonyms, provide a parallel array of their Indonesian translations.
+        const prompt = `Act as an IELTS Writing Expert, Lexicographer, and Indonesian Translator. 
+    For the vocabulary word "${word}", generate:
+    1. A clear English definition (Cambridge Dictionary style).
+    2. Its Indonesian meaning/translation.
+    3. Exactly 4 example sentences (with Indonesian translations) - Simple, Complex, Compound, Compound-Complex.
+    4. Phonetic symbols (US and UK).
+    5. Indonesian meanings for its synonyms.
     
-    IMPORTANT: You MUST return ONLY a JSON object. No intro text, no conversational filler.
+    IMPORTANT: You MUST return ONLY a JSON object. No intro text.
     Response format:
     {
-      "meaning": "Indonesian translation of the main word",
+      "definition": "Clear English definition...",
+      "meaning": "Indonesian translation...",
       "phonetics": {
         "us": "/.../",
         "uk": "/.../"
       },
       "examples": [
-        {"type": "Simple", "text": "English sentence...", "translation": "Indonesian translation..."},
-        {"type": "Complex", "text": "English sentence...", "translation": "Indonesian translation..."},
-        {"type": "Compound", "text": "English sentence...", "translation": "Indonesian translation..."},
-        {"type": "Compound-Complex", "text": "English sentence...", "translation": "Indonesian translation..."}
+        {"type": "Simple", "text": "...", "translation": "..."},
+        {"type": "Complex", "text": "...", "translation": "..."},
+        {"type": "Compound", "text": "...", "translation": "..."},
+        {"type": "Compound-Complex", "text": "...", "translation": "..."}
       ],
       "synonymMeanings": ["translation1", "translation2", ...]
     }`;

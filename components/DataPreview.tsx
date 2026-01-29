@@ -13,7 +13,7 @@ const containerVariants = {
             staggerChildren: 0.05
         }
     }
-};
+} as const;
 
 const itemVariants = {
     hidden: { opacity: 0, y: 20, scale: 0.95 },
@@ -27,7 +27,7 @@ const itemVariants = {
             damping: 15
         }
     }
-};
+} as const;
 
 export function DataPreview() {
     const { gameState, setPhase, resetGame, topics } = useVocabStore();
@@ -47,7 +47,7 @@ export function DataPreview() {
     };
 
     return (
-        <div className="w-full max-w-6xl mx-auto space-y-12 pb-32">
+        <div className="w-full max-w-7xl mx-auto space-y-12 pb-32">
             {/* Header Section */}
             <motion.div
                 initial={{ opacity: 0, y: -20 }}
@@ -69,12 +69,12 @@ export function DataPreview() {
                 </p>
             </motion.div>
 
-            {/* Knowledge Cards Grid */}
+            {/* Knowledge Grid - 2 Columns */}
             <motion.div
                 variants={containerVariants}
                 initial="hidden"
                 animate="show"
-                className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6"
+                className="grid grid-cols-1 lg:grid-cols-2 gap-6"
             >
                 {gameState.items.map((item, idx) => (
                     <motion.div
@@ -82,63 +82,78 @@ export function DataPreview() {
                         variants={itemVariants}
                         className="group relative"
                     >
-                        {/* Inner Card */}
-                        <div className="h-full bg-white/[0.02] dark:bg-slate-900/40 hover:bg-white/[0.04] border border-white/5 dark:border-white/10 hover:border-primary/30 p-8 rounded-[40px] transition-all duration-500 shadow-2xl relative overflow-hidden backdrop-blur-sm">
-                            <div className="absolute -top-20 -right-20 w-40 h-40 bg-primary/5 blur-[50px] group-hover:bg-primary/20 transition-all duration-700" />
+                        {/* Card */}
+                        <div className="h-full bg-white/[0.02] dark:bg-slate-900/40 hover:bg-white/[0.04] border border-white/5 dark:border-white/10 hover:border-primary/30 p-6 rounded-[32px] transition-all duration-500 shadow-2xl relative overflow-hidden backdrop-blur-sm">
+                            <div className="absolute -top-20 -right-20 w-40 h-40 bg-primary/5 blur-[60px] group-hover:bg-primary/20 transition-all duration-700" />
 
-                            <div className="relative z-10">
-                                <div className="flex justify-between items-start mb-4">
-                                    <div className="space-y-1">
-                                        <div className="flex items-center gap-2 text-[10px] font-black text-slate-500 uppercase tracking-widest pl-0.5">
+                            <div className="relative z-10 space-y-6">
+                                {/* Top Section: Word + Audio */}
+                                <div className="flex items-start justify-between gap-4">
+                                    <div className="flex-1 space-y-2">
+                                        <div className="flex items-center gap-2 text-[10px] font-black text-slate-500 uppercase tracking-widest">
                                             <span className="w-1.5 h-1.5 rounded-full bg-primary/50" /> Target {idx + 1}
                                         </div>
-                                        <h4 className="text-3xl font-black text-foreground group-hover:text-primary transition-colors tracking-tighter uppercase leading-none">
+                                        <h4 className="text-4xl font-black text-foreground group-hover:text-primary transition-colors tracking-tighter uppercase leading-none">
                                             {item.word}
                                         </h4>
-                                        <div className="flex flex-col gap-1">
-                                            {item.phonetics && typeof item.phonetics === 'object' && (
-                                                <div className="flex gap-2 items-center mt-1">
-                                                    <p className="text-[10px] font-bold text-slate-600 dark:text-slate-400 font-serif italic bg-slate-100 dark:bg-white/5 px-2 py-0.5 rounded-lg border border-slate-200 dark:border-transparent">
-                                                        US: [{item.phonetics.us || '...'}]
-                                                    </p>
-                                                    <p className="text-[10px] font-bold text-slate-600 dark:text-slate-400 font-serif italic bg-slate-100 dark:bg-white/5 px-2 py-0.5 rounded-lg border border-slate-200 dark:border-transparent">
-                                                        UK: [{item.phonetics.uk || '...'}]
-                                                    </p>
-                                                </div>
-                                            )}
-                                        </div>
-                                        {item.meaning && (
-                                            <div className="mt-4 p-4 bg-primary/5 border border-primary/20 rounded-2xl relative overflow-hidden group/meaning">
-                                                <div className="flex items-center gap-2 mb-1">
-                                                    <span className="text-[10px] font-black text-primary uppercase tracking-widest">Arti Kata 🇮🇩</span>
-                                                </div>
-                                                <p className="text-lg font-black text-slate-900 dark:text-white leading-tight">
-                                                    {item.meaning}
+
+                                        {/* Phonetics */}
+                                        {item.phonetics && typeof item.phonetics === 'object' && (
+                                            <div className="flex gap-2 items-center mt-2">
+                                                <p className="text-[11px] font-bold text-slate-600 dark:text-slate-400 font-serif italic bg-slate-100 dark:bg-white/5 px-2 py-1 rounded-lg border border-slate-200 dark:border-transparent">
+                                                    US: [{item.phonetics.us || '...'}]
+                                                </p>
+                                                <p className="text-[11px] font-bold text-slate-600 dark:text-slate-400 font-serif italic bg-slate-100 dark:bg-white/5 px-2 py-1 rounded-lg border border-slate-200 dark:border-transparent">
+                                                    UK: [{item.phonetics.uk || '...'}]
                                                 </p>
                                             </div>
                                         )}
                                     </div>
+
+                                    {/* Audio Buttons */}
                                     <div className="flex flex-col gap-2">
-                                        <button onClick={() => speak(item.word, 'en-US')} className="px-3 py-1.5 flex items-center gap-2 bg-white/5 hover:bg-primary text-slate-400 hover:text-white rounded-xl transition-all shadow-xl active:scale-95 group/voice border border-white/5">
-                                            <span className="text-[10px] font-black">🇺🇸 US</span>
+                                        <button onClick={() => speak(item.word, 'en-US')} className="px-3 py-1.5 flex items-center gap-2 bg-white/5 hover:bg-primary text-slate-400 hover:text-white rounded-xl transition-all shadow-xl active:scale-95 border border-white/5">
+                                            <span className="text-[10px] font-black">🇺🇸</span>
                                             <Volume2 className="w-3.5 h-3.5" />
                                         </button>
-                                        <button onClick={() => speak(item.word, 'en-GB')} className="px-3 py-1.5 flex items-center gap-2 bg-white/5 hover:bg-primary text-slate-400 hover:text-white rounded-xl transition-all shadow-xl active:scale-95 group/voice border border-white/5">
-                                            <span className="text-[10px] font-black">🇬🇧 UK</span>
+                                        <button onClick={() => speak(item.word, 'en-GB')} className="px-3 py-1.5 flex items-center gap-2 bg-white/5 hover:bg-primary text-slate-400 hover:text-white rounded-xl transition-all shadow-xl active:scale-95 border border-white/5">
+                                            <span className="text-[10px] font-black">🇬🇧</span>
                                             <Volume2 className="w-3.5 h-3.5" />
                                         </button>
                                     </div>
                                 </div>
 
-                                {item.examples && (
-                                    <div className="mt-6 space-y-3">
-                                        <p className="text-xs font-black text-primary uppercase tracking-[0.2em] mb-2 leading-none">IELTS Contexts</p>
-                                        <div className="grid gap-2">
-                                            {item.examples.slice(0, 2).map((ex, i) => (
-                                                <div key={i} className="p-3 bg-slate-100 dark:bg-white/5 rounded-2xl border border-slate-200 dark:border-white/5">
-                                                    <p className="text-xs font-bold text-slate-700 dark:text-slate-400 italic leading-relaxed">&ldquo;{ex.text}&rdquo;</p>
+                                {/* Indonesian Meaning */}
+                                {item.meaning && (
+                                    <div className="p-5 bg-indigo-100 dark:bg-indigo-900/40 border-2 border-indigo-400 dark:border-indigo-500 rounded-2xl shadow-lg">
+                                        <div className="flex items-center gap-2 mb-2">
+                                            <span className="text-sm font-black text-indigo-700 dark:text-indigo-300 uppercase tracking-widest">Arti Kata 🇮🇩</span>
+                                        </div>
+                                        <p className="text-2xl font-black text-indigo-950 dark:text-white leading-tight">
+                                            {item.meaning}
+                                        </p>
+                                    </div>
+                                )}
+
+                                {/* Example Sentences - ALL 4 */}
+                                {item.examples && item.examples.length > 0 && (
+                                    <div className="space-y-3">
+                                        <p className="text-xs font-black text-primary uppercase tracking-[0.2em] leading-none flex items-center gap-2">
+                                            <Sparkles className="w-3.5 h-3.5" /> IELTS Examples
+                                        </p>
+                                        <div className="space-y-2">
+                                            {item.examples.map((ex, i) => (
+                                                <div key={i} className="p-3 bg-slate-100 dark:bg-white/5 rounded-xl border border-slate-200 dark:border-white/5 space-y-1.5">
+                                                    <div className="flex items-center gap-2">
+                                                        <span className="text-[9px] font-black text-primary/70 uppercase tracking-wider px-2 py-0.5 bg-primary/10 rounded-md">
+                                                            {ex.type}
+                                                        </span>
+                                                    </div>
+                                                    <p className="text-xs font-bold text-slate-700 dark:text-slate-300 italic leading-relaxed">
+                                                        &ldquo;{ex.text}&rdquo;
+                                                    </p>
                                                     {ex.translation && (
-                                                        <p className="text-[10px] font-black text-primary/80 dark:text-primary/60 mt-1.5 leading-tight">
+                                                        <p className="text-[11px] font-black text-primary/80 dark:text-primary/60 leading-tight">
                                                             🇮🇩 {ex.translation}
                                                         </p>
                                                     )}
@@ -148,18 +163,19 @@ export function DataPreview() {
                                     </div>
                                 )}
 
-                                <div className="space-y-3 mt-6">
-                                    <p className="text-xs font-black text-slate-900 dark:text-slate-300 uppercase tracking-[0.2em] mb-3 leading-none flex items-center gap-2">
+                                {/* Synonyms */}
+                                <div className="space-y-3">
+                                    <p className="text-xs font-black text-slate-900 dark:text-slate-300 uppercase tracking-[0.2em] leading-none flex items-center gap-2">
                                         <Zap size={14} className="text-primary" /> Accepted Synonyms
                                     </p>
-                                    <div className="flex flex-wrap gap-2.5">
+                                    <div className="flex flex-wrap gap-2">
                                         {item.synonyms.map((syn, idx) => (
                                             <div key={idx} className="flex flex-col gap-0.5">
-                                                <span className="bg-slate-900 dark:bg-primary text-white border border-white/20 px-5 py-2 rounded-2xl text-[13px] font-black shadow-xl shadow-primary/30 transition-all cursor-default scale-100 hover:scale-105">
+                                                <span className="bg-slate-900 dark:bg-primary text-white border border-white/20 px-4 py-1.5 rounded-xl text-xs font-black shadow-xl shadow-primary/30 transition-all cursor-default scale-100 hover:scale-105">
                                                     {syn}
                                                 </span>
                                                 {item.synonymMeanings && item.synonymMeanings[idx] && (
-                                                    <span className="text-[10px] font-bold text-slate-500 text-center uppercase tracking-tighter">
+                                                    <span className="text-[9px] font-bold text-slate-500 text-center uppercase tracking-tight">
                                                         {item.synonymMeanings[idx]}
                                                     </span>
                                                 )}

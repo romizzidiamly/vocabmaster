@@ -6,6 +6,7 @@ export interface IeltsExamples {
 
 export interface GroqResponse {
     meaning: string;
+    definition?: string;
     phonetics: { us: string, uk: string };
     examples: IeltsExamples[];
     synonymMeanings?: string[];
@@ -26,6 +27,7 @@ export async function fetchGroqData(word: string): Promise<GroqResponse> {
         const data = await response.json();
         return {
             meaning: data.meaning || 'n/a',
+            definition: data.definition,
             phonetics: data.phonetics || { us: 'n/a', uk: 'n/a' },
             examples: data.examples,
             synonymMeanings: data.synonymMeanings
