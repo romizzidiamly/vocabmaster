@@ -1047,7 +1047,30 @@
       ],
       "definition": "A formal declaration that someone is\nguilty of a crime",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Conviction is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Conviction matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Conviction, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Conviction correctly, we succeed, so let's try."
+        }
+      ]
     },
     {
       "id": "45c552b1-5b51-490e-8b9a-e0466c13ff41",
