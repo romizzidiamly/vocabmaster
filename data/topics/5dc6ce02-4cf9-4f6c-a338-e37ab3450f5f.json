@@ -2236,9 +2236,42 @@
         "Jump training",
         "explosive workouts"
       ],
-      "definition": "Exercises that involve explosive movements to improve power",
+      "definition": "the practice of using jumps and other explosive movements to improve athletic performance",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "pelatihan menggunakan lompatan dan gerakan eksplosif lainnya untuk meningkatkan kinerja atletik",
+      "phonetics": {
+        "us": "/ˌplaɪəˈmɛtrɪks/",
+        "uk": "/ˌplaɪəˈmɛtrɪks/"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Plyometrics is a great way to improve your jumping ability.",
+          "translation": "Plyometrik adalah cara yang baik untuk meningkatkan kemampuan melompat Anda."
+        },
+        {
+          "type": "Complex",
+          "text": "Because plyometrics is a high-intensity workout, it is essential to warm up before starting.",
+          "translation": "Karena plyometrik adalah latihan intensitas tinggi, sangat penting untuk melakukan pemanasan sebelum memulai."
+        },
+        {
+          "type": "Compound",
+          "text": "Plyometrics helps athletes jump higher, and it also improves their speed and agility.",
+          "translation": "Plyometrik membantu atlet melompat lebih tinggi, dan juga meningkatkan kecepatan dan kelincahan mereka."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "While plyometrics can be an effective way to improve athletic performance, it is crucial to note that it requires proper training and supervision, because if not done correctly, it can lead to injuries, and also, it is essential to warm up before starting.",
+          "translation": "Sementara plyometrik dapat menjadi cara yang efektif untuk meningkatkan kinerja atletik, sangat penting untuk dicatat bahwa itu memerlukan pelatihan dan pengawasan yang tepat, karena jika tidak dilakukan dengan benar, dapat menyebabkan cedera, dan juga, sangat penting untuk melakukan pemanasan sebelum memulai."
+        }
+      ],
+      "synonymMeanings": [
+        "latihan kekuatan",
+        "pelatihan kecepatan",
+        "latihan ketangkasan",
+        "pelatihan kekuatan ledak"
+      ]
     },
     {
       "id": "91695d61-0e71-46f8-ba03-2c3831092d2a",
