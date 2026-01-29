@@ -158,41 +158,40 @@
         "ecological",
         "restoration"
       ],
-      "definition": "The act of planting trees in an area where they have been cut down",
+      "definition": "the act of planting trees in an area where they have been cut down",
       "userGuesses": [],
       "status": "discovered",
       "examples": [
         {
           "type": "Simple",
-          "text": "The government launched a reforestation program.",
-          "translation": "Pemerintah meluncurkan program reboisasi."
+          "text": "The government has launched a reforestation program.",
+          "translation": "Pemerintah telah meluncurkan program penghijauan kembali."
         },
         {
           "type": "Complex",
           "text": "Because the forest was destroyed, the community decided to start a reforestation project.",
-          "translation": "Karena hutan itu hancur, masyarakat memutuskan untuk memulai proyek reboisasi."
+          "translation": "Karena hutan itu hancur, masyarakat memutuskan untuk memulai proyek penghijauan kembali."
         },
         {
           "type": "Compound",
-          "text": "The company invested in reforestation and also built a new factory.",
-          "translation": "Perusahaan itu berinvestasi dalam reboisasi dan juga membangun pabrik baru."
+          "text": "The company planted trees and the government supported the reforestation effort, so the environment improved.",
+          "translation": "Perusahaan menanam pohon dan pemerintah mendukung upaya penghijauan kembali, sehingga lingkungan membaik."
         },
         {
           "type": "Compound-Complex",
-          "text": "While the government was working on the reforestation project, the company was also building a new road, and because of this, the local economy started to grow.",
-          "translation": "Sementara pemerintah bekerja pada proyek reboisasi, perusahaan juga membangun jalan baru, dan karena itu, perekonomian lokal mulai tumbuh."
+          "text": "Although the reforestation process was challenging, the community worked together and, as a result, the forest began to flourish, which had a positive impact on the local ecosystem.",
+          "translation": "Meskipun proses penghijauan kembali itu menantang, masyarakat bekerja sama dan, sebagai hasilnya, hutan mulai berkembang, yang berdampak positif pada ekosistem setempat."
         }
       ],
       "phonetics": {
-        "us": "/ˌrɪfəˈrɛsˌteɪʃən/",
-        "uk": "/ˌriːfɔːˈrɛstɪkeɪʃən/"
+        "us": "/ˌrɪfɔːrˈɛs.təˈteɪ.ʃən/",
+        "uk": "/ˌriː.fɒr.ɛs.tiˈteɪ.ʃən/"
       },
-      "meaning": "Reboisasi",
+      "meaning": "Penghijauan kembali",
       "synonymMeanings": [
-        "Penghijauan",
-        "Rehabilitasi hutan",
-        "Penanaman kembali",
-        "Konservasi hutan"
+        "Reboisasi",
+        "Penghutanan kembali",
+        "Penanaman kembali"
       ]
     },
     {
