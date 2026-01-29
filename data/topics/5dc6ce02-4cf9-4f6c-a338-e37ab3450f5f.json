@@ -2204,7 +2204,30 @@
       ],
       "definition": "A set of low-intensity exercises performed after a workout",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Cool-down is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Cool-down matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Cool-down, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Cool-down correctly, we succeed, so let's try."
+        }
+      ]
     },
     {
       "id": "018045e9-fa8c-49a3-9693-343f117c685c",
