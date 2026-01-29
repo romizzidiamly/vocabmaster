@@ -526,7 +526,30 @@
       ],
       "definition": "The presence of harmful substances\nin the air",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Air pollution is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Air pollution matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Air pollution, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Air pollution correctly, we succeed, so let's try."
+        }
+      ]
     },
     {
       "id": "e770c7d7-2b6c-4ed2-abd7-5141443a510b",
