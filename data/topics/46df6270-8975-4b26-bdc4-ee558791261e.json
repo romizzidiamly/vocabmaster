@@ -1081,7 +1081,30 @@
       ],
       "definition": "A judgment that a person is not\nguilty of a crime",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Acquittal is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Acquittal matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Acquittal, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Acquittal correctly, we succeed, so let's try."
+        }
+      ]
     },
     {
       "id": "db451112-92b5-4c8b-8a3b-49ff8c08fa17",
