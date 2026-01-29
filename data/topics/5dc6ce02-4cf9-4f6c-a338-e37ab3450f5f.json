@@ -314,9 +314,41 @@
         "High BP",
         "elevated pressure"
       ],
-      "definition": "High blood pressure",
+      "definition": "a medical condition in which the blood pressure is too high",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "hipertensi",
+      "phonetics": {
+        "us": "/ˌhaɪpərˈtɛnʃən/",
+        "uk": "/ˌhʌɪpəˈtɛnʃən/"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "The doctor diagnosed her with hypertension.",
+          "translation": "Dokter mendiagnosa bahwa dia menderita hipertensi."
+        },
+        {
+          "type": "Complex",
+          "text": "Because she had hypertension, the doctor advised her to reduce her salt intake.",
+          "translation": "Karena dia menderita hipertensi, dokter menyarankannya untuk mengurangi konsumsi garam."
+        },
+        {
+          "type": "Compound",
+          "text": "The patient had hypertension and diabetes, so she needed to take medication every day.",
+          "translation": "Pasien menderita hipertensi dan diabetes, jadi dia perlu mengonsumsi obat setiap hari."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "While the new medication helped to lower her blood pressure, the patient still had to deal with the effects of hypertension, which had already damaged her kidneys.",
+          "translation": "Sementara obat baru membantu menurunkan tekanan darahnya, pasien masih harus menghadapi dampak hipertensi, yang sudah merusak ginjalnya."
+        }
+      ],
+      "synonymMeanings": [
+        "tekanan darah tinggi",
+        "penyakit jantung",
+        "penyakit tekanan darah"
+      ]
     },
     {
       "id": "91a2dd83-ce50-4861-bc18-5196d8d4ce9a",
