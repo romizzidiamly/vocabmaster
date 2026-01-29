@@ -171,7 +171,7 @@ export function VocabProvider({ children }: { children: React.ReactNode }) {
 
             setGameState(prev => {
                 const finalItems = prev.items.map(item =>
-                    item.id === id ? { ...item, examples: data.examples, phonetics: data.phonetics } : item
+                    item.id === id ? { ...item, examples: data.examples, phonetics: data.phonetics, meaning: data.meaning } : item
                 );
 
                 const updatedTopic = topics.find(t => t.id === prev.activeTopicId);
@@ -255,7 +255,7 @@ export function VocabProvider({ children }: { children: React.ReactNode }) {
 
             setGameState(prev => {
                 const finalItems = prev.items.map(item =>
-                    item.id === id ? { ...item, examples: data.examples, phonetics: data.phonetics } : item
+                    item.id === id ? { ...item, examples: data.examples, phonetics: data.phonetics, meaning: data.meaning } : item
                 );
 
                 const updatedTopic = topics.find(t => t.id === prev.activeTopicId);
