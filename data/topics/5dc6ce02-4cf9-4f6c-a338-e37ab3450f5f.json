@@ -1377,9 +1377,42 @@
         "Psychological growth",
         "emotional"
       ],
-      "definition": "The ability to manage emotions effectively",
+      "definition": "the ability to control and understand your emotions, and to deal with situations in a mature and sensible way",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "kedewasaan emosional",
+      "phonetics": {
+        "us": "/ɪˈmoʊʃənl ˈmætʃərɪti/",
+        "uk": "/ɪˈməʊʃənl ˈmætʃərɪti/"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "She showed emotional maturity by forgiving her enemy.",
+          "translation": "Dia menunjukkan kedewasaan emosional dengan memaafkan musuhnya."
+        },
+        {
+          "type": "Complex",
+          "text": "Because she had achieved emotional maturity, she was able to handle the difficult situation.",
+          "translation": "Karena dia telah mencapai kedewasaan emosional, dia mampu menangani situasi yang sulit."
+        },
+        {
+          "type": "Compound",
+          "text": "She was emotionally mature, and she was also very intelligent.",
+          "translation": "Dia memiliki kedewasaan emosional, dan dia juga sangat pintar."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "While she was emotionally mature, her brother was still struggling to achieve it, because he had not learned how to control his emotions.",
+          "translation": "Sementara dia memiliki kedewasaan emosional, saudaranya masih berjuang untuk mencapainya, karena dia belum belajar bagaimana mengendalikan emosinya."
+        }
+      ],
+      "synonymMeanings": [
+        "kedewasaan",
+        "kesabaran",
+        "ketenangan",
+        "kebijaksanaan"
+      ]
     },
     {
       "id": "de883684-6095-4ea1-883e-b3742882b07b",
