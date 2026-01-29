@@ -1508,9 +1508,42 @@
         "Self-sufficiency",
         "autonomy"
       ],
-      "definition": "The ability to take care of oneself without relying on others",
+      "definition": "The state of being free from the control or influence of others",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Kemerdekaan",
+      "phonetics": {
+        "us": "/ɪndɪˈpɛndəns/",
+        "uk": "/ˌɪndɪˈpɛndəns/"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "She values her independence.",
+          "translation": "Dia menghargai kemerdekaannya."
+        },
+        {
+          "type": "Complex",
+          "text": "Because she had a job, she was able to maintain her independence.",
+          "translation": "Karena dia memiliki pekerjaan, dia dapat mempertahankan kemerdekaannya."
+        },
+        {
+          "type": "Compound",
+          "text": "She wanted independence, but she also wanted to get married.",
+          "translation": "Dia ingin kemerdekaan, tetapi dia juga ingin menikah."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "While she valued her independence, she also knew that getting married would mean that she had to make some compromises, but she was willing to do so because she loved him.",
+          "translation": "Sementara dia menghargai kemerdekaannya, dia juga tahu bahwa menikah berarti dia harus membuat beberapa kompromi, tetapi dia mau melakukannya karena dia mencintainya."
+        }
+      ],
+      "synonymMeanings": [
+        "Kebebasan",
+        "Otonomi",
+        "Kemandirian",
+        "Swaita"
+      ]
     },
     {
       "id": "14822fbe-1cf5-407b-9bc5-c622dc7fa8a3",
