@@ -97,17 +97,6 @@ export function DataPreview() {
                                             {item.word}
                                         </h4>
 
-                                        {/* Phonetics */}
-                                        {item.phonetics && typeof item.phonetics === 'object' && (
-                                            <div className="flex gap-2 items-center mt-2">
-                                                <p className="text-[11px] font-bold text-slate-600 dark:text-slate-400 font-serif italic bg-slate-100 dark:bg-white/5 px-2 py-1 rounded-lg border border-slate-200 dark:border-transparent">
-                                                    US: [{item.phonetics.us || '...'}]
-                                                </p>
-                                                <p className="text-[11px] font-bold text-slate-600 dark:text-slate-400 font-serif italic bg-slate-100 dark:bg-white/5 px-2 py-1 rounded-lg border border-slate-200 dark:border-transparent">
-                                                    UK: [{item.phonetics.uk || '...'}]
-                                                </p>
-                                            </div>
-                                        )}
                                     </div>
 
                                     {/* Audio Buttons */}
@@ -122,46 +111,6 @@ export function DataPreview() {
                                         </button>
                                     </div>
                                 </div>
-
-                                {/* Indonesian Meaning */}
-                                {item.meaning && (
-                                    <div className="p-5 bg-indigo-100 dark:bg-indigo-900/40 border-2 border-indigo-400 dark:border-indigo-500 rounded-2xl shadow-lg">
-                                        <div className="flex items-center gap-2 mb-2">
-                                            <span className="text-sm font-black text-indigo-700 dark:text-indigo-300 uppercase tracking-widest">Arti Kata 🇮🇩</span>
-                                        </div>
-                                        <p className="text-2xl font-black text-indigo-950 dark:text-white leading-tight">
-                                            {item.meaning}
-                                        </p>
-                                    </div>
-                                )}
-
-                                {/* Example Sentences - ALL 4 */}
-                                {item.examples && item.examples.length > 0 && (
-                                    <div className="space-y-3">
-                                        <p className="text-xs font-black text-primary uppercase tracking-[0.2em] leading-none flex items-center gap-2">
-                                            <Sparkles className="w-3.5 h-3.5" /> IELTS Examples
-                                        </p>
-                                        <div className="space-y-2">
-                                            {item.examples.map((ex, i) => (
-                                                <div key={i} className="p-3 bg-slate-100 dark:bg-white/5 rounded-xl border border-slate-200 dark:border-white/5 space-y-1.5">
-                                                    <div className="flex items-center gap-2">
-                                                        <span className="text-[9px] font-black text-primary/70 uppercase tracking-wider px-2 py-0.5 bg-primary/10 rounded-md">
-                                                            {ex.type}
-                                                        </span>
-                                                    </div>
-                                                    <p className="text-xs font-bold text-slate-700 dark:text-slate-300 italic leading-relaxed">
-                                                        &ldquo;{ex.text}&rdquo;
-                                                    </p>
-                                                    {ex.translation && (
-                                                        <p className="text-[11px] font-black text-primary/80 dark:text-primary/60 leading-tight">
-                                                            🇮🇩 {ex.translation}
-                                                        </p>
-                                                    )}
-                                                </div>
-                                            ))}
-                                        </div>
-                                    </div>
-                                )}
 
                                 {/* Synonyms */}
                                 <div className="space-y-3">
