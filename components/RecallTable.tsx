@@ -154,50 +154,52 @@ export function RecallTable() {
                                                 {/* Synonym 1 */}
                                                 <div>
                                                     <div className="text-[9px] font-black uppercase text-slate-700 dark:text-slate-500 mb-1 leading-none">Synonym 1 💪</div>
-                                                    <div className="flex flex-col gap-1.5 p-2.5 rounded-xl bg-green-500/10 border border-green-500/20 animate-in zoom-in-95">
-                                                        <div className="flex items-center gap-2 text-green-500 font-bold">
-                                                            <CheckCircle2 className="w-4 h-4" />
-                                                            <span className="text-sm">{item.userGuesses[0] || item.synonyms[0]}</span>
+                                                    {synonym1Correct ? (
+                                                        <div className="flex flex-col gap-1.5 p-2.5 rounded-xl bg-green-500/10 border border-green-500/20 animate-in zoom-in-95">
+                                                            <div className="flex items-center gap-2 text-green-500 font-bold">
+                                                                <CheckCircle2 className="w-4 h-4" />
+                                                                <span className="text-sm">{item.userGuesses[0] || item.synonyms[0]}</span>
+                                                            </div>
+                                                            {item.synonymMeanings && item.synonymMeanings[0] && (
+                                                                <div className="text-[9px] font-black text-green-600/70 uppercase tracking-widest pl-6">🇮🇩 {item.synonymMeanings[0]}</div>
+                                                            )}
                                                         </div>
-                                                        {item.synonymMeanings && item.synonymMeanings[0] && (
-                                                            <div className="text-[9px] font-black text-green-600/70 uppercase tracking-widest pl-6">🇮🇩 {item.synonymMeanings[0]}</div>
-                                                        )}
-                                                    </div>
                                                     ) : (
-                                                    <input
-                                                        type="text"
-                                                        placeholder="Type synonym..."
-                                                        value={localInputs[`${item.id}-1`] || ''}
-                                                        onChange={(e) => handleInputChange(`${item.id}-1`, e.target.value)}
-                                                        onKeyDown={(e) => e.key === 'Enter' && handleGuess(item.id, 1)}
-                                                        className="w-full bg-white/5 dark:bg-slate-800/50 border border-white/10 dark:border-white/5 rounded-xl px-4 py-2.5 text-xs text-foreground placeholder:text-slate-500 focus:border-primary/50 focus:ring-4 focus:ring-primary/5 outline-none transition-all"
-                                                    />
+                                                        <input
+                                                            type="text"
+                                                            placeholder="Type synonym..."
+                                                            value={localInputs[`${item.id}-1`] || ''}
+                                                            onChange={(e) => handleInputChange(`${item.id}-1`, e.target.value)}
+                                                            onKeyDown={(e) => e.key === 'Enter' && handleGuess(item.id, 1)}
+                                                            className="w-full bg-white/5 dark:bg-slate-800/50 border border-white/10 dark:border-white/5 rounded-xl px-4 py-2.5 text-xs text-foreground placeholder:text-slate-500 focus:border-primary/50 focus:ring-4 focus:ring-primary/5 outline-none transition-all"
+                                                        />
                                                     )}
                                                 </div>
                                                 {/* Synonym 2 */}
                                                 {item.synonyms.length >= 2 && (
                                                     <div>
                                                         <div className="text-[9px] font-black uppercase text-slate-700 dark:text-slate-500 mb-1 leading-none">Synonym 2+ ✨</div>
-                                                        <div className="flex flex-col gap-1.5 p-2.5 rounded-xl bg-green-500/10 border border-green-500/20 animate-in zoom-in-95">
-                                                            <div className="flex items-center gap-2 text-green-500 font-bold">
-                                                                <CheckCircle2 className="w-4 h-4" />
-                                                                <span className="text-sm">{item.userGuesses.slice(1).join(', ') || item.synonyms.slice(1).join(', ')}</span>
-                                                            </div>
-                                                            {item.synonymMeanings && item.synonymMeanings.slice(1).length > 0 && (
-                                                                <div className="text-[9px] font-black text-green-600/70 uppercase tracking-widest pl-6">
-                                                                    🇮🇩 {item.synonymMeanings.slice(1).join(', ')}
+                                                        {synonym2Correct ? (
+                                                            <div className="flex flex-col gap-1.5 p-2.5 rounded-xl bg-green-500/10 border border-green-500/20 animate-in zoom-in-95">
+                                                                <div className="flex items-center gap-2 text-green-500 font-bold">
+                                                                    <CheckCircle2 className="w-4 h-4" />
+                                                                    <span className="text-sm">{item.userGuesses.slice(1).join(', ') || item.synonyms.slice(1).join(', ')}</span>
                                                                 </div>
-                                                            )}
-                                                        </div>
+                                                                {item.synonymMeanings && item.synonymMeanings.slice(1).length > 0 && (
+                                                                    <div className="text-[9px] font-black text-green-600/70 uppercase tracking-widest pl-6">
+                                                                        🇮🇩 {item.synonymMeanings.slice(1).join(', ')}
+                                                                    </div>
+                                                                )}
+                                                            </div>
                                                         ) : (
-                                                        <input
-                                                            type="text"
-                                                            placeholder="Type synonym..."
-                                                            value={localInputs[`${item.id}-2`] || ''}
-                                                            onChange={(e) => handleInputChange(`${item.id}-2`, e.target.value)}
-                                                            onKeyDown={(e) => e.key === 'Enter' && handleGuess(item.id, 2)}
-                                                            className="w-full bg-white/5 border border-white/10 rounded-xl px-4 py-2.5 text-xs text-foreground focus:border-primary/50 focus:ring-4 focus:ring-primary/5 outline-none transition-all"
-                                                        />
+                                                            <input
+                                                                type="text"
+                                                                placeholder="Type synonym..."
+                                                                value={localInputs[`${item.id}-2`] || ''}
+                                                                onChange={(e) => handleInputChange(`${item.id}-2`, e.target.value)}
+                                                                onKeyDown={(e) => e.key === 'Enter' && handleGuess(item.id, 2)}
+                                                                className="w-full bg-white/5 border border-white/10 rounded-xl px-4 py-2.5 text-xs text-foreground focus:border-primary/50 focus:ring-4 focus:ring-primary/5 outline-none transition-all"
+                                                            />
                                                         )}
                                                     </div>
                                                 )}

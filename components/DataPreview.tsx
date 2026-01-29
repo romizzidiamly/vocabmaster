@@ -1,10 +1,33 @@
 'use client';
 
 import { useVocabStore } from '@/context/VocabContext';
-import { BookText, Play, X, Volume2, Sparkles, Zap, Award } from 'lucide-react';
-import { motion, AnimatePresence } from 'framer-motion';
+import { BookText, Play, X, Volume2, Sparkles, Zap } from 'lucide-react';
+import { motion } from 'framer-motion';
 import { useTheme } from '@/context/ThemeContext';
-import { cn } from '@/lib/utils';
+
+const containerVariants = {
+    hidden: { opacity: 0 },
+    show: {
+        opacity: 1,
+        transition: {
+            staggerChildren: 0.05
+        }
+    }
+};
+
+const itemVariants = {
+    hidden: { opacity: 0, y: 20, scale: 0.95 },
+    show: {
+        opacity: 1,
+        y: 0,
+        scale: 1,
+        transition: {
+            type: "spring",
+            stiffness: 100,
+            damping: 15
+        }
+    }
+};
 
 export function DataPreview() {
     const { gameState, setPhase, resetGame, topics } = useVocabStore();
@@ -21,30 +44,6 @@ export function DataPreview() {
         utterance.lang = voice;
         utterance.rate = 0.9;
         window.speechSynthesis.speak(utterance);
-    };
-
-    const containerVariants = {
-        hidden: { opacity: 0 },
-        show: {
-            opacity: 1,
-            transition: {
-                staggerChildren: 0.05
-            }
-        }
-    };
-
-    const itemVariants = {
-        hidden: { opacity: 0, y: 20, scale: 0.95 },
-        show: {
-            opacity: 1,
-            y: 0,
-            scale: 1,
-            transition: {
-                type: "spring",
-                stiffness: 100,
-                damping: 15
-            }
-        }
     };
 
     return (
@@ -85,7 +84,6 @@ export function DataPreview() {
                     >
                         {/* Inner Card */}
                         <div className="h-full bg-white/[0.02] dark:bg-slate-900/40 hover:bg-white/[0.04] border border-white/5 dark:border-white/10 hover:border-primary/30 p-8 rounded-[40px] transition-all duration-500 shadow-2xl relative overflow-hidden backdrop-blur-sm">
-                            {/* Animated Background Gradient */}
                             <div className="absolute -top-20 -right-20 w-40 h-40 bg-primary/5 blur-[50px] group-hover:bg-primary/20 transition-all duration-700" />
 
                             <div className="relative z-10">
@@ -108,43 +106,47 @@ export function DataPreview() {
                                                     </p>
                                                 </div>
                                             )}
-                                            {item.phonetics && typeof item.phonetics === 'string' && (
-                                                <p className="text-[10px] font-bold text-slate-600 dark:text-slate-400 font-serif italic mt-1 bg-slate-100 dark:bg-white/5 px-2 py-0.5 rounded-lg border border-slate-200 dark:border-transparent">
-                                                    [{item.phonetics}]
-                                                </p>
-                                            )}
                                         </div>
                                         {item.meaning && (
                                             <div className="mt-4 p-4 bg-primary/5 border border-primary/20 rounded-2xl relative overflow-hidden group/meaning">
                                                 <div className="flex items-center gap-2 mb-1">
-                                                    <span className="text-[10px] font-black text-primary uppercase tracking-widest text-primary">Arti Kata 🇮🇩</span>
+                                                    <span className="text-[10px] font-black text-primary uppercase tracking-widest">Arti Kata 🇮🇩</span>
                                                 </div>
                                                 <p className="text-lg font-black text-slate-900 dark:text-white leading-tight">
                                                     {item.meaning}
                                                 </p>
-                                                <div className="absolute top-0 right-0 w-20 h-full bg-gradient-to-l from-primary/5 to-transparent pointer-events-none" />
                                             </div>
                                         )}
                                     </div>
                                     <div className="flex flex-col gap-2">
-                                        <button
-                                            onClick={() => speak(item.word, 'en-US')}
-                                            className="px-3 py-1.5 flex items-center gap-2 bg-white/5 hover:bg-primary text-slate-400 hover:text-white rounded-xl transition-all shadow-xl active:scale-95 group/voice border border-white/5"
-                                            title="Listen US Accent"
-                                        >
+                                        <button onClick={() => speak(item.word, 'en-US')} className="px-3 py-1.5 flex items-center gap-2 bg-white/5 hover:bg-primary text-slate-400 hover:text-white rounded-xl transition-all shadow-xl active:scale-95 group/voice border border-white/5">
                                             <span className="text-[10px] font-black">🇺🇸 US</span>
                                             <Volume2 className="w-3.5 h-3.5" />
                                         </button>
-                                        <button
-                                            onClick={() => speak(item.word, 'en-GB')}
-                                            className="px-3 py-1.5 flex items-center gap-2 bg-white/5 hover:bg-primary text-slate-400 hover:text-white rounded-xl transition-all shadow-xl active:scale-95 group/voice border border-white/5"
-                                            title="Listen UK Accent"
-                                        >
+                                        <button onClick={() => speak(item.word, 'en-GB')} className="px-3 py-1.5 flex items-center gap-2 bg-white/5 hover:bg-primary text-slate-400 hover:text-white rounded-xl transition-all shadow-xl active:scale-95 group/voice border border-white/5">
                                             <span className="text-[10px] font-black">🇬🇧 UK</span>
                                             <Volume2 className="w-3.5 h-3.5" />
                                         </button>
                                     </div>
                                 </div>
+
+                                {item.examples && (
+                                    <div className="mt-6 space-y-3">
+                                        <p className="text-xs font-black text-primary uppercase tracking-[0.2em] mb-2 leading-none">IELTS Contexts</p>
+                                        <div className="grid gap-2">
+                                            {item.examples.slice(0, 2).map((ex, i) => (
+                                                <div key={i} className="p-3 bg-slate-100 dark:bg-white/5 rounded-2xl border border-slate-200 dark:border-white/5">
+                                                    <p className="text-xs font-bold text-slate-700 dark:text-slate-400 italic leading-relaxed">&ldquo;{ex.text}&rdquo;</p>
+                                                    {ex.translation && (
+                                                        <p className="text-[10px] font-black text-primary/80 dark:text-primary/60 mt-1.5 leading-tight">
+                                                            🇮🇩 {ex.translation}
+                                                        </p>
+                                                    )}
+                                                </div>
+                                            ))}
+                                        </div>
+                                    </div>
+                                )}
 
                                 <div className="space-y-3 mt-6">
                                     <p className="text-xs font-black text-slate-900 dark:text-slate-300 uppercase tracking-[0.2em] mb-3 leading-none flex items-center gap-2">
@@ -153,9 +155,7 @@ export function DataPreview() {
                                     <div className="flex flex-wrap gap-2.5">
                                         {item.synonyms.map((syn, idx) => (
                                             <div key={idx} className="flex flex-col gap-0.5">
-                                                <span
-                                                    className="bg-slate-900 dark:bg-primary text-white border border-white/20 px-5 py-2 rounded-2xl text-[13px] font-black shadow-xl shadow-primary/30 transition-all cursor-default scale-100 hover:scale-105"
-                                                >
+                                                <span className="bg-slate-900 dark:bg-primary text-white border border-white/20 px-5 py-2 rounded-2xl text-[13px] font-black shadow-xl shadow-primary/30 transition-all cursor-default scale-100 hover:scale-105">
                                                     {syn}
                                                 </span>
                                                 {item.synonymMeanings && item.synonymMeanings[idx] && (
@@ -168,11 +168,6 @@ export function DataPreview() {
                                     </div>
                                 </div>
                             </div>
-
-                            {/* Corner Accents */}
-                            <div className="absolute bottom-0 right-0 p-6 opacity-0 group-hover:opacity-100 transition-opacity">
-                                <Sparkles className="w-6 h-6 text-primary animate-pulse" />
-                            </div>
                         </div>
                     </motion.div>
                 ))}
@@ -184,36 +179,18 @@ export function DataPreview() {
                 animate={{ y: 0, opacity: 1 }}
                 className="fixed bottom-12 left-1/2 -translate-x-1/2 flex items-center gap-3 p-3 glass-light border border-white/10 rounded-[32px] shadow-[0_20px_50px_rgba(0,0,0,0.5)] z-50 backdrop-blur-2xl"
             >
-                <button
-                    onClick={resetGame}
-                    className="flex items-center gap-3 px-8 py-4 bg-white/5 hover:bg-red-500/10 text-slate-400 hover:text-red-500 rounded-[22px] font-black text-xs uppercase tracking-widest transition-all border border-white/5 group"
-                >
+                <button onClick={resetGame} className="flex items-center gap-3 px-8 py-4 bg-white/5 hover:bg-red-500/10 text-slate-400 hover:text-red-500 rounded-[22px] font-black text-xs uppercase tracking-widest transition-all border border-white/5 group">
                     <X className="w-4 h-4 group-hover:-rotate-90 transition-transform" />
                     <span>Abort System</span>
                 </button>
-
                 <div className="w-px h-8 bg-white/10 mx-2" />
-
-                <button
-                    onClick={() => setPhase('playing')}
-                    className="flex items-center gap-4 px-12 py-4 bg-primary hover:bg-accent text-white rounded-[22px] font-black text-sm uppercase tracking-[0.2em] transition-all shadow-[0_10px_30px_rgba(var(--primary-rgb),0.3)] hover:scale-105 active:scale-95 group relative overflow-hidden"
-                >
+                <button onClick={() => setPhase('playing')} className="flex items-center gap-4 px-12 py-4 bg-primary hover:bg-accent text-white rounded-[22px] font-black text-sm uppercase tracking-[0.2em] transition-all shadow-[0_10px_30px_rgba(var(--primary-rgb),0.3)] hover:scale-105 active:scale-95 group relative overflow-hidden">
                     <div className="absolute inset-0 bg-white/10 -translate-y-full group-hover:translate-y-0 transition-transform duration-500" />
                     <span className="relative z-10 flex items-center gap-3">
                         Initiate Recall <Play className="w-5 h-5 fill-current" />
                     </span>
                 </button>
             </motion.div>
-
-            {/* Finishing Text */}
-            <motion.p
-                initial={{ opacity: 0 }}
-                animate={{ opacity: 1 }}
-                transition={{ delay: 1 }}
-                className="text-center text-slate-600 text-[10px] font-black uppercase tracking-[0.5em] mt-12"
-            >
-                Data Acquisition Protocol Engaged • Standby for Assessment
-            </motion.p>
         </div>
     );
 }
