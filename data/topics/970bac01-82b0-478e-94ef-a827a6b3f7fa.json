@@ -594,7 +594,30 @@
       ],
       "definition": "The wearing away of the topsoil by\nwind or water",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Soil erosion is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Soil erosion matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Soil erosion, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Soil erosion correctly, we succeed, so let's try."
+        }
+      ]
     },
     {
       "id": "fe67614a-5f0e-44cd-8b27-494c9e4c8609",
