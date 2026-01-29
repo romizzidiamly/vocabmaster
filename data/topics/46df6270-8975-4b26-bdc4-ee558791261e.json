@@ -671,7 +671,30 @@
       ],
       "definition": "The process of disguising illegally\nobtained money as legitimate",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "hidden",
+      "meaning": "Meaning not found.",
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Usage of Money laundering is important."
+        },
+        {
+          "type": "Complex",
+          "text": "Because Money laundering matters, we should study it."
+        },
+        {
+          "type": "Compound",
+          "text": "The word is Money laundering, and it is useful."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use Money laundering correctly, we succeed, so let's try."
+        }
+      ]
     },
     {
       "id": "b03fac23-f003-413a-ae80-0a30a7bb1472",
