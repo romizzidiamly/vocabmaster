@@ -611,36 +611,26 @@
       "examples": [
         {
           "type": "Simple",
-          "text": "The company is trying to reduce its ecological footprint.",
-          "translation": "Perusahaan tersebut berusaha mengurangi jejak ekologisnya."
+          "text": "Usage of Ecological footprint is important."
         },
         {
           "type": "Complex",
-          "text": "Because the company uses renewable energy, its ecological footprint is smaller than that of other companies.",
-          "translation": "Karena perusahaan tersebut menggunakan energi terbarukan, jejak ekologisnya lebih kecil dibandingkan dengan perusahaan lain."
+          "text": "Because Ecological footprint matters, we should study it."
         },
         {
           "type": "Compound",
-          "text": "The company reduced its ecological footprint and increased its profits.",
-          "translation": "Perusahaan tersebut mengurangi jejak ekologisnya dan meningkatkan keuntungannya."
+          "text": "The word is Ecological footprint, and it is useful."
         },
         {
           "type": "Compound-Complex",
-          "text": "While the company was reducing its ecological footprint, it also increased its profits, because it was able to save money on energy costs.",
-          "translation": "Saat perusahaan tersebut mengurangi jejak ekologisnya, juga meningkatkan keuntungannya, karena dapat menghemat biaya energi."
+          "text": "If we use Ecological footprint correctly, we succeed, so let's try."
         }
       ],
       "phonetics": {
-        "us": "/ˌɛkəˈlɒdʒɪkəl ˈfʊtprɪnt/",
-        "uk": "/ˌɛkəˈlɒdʒɪkəl ˈfʊtprɪnt/"
+        "us": "/.../",
+        "uk": "/.../"
       },
-      "meaning": "jejak ekologis",
-      "synonymMeanings": [
-        "dampak lingkungan",
-        "tanda ekologis",
-        "bekas lingkungan",
-        "pengaruh alam"
-      ]
+      "meaning": "Meaning not found."
     },
     {
       "id": "44dd19c4-b4df-4b03-afad-7f02a233d98e",
