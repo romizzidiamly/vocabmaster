@@ -1757,10 +1757,10 @@
         "Strength training",
         "resistance exercise"
       ],
-      "definition": "Exercise, such as weightlifting or push-ups, that does not need oxygen to generate energy",
+      "definition": "a type of exercise, such as weightlifting or push-ups, that does not need oxygen to generate energy",
       "userGuesses": [],
-      "status": "hidden",
-      "meaning": "Olahraga anaerobik",
+      "status": "discovered",
+      "meaning": "latihan anaerobik",
       "phonetics": {
         "us": "/ˌænəˈroʊbɪk/",
         "uk": "/ˌanəˈrəʊbɪk/"
@@ -1768,30 +1768,29 @@
       "examples": [
         {
           "type": "Simple",
-          "text": "Anaerobic exercise helps build muscle mass.",
-          "translation": "Olahraga anaerobik membantu membangun massa otot."
+          "text": "Anaerobic exercise is great for building muscle.",
+          "translation": "Latihan anaerobik sangat baik untuk membangun otot."
         },
         {
           "type": "Complex",
-          "text": "Because anaerobic exercise is intense, it improves cardiovascular health.",
-          "translation": "Karena olahraga anaerobik sangat intens, maka itu memperbaiki kesehatan kardiovaskular."
+          "text": "Because anaerobic exercise is high-intensity, it improves cardiovascular health.",
+          "translation": "Karena latihan anaerobik memiliki intensitas tinggi, maka dapat memperbaiki kesehatan kardiovaskular."
         },
         {
           "type": "Compound",
-          "text": "Anaerobic exercise helps build muscle mass, and it also improves bone density.",
-          "translation": "Olahraga anaerobik membantu membangun massa otot, dan juga memperbaiki kepadatan tulang."
+          "text": "I do anaerobic exercise and cardio to stay fit, and I also eat a healthy diet.",
+          "translation": "Saya melakukan latihan anaerobik dan kardio untuk tetap bugar, dan saya juga mengonsumsi makanan sehat."
         },
         {
           "type": "Compound-Complex",
-          "text": "While anaerobic exercise is beneficial for building muscle, it can be harmful if overdone, because it increases the risk of injury, and it also puts excessive strain on the muscles.",
-          "translation": "Sementara olahraga anaerobik bermanfaat untuk membangun otot, itu bisa berbahaya jika berlebihan, karena itu meningkatkan risiko cedera, dan juga memberikan tekanan berlebih pada otot-otot."
+          "text": "While anaerobic exercise is beneficial for muscle growth, it can be harmful if overdone, because it puts excessive strain on the muscles and joints, and I have learned this from my personal experience.",
+          "translation": "Sementara latihan anaerobik bermanfaat untuk pertumbuhan otot, latihan ini dapat membahayakan jika berlebihan, karena memberikan tekanan berlebih pada otot dan sendi, dan saya telah mempelajari hal ini dari pengalaman pribadi saya."
         }
       ],
       "synonymMeanings": [
-        "Latihan Beban",
-        "Olahraga Kekuatan",
-        "Latihan Kekuatan",
-        "Olahraga Berat"
+        "senam",
+        "gaya hidup sehat",
+        "olahraga tanpa oksigen"
       ]
     },
     {
