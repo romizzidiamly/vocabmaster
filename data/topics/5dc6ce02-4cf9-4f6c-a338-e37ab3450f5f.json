@@ -845,7 +845,9 @@
         "integrative health"
       ],
       "definition": "a approach to medicine that considers the whole person, including their physical, mental, and emotional health, when treating a disease or illness",
-      "userGuesses": [],
+      "userGuesses": [
+        "alternative medicine"
+      ],
       "status": "discovered",
       "meaning": "pengobatan holistik",
       "phonetics": {
