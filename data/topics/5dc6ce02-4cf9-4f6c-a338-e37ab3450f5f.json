@@ -612,7 +612,9 @@
         "inoculation"
       ],
       "definition": "The act of giving someone a vaccine to prevent them from getting a particular disease",
-      "userGuesses": [],
+      "userGuesses": [
+        "immunization"
+      ],
       "status": "discovered",
       "meaning": "Vaksinasi",
       "phonetics": {
