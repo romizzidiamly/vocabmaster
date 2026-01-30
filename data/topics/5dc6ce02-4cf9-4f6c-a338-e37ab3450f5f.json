@@ -1450,10 +1450,10 @@
         "Communication skills",
         "interpersonal"
       ],
-      "definition": "the ability to behave and communicate effectively with other people",
+      "definition": "the abilities that people have to interact and communicate with others effectively",
       "userGuesses": [],
-      "status": "hidden",
-      "meaning": "keterampilan bersosialisasi",
+      "status": "discovered",
+      "meaning": "keterampilan sosial",
       "phonetics": {
         "us": "/ˈsoʊʃəl ˈskɪlz/",
         "uk": "/ˈsəʊʃəl ˈskɪlz/"
@@ -1462,28 +1462,29 @@
         {
           "type": "Simple",
           "text": "She has excellent social skills.",
-          "translation": "Dia memiliki keterampilan bersosialisasi yang sangat baik."
+          "translation": "Dia memiliki keterampilan sosial yang sangat baik."
         },
         {
           "type": "Complex",
           "text": "Because she has good social skills, she can easily make friends.",
-          "translation": "Karena dia memiliki keterampilan bersosialisasi yang baik, dia dapat dengan mudah berteman."
+          "translation": "Karena dia memiliki keterampilan sosial yang baik, dia dapat dengan mudah berteman."
         },
         {
           "type": "Compound",
-          "text": "She has social skills and she is very intelligent, so she can succeed in any field.",
-          "translation": "Dia memiliki keterampilan bersosialisasi dan dia sangat pintar, sehingga dia dapat sukses di bidang apa pun."
+          "text": "She has social skills and she is very intelligent.",
+          "translation": "Dia memiliki keterampilan sosial dan dia sangat pintar."
         },
         {
           "type": "Compound-Complex",
-          "text": "While she has social skills, which help her to communicate effectively, she also has a strong personality that makes her a great leader, and she is very intelligent, so she can succeed in any field.",
-          "translation": "Sementara dia memiliki keterampilan bersosialisasi, yang membantunya untuk berkomunikasi secara efektif, dia juga memiliki kepribadian yang kuat yang membuatnya seorang pemimpin hebat, dan dia sangat pintar, sehingga dia dapat sukses di bidang apa pun."
+          "text": "While she has social skills, she is also very intelligent, and because of that, she can easily make friends.",
+          "translation": "Sementara dia memiliki keterampilan sosial, dia juga sangat pintar, dan karena itu, dia dapat dengan mudah berteman."
         }
       ],
       "synonymMeanings": [
         "keterampilan berinteraksi",
-        "keterampilan berkomunikasi",
-        "keterampilan bergaul"
+        "keterampilan bergaul",
+        "kemampuan bersosialisasi",
+        "keterampilan berkomunikasi"
       ]
     },
     {
