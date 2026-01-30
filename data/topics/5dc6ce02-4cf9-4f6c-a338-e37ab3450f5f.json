@@ -381,9 +381,10 @@
       ],
       "definition": "a condition in which the body reacts badly to a particular food, substance, or other agent",
       "userGuesses": [
-        "hypersensitivity"
+        "hypersensitivity",
+        "allergic reaction"
       ],
-      "status": "discovered",
+      "status": "mastered",
       "meaning": "alergi",
       "phonetics": {
         "us": "/ˈælərdʒi/",
