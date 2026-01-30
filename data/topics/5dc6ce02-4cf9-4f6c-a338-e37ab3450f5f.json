@@ -1597,14 +1597,41 @@
         "Obligation",
         "accountability"
       ],
-      "definition": "The duty of being accountable for one’s actions",
+      "definition": "The state or fact of being responsible, or something for which you are responsible",
       "userGuesses": [],
-      "status": "hidden",
-      "meaning": "n/a",
+      "status": "discovered",
+      "meaning": "Tanggung jawab",
       "phonetics": {
-        "us": "n/a",
-        "uk": "n/a"
-      }
+        "us": "/rɪˌspɑnsəˈbɪlɪti/",
+        "uk": "/rɪˌspɒnsɪˈbɪlɪti/"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "She feels a sense of responsibility for her actions.",
+          "translation": "Dia merasa memiliki rasa tanggung jawab atas tindakannya."
+        },
+        {
+          "type": "Complex",
+          "text": "Because she is the manager, she has the responsibility to make important decisions.",
+          "translation": "Karena dia adalah manajer, dia memiliki tanggung jawab untuk membuat keputusan penting."
+        },
+        {
+          "type": "Compound",
+          "text": "I have a responsibility to my family, and I also have a responsibility to my job.",
+          "translation": "Saya memiliki tanggung jawab kepada keluarga saya, dan saya juga memiliki tanggung jawab kepada pekerjaan saya."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "While I have a responsibility to my family, I also have a responsibility to my job, because my employer is counting on me to meet the deadlines.",
+          "translation": "Sementara saya memiliki tanggung jawab kepada keluarga saya, saya juga memiliki tanggung jawab kepada pekerjaan saya, karena majikan saya mengandalkan saya untuk memenuhi tenggat waktu."
+        }
+      ],
+      "synonymMeanings": [
+        "Kewajiban",
+        "Tanggung jawab hukum",
+        "Akuntabilitas"
+      ]
     },
     {
       "id": "6fd095ab-0ffd-4a1e-b886-acae13df2570",
