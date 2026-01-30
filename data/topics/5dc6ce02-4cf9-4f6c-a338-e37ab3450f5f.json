@@ -534,7 +534,7 @@
       ],
       "definition": "treatment for someone who is ill, either physically or mentally, intended to make them better or to help them deal with their condition",
       "userGuesses": [],
-      "status": "hidden",
+      "status": "discovered",
       "meaning": "terapi",
       "phonetics": {
         "us": "/ˈθerəpi/",
@@ -543,30 +543,30 @@
       "examples": [
         {
           "type": "Simple",
-          "text": "The doctor recommended therapy to help her recover from the injury.",
-          "translation": "Dokter merekomendasikan terapi untuk membantunya pulih dari cedera."
+          "text": "She is undergoing therapy to recover from her injury.",
+          "translation": "Dia menjalani terapi untuk pulih dari cedera tersebut."
         },
         {
           "type": "Complex",
-          "text": "Because she was feeling anxious, her doctor suggested that she attend therapy sessions to learn how to manage her emotions.",
-          "translation": "Karena dia merasa cemas, dokternya menyarankan agar dia menghadiri sesi terapi untuk belajar mengelola emosinya."
+          "text": "Because she was experiencing anxiety, she started attending therapy sessions to learn how to manage her emotions.",
+          "translation": "Karena dia mengalami kecemasan, dia mulai menghadiri sesi terapi untuk belajar mengelola emosinya."
         },
         {
           "type": "Compound",
-          "text": "The patient underwent therapy and was given medication to treat her condition, and she was also advised to make lifestyle changes.",
-          "translation": "Pasien tersebut menjalani terapi dan diberi obat untuk mengobati kondisinya, dan dia juga disarankan untuk membuat perubahan gaya hidup."
+          "text": "The doctor recommended therapy, and she also started exercising regularly to improve her overall health.",
+          "translation": "Dokter menyarankan terapi, dan dia juga mulai berolahraga secara teratur untuk meningkatkan kesehatannya secara keseluruhan."
         },
         {
           "type": "Compound-Complex",
-          "text": "While the new therapy has shown promising results in treating mental health issues, it is also important to note that each patient's response can vary greatly, and some may need to try different types of therapy before finding what works best for them.",
-          "translation": "Sementara terapi baru telah menunjukkan hasil yang menjanjikan dalam mengobati masalah kesehatan mental, juga penting untuk dicatat bahwa respons setiap pasien dapat bervariasi secara signifikan, dan beberapa mungkin perlu mencoba jenis terapi yang berbeda sebelum menemukan apa yang paling efektif untuk mereka."
+          "text": "While attending therapy sessions to overcome her fear of public speaking, she also joined a debate club, and as a result, her confidence improved significantly, which in turn helped her to perform better at work.",
+          "translation": "Saat menghadiri sesi terapi untuk mengatasi rasa takutnya berbicara di depan umum, dia juga bergabung dengan klub debat, dan sebagai hasilnya, kepercayaan dirinya meningkat secara signifikan, yang pada gilirannya membantunya untuk berperforma lebih baik di tempat kerja."
         }
       ],
       "synonymMeanings": [
         "pengobatan",
         "perawatan",
         "penyembuhan",
-        "rehabilitasi"
+        "konseling"
       ]
     },
     {
