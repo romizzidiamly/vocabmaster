@@ -1210,7 +1210,9 @@
         "rapid-onset illness"
       ],
       "definition": "a disease or condition that has a sudden onset, severe symptoms, and a relatively short duration",
-      "userGuesses": [],
+      "userGuesses": [
+        "short-term disease"
+      ],
       "status": "discovered",
       "meaning": "penyakit akut",
       "phonetics": {
