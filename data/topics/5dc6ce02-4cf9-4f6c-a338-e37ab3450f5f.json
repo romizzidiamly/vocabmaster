@@ -707,10 +707,10 @@
         "Recovery",
         "therapy"
       ],
-      "definition": "The process of helping someone who has been ill or in prison to become healthy or normal again",
+      "definition": "the process of helping someone who has been ill or in prison to become healthy or normal again",
       "userGuesses": [],
-      "status": "hidden",
-      "meaning": "Rehabilitasi",
+      "status": "discovered",
+      "meaning": "rehabilitasi",
       "phonetics": {
         "us": "/ˌrɛhəbɪlɪˈteɪʃən/",
         "uk": "/ˌriːhəbɪlɪˈteɪʃən/"
@@ -718,30 +718,30 @@
       "examples": [
         {
           "type": "Simple",
-          "text": "The patient needs rehabilitation after surgery",
-          "translation": "Pasien membutuhkan rehabilitasi setelah operasi"
+          "text": "The patient underwent rehabilitation after the surgery.",
+          "translation": "Pasien menjalani rehabilitasi setelah operasi."
         },
         {
           "type": "Complex",
-          "text": "Because she suffered a stroke, she requires rehabilitation to regain her speech",
-          "translation": "Karena dia menderita stroke, dia membutuhkan rehabilitasi untuk mendapatkan kembali kemampuan berbicaranya"
+          "text": "Because she had been bedridden for months, she required rehabilitation to regain her strength.",
+          "translation": "Karena dia telah terbaring di tempat tidur selama berbulan-bulan, dia memerlukan rehabilitasi untuk mengembalikan kekuatannya."
         },
         {
           "type": "Compound",
-          "text": "The hospital offers rehabilitation and therapy, and the patient recovers quickly",
-          "translation": "Rumah sakit menawarkan rehabilitasi dan terapi, dan pasien pulih dengan cepat"
+          "text": "The hospital offered rehabilitation and the patient recovered quickly, and she was able to return home soon.",
+          "translation": "Rumah sakit menawarkan rehabilitasi dan pasien pulih dengan cepat, dan dia dapat kembali ke rumah segera."
         },
         {
           "type": "Compound-Complex",
-          "text": "While the new policy aims to provide rehabilitation for former prisoners, it also requires them to attend therapy sessions because they need to reintegrate into society",
-          "translation": "Sementara kebijakan baru bertujuan untuk menyediakan rehabilitasi bagi mantan narapidana, juga meminta mereka untuk menghadiri sesi terapi karena mereka perlu kembali berintegrasi ke masyarakat"
+          "text": "While the new employee was undergoing rehabilitation because he had been injured on the job, his colleague helped him with his tasks, and they were both able to meet the deadline, although it was challenging.",
+          "translation": "Ketika karyawan baru menjalani rehabilitasi karena dia telah terluka saat bekerja, rekan kerjanya membantunya dengan tugas-tugasnya, dan mereka berdua dapat memenuhi deadline, meskipun itu menantang."
         }
       ],
       "synonymMeanings": [
-        "Pemulihan",
-        "Pengembalian",
-        "Perbaikan",
-        "Pemuliharaan"
+        "pemulihan",
+        "perbaikan",
+        "penyembuhan",
+        "pemuliharaan"
       ]
     },
     {
