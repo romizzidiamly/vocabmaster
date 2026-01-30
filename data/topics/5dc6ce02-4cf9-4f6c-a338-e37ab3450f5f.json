@@ -751,41 +751,41 @@
         "Undernourishment",
         "starvation"
       ],
-      "definition": "a condition that results from eating a diet in which one or more nutrients are either not enough or are too much such that the diet causes health problems",
+      "definition": "a state of health caused by a lack of food or a lack of certain nutrients in the food that you eat",
       "userGuesses": [],
-      "status": "hidden",
-      "meaning": "malnutrisi",
+      "status": "discovered",
+      "meaning": "kekurangan gizi",
       "phonetics": {
         "us": "/ˌmælnʊˈtrɪʃən/",
-        "uk": "/ˌmælnjuːˈtrɪʃən/"
+        "uk": "/ˌmæl.nʊˈtrɪʃən/"
       },
       "examples": [
         {
           "type": "Simple",
-          "text": "The child was suffering from malnutrition.",
-          "translation": "Anak itu menderita malnutrisi."
+          "text": "The child suffered from malnutrition due to a poor diet.",
+          "translation": "Anak itu menderita kekurangan gizi karena pola makan yang buruk."
         },
         {
           "type": "Complex",
-          "text": "Because the village was affected by drought, the crops were damaged, and as a result, malnutrition became a serious problem.",
-          "translation": "Karena desa itu terkena dampak kekeringan, tanaman rusak, dan sebagai akibatnya, malnutrisi menjadi masalah serius."
+          "text": "Because the family was unable to afford nutritious food, the child developed malnutrition.",
+          "translation": "Karena keluarga tidak mampu membeli makanan bergizi, anak itu mengalami kekurangan gizi."
         },
         {
           "type": "Compound",
-          "text": "The doctor diagnosed the patient with malnutrition, and the nurse treated the patient with medication and food supplements.",
-          "translation": "Dokter mendiagnosa pasien dengan malnutrisi, dan perawat merawat pasien dengan obat dan suplemen makanan."
+          "text": "The region experienced famine and malnutrition, and many people suffered as a result.",
+          "translation": "Daerah tersebut mengalami kelaparan dan kekurangan gizi, dan banyak orang menderita akibatnya."
         },
         {
           "type": "Compound-Complex",
-          "text": "While the new policy aimed to reduce poverty, it also had an unintended consequence, as the change in food prices led to malnutrition, which in turn caused an increase in health problems, and the government had to intervene to mitigate the effects.",
-          "translation": "Sementara kebijakan baru bertujuan untuk mengurangi kemiskinan, juga memiliki konsekuensi yang tidak diinginkan, karena perubahan harga makanan menyebabkan malnutrisi, yang pada gilirannya menyebabkan peningkatan masalah kesehatan, dan pemerintah harus campur tangan untuk mengurangi dampaknya."
+          "text": "While the new government has implemented policies to reduce poverty, it has also struggled to address the issues of famine and malnutrition that have plagued the country for decades, because the problems are deeply rooted in the nation's history.",
+          "translation": "Sementara pemerintah baru telah melaksanakan kebijakan untuk mengurangi kemiskinan, juga berjuang untuk mengatasi masalah kelaparan dan kekurangan gizi yang telah melanda negara selama beberapa dekade, karena masalah-masalah tersebut sangat berakar dalam sejarah bangsa."
         }
       ],
       "synonymMeanings": [
         "kekurangan gizi",
-        "gizi buruk",
         "kelaparan",
-        "kekurangan vitamin"
+        "kekurangan nutrisi",
+        "kekurangan makanan"
       ]
     },
     {
