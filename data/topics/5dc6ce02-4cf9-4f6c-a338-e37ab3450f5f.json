@@ -227,13 +227,13 @@
         "Heart disease",
         "circulatory disorder"
       ],
-      "definition": "any disease of the heart or the blood vessels, for example coronary heart disease, angina, or stroke",
+      "definition": "any disease of the heart or the blood vessels, such as heart disease or stroke",
       "userGuesses": [],
-      "status": "hidden",
+      "status": "discovered",
       "meaning": "penyakit kardiovaskular",
       "phonetics": {
-        "us": "/ˌkɑrdioʊˈvæskjʊlər/",
-        "uk": "/ˌkɑːdioʊˈvæskjʊlə/"
+        "us": "/ˌkɑːrdioʊˈvæskjʊlər/",
+        "uk": "/ˌkɑːdiəʊˈvæskjʊlə/"
       },
       "examples": [
         {
@@ -243,24 +243,25 @@
         },
         {
           "type": "Complex",
-          "text": "Because she had a family history of cardiovascular disease, she made sure to exercise regularly.",
-          "translation": "Karena dia memiliki riwayat keluarga dengan penyakit kardiovaskular, dia memastikan untuk berolahraga secara teratur."
+          "text": "Because cardiovascular disease can be caused by a variety of factors, it is essential to identify the root cause of the problem.",
+          "translation": "Karena penyakit kardiovaskular dapat disebabkan oleh berbagai faktor, maka sangat penting untuk mengidentifikasi penyebab utama masalah tersebut."
         },
         {
           "type": "Compound",
-          "text": "Cardiovascular disease is a major health problem, and it is increasing rapidly, especially in developing countries.",
-          "translation": "Penyakit kardiovaskular adalah masalah kesehatan besar, dan itu meningkat dengan cepat, terutama di negara-negara berkembang."
+          "text": "Cardiovascular disease is a serious health issue, and regular exercise can help prevent it, but a healthy diet is also necessary.",
+          "translation": "Penyakit kardiovaskular adalah masalah kesehatan yang serius, dan olahraga teratur dapat membantu mencegahnya, tetapi pola makan sehat juga diperlukan."
         },
         {
           "type": "Compound-Complex",
-          "text": "While cardiovascular disease is a major cause of death worldwide, it can be prevented by maintaining a healthy lifestyle, and because of this, many people are now more aware of the importance of regular exercise and a balanced diet.",
-          "translation": "Sementara penyakit kardiovaskular adalah penyebab utama kematian di seluruh dunia, itu dapat dicegah dengan menjaga gaya hidup sehat, dan karena itu, banyak orang sekarang lebih menyadari pentingnya olahraga teratur dan pola makan seimbang."
+          "text": "While cardiovascular disease is a major cause of death worldwide, it can be prevented by a combination of regular exercise, a healthy diet, and not smoking, because these factors can help reduce the risk of heart disease.",
+          "translation": "Sementara penyakit kardiovaskular adalah penyebab utama kematian di seluruh dunia, namun dapat dicegah dengan kombinasi olahraga teratur, pola makan sehat, dan tidak merokok, karena faktor-faktor tersebut dapat membantu mengurangi risiko penyakit jantung."
         }
       ],
       "synonymMeanings": [
         "penyakit jantung",
         "penyakit pembuluh darah",
-        "penyakit peredaran darah"
+        "gangguan kardiovaskular",
+        "penyakit sirkulasi darah"
       ]
     },
     {
