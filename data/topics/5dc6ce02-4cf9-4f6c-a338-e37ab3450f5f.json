@@ -1762,31 +1762,41 @@
         "Stamina",
         "resilience"
       ],
-      "definition": "The ability to sustain physical activity over time",
+      "definition": "the ability to continue doing something over a long period of time, even when it is difficult or tiring",
       "userGuesses": [],
-      "status": "hidden",
-      "meaning": "Meaning not found.",
+      "status": "discovered",
+      "meaning": "ketahanan",
       "phonetics": {
-        "us": "/.../",
-        "uk": "/.../"
+        "us": "/ɛnˈdʊrəns/",
+        "uk": "/ɛnˈdjʊərəns/"
       },
       "examples": [
         {
           "type": "Simple",
-          "text": "Usage of Endurance is important."
+          "text": "She has great endurance and can run a marathon.",
+          "translation": "Dia memiliki ketahanan yang luar biasa dan dapat berlari maraton."
         },
         {
           "type": "Complex",
-          "text": "Because Endurance matters, we should study it."
+          "text": "Because she trained every day, she was able to increase her endurance.",
+          "translation": "Karena dia berlatih setiap hari, dia dapat meningkatkan ketahanannya."
         },
         {
           "type": "Compound",
-          "text": "The word is Endurance, and it is useful."
+          "text": "She has endurance and speed, which makes her a great athlete, and she also has a strong will to win.",
+          "translation": "Dia memiliki ketahanan dan kecepatan, yang membuatnya atlet hebat, dan dia juga memiliki keinginan kuat untuk menang."
         },
         {
           "type": "Compound-Complex",
-          "text": "If we use Endurance correctly, we succeed, so let's try."
+          "text": "While she was training, she realized that having endurance was not just about physical strength, but also about mental toughness, and this realization helped her to push through the challenges, which made her a better athlete, and she was proud of her progress.",
+          "translation": "Saat sedang berlatih, dia menyadari bahwa memiliki ketahanan bukan hanya tentang kekuatan fisik, tetapi juga tentang ketangguhan mental, dan pemahaman ini membantunya untuk melalui tantangan, yang membuatnya atlet yang lebih baik, dan dia bangga dengan kemajuannya."
         }
+      ],
+      "synonymMeanings": [
+        "daya tahan",
+        "ketabahan",
+        "kesabaran",
+        "kekuatan"
       ]
     },
     {
