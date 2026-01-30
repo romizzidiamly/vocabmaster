@@ -356,10 +356,10 @@
         "Hypersensitivity",
         "allergic reaction"
       ],
-      "definition": "a condition that makes someone sick or uncomfortable when they eat, touch, or breathe something",
+      "definition": "a condition in which the body reacts badly to a particular food, substance, or other agent",
       "userGuesses": [],
-      "status": "hidden",
-      "meaning": "Alergi",
+      "status": "discovered",
+      "meaning": "alergi",
       "phonetics": {
         "us": "/ˈælərdʒi/",
         "uk": "/ˈælədʒi/"
@@ -372,24 +372,25 @@
         },
         {
           "type": "Complex",
-          "text": "Because she has an allergy to dust, she always wears a mask when cleaning.",
-          "translation": "Karena dia memiliki alergi debu, dia selalu mengenakan masker saat membersihkan."
+          "text": "Because she has a severe allergy, she always carries an EpiPen with her.",
+          "translation": "Karena dia memiliki alergi parah, dia selalu membawa EpiPen dengannya."
         },
         {
           "type": "Compound",
-          "text": "She has an allergy to cats, and she also hates dogs.",
-          "translation": "Dia memiliki alergi kucing, dan dia juga membenci anjing."
+          "text": "I have an allergy to shellfish, and I also get sick from eating dairy products.",
+          "translation": "Saya memiliki alergi kerang, dan saya juga jatuh sakit dari mengonsumsi produk susu."
         },
         {
           "type": "Compound-Complex",
-          "text": "Although she has an allergy to shellfish, she loves eating fish, but she always checks the ingredients carefully.",
-          "translation": "Meskipun dia memiliki alergi kerang, dia suka makan ikan, tetapi dia selalu memeriksa bahan-bahan dengan hati-hati."
+          "text": "While I have an allergy to gluten, my sister is not allergic, but she prefers to eat gluten-free food because she believes it is healthier, and she also avoids eating dairy products.",
+          "translation": "Sementara saya memiliki alergi gluten, adik saya tidak alergi, tapi dia lebih suka makan makanan bebas gluten karena dia percaya itu lebih sehat, dan dia juga menghindari mengonsumsi produk susu."
         }
       ],
       "synonymMeanings": [
-        "Intoleransi",
-        "Kepekaan",
-        "Sensitivitas"
+        "sensitivitas",
+        "hipersensitivitas",
+        "intoleransi",
+        "kepekaan"
       ]
     },
     {
