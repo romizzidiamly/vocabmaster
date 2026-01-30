@@ -243,7 +243,9 @@
         "circulatory disorder"
       ],
       "definition": "any disease of the heart or the blood vessels, such as heart disease or stroke",
-      "userGuesses": [],
+      "userGuesses": [
+        "circulatory disorder"
+      ],
       "status": "discovered",
       "meaning": "penyakit kardiovaskular",
       "phonetics": {
