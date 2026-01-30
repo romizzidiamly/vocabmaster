@@ -105,9 +105,10 @@
       ],
       "definition": "the study of food and how it affects the body, or the food that a person, animal, or plant needs to stay healthy",
       "userGuesses": [
-        "nourishment"
+        "nourishment",
+        "diet"
       ],
-      "status": "discovered",
+      "status": "mastered",
       "meaning": "gizi",
       "phonetics": {
         "us": "/nuˈtrɪʃən/",
