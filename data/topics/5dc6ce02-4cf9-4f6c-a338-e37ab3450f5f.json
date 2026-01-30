@@ -1119,9 +1119,10 @@
       ],
       "definition": "a disease or condition that affects the lungs or airways, making it difficult to breathe",
       "userGuesses": [
-        "lung disease"
+        "lung disease",
+        "breathing disorder"
       ],
-      "status": "discovered",
+      "status": "mastered",
       "meaning": "penyakit pernapasan",
       "phonetics": {
         "us": "/rɪˈspɪrətɔri/",
