@@ -796,40 +796,41 @@
         "Alternative medicine",
         "integrative health"
       ],
-      "definition": "a type of medicine that considers the whole person - physical, mental, and emotional - when treating a disease or illness",
+      "definition": "a approach to medicine that considers the whole person, including their physical, mental, and emotional health, when treating a disease or illness",
       "userGuesses": [],
-      "status": "hidden",
+      "status": "discovered",
       "meaning": "pengobatan holistik",
       "phonetics": {
-        "us": "/həˈlɪstɪk/",
-        "uk": "/həˈlɪstɪk/"
+        "us": "/hoʊˈlɪstɪk/",
+        "uk": "/həʊˈlɪstɪk/"
       },
       "examples": [
         {
           "type": "Simple",
-          "text": "The doctor practices holistic medicine.",
-          "translation": "Dokter tersebut mempraktikkan pengobatan holistik."
+          "text": "The doctor specialized in holistic medicine.",
+          "translation": "Dokter tersebut berspesialisasi dalam pengobatan holistik."
         },
         {
           "type": "Complex",
-          "text": "Because she believes in holistic medicine, she always asks about her patients' mental and emotional well-being.",
-          "translation": "Karena dia percaya pada pengobatan holistik, dia selalu bertanya tentang kesejahteraan mental dan emosional pasiennya."
+          "text": "Because holistic medicine considers the whole person, it is often more effective than traditional treatments.",
+          "translation": "Karena pengobatan holistik mempertimbangkan keseluruhan seseorang, seringkali lebih efektif daripada perawatan tradisional."
         },
         {
           "type": "Compound",
-          "text": "The hospital offers holistic medicine and traditional treatments for various diseases.",
-          "translation": "Rumah sakit tersebut menawarkan pengobatan holistik dan perawatan tradisional untuk berbagai penyakit."
+          "text": "The hospital offered holistic medicine and traditional therapy, so patients had a choice.",
+          "translation": "Rumah sakit tersebut menawarkan pengobatan holistik dan terapi tradisional, sehingga pasien memiliki pilihan."
         },
         {
           "type": "Compound-Complex",
-          "text": "While some hospitals specialize in traditional treatments, others prefer holistic medicine, which they believe can cure diseases more effectively because it considers the whole person.",
-          "translation": "Sementara beberapa rumah sakit berspesialisasi dalam perawatan tradisional, yang lain lebih memilih pengobatan holistik, yang mereka percayai dapat menyembuhkan penyakit lebih efektif karena mempertimbangkan keseluruhan manusia."
+          "text": "While some doctors specialize in holistic medicine, others prefer traditional treatments, and because each approach has its own benefits, patients should consider their options carefully.",
+          "translation": "Sementara beberapa dokter berspesialisasi dalam pengobatan holistik, yang lain lebih suka perawatan tradisional, dan karena setiap pendekatan memiliki kelebihan masing-masing, pasien sebaiknya mempertimbangkan pilihan mereka dengan hati-hati."
         }
       ],
       "synonymMeanings": [
         "pengobatan alternatif",
         "pengobatan komplementer",
-        "pengobatan integratif"
+        "kedokteran integral",
+        "pengobatan menyeluruh"
       ]
     },
     {
