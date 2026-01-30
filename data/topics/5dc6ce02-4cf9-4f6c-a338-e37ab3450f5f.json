@@ -1930,7 +1930,9 @@
         "mobility"
       ],
       "definition": "The ability to change or be changed easily according to the situation.",
-      "userGuesses": [],
+      "userGuesses": [
+        "mobility"
+      ],
       "status": "discovered",
       "meaning": "Kelenturan",
       "phonetics": {
