@@ -704,7 +704,9 @@
         "transmittable"
       ],
       "definition": "able to be spread by contact with someone or something that has the disease or feeling",
-      "userGuesses": [],
+      "userGuesses": [
+        "infectious"
+      ],
       "status": "discovered",
       "meaning": "menular",
       "phonetics": {
