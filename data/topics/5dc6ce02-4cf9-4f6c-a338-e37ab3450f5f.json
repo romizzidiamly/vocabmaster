@@ -1640,13 +1640,13 @@
         "Self-respect",
         "self-worth"
       ],
-      "definition": "a person's opinion of their own worth, ability, or attractiveness",
+      "definition": "a person's belief and confidence in their own ability and value",
       "userGuesses": [],
-      "status": "hidden",
+      "status": "discovered",
       "meaning": "harga diri",
       "phonetics": {
-        "us": "/ˌselfˈestēm/",
-        "uk": "/ˌselfˈiːstɪm/"
+        "us": "/ˌself əˈstiːm/",
+        "uk": "/ˌself ɛˈstiːm/"
       },
       "examples": [
         {
@@ -1661,20 +1661,20 @@
         },
         {
           "type": "Compound",
-          "text": "She has low self-esteem, and she is shy.",
-          "translation": "Dia memiliki harga diri yang rendah, dan dia pemalu."
+          "text": "She has low self-esteem, and she is very shy.",
+          "translation": "Dia memiliki harga diri yang rendah, dan dia sangat pemalu."
         },
         {
           "type": "Compound-Complex",
-          "text": "Although she has low self-esteem, she is trying to improve herself, and she is also very determined to succeed.",
-          "translation": "Meskipun dia memiliki harga diri yang rendah, dia berusaha untuk memperbaiki diri, dan dia juga sangat bersemangat untuk sukses."
+          "text": "Although she has low self-esteem, she is trying to improve herself, and she is taking classes to become more confident.",
+          "translation": "Meskipun dia memiliki harga diri yang rendah, dia berusaha untuk meningkatkan diri, dan dia mengambil kelas untuk menjadi lebih percaya diri."
         }
       ],
       "synonymMeanings": [
         "kebanggaan diri",
         "percaya diri",
-        "keyakinan diri",
-        "martabat diri"
+        "kepercayaan diri",
+        "harga diri sendiri"
       ]
     },
     {
