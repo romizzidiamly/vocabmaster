@@ -620,14 +620,42 @@
         "Outbreak",
         "pandemic"
       ],
-      "definition": "a situation in which a large number of people in a particular area all have a particular disease at the same time",
+      "definition": "a disease that spreads quickly and affects many people at the same time",
       "userGuesses": [],
       "status": "discovered",
-      "meaning": "n/a",
+      "meaning": "wabah penyakit",
       "phonetics": {
-        "us": "n/a",
-        "uk": "n/a"
-      }
+        "us": "/ˌɛpɪˈdɛmɪk/",
+        "uk": "/ˌɛpɪˈdɛmɪk/"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "The flu epidemic spread rapidly across the country.",
+          "translation": "Wabah flu menyebar dengan cepat di seluruh negeri."
+        },
+        {
+          "type": "Complex",
+          "text": "Because the city's water supply was contaminated, an epidemic of cholera broke out.",
+          "translation": "Karena pasokan air kota terkontaminasi, wabah kolera pecah."
+        },
+        {
+          "type": "Compound",
+          "text": "The doctor worked tirelessly to combat the epidemic, and the nurse helped her with the patients.",
+          "translation": "Dokter bekerja tanpa lelah untuk melawan wabah penyakit, dan perawat membantunya dengan pasien."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "While the government was trying to contain the epidemic, the lack of medical supplies made it difficult to treat the patients, and the situation became increasingly dire.",
+          "translation": "Saat pemerintah berusaha untuk mengendalikan wabah penyakit, kurangnya persediaan medis membuatnya sulit untuk mengobati pasien, dan situasinya menjadi semakin genting."
+        }
+      ],
+      "synonymMeanings": [
+        "penyakit menular",
+        "penyebaran penyakit",
+        "wabah",
+        "penyakit yang meluas"
+      ]
     },
     {
       "id": "9ab221b1-7667-422b-a7a5-e790fc182482",
