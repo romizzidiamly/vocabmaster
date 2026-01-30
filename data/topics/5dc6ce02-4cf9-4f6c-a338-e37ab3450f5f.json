@@ -883,10 +883,10 @@
         "Dependency",
         "substance abuse"
       ],
-      "definition": "The state of being physically or mentally dependent on something, especially a drug",
+      "definition": "the state of being physically or mentally dependent on something, especially a drug",
       "userGuesses": [],
-      "status": "hidden",
-      "meaning": "Kecanduan",
+      "status": "discovered",
+      "meaning": "kecanduan",
       "phonetics": {
         "us": "/əˈdɪkʃən/",
         "uk": "/əˈdɪkʃən/"
@@ -894,29 +894,29 @@
       "examples": [
         {
           "type": "Simple",
-          "text": "He has an addiction to coffee",
-          "translation": "Dia memiliki kecanduan kopi"
+          "text": "She has an addiction to coffee.",
+          "translation": "Dia memiliki kecanduan terhadap kopi."
         },
         {
           "type": "Complex",
-          "text": "Because he started drinking at a young age, he developed an addiction to alcohol",
-          "translation": "Karena dia mulai minum pada usia muda, dia mengembangkan kecanduan alkohol"
+          "text": "Because she started drinking at a young age, she developed an addiction to alcohol.",
+          "translation": "Karena dia mulai minum pada usia muda, dia mengembangkan kecanduan terhadap alkohol."
         },
         {
           "type": "Compound",
-          "text": "She has an addiction to shopping and she also loves traveling",
-          "translation": "Dia memiliki kecanduan berbelanja dan dia juga suka bepergian"
+          "text": "She has an addiction to coffee, and she also loves tea.",
+          "translation": "Dia memiliki kecanduan terhadap kopi, dan dia juga menyukai teh."
         },
         {
           "type": "Compound-Complex",
-          "text": "While she was studying abroad, she developed an addiction to coffee because she often pulled all-nighters, and she also started to love the local cuisine",
-          "translation": "Saat dia belajar di luar negeri, dia mengembangkan kecanduan kopi karena dia sering begadang, dan dia juga mulai menyukai masakan lokal"
+          "text": "While she was studying, she developed an addiction to coffee, and as a result, she started to drink it every morning, but she also realized that she needed to reduce her intake because it was affecting her sleep.",
+          "translation": "Saat dia belajar, dia mengembangkan kecanduan terhadap kopi, dan sebagai hasilnya, dia mulai minum setiap pagi, tetapi dia juga menyadari bahwa dia perlu mengurangi konsumsinya karena itu mempengaruhi tidurnya."
         }
       ],
       "synonymMeanings": [
-        "Ketergantungan",
-        "Kecanduan berat",
-        "Penggunaan berlebihan"
+        "kebiasaan buruk",
+        "ketergantungan",
+        "penyakit kecanduan"
       ]
     },
     {
