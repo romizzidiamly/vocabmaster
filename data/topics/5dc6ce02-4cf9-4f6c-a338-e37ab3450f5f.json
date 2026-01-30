@@ -53,10 +53,10 @@
         "Resistance",
         "defense"
       ],
-      "definition": "the state of being protected against a disease or infection, or the state of being safe from harm or injury",
+      "definition": "The state of being protected against a particular disease or infection, or the state of being safe from a particular harm or problem",
       "userGuesses": [],
-      "status": "hidden",
-      "meaning": "kekebalan",
+      "status": "discovered",
+      "meaning": "Kekebalan",
       "phonetics": {
         "us": "/ɪˈmjuːnɪti/",
         "uk": "/ɪˈmjuːnɪti/"
@@ -64,30 +64,30 @@
       "examples": [
         {
           "type": "Simple",
-          "text": "Vaccination provides immunity to many diseases.",
-          "translation": "Vaksinasi memberikan kekebalan terhadap banyak penyakit."
+          "text": "The vaccine provides immunity against the disease.",
+          "translation": "Vaksin tersebut memberikan kekebalan terhadap penyakit."
         },
         {
           "type": "Complex",
-          "text": "Because she had been infected with the disease before, she developed immunity to it.",
-          "translation": "Karena dia telah terinfeksi penyakit itu sebelumnya, dia mengembangkan kekebalan terhadapnya."
+          "text": "Because she had been vaccinated, she developed immunity to the disease that was going around.",
+          "translation": "Karena telah divaksinasi, dia mengembangkan kekebalan terhadap penyakit yang sedang menyebar."
         },
         {
           "type": "Compound",
-          "text": "The country has immunity to the disease, but the neighboring country does not.",
-          "translation": "Negara tersebut memiliki kekebalan terhadap penyakit itu, tetapi negara tetangga tidak."
+          "text": "The doctor checked her immunity, and she was healthy, but her brother was sick.",
+          "translation": "Dokter memeriksa kekebalannya, dan dia sehat, tapi saudaranya sakit."
         },
         {
           "type": "Compound-Complex",
-          "text": "While the new vaccine provides immunity to the disease, it also has some side effects, because it contains certain chemicals that can cause allergic reactions.",
-          "translation": "Sementara vaksin baru memberikan kekebalan terhadap penyakit itu, juga memiliki beberapa efek samping, karena mengandung bahan kimia tertentu yang dapat menyebabkan reaksi alergi."
+          "text": "While the vaccine provides immunity against the disease, it is not a guarantee that the person will not get infected, because other factors can also influence the outcome.",
+          "translation": "Sementara vaksin memberikan kekebalan terhadap penyakit, itu tidak menjamin bahwa orang tersebut tidak akan terinfeksi, karena faktor lain juga dapat mempengaruhi hasilnya."
         }
       ],
       "synonymMeanings": [
         "perlindungan",
-        "pembebasan",
         "keamanan",
-        "keterlindungan"
+        "pencegahan",
+        "perlindungan dari penyakit"
       ]
     },
     {
