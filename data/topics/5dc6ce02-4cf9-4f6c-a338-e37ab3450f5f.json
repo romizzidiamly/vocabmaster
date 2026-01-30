@@ -1256,7 +1256,9 @@
         "employee health"
       ],
       "definition": "The department of medicine concerned with the prevention and treatment of job-related illnesses and injuries",
-      "userGuesses": [],
+      "userGuesses": [
+        "workplace safety"
+      ],
       "status": "discovered",
       "meaning": "Kesehatan kerja",
       "phonetics": {
