@@ -1713,31 +1713,41 @@
         "Cardio",
         "endurance training"
       ],
-      "definition": "Physical activity that increases heart rate and oxygen intake",
+      "definition": "exercise, such as running or cycling, that makes your heart and lungs work harder and is good for your health",
       "userGuesses": [],
-      "status": "hidden",
-      "meaning": "Meaning not found.",
+      "status": "discovered",
+      "meaning": "olahraga aerobik",
       "phonetics": {
-        "us": "/.../",
-        "uk": "/.../"
+        "us": "/ˌɛr.oʊˈbɪk ˈɛksərˌsaɪz/",
+        "uk": "/ˌɛərəʊˈbɪk ˈɛksəsaɪz/"
       },
       "examples": [
         {
           "type": "Simple",
-          "text": "Usage of Aerobic exercise is important."
+          "text": "Aerobic exercise helps to reduce stress.",
+          "translation": "Olahraga aerobik membantu mengurangi stres."
         },
         {
           "type": "Complex",
-          "text": "Because Aerobic exercise matters, we should study it."
+          "text": "Because aerobic exercise is good for the heart, it is often recommended by doctors.",
+          "translation": "Karena olahraga aerobik baik untuk jantung, maka seringkali direkomendasikan oleh dokter."
         },
         {
           "type": "Compound",
-          "text": "The word is Aerobic exercise, and it is useful."
+          "text": "Aerobic exercise helps to reduce stress, and it also improves overall health.",
+          "translation": "Olahraga aerobik membantu mengurangi stres, dan juga meningkatkan kesehatan secara keseluruhan."
         },
         {
           "type": "Compound-Complex",
-          "text": "If we use Aerobic exercise correctly, we succeed, so let's try."
+          "text": "While aerobic exercise is good for the heart, it can be harmful if overdone, and people who engage in it regularly should also make sure to get enough rest, because otherwise they may experience fatigue.",
+          "translation": "Sementara olahraga aerobik baik untuk jantung, itu dapat berbahaya jika berlebihan, dan orang-orang yang terlibat di dalamnya secara teratur juga harus memastikan untuk mendapatkan istirahat yang cukup, karena jika tidak mereka mungkin mengalami kelelahan."
         }
+      ],
+      "synonymMeanings": [
+        "senam",
+        "latihan kekuatan",
+        "aktivitas fisik",
+        "olahraga kardio"
       ]
     },
     {
