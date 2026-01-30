@@ -2218,31 +2218,41 @@
         "Exercise round",
         "sequence"
       ],
-      "definition": "A group of repetitions performed without rest",
+      "definition": "a group of things that belong together or have something in common",
       "userGuesses": [],
-      "status": "hidden",
-      "meaning": "Meaning not found.",
+      "status": "discovered",
+      "meaning": "sekumpulan atau kelompok",
       "phonetics": {
-        "us": "/.../",
-        "uk": "/.../"
+        "us": "/sɛt/",
+        "uk": "/sɛt/"
       },
       "examples": [
         {
           "type": "Simple",
-          "text": "Usage of Set is important."
+          "text": "The set of books includes a dictionary.",
+          "translation": "Sekumpulan buku tersebut termasuk kamus."
         },
         {
           "type": "Complex",
-          "text": "Because Set matters, we should study it."
+          "text": "Because the new policy was implemented, the set of rules had to be changed.",
+          "translation": "Karena kebijakan baru diterapkan, sekumpulan aturan harus diubah."
         },
         {
           "type": "Compound",
-          "text": "The word is Set, and it is useful."
+          "text": "I bought a set of knives, and I also bought a set of spoons.",
+          "translation": "Saya membeli sekumpulan pisau, dan saya juga membeli sekumpulan sendok."
         },
         {
           "type": "Compound-Complex",
-          "text": "If we use Set correctly, we succeed, so let's try."
+          "text": "While I was shopping, I bought a set of knives because they were on sale, and I also bought a set of spoons because I needed them.",
+          "translation": "Ketika saya berbelanja, saya membeli sekumpulan pisau karena mereka sedang diskon, dan saya juga membeli sekumpulan sendok karena saya membutuhkannya."
         }
+      ],
+      "synonymMeanings": [
+        "kelompok",
+        "kumpulan",
+        "sekumpulan",
+        "himpunan"
       ]
     },
     {
