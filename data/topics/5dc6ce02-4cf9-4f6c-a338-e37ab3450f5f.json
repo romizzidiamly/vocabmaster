@@ -1303,9 +1303,10 @@
       ],
       "definition": "the state of being clean and free from dirt, bacteria, etc.",
       "userGuesses": [
-        "cleanliness"
+        "cleanliness",
+        "sanitation"
       ],
-      "status": "discovered",
+      "status": "mastered",
       "meaning": "kebersihan",
       "phonetics": {
         "us": "/ˈhaɪ.dʒiːn/",
