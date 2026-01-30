@@ -1190,12 +1190,12 @@
         "Workplace safety",
         "employee health"
       ],
-      "definition": "The department of medicine that deals with the prevention and treatment of injuries and diseases that happen as a result of work",
+      "definition": "The department of medicine concerned with the prevention and treatment of job-related illnesses and injuries",
       "userGuesses": [],
-      "status": "hidden",
+      "status": "discovered",
       "meaning": "Kesehatan kerja",
       "phonetics": {
-        "us": "/ˌɒkjʊˈpeɪʃənl ˈhɛlθ/",
+        "us": "/ˌɒkjuˈpeɪʃənl ˈhɛlθ/",
         "uk": "/ˌɒkjʊˈpeɪʃənl ˈhɛlθ/"
       },
       "examples": [
@@ -1206,24 +1206,24 @@
         },
         {
           "type": "Complex",
-          "text": "Because the workers were exposed to toxic chemicals, the company was required to provide them with regular occupational health check-ups.",
-          "translation": "Karena pekerja terpapar bahan kimia beracun, perusahaan diwajibkan untuk memberikan mereka pemeriksaan kesehatan kerja secara teratur."
+          "text": "Because the workers were exposed to toxic chemicals, the company had to invest in occupational health and safety programs.",
+          "translation": "Karena para pekerja terpapar bahan kimia beracun, perusahaan harus berinvestasi dalam program kesehatan dan keselamatan kerja."
         },
         {
           "type": "Compound",
-          "text": "The company provides occupational health services and also offers fitness classes for employees.",
-          "translation": "Perusahaan menyediakan layanan kesehatan kerja dan juga menawarkan kelas kebugaran untuk karyawan."
+          "text": "The company provides occupational health services and also offers fitness programs for employees.",
+          "translation": "Perusahaan menyediakan layanan kesehatan kerja dan juga menawarkan program kebugaran untuk karyawan."
         },
         {
           "type": "Compound-Complex",
-          "text": "While the company provides occupational health services, it also requires employees to attend workshops on stress management, because many workers have been experiencing high levels of stress, which can negatively impact their occupational health.",
-          "translation": "Sementara perusahaan menyediakan layanan kesehatan kerja, juga meminta karyawan untuk menghadiri lokakarya tentang manajemen stres, karena banyak pekerja telah mengalami tingkat stres yang tinggi, yang dapat berdampak negatif pada kesehatan kerja mereka."
+          "text": "While the company provides occupational health services, it also offers fitness programs for employees, because a healthy workforce is more productive.",
+          "translation": "Sementara perusahaan menyediakan layanan kesehatan kerja, mereka juga menawarkan program kebugaran untuk karyawan, karena tenaga kerja yang sehat lebih produktif."
         }
       ],
       "synonymMeanings": [
         "Kesehatan tempat kerja",
-        "Kesehatan dan keselamatan kerja",
-        "Kesehatan pekerja"
+        "Kesehatan pekerja",
+        "Kesehatan dan keselamatan kerja"
       ]
     },
     {
