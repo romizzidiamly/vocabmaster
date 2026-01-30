@@ -1538,13 +1538,13 @@
         "Self-sufficiency",
         "autonomy"
       ],
-      "definition": "The state of being free from the control or influence of others",
+      "definition": "the state of being free from the control or influence of others",
       "userGuesses": [],
-      "status": "hidden",
-      "meaning": "Kemerdekaan",
+      "status": "discovered",
+      "meaning": "kemerdekaan",
       "phonetics": {
         "us": "/ɪndɪˈpɛndəns/",
-        "uk": "/ˌɪndɪˈpɛndəns/"
+        "uk": "/ɪndɪˈpɛndəns/"
       },
       "examples": [
         {
@@ -1554,25 +1554,25 @@
         },
         {
           "type": "Complex",
-          "text": "Because she had a job, she was able to maintain her independence.",
-          "translation": "Karena dia memiliki pekerjaan, dia dapat mempertahankan kemerdekaannya."
+          "text": "Because she wanted to be independent, she learned how to manage her finances.",
+          "translation": "Karena dia ingin mandiri, dia belajar mengelola keuangannya."
         },
         {
           "type": "Compound",
-          "text": "She wanted independence, but she also wanted to get married.",
-          "translation": "Dia ingin kemerdekaan, tetapi dia juga ingin menikah."
+          "text": "She wanted independence, but she also needed support from her family.",
+          "translation": "Dia menginginkan kemerdekaan, tetapi dia juga membutuhkan dukungan dari keluarganya."
         },
         {
           "type": "Compound-Complex",
-          "text": "While she valued her independence, she also knew that getting married would mean that she had to make some compromises, but she was willing to do so because she loved him.",
-          "translation": "Sementara dia menghargai kemerdekaannya, dia juga tahu bahwa menikah berarti dia harus membuat beberapa kompromi, tetapi dia mau melakukannya karena dia mencintainya."
+          "text": "While she wanted independence and was determined to make it on her own, she also knew that sometimes she needed help, because her parents had taught her that it was okay to ask for support when necessary.",
+          "translation": "Sementara dia menginginkan kemerdekaan dan bertekad untuk berhasil dengan usahanya sendiri, dia juga tahu bahwa terkadang dia membutuhkan bantuan, karena orang tuanya telah mengajarkannya bahwa tidak apa-apa untuk meminta bantuan ketika diperlukan."
         }
       ],
       "synonymMeanings": [
-        "Kebebasan",
-        "Otonomi",
-        "Kemandirian",
-        "Swaita"
+        "kebebasan",
+        "otonomi",
+        "kedaulatan",
+        "mandiri"
       ]
     },
     {
