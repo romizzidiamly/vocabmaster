@@ -427,7 +427,9 @@
         "emotional"
       ],
       "definition": "A person's condition with regard to their psychological and emotional well-being.",
-      "userGuesses": [],
+      "userGuesses": [
+        "psychological wellness"
+      ],
       "status": "discovered",
       "meaning": "Kesehatan mental",
       "phonetics": {
