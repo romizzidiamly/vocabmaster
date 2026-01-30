@@ -488,9 +488,9 @@
         "Nervous disorder",
         "panic disorder"
       ],
-      "definition": "a mental health condition where a person feels worried, nervous, or frightened all the time",
+      "definition": "a mental health condition in which a person feels extremely worried or nervous, often about things that might happen in the future",
       "userGuesses": [],
-      "status": "hidden",
+      "status": "discovered",
       "meaning": "gangguan kecemasan",
       "phonetics": {
         "us": "/æŋˈzaɪəti ˈdɪsɔrdər/",
@@ -499,30 +499,30 @@
       "examples": [
         {
           "type": "Simple",
-          "text": "She has an anxiety disorder.",
-          "translation": "Dia memiliki gangguan kecemasan."
+          "text": "She has been diagnosed with an anxiety disorder.",
+          "translation": "Dia telah didiagnosa mengidap gangguan kecemasan."
         },
         {
           "type": "Complex",
-          "text": "Because she has an anxiety disorder, she often feels nervous in public.",
-          "translation": "Karena dia memiliki gangguan kecemasan, dia sering merasa gugup di depan umum."
+          "text": "Because she has an anxiety disorder, she often feels overwhelmed by everyday tasks.",
+          "translation": "Karena dia mengidap gangguan kecemasan, dia sering merasa terlalu banyak untuk tugas sehari-hari."
         },
         {
           "type": "Compound",
-          "text": "She has an anxiety disorder, and she also struggles with depression.",
-          "translation": "Dia memiliki gangguan kecemasan, dan dia juga berjuang melawan depresi."
+          "text": "She has an anxiety disorder and also struggles with depression.",
+          "translation": "Dia mengidap gangguan kecemasan dan juga berjuang melawan depresi."
         },
         {
           "type": "Compound-Complex",
-          "text": "While she has an anxiety disorder, and she also struggles with depression, her therapist helps her to manage both conditions.",
-          "translation": "Sementara dia memiliki gangguan kecemasan, dan dia juga berjuang melawan depresi, terapisnya membantunya untuk mengelola kedua kondisi tersebut."
+          "text": "While she has been dealing with an anxiety disorder, she also struggles with depression because her mother had the same condition.",
+          "translation": "Sementara dia telah menghadapi gangguan kecemasan, dia juga berjuang melawan depresi karena ibunya memiliki kondisi yang sama."
         }
       ],
       "synonymMeanings": [
-        "kegelisahan",
-        "kekhawatiran",
+        "kecemasan",
         "ketakutan",
-        "kecemasan berlebihan"
+        "kekhawatiran",
+        "gangguan mental"
       ]
     },
     {
