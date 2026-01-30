@@ -752,9 +752,10 @@
       ],
       "definition": "the process of helping someone who has been ill or in prison to become healthy or normal again",
       "userGuesses": [
-        "recovery"
+        "recovery",
+        "therapy"
       ],
-      "status": "discovered",
+      "status": "mastered",
       "meaning": "rehabilitasi",
       "phonetics": {
         "us": "/ˌrɛhəbɪlɪˈteɪʃən/",
