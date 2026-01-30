@@ -1164,7 +1164,9 @@
         "persistent condition"
       ],
       "definition": "a disease or condition that lasts for a long time, often for the rest of a person's life",
-      "userGuesses": [],
+      "userGuesses": [
+        "long-lasting illness"
+      ],
       "status": "discovered",
       "meaning": "penyakit kronis",
       "phonetics": {
