@@ -443,9 +443,9 @@
         "Melancholy",
         "major depressive disorder"
       ],
-      "definition": "a feeling of sadness and hopelessness, often causing a person to lose interest in things they normally enjoy",
+      "definition": "a mental state characterized by low mood, feelings of sadness, and a lack of interest or pleasure in activities",
       "userGuesses": [],
-      "status": "hidden",
+      "status": "discovered",
       "meaning": "depresi",
       "phonetics": {
         "us": "/dɪˈprɛʃən/",
@@ -459,25 +459,25 @@
         },
         {
           "type": "Complex",
-          "text": "Because she lost her job, she felt depressed and didn't know what to do.",
-          "translation": "Karena dia kehilangan pekerjaannya, dia merasa depresi dan tidak tahu apa yang harus dilakukan."
+          "text": "Because she lost her job, she felt depressed and isolated.",
+          "translation": "Karena dia kehilangan pekerjaannya, dia merasa depresi dan terisolasi."
         },
         {
           "type": "Compound",
-          "text": "She felt depressed and anxious, but she still went to the party.",
-          "translation": "Dia merasa depresi dan cemas, tapi dia masih pergi ke pesta."
+          "text": "She felt depressed, and she also felt anxious about her future.",
+          "translation": "Dia merasa depresi, dan dia juga merasa cemas tentang masa depannya."
         },
         {
           "type": "Compound-Complex",
-          "text": "Although she had been suffering from depression for a long time, she still managed to finish her degree because she was determined to succeed, and her family supported her.",
-          "translation": "Meskipun dia telah menderita depresi selama waktu lama, dia masih berhasil menyelesaikan gelarnya karena dia bertekad untuk sukses, dan keluarganya mendukungnya."
+          "text": "While she was going through a difficult time, she felt depressed because she had lost her job, and she also felt anxious about her future.",
+          "translation": "Saat dia menghadapi masa sulit, dia merasa depresi karena dia kehilangan pekerjaannya, dan dia juga merasa cemas tentang masa depannya."
         }
       ],
       "synonymMeanings": [
         "kesedihan",
         "keputusasaan",
         "kelesuan",
-        "kemelekan"
+        "ketidakberdayaan"
       ]
     },
     {
