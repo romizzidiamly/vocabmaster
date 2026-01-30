@@ -140,41 +140,40 @@
         "Overweight",
         "excessive fat"
       ],
-      "definition": "The condition of being grossly fat or overweight, to the point of being unhealthy.",
+      "definition": "a condition in which someone is very fat and has a lot of body fat, which can be bad for their health",
       "userGuesses": [],
-      "status": "hidden",
-      "meaning": "Kegemukan",
+      "status": "discovered",
+      "meaning": "obesitas",
       "phonetics": {
-        "us": "/ˈoʊbəsiːti/",
-        "uk": "/ɒbəˈsiːti/"
+        "us": "/ˈoʊbəsiː/",
+        "uk": "/ˈəʊbɪsɪti/"
       },
       "examples": [
         {
           "type": "Simple",
           "text": "Obesity is a major health problem.",
-          "translation": "Kegemukan adalah masalah kesehatan yang besar."
+          "translation": "Obesitas adalah masalah kesehatan yang besar."
         },
         {
           "type": "Complex",
-          "text": "Because obesity is a major health problem, many people try to lose weight.",
-          "translation": "Karena kegemukan adalah masalah kesehatan yang besar, banyak orang berusaha untuk menurunkan berat badan."
+          "text": "Because obesity is a major health problem, people should eat healthy food.",
+          "translation": "Karena obesitas adalah masalah kesehatan yang besar, orang harus makan makanan sehat."
         },
         {
           "type": "Compound",
-          "text": "Obesity is a major health problem, and it affects many people worldwide.",
-          "translation": "Kegemukan adalah masalah kesehatan yang besar, dan itu mempengaruhi banyak orang di seluruh dunia."
+          "text": "Obesity is a major health problem, and it can lead to diabetes.",
+          "translation": "Obesitas adalah masalah kesehatan yang besar, dan dapat menyebabkan diabetes."
         },
         {
           "type": "Compound-Complex",
-          "text": "While obesity is a major health problem that affects many people worldwide, it can be prevented by eating a healthy diet and exercising regularly, because a healthy lifestyle is essential for overall well-being.",
-          "translation": "Sementara kegemukan adalah masalah kesehatan yang besar yang mempengaruhi banyak orang di seluruh dunia, itu dapat dicegah dengan makan makanan yang sehat dan berolahraga secara teratur, karena gaya hidup sehat sangat penting untuk kesejahteraan secara keseluruhan."
+          "text": "Although obesity is a major health problem, people who are overweight can still be healthy, but they should exercise regularly and eat healthy food.",
+          "translation": "Meskipun obesitas adalah masalah kesehatan yang besar, orang yang kelebihan berat badan masih dapat sehat, tetapi mereka harus berolahraga secara teratur dan makan makanan sehat."
         }
       ],
       "synonymMeanings": [
-        "Kegemukan berlebihan",
-        "Kelebihan berat badan",
-        "Obesitas",
-        "Kegemukan yang berlebihan"
+        "kegemukan",
+        "kelebihan berat badan",
+        "keberatbadanan berlebih"
       ]
     },
     {
