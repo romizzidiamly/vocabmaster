@@ -2370,19 +2370,19 @@
         "Jump training",
         "explosive workouts"
       ],
-      "definition": "the practice of using jumps and other explosive movements to improve athletic performance",
+      "definition": "a way of training that involves jumping and other movements that stretch and then quickly shorten the muscles",
       "userGuesses": [],
-      "status": "hidden",
-      "meaning": "pelatihan menggunakan lompatan dan gerakan eksplosif lainnya untuk meningkatkan kinerja atletik",
+      "status": "discovered",
+      "meaning": "pelatihan yang melibatkan lompatan dan gerakan lain yang memanjangkan dan kemudian memendekkan otot dengan cepat",
       "phonetics": {
         "us": "/ˌplaɪəˈmɛtrɪks/",
-        "uk": "/ˌplaɪəˈmɛtrɪks/"
+        "uk": "/ˌplʌɪəˈmɛtrɪks/"
       },
       "examples": [
         {
           "type": "Simple",
-          "text": "Plyometrics is a great way to improve your jumping ability.",
-          "translation": "Plyometrik adalah cara yang baik untuk meningkatkan kemampuan melompat Anda."
+          "text": "Plyometrics is a fun way to improve your fitness.",
+          "translation": "Plyometrik adalah cara yang menyenangkan untuk meningkatkan kebugaran Anda."
         },
         {
           "type": "Complex",
@@ -2391,20 +2391,19 @@
         },
         {
           "type": "Compound",
-          "text": "Plyometrics helps athletes jump higher, and it also improves their speed and agility.",
-          "translation": "Plyometrik membantu atlet melompat lebih tinggi, dan juga meningkatkan kecepatan dan kelincahan mereka."
+          "text": "Plyometrics is a great way to improve your vertical jump, and it is also a lot of fun.",
+          "translation": "Plyometrik adalah cara yang baik untuk meningkatkan lompatan vertikal Anda, dan itu juga sangat menyenangkan."
         },
         {
           "type": "Compound-Complex",
-          "text": "While plyometrics can be an effective way to improve athletic performance, it is crucial to note that it requires proper training and supervision, because if not done correctly, it can lead to injuries, and also, it is essential to warm up before starting.",
-          "translation": "Sementara plyometrik dapat menjadi cara yang efektif untuk meningkatkan kinerja atletik, sangat penting untuk dicatat bahwa itu memerlukan pelatihan dan pengawasan yang tepat, karena jika tidak dilakukan dengan benar, dapat menyebabkan cedera, dan juga, sangat penting untuk melakukan pemanasan sebelum memulai."
+          "text": "While plyometrics can be an effective way to improve your athletic performance, it is crucial to incorporate it into your training routine gradually, because it can be stressful for your muscles and joints.",
+          "translation": "Sementara plyometrik dapat menjadi cara yang efektif untuk meningkatkan kinerja atletik Anda, sangat penting untuk memasukkannya ke dalam rutinitas pelatihan Anda secara bertahap, karena dapat menekan otot dan sendi Anda."
         }
       ],
       "synonymMeanings": [
         "latihan kekuatan",
         "pelatihan kecepatan",
-        "latihan ketangkasan",
-        "pelatihan kekuatan ledak"
+        "latihan daya ledak"
       ]
     },
     {
