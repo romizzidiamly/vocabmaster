@@ -520,9 +520,10 @@
       ],
       "definition": "a mental health condition in which a person feels extremely worried or nervous, often about things that might happen in the future",
       "userGuesses": [
-        "nervous disorder"
+        "nervous disorder",
+        "panic disorder"
       ],
-      "status": "discovered",
+      "status": "mastered",
       "meaning": "gangguan kecemasan",
       "phonetics": {
         "us": "/æŋˈzaɪəti ˈdɪsɔrdər/",
