@@ -1247,9 +1247,9 @@
         "Teenage years",
         "youth"
       ],
-      "definition": "The period of life when a young person develops from a child into an adult, from about 13 to 19 years old.",
+      "definition": "The period of life when a person is developing from a child into an adult, from about the age of 13 to 19.",
       "userGuesses": [],
-      "status": "hidden",
+      "status": "discovered",
       "meaning": "Masa remaja",
       "phonetics": {
         "us": "/ˌædəˈlesns/",
@@ -1258,30 +1258,29 @@
       "examples": [
         {
           "type": "Simple",
-          "text": "Adolescence is a challenging time for many young people.",
-          "translation": "Masa remaja adalah waktu yang menantang bagi banyak orang muda."
+          "text": "She began to develop her own interests during adolescence.",
+          "translation": "Dia mulai mengembangkan minatnya sendiri selama masa remaja."
         },
         {
           "type": "Complex",
-          "text": "Because adolescence is a critical period of development, it is essential to provide young people with proper guidance and support.",
-          "translation": "Karena masa remaja adalah periode kritis perkembangan, sangat penting untuk menyediakan orang muda dengan bimbingan dan dukungan yang tepat."
+          "text": "Because she had a difficult time in adolescence, she struggled to form close relationships as an adult.",
+          "translation": "Karena dia mengalami masa sulit selama masa remaja, dia berjuang untuk membentuk hubungan dekat sebagai orang dewasa."
         },
         {
           "type": "Compound",
-          "text": "Adolescence is a time of change, and teenagers often experience mood swings and emotional turmoil, but they also develop new skills and make lasting friendships.",
-          "translation": "Masa remaja adalah waktu perubahan, dan remaja sering mengalami perubahan mood dan badai emosi, tetapi mereka juga mengembangkan keterampilan baru dan membuat persahabatan yang langgeng."
+          "text": "Adolescence is a challenging time, and many teenagers struggle with identity issues, but most eventually find their place in the world, and some even become leaders.",
+          "translation": "Masa remaja adalah waktu yang menantang, dan banyak remaja berjuang dengan masalah identitas, tapi kebanyakan akhirnya menemukan tempat mereka di dunia, dan beberapa bahkan menjadi pemimpin."
         },
         {
           "type": "Compound-Complex",
-          "text": "While adolescence can be a difficult and confusing time, it is also a period of great opportunity, because teenagers who are given the chance to develop their talents and pursue their passions often become confident and successful adults, and they are more likely to make a positive impact on their communities, which in turn can lead to a more harmonious and prosperous society.",
-          "translation": "Sementara masa remaja dapat menjadi waktu yang sulit dan membingungkan, itu juga merupakan periode kesempatan besar, karena remaja yang diberi kesempatan untuk mengembangkan bakat dan mengejar passion mereka sering menjadi dewasa yang percaya diri dan sukses, dan mereka lebih mungkin membuat dampak positif pada masyarakat mereka, yang pada gilirannya dapat menyebabkan masyarakat yang lebih harmonis dan makmur."
+          "text": "While adolescence can be a tumultuous period, during which teenagers often experience mood swings and rebel against authority, it is also a time of great opportunity for growth and self-discovery, because they are learning to navigate complex social relationships and develop their own sense of purpose.",
+          "translation": "Sementara masa remaja bisa menjadi periode yang berubah-ubah, di mana remaja sering mengalami perubahan mood dan memberontak melawan otoritas, itu juga merupakan waktu besar untuk pertumbuhan dan penemuan diri, karena mereka sedang belajar untuk mengarungi hubungan sosial yang kompleks dan mengembangkan tujuan mereka sendiri."
         }
       ],
       "synonymMeanings": [
-        "pubertas",
-        "usia belia",
-        "masa puber",
-        "usia remaja"
+        "Masa puber",
+        "Masa transisi",
+        "Masa perkembangan"
       ]
     },
     {
