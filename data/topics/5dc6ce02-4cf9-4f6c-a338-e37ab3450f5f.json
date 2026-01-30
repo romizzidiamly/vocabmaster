@@ -664,9 +664,9 @@
         "Infectious",
         "transmittable"
       ],
-      "definition": "able to spread or catch a disease",
+      "definition": "able to be spread by contact with someone or something that has the disease or feeling",
       "userGuesses": [],
-      "status": "hidden",
+      "status": "discovered",
       "meaning": "menular",
       "phonetics": {
         "us": "/kənˈteɪdʒəs/",
@@ -675,30 +675,30 @@
       "examples": [
         {
           "type": "Simple",
-          "text": "The doctor said the illness is contagious.",
-          "translation": "Dokter mengatakan penyakit itu menular."
+          "text": "The contagious laugh spread quickly through the room.",
+          "translation": "Tawa menular itu menyebar dengan cepat di seluruh ruangan."
         },
         {
           "type": "Complex",
-          "text": "Although she was feeling unwell, she still came to the party because she didn't know that her illness was contagious.",
-          "translation": "Meskipun dia merasa tidak enak badan, dia tetap datang ke pesta karena dia tidak tahu bahwa penyakitnya menular."
+          "text": "Because the disease is contagious, we need to take precautions when visiting the patient.",
+          "translation": "Karena penyakit itu menular, kita perlu mengambil tindakan pencegahan saat mengunjungi pasien."
         },
         {
           "type": "Compound",
-          "text": "The contagious disease spread quickly, and many people got sick, but fortunately, the hospital was able to provide treatment.",
-          "translation": "Penyakit menular itu menyebar dengan cepat, dan banyak orang jatuh sakit, tapi untungnya, rumah sakit dapat menyediakan pengobatan."
+          "text": "The contagious atmosphere in the stadium and the delicious food made the event unforgettable.",
+          "translation": "Atmosfer menular di stadion dan makanan yang lezat membuat acara itu tak terlupakan."
         },
         {
           "type": "Compound-Complex",
-          "text": "While the contagious disease spread quickly, and many people got sick, the hospital was able to provide treatment, but only because the doctors had experience with similar cases before.",
-          "translation": "Sementara penyakit menular itu menyebar dengan cepat, dan banyak orang jatuh sakit, rumah sakit dapat menyediakan pengobatan, tapi hanya karena dokter-dokter tersebut memiliki pengalaman dengan kasus serupa sebelumnya."
+          "text": "While the contagious energy of the crowd was exciting, the fact that the concert was outdoors and it was raining made the experience less enjoyable, but the lead singer's performance was still impressive.",
+          "translation": "Sementara energi menular kerumunan itu menyenangkan, kenyataan bahwa konser itu di luar ruangan dan hujan membuat pengalaman itu kurang menyenangkan, tetapi penampilan penyanyi utama masih mengesankan."
         }
       ],
       "synonymMeanings": [
         "penyakit menular",
-        "penyakit berjangkit",
         "infeksius",
-        "menyebar"
+        "menyebar",
+        "menginfeksi"
       ]
     },
     {
