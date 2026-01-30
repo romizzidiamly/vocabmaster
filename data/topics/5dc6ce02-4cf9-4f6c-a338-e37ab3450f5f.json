@@ -705,9 +705,10 @@
       ],
       "definition": "able to be spread by contact with someone or something that has the disease or feeling",
       "userGuesses": [
-        "infectious"
+        "infectious",
+        "transmittable"
       ],
-      "status": "discovered",
+      "status": "mastered",
       "meaning": "menular",
       "phonetics": {
         "us": "/kənˈteɪdʒəs/",
