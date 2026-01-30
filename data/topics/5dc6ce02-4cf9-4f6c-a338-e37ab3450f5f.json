@@ -1837,7 +1837,9 @@
         "resistance exercise"
       ],
       "definition": "a type of exercise, such as weightlifting or push-ups, that does not need oxygen to generate energy",
-      "userGuesses": [],
+      "userGuesses": [
+        "strength training"
+      ],
       "status": "discovered",
       "meaning": "latihan anaerobik",
       "phonetics": {
