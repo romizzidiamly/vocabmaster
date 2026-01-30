@@ -151,9 +151,10 @@
       ],
       "definition": "a condition in which someone is very fat and has a lot of body fat, which can be bad for their health",
       "userGuesses": [
-        "excessive fat"
+        "excessive fat",
+        "overweight"
       ],
-      "status": "discovered",
+      "status": "mastered",
       "meaning": "obesitas",
       "phonetics": {
         "us": "/ˈoʊbəsiː/",
