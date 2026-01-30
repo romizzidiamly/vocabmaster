@@ -2067,41 +2067,41 @@
         "Physical makeup",
         "body structure"
       ],
-      "definition": "The amount of fat, muscle, and other tissues in the body.",
+      "definition": "The amount of fat, bone, and muscle in the body, especially when compared to the total weight of the body.",
       "userGuesses": [],
-      "status": "hidden",
+      "status": "discovered",
       "meaning": "Komposisi tubuh",
       "phonetics": {
-        "us": "/ˌbɑdi ˌkɑmpəˈzɪʃən/",
-        "uk": "/ˌbɒdi ˌkɒmpəˈzɪʃən/"
+        "us": "/ˈbɑːdi ˌkɒmpəˈzɪʃən/",
+        "uk": "/ˈbɒdi ˌkɒmpəˈzɪʃən/"
       },
       "examples": [
         {
           "type": "Simple",
-          "text": "Regular exercise can improve your body composition.",
-          "translation": "Olahraga teratur dapat meningkatkan komposisi tubuh Anda."
+          "text": "Athletes often monitor their body composition.",
+          "translation": "Atlet sering memantau komposisi tubuh mereka."
         },
         {
           "type": "Complex",
-          "text": "Because a healthy body composition is linked to a lower risk of chronic diseases, it is essential to maintain a balanced diet.",
-          "translation": "Karena komposisi tubuh yang sehat terkait dengan risiko penyakit kronis yang lebih rendah, sangat penting untuk mempertahankan pola makan yang seimbang."
+          "text": "Because body composition affects our health, we should eat a balanced diet.",
+          "translation": "Karena komposisi tubuh memengaruhi kesehatan kita, kita sebaiknya mengonsumsi makanan yang seimbang."
         },
         {
           "type": "Compound",
-          "text": "I want to lose weight and improve my body composition, but I also need to eat more to gain muscle mass.",
-          "translation": "Saya ingin menurunkan berat badan dan meningkatkan komposisi tubuh, tetapi saya juga perlu makan lebih banyak untuk mendapatkan massa otot."
+          "text": "I exercise regularly and I watch what I eat, but my body composition has not changed much.",
+          "translation": "Saya berolahraga secara teratur dan saya memperhatikan apa yang saya makan, tapi komposisi tubuh saya tidak banyak berubah."
         },
         {
           "type": "Compound-Complex",
-          "text": "While it is true that genetics play a role in determining body composition, regular exercise and a healthy diet can also significantly impact it, because a well-balanced lifestyle can help regulate metabolism and burn fat more efficiently.",
-          "translation": "Sementara itu benar bahwa genetika memainkan peran dalam menentukan komposisi tubuh, olahraga teratur dan pola makan yang sehat juga dapat sangat mempengaruhinya, karena gaya hidup yang seimbang dapat membantu mengatur metabolisme dan membakar lemak lebih efisien."
+          "text": "While it is true that genetics play a role in determining our body composition, regular exercise and a healthy diet can also make a significant difference, because they help us maintain a healthy weight.",
+          "translation": "Sementara itu benar bahwa genetika memainkan peran dalam menentukan komposisi tubuh kita, olahraga teratur dan makanan yang sehat juga dapat membuat perbedaan yang signifikan, karena mereka membantu kita mempertahankan berat badan yang sehat."
         }
       ],
       "synonymMeanings": [
+        "komposisi fisik",
+        "proporsi tubuh",
         "susunan tubuh",
-        "komponen tubuh",
-        "struktur tubuh",
-        "kandungan tubuh"
+        "komponen tubuh"
       ]
     },
     {
