@@ -1769,9 +1769,9 @@
         "Suppleness",
         "mobility"
       ],
-      "definition": "The ability to change or be changed easily according to the situation",
+      "definition": "The ability to change or be changed easily according to the situation.",
       "userGuesses": [],
-      "status": "hidden",
+      "status": "discovered",
       "meaning": "Kelenturan",
       "phonetics": {
         "us": "/flɛksəˈbɪlɪti/",
@@ -1780,29 +1780,29 @@
       "examples": [
         {
           "type": "Simple",
-          "text": "The company values flexibility in its employees.",
-          "translation": "Perusahaan menghargai kelenturan pada karyawannya."
+          "text": "The new employee showed flexibility in her work schedule.",
+          "translation": "Karyawan baru itu menunjukkan kelenturan dalam jadwal kerjanya."
         },
         {
           "type": "Complex",
-          "text": "Because the new policy allows for more flexibility, employees can now work from home.",
-          "translation": "Karena kebijakan baru memungkinkan kelenturan yang lebih besar, karyawan sekarang dapat bekerja dari rumah."
+          "text": "Because the company needs to adapt to the market, it requires flexibility from all employees.",
+          "translation": "Karena perusahaan perlu menyesuaikan diri dengan pasar, maka diperlukan kelenturan dari semua karyawan."
         },
         {
           "type": "Compound",
-          "text": "The teacher offered flexibility in assignment deadlines, and students appreciated it, but some still struggled to meet them.",
-          "translation": "Guru menawarkan kelenturan dalam batas waktu tugas, dan siswa menghargainya, tetapi beberapa masih berjuang untuk memenuhinya."
+          "text": "The company offers flexibility in work hours, and employees can also work from home.",
+          "translation": "Perusahaan menawarkan kelenturan dalam jam kerja, dan karyawan juga bisa bekerja dari rumah."
         },
         {
           "type": "Compound-Complex",
-          "text": "While the new employee was grateful for the flexibility in scheduling, she realized that it also meant she had to be available to work at short notice, which was sometimes challenging, but her supervisor was understanding and supportive.",
-          "translation": "Sementara karyawan baru bersyukur atas kelenturan dalam penjadwalan, dia menyadari bahwa itu juga berarti dia harus siap bekerja dengan pemberitahuan singkat, yang terkadang menantang, tetapi atasannya memahami dan mendukung."
+          "text": "While the new policy allows for flexibility in meeting deadlines, it also requires employees to be more responsible, because they have to manage their time effectively to meet the targets.",
+          "translation": "Sementara kebijakan baru memungkinkan kelenturan dalam memenuhi tenggat waktu, juga memerlukan karyawan untuk lebih bertanggung jawab, karena mereka harus mengelola waktu mereka dengan efektif untuk mencapai target."
         }
       ],
       "synonymMeanings": [
-        "Keluwesan",
         "Kemampuan menyesuaikan diri",
-        "Kelincahan"
+        "Keluwesan",
+        "Keterbukaan"
       ]
     },
     {
