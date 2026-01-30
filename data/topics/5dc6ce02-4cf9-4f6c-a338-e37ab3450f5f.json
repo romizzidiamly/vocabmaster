@@ -937,7 +937,9 @@
         "substance abuse"
       ],
       "definition": "the state of being physically or mentally dependent on something, especially a drug",
-      "userGuesses": [],
+      "userGuesses": [
+        "dependency"
+      ],
       "status": "discovered",
       "meaning": "kecanduan",
       "phonetics": {
