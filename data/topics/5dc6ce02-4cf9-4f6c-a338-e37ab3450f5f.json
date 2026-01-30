@@ -273,38 +273,37 @@
       ],
       "definition": "a medical condition in which the body does not produce enough insulin, leading to high blood sugar levels",
       "userGuesses": [],
-      "status": "hidden",
-      "meaning": "penyakit gula atau kencing manis",
+      "status": "discovered",
+      "meaning": "penyakit diabetes",
       "phonetics": {
         "us": "/daɪəˈbiːtiːz/",
-        "uk": "/daɪəˈbiːtiːz/"
+        "uk": "/ˈdʌɪəbiːtiːz/"
       },
       "examples": [
         {
           "type": "Simple",
-          "text": "Diabetes is a common disease.",
-          "translation": "Penyakit gula atau kencing manis adalah penyakit yang umum."
+          "text": "She was diagnosed with diabetes.",
+          "translation": "Dia didiagnosis menderita penyakit diabetes."
         },
         {
           "type": "Complex",
-          "text": "Because she has diabetes, she needs to watch her diet.",
-          "translation": "Karena dia menderita penyakit gula, dia perlu menjaga pola makannya."
+          "text": "Because she has diabetes, she needs to control her diet.",
+          "translation": "Karena dia menderita penyakit diabetes, dia perlu mengontrol pola makannya."
         },
         {
           "type": "Compound",
-          "text": "Diabetes is a serious disease, and it requires constant medical attention.",
-          "translation": "Penyakit gula adalah penyakit yang serius, dan memerlukan perawatan medis yang konstan."
+          "text": "She has diabetes and her brother has high blood pressure.",
+          "translation": "Dia menderita penyakit diabetes dan saudaranya memiliki tekanan darah tinggi."
         },
         {
           "type": "Compound-Complex",
-          "text": "While diabetes is a serious disease, it can be managed with proper diet and exercise, because a healthy lifestyle is crucial for people with this condition.",
-          "translation": "Sementara penyakit gula adalah penyakit yang serius, penyakit ini dapat dikendalikan dengan pola makan dan olahraga yang tepat, karena gaya hidup sehat sangat penting bagi orang-orang dengan kondisi ini."
+          "text": "While she has diabetes, her brother has high blood pressure, and because of this, they both need to take care of their health.",
+          "translation": "Sementara dia menderita penyakit diabetes, saudaranya memiliki tekanan darah tinggi, dan karena itu, mereka berdua perlu menjaga kesehatan mereka."
         }
       ],
       "synonymMeanings": [
         "penyakit gula",
-        "kencing manis",
-        "hiperglikemia"
+        "penyakit kencing manis"
       ]
     },
     {
