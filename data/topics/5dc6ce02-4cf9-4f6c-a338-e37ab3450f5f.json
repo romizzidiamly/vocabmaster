@@ -566,7 +566,9 @@
         "counseling"
       ],
       "definition": "treatment for someone who is ill, either physically or mentally, intended to make them better or to help them deal with their condition",
-      "userGuesses": [],
+      "userGuesses": [
+        "rehabilitation"
+      ],
       "status": "discovered",
       "meaning": "terapi",
       "phonetics": {
