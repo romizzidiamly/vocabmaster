@@ -334,7 +334,9 @@
         "elevated pressure"
       ],
       "definition": "a medical condition in which the blood pressure is higher than normal",
-      "userGuesses": [],
+      "userGuesses": [
+        "high bp"
+      ],
       "status": "discovered",
       "meaning": "hipertensi",
       "phonetics": {
