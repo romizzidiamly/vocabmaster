@@ -1702,7 +1702,9 @@
         "accountability"
       ],
       "definition": "The state or fact of being responsible, or something for which you are responsible",
-      "userGuesses": [],
+      "userGuesses": [
+        "obligation"
+      ],
       "status": "discovered",
       "meaning": "Tanggung jawab",
       "phonetics": {
