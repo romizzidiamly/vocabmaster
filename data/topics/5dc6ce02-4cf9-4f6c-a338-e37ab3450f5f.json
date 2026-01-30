@@ -1793,7 +1793,9 @@
         "endurance training"
       ],
       "definition": "exercise, such as running or cycling, that makes your heart and lungs work harder and is good for your health",
-      "userGuesses": [],
+      "userGuesses": [
+        "cardio"
+      ],
       "status": "discovered",
       "meaning": "olahraga aerobik",
       "phonetics": {
