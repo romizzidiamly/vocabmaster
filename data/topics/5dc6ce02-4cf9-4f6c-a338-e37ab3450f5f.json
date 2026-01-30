@@ -622,40 +622,12 @@
       ],
       "definition": "a situation in which a large number of people in a particular area all have a particular disease at the same time",
       "userGuesses": [],
-      "status": "hidden",
-      "meaning": "wabah",
+      "status": "discovered",
+      "meaning": "n/a",
       "phonetics": {
-        "us": "/ˌɛpɪˈdɛmɪk/",
-        "uk": "/ˌɛpɪˈdɛmɪk/"
-      },
-      "examples": [
-        {
-          "type": "Simple",
-          "text": "The flu is an epidemic in the city.",
-          "translation": "Flu adalah wabah di kota."
-        },
-        {
-          "type": "Complex",
-          "text": "Because the water supply was contaminated, an epidemic of cholera broke out in the village.",
-          "translation": "Karena pasokan air terkontaminasi, wabah kolera pecah di desa."
-        },
-        {
-          "type": "Compound",
-          "text": "The city is experiencing an epidemic of flu, and the hospital is experiencing a shortage of doctors.",
-          "translation": "Kota tersebut mengalami wabah flu, dan rumah sakit mengalami kekurangan dokter."
-        },
-        {
-          "type": "Compound-Complex",
-          "text": "While the government is trying to control the epidemic of COVID-19, the economy is also experiencing a downturn, and many businesses are struggling to stay afloat because the restrictions are affecting their sales.",
-          "translation": "Sementara pemerintah berusaha untuk mengendalikan wabah COVID-19, perekonomian juga mengalami kemerosotan, dan banyak bisnis berjuang untuk tetap bertahan karena pembatasan tersebut mempengaruhi penjualan mereka."
-        }
-      ],
-      "synonymMeanings": [
-        "penyakit menular",
-        "penyebaran penyakit",
-        "wabah penyakit",
-        "penyakit yang meluas"
-      ]
+        "us": "n/a",
+        "uk": "n/a"
+      }
     },
     {
       "id": "9ab221b1-7667-422b-a7a5-e790fc182482",
