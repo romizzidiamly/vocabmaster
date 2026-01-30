@@ -1290,41 +1290,40 @@
         "Maturation",
         "biological development"
       ],
-      "definition": "The period of life when a young person develops physically and sexually to become an adult.",
+      "definition": "the period of life when a young person develops physically and sexually into an adult",
       "userGuesses": [],
-      "status": "hidden",
-      "meaning": "Masa puber",
+      "status": "discovered",
+      "meaning": "masa puber",
       "phonetics": {
-        "us": "/ˈpʊbərti/",
+        "us": "/ˈpʌbərti/",
         "uk": "/ˈpjuːbəti/"
       },
       "examples": [
         {
           "type": "Simple",
-          "text": "She entered puberty at the age of 12.",
-          "translation": "Dia memasuki masa puber pada usia 12."
+          "text": "Girls usually enter puberty earlier than boys.",
+          "translation": "Gadis-gadis biasanya memasuki masa puber lebih awal daripada laki-laki."
         },
         {
           "type": "Complex",
-          "text": "Because she entered puberty early, she was often self-conscious about her body.",
-          "translation": "Karena dia memasuki masa puber lebih awal, dia sering merasa tidak nyaman dengan tubuhnya."
+          "text": "Because she was going through puberty, she experienced mood swings.",
+          "translation": "Karena dia sedang mengalami masa puber, dia mengalami perubahan mood."
         },
         {
           "type": "Compound",
-          "text": "The boy was excited to start high school, but he was also nervous about going through puberty.",
-          "translation": "Anak laki-laki itu bersemangat untuk memulai sekolah menengah, tetapi dia juga gugup tentang melewati masa puber."
+          "text": "Puberty is a challenging time, and adolescents often feel embarrassed and self-conscious, but they also start to develop new skills and interests.",
+          "translation": "Masa puber adalah waktu yang menantang, dan remaja sering merasa malu dan tidak percaya diri, tetapi mereka juga mulai mengembangkan keterampilan dan minat baru."
         },
         {
           "type": "Compound-Complex",
-          "text": "While the girl was excited to start high school, she was also nervous about going through puberty, because she had heard that it could be a difficult time.",
-          "translation": "Saat gadis itu bersemangat untuk memulai sekolah menengah, dia juga gugup tentang melewati masa puber, karena dia telah mendengar bahwa itu bisa menjadi waktu yang sulit."
+          "text": "While puberty can be a difficult time for many teenagers, because they have to navigate significant physical and emotional changes, it is also a period of great opportunity for growth and self-discovery, as they begin to explore their own identities and form meaningful relationships with others.",
+          "translation": "Sementara masa puber dapat menjadi waktu yang sulit bagi banyak remaja, karena mereka harus menghadapi perubahan fisik dan emosional yang signifikan, ini juga merupakan periode kesempatan besar untuk pertumbuhan dan penemuan diri, karena mereka mulai mengeksplorasi identitas mereka sendiri dan membentuk hubungan yang bermakna dengan orang lain."
         }
       ],
       "synonymMeanings": [
-        "akil balig",
-        "remaja",
-        "usia dewasa",
-        "masa remaja"
+        "masa akil balig",
+        "masa remaja",
+        "peralihan dari anak-anak ke dewasa"
       ]
     },
     {
