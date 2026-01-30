@@ -314,9 +314,9 @@
         "High BP",
         "elevated pressure"
       ],
-      "definition": "a medical condition in which the blood pressure is too high",
+      "definition": "a medical condition in which the blood pressure is higher than normal",
       "userGuesses": [],
-      "status": "hidden",
+      "status": "discovered",
       "meaning": "hipertensi",
       "phonetics": {
         "us": "/ˌhaɪpərˈtɛnʃən/",
@@ -325,29 +325,29 @@
       "examples": [
         {
           "type": "Simple",
-          "text": "The doctor diagnosed her with hypertension.",
-          "translation": "Dokter mendiagnosa bahwa dia menderita hipertensi."
+          "text": "The doctor warned me about hypertension.",
+          "translation": "Dokter memperingatkan saya tentang hipertensi."
         },
         {
           "type": "Complex",
-          "text": "Because she had hypertension, the doctor advised her to reduce her salt intake.",
-          "translation": "Karena dia menderita hipertensi, dokter menyarankannya untuk mengurangi konsumsi garam."
+          "text": "Because I have a family history of hypertension, I need to be careful about my diet.",
+          "translation": "Karena saya memiliki riwayat keluarga hipertensi, saya perlu berhati-hati tentang pola makan saya."
         },
         {
           "type": "Compound",
-          "text": "The patient had hypertension and diabetes, so she needed to take medication every day.",
-          "translation": "Pasien menderita hipertensi dan diabetes, jadi dia perlu mengonsumsi obat setiap hari."
+          "text": "I exercise regularly and I eat healthy food, but I still have hypertension.",
+          "translation": "Saya berolahraga secara teratur dan saya makan makanan sehat, tetapi saya masih memiliki hipertensi."
         },
         {
           "type": "Compound-Complex",
-          "text": "While the new medication helped to lower her blood pressure, the patient still had to deal with the effects of hypertension, which had already damaged her kidneys.",
-          "translation": "Sementara obat baru membantu menurunkan tekanan darahnya, pasien masih harus menghadapi dampak hipertensi, yang sudah merusak ginjalnya."
+          "text": "While I have been trying to control my hypertension through diet and exercise, my doctor has also prescribed medication, and I have been taking it regularly, but I still need to monitor my blood pressure closely.",
+          "translation": "Sementara saya telah berusaha untuk mengontrol hipertensi saya melalui diet dan olahraga, dokter saya juga telah meresepkan obat, dan saya telah mengambilnya secara teratur, tetapi saya masih perlu memantau tekanan darah saya dengan hati-hati."
         }
       ],
       "synonymMeanings": [
         "tekanan darah tinggi",
         "penyakit jantung",
-        "penyakit tekanan darah"
+        "gangguan kardiovaskular"
       ]
     },
     {
