@@ -2033,31 +2033,41 @@
         "Intense cardio",
         "interval training"
       ],
-      "definition": "A workout involving short bursts of intense activity followed by rest",
+      "definition": "a type of exercise that involves short periods of very hard work, followed by short periods of rest",
       "userGuesses": [],
-      "status": "hidden",
-      "meaning": "Meaning not found.",
+      "status": "discovered",
+      "meaning": "Latihan Intervensi Interval Intensitas Tinggi",
       "phonetics": {
-        "us": "/.../",
-        "uk": "/.../"
+        "us": "/haɪ ɪnˈtɛnsɪti ˈɪnərvəl ˈtreɪnɪŋ/",
+        "uk": "/haɪ ɪnˈtɛnsɪti ˈɪnərvəl ˈtreɪnɪŋ/"
       },
       "examples": [
         {
           "type": "Simple",
-          "text": "Usage of High-Intensity Interval Training is important."
+          "text": "I do high-intensity interval training three times a week.",
+          "translation": "Aku melakukan latihan intervensi interval intensitas tinggi tiga kali seminggu."
         },
         {
           "type": "Complex",
-          "text": "Because High-Intensity Interval Training matters, we should study it."
+          "text": "Because high-intensity interval training is effective, I have decided to incorporate it into my workout routine.",
+          "translation": "Karena latihan intervensi interval intensitas tinggi efektif, aku telah memutuskan untuk memasukkannya ke dalam rutinitas olahraga aku."
         },
         {
           "type": "Compound",
-          "text": "The word is High-Intensity Interval Training, and it is useful."
+          "text": "I do high-intensity interval training and yoga to stay healthy, and I also eat a balanced diet.",
+          "translation": "Aku melakukan latihan intervensi interval intensitas tinggi dan yoga untuk menjaga kesehatan, dan aku juga mengonsumsi makanan seimbang."
         },
         {
           "type": "Compound-Complex",
-          "text": "If we use High-Intensity Interval Training correctly, we succeed, so let's try."
+          "text": "While I have been doing high-intensity interval training for months, I have also been eating a balanced diet, and as a result, I feel more energetic, but my friend, who only does yoga, feels more relaxed.",
+          "translation": "Sementara aku telah melakukan latihan intervensi interval intensitas tinggi selama berbulan-bulan, aku juga telah mengonsumsi makanan seimbang, dan sebagai hasilnya, aku merasa lebih berenergi, tetapi teman aku, yang hanya melakukan yoga, merasa lebih rileks."
         }
+      ],
+      "synonymMeanings": [
+        "Latihan Kardio",
+        "Latihan Pemulihan",
+        "Latihan Fisik",
+        "Latihan Kondisi"
       ]
     },
     {
