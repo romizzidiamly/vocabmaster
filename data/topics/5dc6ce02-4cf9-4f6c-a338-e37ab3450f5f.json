@@ -658,7 +658,9 @@
         "pandemic"
       ],
       "definition": "a disease that spreads quickly and affects many people at the same time",
-      "userGuesses": [],
+      "userGuesses": [
+        "outbreak"
+      ],
       "status": "discovered",
       "meaning": "wabah penyakit",
       "phonetics": {
