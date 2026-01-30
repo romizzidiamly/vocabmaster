@@ -1552,9 +1552,9 @@
         "Self-discipline",
         "regulation"
       ],
-      "definition": "the practice of training people to obey rules or a code of behaviour, using punishment or penalties to correct disobedience",
+      "definition": "the practice of training people to obey rules or a code of behaviour, using punishment or other negative consequences for misbehaviour",
       "userGuesses": [],
-      "status": "hidden",
+      "status": "discovered",
       "meaning": "disiplin",
       "phonetics": {
         "us": "/ˈdɪsəplɪn/",
@@ -1563,31 +1563,30 @@
       "examples": [
         {
           "type": "Simple",
-          "text": "She has the discipline to finish her homework on time.",
-          "translation": "Dia memiliki disiplin untuk menyelesaikan pekerjaan rumahnya tepat waktu."
+          "text": "She has a strong discipline that helps her study every day.",
+          "translation": "Dia memiliki disiplin yang kuat yang membantunya belajar setiap hari."
         },
         {
           "type": "Complex",
-          "text": "Because she has discipline, she can control her emotions and make rational decisions.",
-          "translation": "Karena dia memiliki disiplin, dia dapat mengontrol emosinya dan membuat keputusan rasional."
+          "text": "Because she has a strong discipline, she can finish her homework on time.",
+          "translation": "Karena dia memiliki disiplin yang kuat, dia dapat menyelesaikan pekerjaan rumahnya tepat waktu."
         },
         {
           "type": "Compound",
-          "text": "She studies hard and plays sports regularly, and she believes that discipline is essential for success in both areas.",
-          "translation": "Dia belajar dengan giat dan berolahraga secara teratur, dan dia percaya bahwa disiplin sangat penting untuk kesuksesan di kedua bidang tersebut."
+          "text": "I need discipline to study, and I also need a quiet place to focus.",
+          "translation": "Saya membutuhkan disiplin untuk belajar, dan saya juga membutuhkan tempat yang tenang untuk fokus."
         },
         {
           "type": "Compound-Complex",
-          "text": "While some people think that discipline is restrictive, she believes that it is liberating because it allows her to achieve her goals, and she has learned to appreciate the value of discipline through her experiences.",
-          "translation": "Sementara beberapa orang berpikir bahwa disiplin membatasi, dia percaya bahwa itu membebaskan karena itu memungkinkan dia untuk mencapai tujuannya, dan dia telah belajar untuk menghargai nilai disiplin melalui pengalamannya."
+          "text": "While I was studying, I realized that having discipline is important, but it is also important to have a quiet place to focus, and I need both to succeed.",
+          "translation": "Ketika saya sedang belajar, saya menyadari bahwa memiliki disiplin sangat penting, tetapi juga penting untuk memiliki tempat yang tenang untuk fokus, dan saya membutuhkan keduanya untuk sukses."
         }
       ],
       "synonymMeanings": [
-        "pengendalian",
+        "pengendalian diri",
         "kedisiplinan",
         "pengawasan",
-        "ketertiban",
-        "penundukan"
+        "penindakan"
       ]
     },
     {
