@@ -183,41 +183,41 @@
         "Inactive lifestyle",
         "desk-bound routine"
       ],
-      "definition": "a way of life in which people spend a lot of time sitting or not being physically active",
+      "definition": "a way of living in which people spend a lot of time sitting or not being physically active",
       "userGuesses": [],
-      "status": "hidden",
-      "meaning": "gaya hidup kurang gerak",
+      "status": "discovered",
+      "meaning": "gaya hidup yang banyak menghabiskan waktu dengan duduk atau tidak banyak beraktivitas fisik",
       "phonetics": {
-        "us": "/sɪˈdɛn.tɝ.i/",
+        "us": "/sɪˈdɛn.tə.ri/",
         "uk": "/sɪˈdɛn.tə.ri/"
       },
       "examples": [
         {
           "type": "Simple",
-          "text": "She leads a sedentary lifestyle.",
-          "translation": "Dia menjalani gaya hidup kurang gerak."
+          "text": "She has a sedentary lifestyle and needs to exercise more.",
+          "translation": "Dia memiliki gaya hidup sedentary dan perlu berolahraga lebih banyak."
         },
         {
           "type": "Complex",
-          "text": "Because she works from home, she has a sedentary lifestyle.",
-          "translation": "Karena dia bekerja dari rumah, dia menjalani gaya hidup kurang gerak."
+          "text": "Because she works at a desk all day, she has developed a sedentary lifestyle.",
+          "translation": "Karena dia bekerja di meja sepanjang hari, dia telah mengembangkan gaya hidup sedentary."
         },
         {
           "type": "Compound",
-          "text": "She leads a sedentary lifestyle and never exercises, but her brother is very active.",
-          "translation": "Dia menjalani gaya hidup kurang gerak dan tidak pernah berolahraga, tetapi saudaranya sangat aktif."
+          "text": "She has a sedentary lifestyle, and she also eats a lot of junk food.",
+          "translation": "Dia memiliki gaya hidup sedentary, dan dia juga banyak makan makanan junk food."
         },
         {
           "type": "Compound-Complex",
-          "text": "While she leads a sedentary lifestyle, her brother is very active because he works outdoors and enjoys playing sports.",
-          "translation": "Sementara dia menjalani gaya hidup kurang gerak, saudaranya sangat aktif karena dia bekerja di luar ruangan dan menikmati bermain olahraga."
+          "text": "While she knows that a sedentary lifestyle is bad for her health, she has a sedentary lifestyle and also eats a lot of junk food because she works at a desk all day.",
+          "translation": "Sementara dia tahu bahwa gaya hidup sedentary buruk untuk kesehatannya, dia memiliki gaya hidup sedentary dan juga banyak makan makanan junk food karena dia bekerja di meja sepanjang hari."
         }
       ],
       "synonymMeanings": [
-        "gaya hidup diam",
-        "gaya hidup tidak aktif",
-        "kehidupan yang tidak banyak bergerak",
-        "gaya hidup malas"
+        "tidak aktif",
+        "malas",
+        "kurang gerak",
+        "lebih banyak duduk"
       ]
     },
     {
