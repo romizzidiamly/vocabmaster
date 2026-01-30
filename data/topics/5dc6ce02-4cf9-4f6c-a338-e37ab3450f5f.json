@@ -1884,7 +1884,9 @@
         "resilience"
       ],
       "definition": "the ability to continue doing something over a long period of time, even when it is difficult or tiring",
-      "userGuesses": [],
+      "userGuesses": [
+        "resilience"
+      ],
       "status": "discovered",
       "meaning": "ketahanan",
       "phonetics": {
