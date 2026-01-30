@@ -473,7 +473,9 @@
         "major depressive disorder"
       ],
       "definition": "a mental state characterized by low mood, feelings of sadness, and a lack of interest or pleasure in activities",
-      "userGuesses": [],
+      "userGuesses": [
+        "melancholy"
+      ],
       "status": "discovered",
       "meaning": "depresi",
       "phonetics": {
