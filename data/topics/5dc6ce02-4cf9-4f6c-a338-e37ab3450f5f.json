@@ -576,10 +576,10 @@
         "Immunization",
         "inoculation"
       ],
-      "definition": "the act of giving someone a vaccine to prevent them from getting a disease",
+      "definition": "The act of giving someone a vaccine to prevent them from getting a particular disease",
       "userGuesses": [],
-      "status": "hidden",
-      "meaning": "vaksinasi",
+      "status": "discovered",
+      "meaning": "Vaksinasi",
       "phonetics": {
         "us": "/ˌvæksɪˈneɪʃən/",
         "uk": "/ˌvaksɪˈneɪʃən/"
@@ -587,29 +587,30 @@
       "examples": [
         {
           "type": "Simple",
-          "text": "The doctor recommended vaccination against influenza.",
-          "translation": "Dokter merekomendasikan vaksinasi terhadap influenza."
+          "text": "The doctor recommended vaccination against flu.",
+          "translation": "Dokter merekomendasikan vaksinasi terhadap flu."
         },
         {
           "type": "Complex",
-          "text": "Because vaccination is mandatory, all children must receive the vaccine before starting school.",
-          "translation": "Karena vaksinasi adalah wajib, semua anak harus menerima vaksin sebelum memulai sekolah."
+          "text": "Because vaccination is mandatory, all children must be vaccinated before starting school.",
+          "translation": "Karena vaksinasi adalah wajib, semua anak harus divaksinasi sebelum memulai sekolah."
         },
         {
           "type": "Compound",
-          "text": "The hospital offers vaccination and medical check-ups for free, and people can visit the clinic on weekends or weekdays.",
-          "translation": "Rumah sakit menawarkan vaksinasi dan pemeriksaan medis secara gratis, dan orang dapat mengunjungi klinik pada akhir pekan atau hari kerja."
+          "text": "The hospital offers vaccination and medical check-ups for free, and people can visit the clinic or go to the hospital.",
+          "translation": "Rumah sakit menawarkan vaksinasi dan pemeriksaan medis secara gratis, dan orang dapat mengunjungi klinik atau pergi ke rumah sakit."
         },
         {
           "type": "Compound-Complex",
-          "text": "While vaccination is an effective way to prevent the spread of diseases, it is also important to note that people who have certain medical conditions may not be able to receive the vaccine, and they can visit the doctor on weekends or weekdays to discuss their options.",
-          "translation": "Sementara vaksinasi adalah cara yang efektif untuk mencegah penyebaran penyakit, juga penting untuk dicatat bahwa orang-orang yang memiliki kondisi medis tertentu mungkin tidak dapat menerima vaksin, dan mereka dapat mengunjungi dokter pada akhir pekan atau hari kerja untuk membahas pilihan mereka."
+          "text": "While vaccination is an effective way to prevent the spread of diseases, it is also important to note that some people may have adverse reactions, and therefore, they should consult their doctors before getting vaccinated, or they may choose to visit a specialist.",
+          "translation": "Sementara vaksinasi adalah cara yang efektif untuk mencegah penyebaran penyakit, juga penting untuk dicatat bahwa beberapa orang mungkin memiliki reaksi negatif, dan oleh karena itu, mereka harus berkonsultasi dengan dokter sebelum divaksinasi, atau mereka dapat memilih untuk mengunjungi seorang spesialis."
         }
       ],
       "synonymMeanings": [
-        "imunisasi",
-        "penyuntikan vaksin",
-        "pemberian vaksin"
+        "Imunisasi",
+        "Pemberian vaksin",
+        "Pengobatan pencegahan",
+        "Pencegahan penyakit"
       ]
     },
     {
