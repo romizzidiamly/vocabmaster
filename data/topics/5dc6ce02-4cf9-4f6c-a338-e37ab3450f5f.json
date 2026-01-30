@@ -11,7 +11,7 @@
       ],
       "definition": "The state of being happy, healthy, and comfortable.",
       "userGuesses": [],
-      "status": "hidden",
+      "status": "discovered",
       "meaning": "Kesejahteraan",
       "phonetics": {
         "us": "/ˈwɛlˌbiɪŋ/",
@@ -25,25 +25,25 @@
         },
         {
           "type": "Complex",
-          "text": "If she doesn't take care of her well-being, she will get sick easily.",
-          "translation": "Jika dia tidak menjaga kesejahteraannya, dia akan sakit dengan mudah."
+          "text": "Because she eats a balanced diet, her well-being has improved significantly.",
+          "translation": "Karena dia makan makanan seimbang, kesejahteraannya telah meningkat secara signifikan."
         },
         {
           "type": "Compound",
-          "text": "She exercises regularly and eats healthy food to maintain her well-being.",
+          "text": "She exercises regularly and eats a healthy diet to maintain her well-being.",
           "translation": "Dia berolahraga secara teratur dan makan makanan sehat untuk menjaga kesejahteraannya."
         },
         {
           "type": "Compound-Complex",
-          "text": "While she was working, she realized that her well-being was more important than her job, so she decided to quit and start her own business, which allowed her to have more time for herself and her family.",
-          "translation": "Saat dia bekerja, dia menyadari bahwa kesejahteraannya lebih penting daripada pekerjaannya, sehingga dia memutuskan untuk berhenti dan memulai bisnis sendiri, yang memungkinkan dia untuk memiliki lebih banyak waktu untuk dirinya sendiri dan keluarganya."
+          "text": "While she was on vacation, she prioritized her well-being by exercising regularly, and as a result, she felt more energized because she had also been eating a balanced diet.",
+          "translation": "Ketika dia sedang berlibur, dia memprioritaskan kesejahteraannya dengan berolahraga secara teratur, dan sebagai hasilnya, dia merasa lebih berenergi karena dia juga telah makan makanan seimbang."
         }
       ],
       "synonymMeanings": [
         "Kesehatan",
         "Kebahagiaan",
         "Kenyamanan",
-        "Keberkahan"
+        "Keberuntungan"
       ]
     },
     {
