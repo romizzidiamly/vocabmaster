@@ -1057,9 +1057,9 @@
         "Lung disease",
         "breathing disorder"
       ],
-      "definition": "a disease or condition that affects the lungs or airways, such as asthma or pneumonia",
+      "definition": "a disease or condition that affects the lungs or airways, making it difficult to breathe",
       "userGuesses": [],
-      "status": "hidden",
+      "status": "discovered",
       "meaning": "penyakit pernapasan",
       "phonetics": {
         "us": "/rɪˈspɪrətɔri/",
@@ -1068,30 +1068,29 @@
       "examples": [
         {
           "type": "Simple",
-          "text": "The patient was diagnosed with a respiratory illness.",
-          "translation": "Pasien tersebut didiagnosis menderita penyakit pernapasan."
+          "text": "She has a respiratory illness.",
+          "translation": "Dia menderita penyakit pernapasan."
         },
         {
           "type": "Complex",
-          "text": "Because she had a respiratory illness, she had to stay in the hospital for several days.",
-          "translation": "Karena dia menderita penyakit pernapasan, dia harus tinggal di rumah sakit selama beberapa hari."
+          "text": "Because she has a respiratory illness, she needs to use an inhaler.",
+          "translation": "Karena dia menderita penyakit pernapasan, dia perlu menggunakan inhaler."
         },
         {
           "type": "Compound",
-          "text": "The doctor specialized in respiratory illness, and she also taught at the university.",
-          "translation": "Dokter tersebut berspesialisasi dalam penyakit pernapasan, dan dia juga mengajar di universitas."
+          "text": "She has a respiratory illness, and she also has a fever.",
+          "translation": "Dia menderita penyakit pernapasan, dan dia juga demam."
         },
         {
           "type": "Compound-Complex",
-          "text": "While the new medication helped to alleviate the symptoms of the respiratory illness, it also had some side effects, and the patient had to be monitored closely.",
-          "translation": "Sementara obat baru membantu mengurangi gejala penyakit pernapasan, obat tersebut juga memiliki beberapa efek samping, dan pasien harus dipantau dengan ketat."
+          "text": "She has a respiratory illness, and because she has been smoking for years, she also has a persistent cough, but she is trying to quit.",
+          "translation": "Dia menderita penyakit pernapasan, dan karena dia telah merokok selama bertahun-tahun, dia juga memiliki batuk yang persisten, tapi dia berusaha untuk berhenti."
         }
       ],
       "synonymMeanings": [
         "penyakit paru-paru",
         "gangguan pernapasan",
-        "infeksi saluran pernapasan",
-        "penyakit saluran pernapasan"
+        "infeksi saluran pernapasan"
       ]
     },
     {
