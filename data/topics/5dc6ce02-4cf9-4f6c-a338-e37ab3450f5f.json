@@ -1492,10 +1492,10 @@
         "Social influence",
         "group pressure"
       ],
-      "definition": "the strong influence that a group of people of the same age can have on each other, especially on young people",
+      "definition": "the strong influence of a group of people of the same age that can affect a person's behaviour",
       "userGuesses": [],
-      "status": "hidden",
-      "meaning": "tekanan teman sebaya",
+      "status": "discovered",
+      "meaning": "tekanan dari teman sebaya",
       "phonetics": {
         "us": "/ˈpɪr ˈprɛʃər/",
         "uk": "/ˈpɪə ˈprɛʃə/"
@@ -1504,29 +1504,29 @@
         {
           "type": "Simple",
           "text": "She gave in to peer pressure and started smoking.",
-          "translation": "Dia menyerah pada tekanan teman sebaya dan mulai merokok."
+          "translation": "Dia menyerah pada tekanan dari teman sebaya dan mulai merokok."
         },
         {
           "type": "Complex",
-          "text": "Because she wanted to fit in, she started wearing the same clothes as her friends, even though she didn't like them, which showed that she was vulnerable to peer pressure.",
-          "translation": "Karena dia ingin bergabung, dia mulai mengenakan pakaian yang sama dengan teman-temannya, meskipun dia tidak menyukainya, yang menunjukkan bahwa dia rentan terhadap tekanan teman sebaya."
+          "text": "Because she was influenced by peer pressure, she decided to join the club.",
+          "translation": "Karena dia dipengaruhi oleh tekanan dari teman sebaya, dia memutuskan untuk bergabung dengan klub tersebut."
         },
         {
           "type": "Compound",
-          "text": "She joined the club because of peer pressure, and she also wanted to meet new people.",
-          "translation": "Dia bergabung dengan klub karena tekanan teman sebaya, dan dia juga ingin bertemu orang baru."
+          "text": "Peer pressure made her feel anxious, and she didn't know what to do, but she still wanted to fit in.",
+          "translation": "Tekanan dari teman sebaya membuatnya merasa cemas, dan dia tidak tahu apa yang harus dilakukan, tapi dia masih ingin bergabung."
         },
         {
           "type": "Compound-Complex",
-          "text": "While she was aware that peer pressure had influenced her decision to join the club, she also realized that she had been wanting to meet new people, and because her friends were already members, she decided to join, even though she was initially hesitant.",
-          "translation": "Sementara dia menyadari bahwa tekanan teman sebaya telah mempengaruhi keputusannya untuk bergabung dengan klub, dia juga menyadari bahwa dia telah ingin bertemu orang baru, dan karena teman-temannya sudah menjadi anggota, dia memutuskan untuk bergabung, meskipun awalnya dia ragu-ragu."
+          "text": "While peer pressure can be overwhelming, it is essential to remember that we have the power to make our own decisions, and we should not give in to something that we know is wrong, because if we do, we will regret it later.",
+          "translation": "Sementara tekanan dari teman sebaya dapat sangat menghancurkan, penting untuk diingat bahwa kita memiliki kekuatan untuk membuat keputusan kita sendiri, dan kita tidak boleh menyerah pada sesuatu yang kita tahu salah, karena jika kita melakukannya, kita akan menyesalinya nanti."
         }
       ],
       "synonymMeanings": [
-        "pengaruh sosial",
-        "tekanan kelompok",
         "pengaruh teman",
-        "iklim sosial"
+        "desakan sebaya",
+        "tekanan sosial",
+        "pengaruh kelompok"
       ]
     },
     {
