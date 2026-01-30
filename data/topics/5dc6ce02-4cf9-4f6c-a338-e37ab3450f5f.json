@@ -1232,41 +1232,40 @@
         "Sanitation",
         "cleanliness"
       ],
-      "definition": "The state of being clean and free from dirt, bacteria, or other things that can cause disease",
+      "definition": "the state of being clean and free from dirt, bacteria, etc.",
       "userGuesses": [],
-      "status": "hidden",
-      "meaning": "Kebersihan",
+      "status": "discovered",
+      "meaning": "kebersihan",
       "phonetics": {
-        "us": "/ˈhaɪˌdʒiːn/",
-        "uk": "/ˈhaɪˌdʒiːn/"
+        "us": "/ˈhaɪ.dʒiːn/",
+        "uk": "/ˈhaɪ.dʒiːn/"
       },
       "examples": [
         {
           "type": "Simple",
-          "text": "Washing your hands is an important part of personal hygiene.",
-          "translation": "Mencuci tangan adalah bagian penting dari kebersihan pribadi."
+          "text": "Personal hygiene is very important.",
+          "translation": "Kebersihan pribadi sangat penting."
         },
         {
           "type": "Complex",
-          "text": "Because she didn't practice good hygiene, she got sick easily.",
-          "translation": "Karena dia tidak berkebersihan yang baik, dia mudah sakit."
+          "text": "Because hygiene is essential for our health, we need to wash our hands frequently.",
+          "translation": "Karena kebersihan sangat penting bagi kesehatan kita, kita perlu mencuci tangan secara teratur."
         },
         {
           "type": "Compound",
-          "text": "I exercise regularly and I also practice good hygiene to stay healthy.",
-          "translation": "Saya berolahraga secara teratur dan saya juga berkebersihan yang baik untuk menjaga kesehatan."
+          "text": "Hygiene is important, and so is a healthy diet to maintain our overall well-being.",
+          "translation": "Kebersihan penting, dan begitu juga dengan pola makan sehat untuk menjaga kesejahteraan kita secara keseluruhan."
         },
         {
           "type": "Compound-Complex",
-          "text": "While I was traveling, I made sure to practice good hygiene, because I knew that if I didn't, I would get sick, and also I didn't want to infect others.",
-          "translation": "Ketika saya bepergian, saya memastikan untuk berkebersihan yang baik, karena saya tahu bahwa jika saya tidak, saya akan sakit, dan juga saya tidak ingin menginfeksi orang lain."
+          "text": "While hygiene is crucial for preventing illnesses, a balanced lifestyle that includes regular exercise and a healthy diet is also necessary, because it helps to boost our immune system.",
+          "translation": "Sementara kebersihan sangat penting untuk mencegah penyakit, gaya hidup seimbang yang mencakup olahraga teratur dan pola makan sehat juga diperlukan, karena hal ini membantu meningkatkan sistem kekebalan tubuh kita."
         }
       ],
       "synonymMeanings": [
-        "Kebersihan",
-        "Keseimbangan",
-        "Kesehatan",
-        "Sanitasi"
+        "kebersihan",
+        "kesucian",
+        "kebijaksanaan"
       ]
     },
     {
