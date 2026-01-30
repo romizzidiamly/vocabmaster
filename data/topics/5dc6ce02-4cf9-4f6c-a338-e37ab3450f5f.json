@@ -1333,40 +1333,41 @@
         "Intellectual growth",
         "mental development"
       ],
-      "definition": "The process by which the brain develops and matures, especially in children, and by which a person becomes able to think, learn and understand more and more complicated things",
+      "definition": "The process by which the brain develops and matures, especially in children, and by which a person becomes able to think, learn, and understand more and more complex ideas and concepts.",
       "userGuesses": [],
-      "status": "hidden",
+      "status": "discovered",
       "meaning": "Perkembangan kognitif",
       "phonetics": {
-        "us": "/kɑɡˈnɪtɪv/",
-        "uk": "/kɒɡˈnɪtɪv/"
+        "us": "/kɑɡˈnɪtɪv dɪˈvɛləpmənt/",
+        "uk": "/kɒɡˈnɪtɪv dɪˈvɛləpmənt/"
       },
       "examples": [
         {
           "type": "Simple",
-          "text": "The child's cognitive development was amazing.",
+          "text": "The child's cognitive development was remarkable.",
           "translation": "Perkembangan kognitif anak itu luar biasa."
         },
         {
           "type": "Complex",
-          "text": "Because the teacher used interactive methods, the students' cognitive development improved significantly.",
-          "translation": "Karena guru menggunakan metode interaktif, perkembangan kognitif siswa meningkat secara signifikan."
+          "text": "Because the child was exposed to a variety of stimuli, her cognitive development was enhanced.",
+          "translation": "Karena anak itu terpapar pada berbagai rangsangan, perkembangan kognitifnya ditingkatkan."
         },
         {
           "type": "Compound",
-          "text": "The child's cognitive development was impressive, and her language skills were excellent.",
-          "translation": "Perkembangan kognitif anak itu mengesankan, dan kemampuan bahasanya sangat baik."
+          "text": "The child's cognitive development was rapid, and she began reading books, and she started solving puzzles.",
+          "translation": "Perkembangan kognitif anak itu cepat, dan dia mulai membaca buku, dan dia mulai memecahkan teka-teki."
         },
         {
           "type": "Compound-Complex",
-          "text": "While the students' cognitive development was progressing well, their social skills also improved because the teacher encouraged teamwork, and as a result, they became more confident.",
-          "translation": "Sementara perkembangan kognitif siswa berjalan dengan baik, kemampuan sosial mereka juga meningkat karena guru mendorong kerja tim, dan sebagai hasilnya, mereka menjadi lebih percaya diri."
+          "text": "While the child's cognitive development was remarkable because she was exposed to a variety of stimuli, she began reading books, and she started solving puzzles, which further enhanced her cognitive abilities.",
+          "translation": "Sementara perkembangan kognitif anak itu luar biasa karena dia terpapar pada berbagai rangsangan, dia mulai membaca buku, dan dia mulai memecahkan teka-teki, yang lebih lanjut meningkatkan kemampuan kognitifnya."
         }
       ],
       "synonymMeanings": [
-        "Pembangunan mental",
+        "Perkembangan mental",
+        "Pertumbuhan intelektual",
         "Perkembangan intelektual",
-        "Pertumbuhan pengetahuan"
+        "Pengembangan kemampuan berpikir"
       ]
     },
     {
