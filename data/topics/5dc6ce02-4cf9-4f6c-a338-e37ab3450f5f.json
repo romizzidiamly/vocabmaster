@@ -1026,7 +1026,9 @@
         "congenital disorder"
       ],
       "definition": "a condition that someone is born with because of a problem with their genes",
-      "userGuesses": [],
+      "userGuesses": [
+        "inherited disease"
+      ],
       "status": "discovered",
       "meaning": "gangguan genetik",
       "phonetics": {
