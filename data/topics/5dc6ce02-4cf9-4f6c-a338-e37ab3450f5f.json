@@ -2306,31 +2306,41 @@
         "Post-workout routine",
         "relaxation"
       ],
-      "definition": "A set of low-intensity exercises performed after a workout",
+      "definition": "a period of time for relaxing or doing something gentle after exercise or another energetic activity",
       "userGuesses": [],
-      "status": "hidden",
-      "meaning": "Meaning not found.",
+      "status": "discovered",
+      "meaning": "pendinginan",
       "phonetics": {
-        "us": "/.../",
-        "uk": "/.../"
+        "us": "/ˈkuːl daʊn/",
+        "uk": "/ˈkuːl daʊn/"
       },
       "examples": [
         {
           "type": "Simple",
-          "text": "Usage of Cool-down is important."
+          "text": "After running, I need to cool down.",
+          "translation": "Setelah berlari, saya perlu pendinginan."
         },
         {
           "type": "Complex",
-          "text": "Because Cool-down matters, we should study it."
+          "text": "Because I exercised too much, I have to cool down to avoid injury.",
+          "translation": "Karena saya berolahraga terlalu banyak, saya harus pendinginan untuk menghindari cedera."
         },
         {
           "type": "Compound",
-          "text": "The word is Cool-down, and it is useful."
+          "text": "I will cool down and then take a shower.",
+          "translation": "Saya akan pendinginan dan kemudian mandi."
         },
         {
           "type": "Compound-Complex",
-          "text": "If we use Cool-down correctly, we succeed, so let's try."
+          "text": "While I was cooling down, I realized that I had forgotten my water bottle, so I had to go back to the locker room to get it.",
+          "translation": "Saat saya sedang pendinginan, saya menyadari bahwa saya telah lupa botol air saya, jadi saya harus kembali ke ruang ganti untuk mengambilnya."
         }
+      ],
+      "synonymMeanings": [
+        "istirahat",
+        "relaksasi",
+        "pengurangan intensitas",
+        "pendinginan"
       ]
     },
     {
