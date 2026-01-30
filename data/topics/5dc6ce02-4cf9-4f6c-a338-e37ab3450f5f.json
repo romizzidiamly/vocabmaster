@@ -57,7 +57,9 @@
         "defense"
       ],
       "definition": "The state of being protected against a particular disease or infection, or the state of being safe from a particular harm or problem",
-      "userGuesses": [],
+      "userGuesses": [
+        "resistance"
+      ],
       "status": "discovered",
       "meaning": "Kekebalan",
       "phonetics": {
