@@ -1998,9 +1998,9 @@
         "Caloric burn",
         "energy expenditure"
       ],
-      "definition": "The chemical processes that happen within a living organism to maintain life",
+      "definition": "the process by which the body changes food into energy and the raw materials needed for growth and repair",
       "userGuesses": [],
-      "status": "hidden",
+      "status": "discovered",
       "meaning": "metabolisme",
       "phonetics": {
         "us": "/məˈtæbəlɪzəm/",
@@ -2009,30 +2009,30 @@
       "examples": [
         {
           "type": "Simple",
-          "text": "The doctor explained that a fast metabolism helps burn calories.",
-          "translation": "Dokter menjelaskan bahwa metabolisme yang cepat membantu membakar kalori."
+          "text": "A healthy diet can improve your metabolism.",
+          "translation": "Polanya makan yang sehat dapat meningkatkan metabolisme Anda."
         },
         {
           "type": "Complex",
-          "text": "Because she had a high metabolism, she was able to eat a lot without gaining weight.",
-          "translation": "Karena dia memiliki metabolisme yang tinggi, dia bisa makan banyak tanpa mendapatkan berat badan."
+          "text": "Because she has a high metabolism, she can eat a lot without gaining weight.",
+          "translation": "Karena dia memiliki metabolisme yang tinggi, dia dapat makan banyak tanpa gemuk."
         },
         {
           "type": "Compound",
-          "text": "Exercise boosts metabolism, and a healthy diet also helps to increase it.",
-          "translation": "Olahraga meningkatkan metabolisme, dan pola makan sehat juga membantu meningkatkannya."
+          "text": "I exercise regularly and eat a healthy diet, but my metabolism is still slow.",
+          "translation": "Saya berolahraga teratur dan makan pola makan yang sehat, tetapi metabolisme saya masih lambat."
         },
         {
           "type": "Compound-Complex",
-          "text": "While a fast metabolism can be beneficial for weight loss, it can also lead to nutritional deficiencies if not properly managed, because the body burns calories quickly.",
-          "translation": "Sementara metabolisme yang cepat dapat bermanfaat untuk penurunan berat badan, juga dapat menyebabkan kekurangan gizi jika tidak dikelola dengan baik, karena tubuh membakar kalori dengan cepat."
+          "text": "While a slow metabolism can make it difficult to lose weight, regular exercise and a healthy diet can still help, because they increase the rate at which the body burns calories.",
+          "translation": "Meskipun metabolisme yang lambat dapat membuatnya sulit untuk menurunkan berat badan, olahraga teratur dan pola makan yang sehat masih dapat membantu, karena mereka meningkatkan laju di mana tubuh membakar kalori."
         }
       ],
       "synonymMeanings": [
-        "pemecahan",
-        "pembentukan",
-        "perubahan kimia",
-        "proses biokimia"
+        "pembakaran",
+        "pembelahan",
+        "pengubahan",
+        "penyerapan"
       ]
     },
     {
