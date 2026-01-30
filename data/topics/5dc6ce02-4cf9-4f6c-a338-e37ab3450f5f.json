@@ -1117,41 +1117,41 @@
         "Short-term disease",
         "rapid-onset illness"
       ],
-      "definition": "a short-term illness that has severe symptoms",
+      "definition": "a disease or condition that has a sudden onset, severe symptoms, and a relatively short duration",
       "userGuesses": [],
-      "status": "hidden",
+      "status": "discovered",
       "meaning": "penyakit akut",
       "phonetics": {
-        "us": "/əˈkuːt ˈɪl.nəs/",
-        "uk": "/əˈkjuːt ˈɪl.nəs/"
+        "us": "/əˈkyūt/",
+        "uk": "/əˈkjuːt/"
       },
       "examples": [
         {
           "type": "Simple",
-          "text": "The patient was diagnosed with an acute illness.",
-          "translation": "Pasien didiagnosis menderita penyakit akut."
+          "text": "The patient was hospitalized due to an acute illness.",
+          "translation": "Pasien dirawat di rumah sakit karena penyakit akut."
         },
         {
           "type": "Complex",
-          "text": "Because the patient had been experiencing severe symptoms, the doctor determined that she had an acute illness.",
-          "translation": "Karena pasien telah mengalami gejala parah, dokter menentukan bahwa dia menderita penyakit akut."
+          "text": "Because the patient had a history of heart disease, the doctor suspected that the acute illness was related to it.",
+          "translation": "Karena pasien memiliki riwayat penyakit jantung, dokter menduga bahwa penyakit akut tersebut terkait dengan hal itu."
         },
         {
           "type": "Compound",
-          "text": "The doctor treated the patient for an acute illness, and the nurse provided additional care.",
-          "translation": "Dokter mengobati pasien untuk penyakit akut, dan perawat memberikan perawatan tambahan."
+          "text": "The doctor treated the patient for both the acute illness and the chronic condition, and the patient made a full recovery.",
+          "translation": "Dokter mengobati pasien untuk penyakit akut dan kondisi kronis, dan pasien pulih sepenuhnya."
         },
         {
           "type": "Compound-Complex",
-          "text": "While the doctor treated the patient for an acute illness, the nurse provided additional care because the patient had been experiencing severe symptoms for several days.",
-          "translation": "Ketika dokter mengobati pasien untuk penyakit akut, perawat memberikan perawatan tambahan karena pasien telah mengalami gejala parah selama beberapa hari."
+          "text": "While the doctor treated the patient for the acute illness, the nurse also monitored the patient's condition because the patient had a history of heart disease, and the doctor suspected that the acute illness was related to it.",
+          "translation": "Saat dokter mengobati pasien untuk penyakit akut, perawat juga memantau kondisi pasien karena pasien memiliki riwayat penyakit jantung, dan dokter menduga bahwa penyakit akut tersebut terkait dengan hal itu."
         }
       ],
       "synonymMeanings": [
+        "penyakit tiba-tiba",
         "penyakit serius",
-        "penyakit singkat",
-        "penyakit parah",
-        "penyakit mendadak"
+        "penyakit berat",
+        "penyakit parah"
       ]
     },
     {
