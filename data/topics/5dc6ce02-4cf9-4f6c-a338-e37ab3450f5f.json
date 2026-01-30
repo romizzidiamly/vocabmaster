@@ -798,7 +798,9 @@
         "starvation"
       ],
       "definition": "a state of health caused by a lack of food or a lack of certain nutrients in the food that you eat",
-      "userGuesses": [],
+      "userGuesses": [
+        "undernourishment"
+      ],
       "status": "discovered",
       "meaning": "kekurangan gizi",
       "phonetics": {
