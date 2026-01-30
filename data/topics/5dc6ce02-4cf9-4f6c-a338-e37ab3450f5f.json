@@ -1101,14 +1101,42 @@
         "Long-lasting illness",
         "persistent condition"
       ],
-      "definition": "A long-term health condition",
+      "definition": "a disease or condition that lasts for a long time, often for the rest of a person's life",
       "userGuesses": [],
-      "status": "hidden",
-      "meaning": "n/a",
+      "status": "discovered",
+      "meaning": "penyakit kronis",
       "phonetics": {
-        "us": "n/a",
-        "uk": "n/a"
-      }
+        "us": "/ˈkrɑnɪk/",
+        "uk": "/ˈkrɒnɪk/"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Diabetes is a chronic disease.",
+          "translation": "Diabetes adalah penyakit kronis."
+        },
+        {
+          "type": "Complex",
+          "text": "Because she has a chronic disease, she needs to take medication every day.",
+          "translation": "Karena dia memiliki penyakit kronis, dia perlu mengonsumsi obat setiap hari."
+        },
+        {
+          "type": "Compound",
+          "text": "Chronic diseases are expensive to treat, and they can also cause a lot of pain.",
+          "translation": "Penyakit kronis mahal biayanya, dan juga dapat menyebabkan banyak rasa sakit."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "While chronic diseases can be managed with medication, they are often caused by a combination of genetic and environmental factors, and they can have a significant impact on a person's quality of life.",
+          "translation": "Sementara penyakit kronis dapat diatasi dengan obat, mereka sering disebabkan oleh kombinasi faktor genetik dan lingkungan, dan juga dapat memiliki dampak signifikan pada kualitas hidup seseorang."
+        }
+      ],
+      "synonymMeanings": [
+        "penyakit jangka panjang",
+        "penyakit menetap",
+        "penyakit berkepanjangan",
+        "penyakit yang berlangsung lama"
+      ]
     },
     {
       "id": "fb262cd7-4530-4bcc-a1e0-44c912b392bf",
