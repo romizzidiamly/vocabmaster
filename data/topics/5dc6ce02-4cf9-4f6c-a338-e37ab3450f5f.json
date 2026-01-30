@@ -290,9 +290,10 @@
       ],
       "definition": "a medical condition in which the body does not produce enough insulin, leading to high blood sugar levels",
       "userGuesses": [
-        "hyperglycemia"
+        "hyperglycemia",
+        "blood sugar disorder"
       ],
-      "status": "discovered",
+      "status": "mastered",
       "meaning": "penyakit diabetes",
       "phonetics": {
         "us": "/daɪəˈbiːtiːz/",
