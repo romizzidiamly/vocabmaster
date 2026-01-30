@@ -380,7 +380,9 @@
         "allergic reaction"
       ],
       "definition": "a condition in which the body reacts badly to a particular food, substance, or other agent",
-      "userGuesses": [],
+      "userGuesses": [
+        "hypersensitivity"
+      ],
       "status": "discovered",
       "meaning": "alergi",
       "phonetics": {
