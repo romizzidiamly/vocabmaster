@@ -1072,7 +1072,9 @@
         "defense system"
       ],
       "definition": "the system that protects the body from infection and disease",
-      "userGuesses": [],
+      "userGuesses": [
+        "immunity"
+      ],
       "status": "discovered",
       "meaning": "sistem kekebalan tubuh",
       "phonetics": {
