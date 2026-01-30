@@ -751,7 +751,9 @@
         "therapy"
       ],
       "definition": "the process of helping someone who has been ill or in prison to become healthy or normal again",
-      "userGuesses": [],
+      "userGuesses": [
+        "recovery"
+      ],
       "status": "discovered",
       "meaning": "rehabilitasi",
       "phonetics": {
