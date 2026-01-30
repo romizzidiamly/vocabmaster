@@ -971,10 +971,10 @@
         "Inherited disease",
         "congenital disorder"
       ],
-      "definition": "A condition that someone is born with, which is caused by a problem with their genes",
+      "definition": "a condition that someone is born with because of a problem with their genes",
       "userGuesses": [],
-      "status": "hidden",
-      "meaning": "Gangguan genetik",
+      "status": "discovered",
+      "meaning": "gangguan genetik",
       "phonetics": {
         "us": "/dɪˈsɔrdər/",
         "uk": "/dɪˈsɔːdə/"
@@ -982,29 +982,30 @@
       "examples": [
         {
           "type": "Simple",
-          "text": "The child was born with a genetic disorder.",
-          "translation": "Anak itu lahir dengan gangguan genetik."
+          "text": "The baby was born with a genetic disorder.",
+          "translation": "Bayi itu lahir dengan gangguan genetik."
         },
         {
           "type": "Complex",
-          "text": "Because the family has a history of genetic disorders, they decided to undergo genetic testing.",
-          "translation": "Karena keluarga memiliki riwayat gangguan genetik, mereka memutuskan untuk melakukan tes genetik."
+          "text": "Because the family has a history of genetic disorders, they decided to have their children tested.",
+          "translation": "Karena keluarga memiliki riwayat gangguan genetik, mereka memutuskan untuk melakukan tes pada anak-anak mereka."
         },
         {
           "type": "Compound",
-          "text": "The doctor studied the patient's genetic disorder, and she also examined the family's medical history.",
-          "translation": "Dokter itu mempelajari gangguan genetik pasien, dan dia juga memeriksa riwayat medis keluarga."
+          "text": "The doctor diagnosed the patient with a genetic disorder, and she needed surgery immediately.",
+          "translation": "Dokter mendiagnosa pasien dengan gangguan genetik, dan dia memerlukan operasi segera."
         },
         {
           "type": "Compound-Complex",
-          "text": "While the researchers were studying the genetic disorder, they discovered a new gene that was linked to it, and they also found that it was more common in certain populations.",
-          "translation": "Saat para peneliti mempelajari gangguan genetik, mereka menemukan gen baru yang terkait dengannya, dan mereka juga menemukan bahwa itu lebih umum di beberapa populasi tertentu."
+          "text": "While the new medication can help alleviate symptoms of genetic disorders, it is not a cure, and patients need to take it regularly because the disease can progress quickly if left untreated.",
+          "translation": "Sementara obat baru dapat membantu mengurangi gejala gangguan genetik, itu bukanlah obat, dan pasien perlu mengambilnya secara teratur karena penyakit dapat berkembang dengan cepat jika tidak diobati."
         }
       ],
       "synonymMeanings": [
         "kelainan bawaan",
         "penyakit keturunan",
-        "kelainan gen"
+        "gangguan keturunan",
+        "kelainan genetik"
       ]
     },
     {
