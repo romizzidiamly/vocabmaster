@@ -899,10 +899,10 @@
         "Detox effects",
         "cravings"
       ],
-      "definition": "a condition that occurs when the body is no longer able to function normally because it has stopped using a substance, such as a drug, to which it has become accustomed",
+      "definition": "physical and mental problems that happen when someone stops taking a drug or drinking alcohol after using it or drinking it regularly",
       "userGuesses": [],
-      "status": "hidden",
-      "meaning": "gejala putus zat",
+      "status": "discovered",
+      "meaning": "gejala putus obat atau alkohol",
       "phonetics": {
         "us": "/wɪðˈdrɔːl ˈsɪmp.təmz/",
         "uk": "/wɪθˈdrɔːl ˈsɪmptəmz/"
@@ -910,30 +910,30 @@
       "examples": [
         {
           "type": "Simple",
-          "text": "The patient experienced withdrawal symptoms after quitting smoking.",
-          "translation": "Pasien mengalami gejala putus zat setelah berhenti merokok."
+          "text": "The patient experienced withdrawal symptoms after stopping the medication.",
+          "translation": "Pasien mengalami gejala putus obat setelah berhenti minum obat."
         },
         {
           "type": "Complex",
-          "text": "Because she had been taking the medication for a long time, she suffered from withdrawal symptoms when she stopped using it.",
-          "translation": "Karena dia telah mengonsumsi obat tersebut dalam waktu lama, dia menderita gejala putus zat ketika dia berhenti menggunakannya."
+          "text": "When she stopped drinking, she suffered from withdrawal symptoms because her body had become dependent on alcohol.",
+          "translation": "Ketika dia berhenti minum, dia menderita gejala putus alkohol karena tubuhnya sudah tergantung pada alkohol."
         },
         {
           "type": "Compound",
-          "text": "The doctor warned the patient about withdrawal symptoms, and the patient decided to quit smoking gradually.",
-          "translation": "Dokter memperingatkan pasien tentang gejala putus zat, dan pasien memutuskan untuk berhenti merokok secara bertahap."
+          "text": "The doctor warned the patient about withdrawal symptoms, and the patient decided to quit smoking.",
+          "translation": "Dokter memperingatkan pasien tentang gejala putus obat, dan pasien memutuskan untuk berhenti merokok."
         },
         {
           "type": "Compound-Complex",
-          "text": "While the new medication helped to reduce the patient's pain, it also caused withdrawal symptoms, because the patient had been taking the old medication for a long time, and the doctor had to adjust the dosage carefully.",
-          "translation": "Sementara obat baru membantu mengurangi rasa sakit pasien, juga menyebabkan gejala putus zat, karena pasien telah mengonsumsi obat lama selama waktu lama, dan dokter harus menyesuaikan dosis dengan hati-hati."
+          "text": "While the new drug helped many patients, it also caused severe withdrawal symptoms in some cases, which made the doctors question its effectiveness, and they decided to conduct further research.",
+          "translation": "Sementara obat baru membantu banyak pasien, obat itu juga menyebabkan gejala putus obat yang parah dalam beberapa kasus, yang membuat dokter mempertanyakan efektivitasnya, dan mereka memutuskan untuk melakukan penelitian lebih lanjut."
         }
       ],
       "synonymMeanings": [
-        "gejala kecanduan",
-        "gejala sindrom putus obat",
-        "gejala putus obat",
-        "gejala kehilangan zat"
+        "gejala sakaw",
+        "gejala penarikan",
+        "reaksi putus zat",
+        "gejala abstinen"
       ]
     },
     {
