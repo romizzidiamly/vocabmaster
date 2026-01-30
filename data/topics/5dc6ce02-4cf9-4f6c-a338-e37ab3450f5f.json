@@ -1376,9 +1376,9 @@
         "Psychological growth",
         "emotional"
       ],
-      "definition": "the ability to control and understand your emotions, and to deal with situations in a mature and sensible way",
+      "definition": "the ability to control and understand your emotions, and to deal with situations in a sensible and adult way",
       "userGuesses": [],
-      "status": "hidden",
+      "status": "discovered",
       "meaning": "kedewasaan emosional",
       "phonetics": {
         "us": "/ɪˈmoʊʃənl ˈmætʃərɪti/",
@@ -1387,30 +1387,30 @@
       "examples": [
         {
           "type": "Simple",
-          "text": "She showed emotional maturity by forgiving her enemy.",
-          "translation": "Dia menunjukkan kedewasaan emosional dengan memaafkan musuhnya."
+          "text": "She has emotional maturity beyond her years.",
+          "translation": "Dia memiliki kedewasaan emosional yang melampaui usianya."
         },
         {
           "type": "Complex",
-          "text": "Because she had achieved emotional maturity, she was able to handle the difficult situation.",
-          "translation": "Karena dia telah mencapai kedewasaan emosional, dia mampu menangani situasi yang sulit."
+          "text": "Because she has emotional maturity, she can handle difficult situations.",
+          "translation": "Karena dia memiliki kedewasaan emosional, dia dapat menangani situasi sulit."
         },
         {
           "type": "Compound",
-          "text": "She was emotionally mature, and she was also very intelligent.",
+          "text": "She has emotional maturity, and she is also very intelligent.",
           "translation": "Dia memiliki kedewasaan emosional, dan dia juga sangat pintar."
         },
         {
           "type": "Compound-Complex",
-          "text": "While she was emotionally mature, her brother was still struggling to achieve it, because he had not learned how to control his emotions.",
-          "translation": "Sementara dia memiliki kedewasaan emosional, saudaranya masih berjuang untuk mencapainya, karena dia belum belajar bagaimana mengendalikan emosinya."
+          "text": "Although she is still young, she has emotional maturity, and she can handle difficult situations because she is confident.",
+          "translation": "Meskipun dia masih muda, dia memiliki kedewasaan emosional, dan dia dapat menangani situasi sulit karena dia percaya diri."
         }
       ],
       "synonymMeanings": [
         "kedewasaan",
-        "kesabaran",
-        "ketenangan",
-        "kebijaksanaan"
+        "kematangan",
+        "kestabilan emosional",
+        "keseimbangan mental"
       ]
     },
     {
