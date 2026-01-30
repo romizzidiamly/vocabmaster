@@ -1955,31 +1955,40 @@
         "Muscle growth",
         "bodybuilding"
       ],
-      "definition": "The increase in muscle size due to resistance training",
+      "definition": "the growth and increase in size of muscle cells, which can happen as a result of exercise, especially weight training",
       "userGuesses": [],
-      "status": "hidden",
-      "meaning": "Meaning not found.",
+      "status": "discovered",
+      "meaning": "hipertrofi otot",
       "phonetics": {
-        "us": "/.../",
-        "uk": "/.../"
+        "us": "/hʌɪˈpɝːtrəfi/",
+        "uk": "/haɪˈpɜːtrəfi/"
       },
       "examples": [
         {
           "type": "Simple",
-          "text": "Usage of Muscle hypertrophy is important."
+          "text": "Muscle hypertrophy occurs when muscle cells grow and increase in size.",
+          "translation": "Hipertrofi otot terjadi ketika sel otot tumbuh dan meningkatkan ukurannya."
         },
         {
           "type": "Complex",
-          "text": "Because Muscle hypertrophy matters, we should study it."
+          "text": "Because muscle hypertrophy is a complex process, it requires a combination of proper nutrition, adequate rest, and consistent training.",
+          "translation": "Karena hipertrofi otot adalah proses yang kompleks, maka diperlukan kombinasi gizi yang tepat, istirahat yang cukup, dan pelatihan yang konsisten."
         },
         {
           "type": "Compound",
-          "text": "The word is Muscle hypertrophy, and it is useful."
+          "text": "Muscle hypertrophy is a desirable outcome for many athletes, and it can be achieved through weight training and proper nutrition, or through the use of supplements and steroids.",
+          "translation": "Hipertrofi otot adalah hasil yang diinginkan oleh banyak atlet, dan dapat dicapai melalui pelatihan beban dan gizi yang tepat, atau melalui penggunaan suplemen dan steroid."
         },
         {
           "type": "Compound-Complex",
-          "text": "If we use Muscle hypertrophy correctly, we succeed, so let's try."
+          "text": "While muscle hypertrophy is a desirable outcome for many athletes, it can be difficult to achieve, because it requires a combination of proper nutrition, adequate rest, and consistent training, and also because it can be influenced by factors such as genetics and overall health.",
+          "translation": "Sementara hipertrofi otot adalah hasil yang diinginkan oleh banyak atlet, namun dapat sulit untuk dicapai, karena memerlukan kombinasi gizi yang tepat, istirahat yang cukup, dan pelatihan yang konsisten, dan juga karena dapat dipengaruhi oleh faktor-faktor seperti genetik dan kesehatan secara keseluruhan."
         }
+      ],
+      "synonymMeanings": [
+        "pembesaran otot",
+        "pertumbuhan otot",
+        "peningkatan massa otot"
       ]
     },
     {
