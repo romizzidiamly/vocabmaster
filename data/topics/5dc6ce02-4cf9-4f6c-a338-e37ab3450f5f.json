@@ -1878,31 +1878,41 @@
         "Resistance training",
         "weightlifting"
       ],
-      "definition": "Exercise designed to increase muscle power and endurance",
+      "definition": "the activity of doing exercises in order to make your muscles stronger",
       "userGuesses": [],
-      "status": "hidden",
-      "meaning": "Meaning not found.",
+      "status": "discovered",
+      "meaning": "latihan kekuatan",
       "phonetics": {
-        "us": "/.../",
-        "uk": "/.../"
+        "us": "/ˈstrɛŋθ ˈtreɪnɪŋ/",
+        "uk": "/ˈstrɛnθ ˈtreɪnɪŋ/"
       },
       "examples": [
         {
           "type": "Simple",
-          "text": "Usage of Strength training is important."
+          "text": "She does strength training every morning.",
+          "translation": "Dia melakukan latihan kekuatan setiap pagi."
         },
         {
           "type": "Complex",
-          "text": "Because Strength training matters, we should study it."
+          "text": "Because she wanted to build muscle, she started doing strength training.",
+          "translation": "Karena dia ingin membangun otot, dia mulai melakukan latihan kekuatan."
         },
         {
           "type": "Compound",
-          "text": "The word is Strength training, and it is useful."
+          "text": "Strength training is essential, and so is cardio exercise.",
+          "translation": "Latihan kekuatan sangat penting, dan begitu juga olahraga kardio."
         },
         {
           "type": "Compound-Complex",
-          "text": "If we use Strength training correctly, we succeed, so let's try."
+          "text": "While strength training is essential for building muscle, it is also important to remember that cardio exercise is necessary for overall health, and she does both.",
+          "translation": "Sementara latihan kekuatan sangat penting untuk membangun otot, juga penting untuk diingat bahwa olahraga kardio diperlukan untuk kesehatan secara keseluruhan, dan dia melakukan keduanya."
         }
+      ],
+      "synonymMeanings": [
+        "pelatihan kekuatan",
+        "pembangunan otot",
+        "pengembangan kekuatan",
+        "latihan beban"
       ]
     },
     {
