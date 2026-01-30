@@ -1017,11 +1017,11 @@
       ],
       "definition": "the system that protects the body from infection and disease",
       "userGuesses": [],
-      "status": "hidden",
+      "status": "discovered",
       "meaning": "sistem kekebalan tubuh",
       "phonetics": {
-        "us": "/ˌɪm.juːn ˈsɪstəm/",
-        "uk": "/ˌɪm.juːn ˈsɪstəm/"
+        "us": "/ɪˈmuːn ˈsɪstəm/",
+        "uk": "/ɪˈmjuːn ˈsɪstəm/"
       },
       "examples": [
         {
@@ -1031,23 +1031,24 @@
         },
         {
           "type": "Complex",
-          "text": "Because she had a strong immune system, she was able to recover quickly from the illness.",
-          "translation": "Karena dia memiliki sistem kekebalan tubuh yang kuat, dia dapat pulih dengan cepat dari penyakit tersebut."
+          "text": "Because she had a healthy diet, her immune system was able to fight off the illness.",
+          "translation": "Karena dia memiliki pola makan yang sehat, sistem kekebalan tubuhnya dapat melawan penyakit tersebut."
         },
         {
           "type": "Compound",
-          "text": "The doctor checked her immune system and prescribed some medication, and she started to feel better soon.",
-          "translation": "Dokter memeriksa sistem kekebalan tubuhnya dan meresepkan beberapa obat, dan dia mulai merasa lebih baik segera."
+          "text": "The immune system protects the body, and it also helps to heal injuries.",
+          "translation": "Sistem kekebalan tubuh melindungi tubuh, dan juga membantu menyembuhkan luka."
         },
         {
           "type": "Compound-Complex",
-          "text": "While the new medicine had improved her condition significantly, it was her immune system that ultimately helped her recover, and she was grateful for the doctor's care.",
-          "translation": "Sementara obat baru tersebut telah memperbaiki kondisinya secara signifikan, namun itu adalah sistem kekebalan tubuhnya yang akhirnya membantunya pulih, dan dia bersyukur atas perawatan dokter."
+          "text": "While the immune system protects the body from infection, it can sometimes overreact and cause problems, but a healthy lifestyle helps to balance it.",
+          "translation": "Saat sistem kekebalan tubuh melindungi tubuh dari infeksi, terkadang dapat bereaksi berlebihan dan menyebabkan masalah, tetapi gaya hidup sehat membantu menyeimbangkannya."
         }
       ],
       "synonymMeanings": [
-        "sistem pertahanan tubuh",
-        "sistem kekebalan",
+        "pertahanan tubuh",
+        "sistem pertahanan alami",
+        "kekebalan",
         "daya tahan tubuh"
       ]
     },
