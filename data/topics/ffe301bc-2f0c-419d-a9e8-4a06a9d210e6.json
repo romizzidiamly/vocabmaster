@@ -1300,9 +1300,42 @@
         "Eco-consciousness",
         "sustainability education"
       ],
-      "definition": "Understanding and concern about\necological issues",
+      "definition": "The ability to recognize and respect the impact of human activity on the environment.",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "discovered",
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Raising environmental awareness is essential for a sustainable future.",
+          "translation": "Meningkatkan kesadaran lingkungan sangat penting untuk masa depan yang berkelanjutan."
+        },
+        {
+          "type": "Complex",
+          "text": "The government has implemented various policies to increase environmental awareness among the public.",
+          "translation": "Pemerintah telah melaksanakan berbagai kebijakan untuk meningkatkan kesadaran lingkungan di kalangan masyarakat."
+        },
+        {
+          "type": "Compound",
+          "text": "Environmental awareness campaigns have been organized by local communities, schools, and government agencies.",
+          "translation": "Kampanye kesadaran lingkungan telah dijalankan oleh komunitas lokal, sekolah, dan lembaga pemerintah."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "However, despite the efforts of NGOs and government institutions, environmental awareness remains a significant challenge in many developing countries.",
+          "translation": "Meskipun ada upaya dari organisasi non-pemerintah dan lembaga pemerintah, kesadaran lingkungan masih merupakan tantangan signifikan di banyak negara berkembang."
+        }
+      ],
+      "phonetics": {
+        "us": "/ˌɛn.viˈɹən.mɛntl əˈwɛr.nəs/",
+        "uk": "/ˌɛn.vɪˈɹɒn.məntəl əˈwɛə.nəs/"
+      },
+      "meaning": "Kemampuan mengenali dan menghargai dampak aktivitas manusia terhadap lingkungan.",
+      "synonymMeanings": [
+        "Kemampuan mengenali lingkungan",
+        "Kesadaran akan dampak lingkungan",
+        "Keterampilan berpikir lingkungan",
+        "Kemampuan menghargai lingkungan"
+      ]
     },
     {
       "id": "0486feed-c7dc-4bcc-9e50-04cccb9e65d9",
