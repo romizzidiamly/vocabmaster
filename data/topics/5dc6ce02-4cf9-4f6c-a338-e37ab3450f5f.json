@@ -183,41 +183,40 @@
         "Inactive lifestyle",
         "desk-bound routine"
       ],
-      "definition": "a way of living in which people spend a lot of time sitting or not being physically active",
+      "definition": "A lifestyle that involves little or no physical activity, often leading to health problems.",
       "userGuesses": [],
-      "status": "hidden",
-      "meaning": "gaya hidup yang banyak menghabiskan waktu dengan duduk atau tidak banyak beraktivitas fisik",
+      "status": "discovered",
+      "meaning": "Gaya hidup yang kurang aktif secara fisik",
       "phonetics": {
-        "us": "/sɪˈdɛn.tə.ri/",
-        "uk": "/sɪˈdɛn.tə.ri/"
+        "us": "/sɪdɛnˈtɛri lɪˈfaɪl/",
+        "uk": "/sɪdɛnˈtɛri laɪˈfaɪl/"
       },
       "examples": [
         {
           "type": "Simple",
-          "text": "She has a sedentary lifestyle and needs to exercise more.",
-          "translation": "Dia memiliki gaya hidup sedentary dan perlu berolahraga lebih banyak."
+          "text": "A sedentary lifestyle has been linked to various health issues.",
+          "translation": "Gaya hidup yang kurang aktif secara fisik telah terkait dengan berbagai masalah kesehatan."
         },
         {
           "type": "Complex",
-          "text": "Because she works at a desk all day, she has developed a sedentary lifestyle.",
-          "translation": "Karena dia bekerja di meja sepanjang hari, dia telah mengembangkan gaya hidup sedentary."
+          "text": "Research has shown that a sedentary lifestyle can lead to obesity and other health problems, especially for children.",
+          "translation": "Penelitian telah menunjukkan bahwa gaya hidup yang kurang aktif secara fisik dapat menyebabkan kelebihan berat badan dan masalah kesehatan lainnya, terutama pada anak-anak."
         },
         {
           "type": "Compound",
-          "text": "She has a sedentary lifestyle, and she also eats a lot of junk food.",
-          "translation": "Dia memiliki gaya hidup sedentary, dan dia juga banyak makan makanan junk food."
+          "text": "Exercising regularly and eating a balanced diet can help reduce the risks associated with a sedentary lifestyle, but it is also important to limit screen time.",
+          "translation": "Berolahraga secara teratur dan mengonsumsi diet seimbang dapat membantu mengurangi risiko yang terkait dengan gaya hidup yang kurang aktif secara fisik, tetapi juga penting untuk membatasi waktu menyaksikan layar."
         },
         {
           "type": "Compound-Complex",
-          "text": "While she knows that a sedentary lifestyle is bad for her health, she has a sedentary lifestyle and also eats a lot of junk food because she works at a desk all day.",
-          "translation": "Sementara dia tahu bahwa gaya hidup sedentary buruk untuk kesehatannya, dia memiliki gaya hidup sedentary dan juga banyak makan makanan junk food karena dia bekerja di meja sepanjang hari."
+          "text": "While a sedentary lifestyle can have many negative consequences, it is also a common phenomenon in modern society, where people often spend most of their time sitting in front of computers or watching TV.",
+          "translation": "Meskipun gaya hidup yang kurang aktif secara fisik dapat memiliki banyak konsekuensi negatif, hal ini juga merupakan fenomena umum dalam masyarakat modern, di mana orang sering menghabiskan waktu mereka duduk di depan komputer atau menonton TV."
         }
       ],
       "synonymMeanings": [
-        "tidak aktif",
-        "malas",
-        "kurang gerak",
-        "lebih banyak duduk"
+        "gaya hidup kurang aktif",
+        "gaya hidup tidak aktif",
+        "gaya hidup tidak bergerak"
       ]
     },
     {
