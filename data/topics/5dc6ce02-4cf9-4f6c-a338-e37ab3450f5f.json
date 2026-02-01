@@ -2638,41 +2638,40 @@
         "Sprint training",
         "circuit training"
       ],
-      "definition": "a method of training in which you do short periods of energetic exercise followed by short periods of rest",
+      "definition": "A training method in which periods of high-intensity exercise are alternated with periods of low-intensity exercise.",
       "userGuesses": [],
-      "status": "hidden",
-      "meaning": "latihan interval",
+      "status": "discovered",
+      "meaning": "Latihan interval",
       "phonetics": {
-        "us": "/ˈɪntərˌvɑl ˈtreɪnɪŋ/",
-        "uk": "/ˈɪntəvəl ˈtreɪnɪŋ/"
+        "us": "/ɪntərˈvæl.tʃən treɪnɪŋ/",
+        "uk": "/ɪntərˈvæl.tʃən treɪnɪŋ/"
       },
       "examples": [
         {
           "type": "Simple",
-          "text": "She does interval training to improve her endurance.",
-          "translation": "Dia melakukan latihan interval untuk meningkatkan ketahanannya."
+          "text": "Interval training has been shown to be an effective way to improve cardiovascular fitness.",
+          "translation": "Penggunaan latihan interval telah terbukti efektif untuk meningkatkan kebugaran kardiovaskular."
         },
         {
           "type": "Complex",
-          "text": "Because interval training is effective, many athletes use it to improve their performance.",
-          "translation": "Karena latihan interval efektif, banyak atlet menggunakan metode ini untuk meningkatkan kinerja mereka."
+          "text": "While it may be challenging to incorporate interval training into a busy schedule, it is well worth the effort.",
+          "translation": "Meskipun mungkin sulit untuk memasukkan latihan interval ke dalam jadwal yang sibuk, tetapi perluasan usaha ini sangat berharga."
         },
         {
           "type": "Compound",
-          "text": "Interval training is good for the heart, and it also improves muscle strength.",
-          "translation": "Latihan interval baik untuk jantung, dan juga meningkatkan kekuatan otot."
+          "text": "Interval training combines the benefits of high-intensity exercise with the convenience of low-intensity exercise.",
+          "translation": "Latihan interval menggabungkan manfaat olahraga intensitas tinggi dengan kemudahan olahraga intensitas rendah."
         },
         {
           "type": "Compound-Complex",
-          "text": "While interval training can be challenging, many athletes use it because it is effective, and it also improves cardiovascular health.",
-          "translation": "Meskipun latihan interval bisa menantang, banyak atlet menggunakan metode ini karena efektif, dan juga meningkatkan kesehatan kardiovaskuler."
+          "text": "As a result of the changing fitness landscape, many gyms now offer interval training classes that cater to different fitness levels.",
+          "translation": "Dengan perubahan lanskap kebugaran ini, banyak pusat kebugaran sekarang menawarkan kelas latihan interval yang dapat menyesuaikan diri dengan berbagai tingkat kebugaran."
         }
       ],
       "synonymMeanings": [
-        "latihan selang",
-        "pelatihan berkala",
+        "latihan interval",
         "latihan bergantian",
-        "pelatihan bergilir"
+        "latihan intensitas tinggi"
       ]
     },
     {
