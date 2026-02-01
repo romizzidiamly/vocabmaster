@@ -924,9 +924,41 @@
         "Species loss",
         "annihilation"
       ],
-      "definition": "The complete disappearance of a\nspecies",
+      "definition": "The state of being completely destroyed or eliminated, especially of a species of plant or animal.",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "discovered",
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "The extinction of the dinosaurs has been a topic of interest for many scientists.",
+          "translation": "Punahnya dinosaurus telah menjadi topik minat banyak ilmuwan."
+        },
+        {
+          "type": "Complex",
+          "text": "Climate change is likely to lead to the extinction of many marine species if it continues to worsen.",
+          "translation": "Perubahan iklim kemungkinan besar akan menyebabkan punahnya banyak spesies laut jika tidak terkontrol."
+        },
+        {
+          "type": "Compound",
+          "text": "The extinction of many species is a result of human activities such as deforestation and pollution.",
+          "translation": "Punahnya banyak spesies disebabkan oleh aktivitas manusia seperti deforestasi dan polusi."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "The extinction of species is a major concern for conservationists, as it can have severe consequences for the ecosystem and human well-being.",
+          "translation": "Punahnya spesies adalah kekhawatiran utama bagi pelestari lingkungan, karena dapat menyebabkan konsekuensi serius bagi ekosistem dan kesejahteraan manusia."
+        }
+      ],
+      "phonetics": {
+        "us": "/ɛksˈtɪŋkʃən/",
+        "uk": "/ɛkstɪŋkˈʃɒn/"
+      },
+      "meaning": "Punahnya suatu spesies atau organisme.",
+      "synonymMeanings": [
+        "Punahnya",
+        "Peresapan",
+        "Hilangnya"
+      ]
     },
     {
       "id": "faa577eb-beb1-4835-976a-3b47a4d027cc",
