@@ -155,9 +155,41 @@
         "forest",
         "degradation"
       ],
-      "definition": "The clearing or destruction of forests\nfor human use",
+      "definition": "The act of cutting down and clearing a large area of trees, often as a result of human activities such as farming or urban development.",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "discovered",
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Deforestation has severe consequences for the environment, including loss of biodiversity and soil erosion.",
+          "translation": "Hutan ditebang memiliki dampak serius bagi lingkungan, termasuk hilangnya keragaman hayati dan erosi tanah."
+        },
+        {
+          "type": "Complex",
+          "text": "While some argue that deforestation is necessary for economic growth, others claim that the long-term costs outweigh the benefits.",
+          "translation": "Meskipun ada yang berpendapat bahwa hutan ditebang diperlukan untuk pertumbuhan ekonomi, namun ada juga yang mengklaim bahwa biaya jangka panjang melebihi keuntungan."
+        },
+        {
+          "type": "Compound",
+          "text": "Deforestation and climate change are two of the most pressing environmental issues facing the world today, causing widespread devastation and loss of ecosystems.",
+          "translation": "Hutan ditebang dan perubahan iklim adalah dua masalah lingkungan yang paling mendesak dihadapi dunia saat ini, menyebabkan kerusakan luas dan hilangnya ekosistem."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "However, efforts to combat deforestation and promote sustainable forest management have been hindered by lack of funding and inadequate policies, which has led to a decline in forest cover and increased greenhouse gas emissions.",
+          "translation": "Namun, upaya untuk melawan hutan ditebang dan mendorong manajemen hutan yang berkelanjutan telah terhalang oleh kurangnya dana dan kebijakan yang tidak memadai, yang telah menyebabkan penurunan luas hutan dan peningkatan emisi gas rumah kaca."
+        }
+      ],
+      "phonetics": {
+        "us": "/dɛfɔːrɛʃən/",
+        "uk": "/dɛfɔːrɛsʃən/"
+      },
+      "meaning": "Hutan ditebang",
+      "synonymMeanings": [
+        "pembalakan liar",
+        "kerusakan hutan",
+        "perusakan hutan"
+      ]
     },
     {
       "id": "1b14d3dd-4661-4d0d-8308-7ddaf4f32de9",
