@@ -1437,41 +1437,41 @@
         "Communication skills",
         "interpersonal"
       ],
-      "definition": "the abilities that people have to interact and communicate with others effectively",
+      "definition": "The ability to communicate and interact with others effectively in a social setting.",
       "userGuesses": [],
-      "status": "hidden",
-      "meaning": "keterampilan sosial",
+      "status": "discovered",
+      "meaning": "Keterampilan sosial",
       "phonetics": {
-        "us": "/ˈsoʊʃəl ˈskɪlz/",
-        "uk": "/ˈsəʊʃəl ˈskɪlz/"
+        "us": "/səʊʃəl skɪlz/",
+        "uk": "/soʊʃəl skɪlz/"
       },
       "examples": [
         {
           "type": "Simple",
-          "text": "She has excellent social skills.",
-          "translation": "Dia memiliki keterampilan sosial yang sangat baik."
+          "text": "Developing social skills is crucial for success in the workplace.",
+          "translation": "Membangun keterampilan sosial sangat penting untuk mencapai kesuksesan di tempat kerja."
         },
         {
           "type": "Complex",
-          "text": "Because she has good social skills, she can easily make friends.",
-          "translation": "Karena dia memiliki keterampilan sosial yang baik, dia dapat dengan mudah berteman."
+          "text": "While good communication skills are vital for building strong relationships, social skills also play a significant role in conflict resolution.",
+          "translation": "Meskipun kemampuan berkomunikasi yang baik sangat penting untuk membangun hubungan yang kuat, keterampilan sosial juga berperan penting dalam menyelesaikan konflik."
         },
         {
           "type": "Compound",
-          "text": "She has social skills and she is very intelligent.",
-          "translation": "Dia memiliki keterampilan sosial dan dia sangat pintar."
+          "text": "Developing social skills is crucial for success in the workplace, and it can be achieved through practice and experience.",
+          "translation": "Membangun keterampilan sosial sangat penting untuk mencapai kesuksesan di tempat kerja, dan dapat dicapai melalui latihan dan pengalaman."
         },
         {
           "type": "Compound-Complex",
-          "text": "While she has social skills, she is also very intelligent, and because of that, she can easily make friends.",
-          "translation": "Sementara dia memiliki keterampilan sosial, dia juga sangat pintar, dan karena itu, dia dapat dengan mudah berteman."
+          "text": "While good communication skills are vital for building strong relationships, social skills also play a significant role in conflict resolution, and it is essential to develop both skills to achieve success in the workplace.",
+          "translation": "Meskipun kemampuan berkomunikasi yang baik sangat penting untuk membangun hubungan yang kuat, keterampilan sosial juga berperan penting dalam menyelesaikan konflik, dan sangat penting untuk mengembangkan kedua keterampilan tersebut untuk mencapai kesuksesan di tempat kerja."
         }
       ],
       "synonymMeanings": [
-        "keterampilan berinteraksi",
-        "keterampilan bergaul",
-        "kemampuan bersosialisasi",
-        "keterampilan berkomunikasi"
+        "keterampilan interaksi",
+        "kemampuan berinteraksi",
+        "kemampuan sosial",
+        "keterampilan komunikasi sosial"
       ]
     },
     {
