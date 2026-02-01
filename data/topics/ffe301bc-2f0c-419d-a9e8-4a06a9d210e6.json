@@ -1220,9 +1220,41 @@
         "Sustainable tourism",
         "green travel"
       ],
-      "definition": "Responsible travel that conserves\nnature and supports communities",
+      "definition": "A type of tourism that focuses on visiting and appreciating natural environments, such as national parks, forests, and wildlife reserves, while also contributing to their conservation.",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "discovered",
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Eco-tourism has become a significant source of income for many rural communities.",
+          "translation": "Wisata alam menjadi sumber pendapatan penting bagi banyak komunitas pedesaan."
+        },
+        {
+          "type": "Complex",
+          "text": "The increasing popularity of eco-tourism has led to concerns about the impact on local wildlife and ecosystems.",
+          "translation": "Kenaikan popularitas wisata alam telah menyebabkan kekhawatiran tentang dampaknya terhadap satwa liar dan ekosistem lokal."
+        },
+        {
+          "type": "Compound",
+          "text": "Eco-tourism and sustainable development are closely linked, as tourists are encouraged to contribute to local conservation efforts.",
+          "translation": "Wisata alam dan pengembangan berkelanjutan terkait erat, karena wisatawan diasuh untuk berkontribusi pada upaya pelestarian lokal."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "In order to promote eco-tourism in our country, we need to develop infrastructure and improve our environmental policies, which will also benefit local communities and support sustainable development.",
+          "translation": "Untuk mempromosikan wisata alam di negara kita, kita perlu mengembangkan infrastruktur dan meningkatkan kebijakan lingkungan, yang juga akan menguntungkan komunitas lokal dan mendukung pengembangan berkelanjutan."
+        }
+      ],
+      "phonetics": {
+        "us": "/ˌiːkoʊˈtɜːrɪzəm/",
+        "uk": "/ˌiːkoʊˈtɜːrɪzəm/"
+      },
+      "meaning": "Wisata alam yang berorientasi pada pelestarian lingkungan.",
+      "synonymMeanings": [
+        "Pariwisata alam berkelanjutan",
+        "Wisata lingkungan",
+        "Pariwisata pelestarian"
+      ]
     },
     {
       "id": "0b327a99-c941-4a03-95d2-6c2012186b8a",
