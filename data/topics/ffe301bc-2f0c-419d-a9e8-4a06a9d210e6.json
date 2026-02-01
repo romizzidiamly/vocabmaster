@@ -96,31 +96,41 @@
         "Global warming",
         "environmental change"
       ],
-      "definition": "Long-term shifts in temperature and\nweather patterns",
+      "definition": "A change in the Earth's climate, which is the average weather pattern in a particular region over a long period of time.",
       "userGuesses": [],
-      "status": "hidden",
-      "meaning": "Meaning not found.",
+      "status": "discovered",
+      "meaning": "Perubahan iklim global",
       "phonetics": {
-        "us": "/.../",
-        "uk": "/.../"
+        "us": "/ˈklaɪmɪt ˈtʃeɪndʒ/",
+        "uk": "/ˈklaɪmɪt ˈtʃeɪndʒ/"
       },
       "examples": [
         {
           "type": "Simple",
-          "text": "Usage of Climate change is important."
+          "text": "The increasing levels of carbon dioxide in the atmosphere are contributing to climate change.",
+          "translation": "Kadar karbon dioksida di atmosfer meningkat dan menyebabkan perubahan iklim."
         },
         {
           "type": "Complex",
-          "text": "Because Climate change matters, we should study it."
+          "text": "Because of climate change, many countries are experiencing more frequent and severe natural disasters such as droughts and floods.",
+          "translation": "Perubahan iklim menyebabkan banyak negara mengalami bencana alam lebih sering dan parah seperti kekeringan dan banjir."
         },
         {
           "type": "Compound",
-          "text": "The word is Climate change, and it is useful."
+          "text": "Climate change is a serious issue that requires immediate attention, and it is caused by human activities such as burning fossil fuels and deforestation.",
+          "translation": "Perubahan iklim adalah masalah serius yang memerlukan perhatian mendesak, dan disebabkan oleh aktivitas manusia seperti pembakaran bahan bakar fosil dan deforestasi."
         },
         {
           "type": "Compound-Complex",
-          "text": "If we use Climate change correctly, we succeed, so let's try."
+          "text": "Climate change is a complex issue that involves many factors, including rising global temperatures, melting polar ice caps, and changes in weather patterns, which are all interconnected and have significant impacts on ecosystems and human societies.",
+          "translation": "Perubahan iklim adalah masalah kompleks yang melibatkan banyak faktor, termasuk kenaikan suhu global, melelehnya es kutub, dan perubahan pola cuaca, yang semuanya saling terkait dan punya dampak signifikan pada ekosistem dan masyarakat manusia."
         }
+      ],
+      "synonymMeanings": [
+        "Perubahan cuaca",
+        "Degradasi lingkungan",
+        "Kerusakan iklim",
+        "Pengaruh lingkungan"
       ]
     },
     {
