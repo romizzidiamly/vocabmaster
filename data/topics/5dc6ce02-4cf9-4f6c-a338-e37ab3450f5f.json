@@ -1876,41 +1876,41 @@
         "Resistance training",
         "weightlifting"
       ],
-      "definition": "the activity of doing exercises in order to make your muscles stronger",
+      "definition": "The practice of exercising to improve muscular power, endurance, and strength.",
       "userGuesses": [],
-      "status": "hidden",
-      "meaning": "latihan kekuatan",
+      "status": "discovered",
+      "meaning": "Latihan kekuatan",
       "phonetics": {
-        "us": "/ˈstrɛŋθ ˈtreɪnɪŋ/",
-        "uk": "/ˈstrɛnθ ˈtreɪnɪŋ/"
+        "us": "/strentʃtˈreɪnɪŋ/",
+        "uk": "/strenθtˈreɪnɪŋ/"
       },
       "examples": [
         {
           "type": "Simple",
-          "text": "She does strength training every morning.",
-          "translation": "Dia melakukan latihan kekuatan setiap pagi."
+          "text": "Regular strength training is essential for maintaining good physical health.",
+          "translation": "Latihan kekuatan secara teratur sangat penting untuk menjaga kesehatan fisik yang baik."
         },
         {
           "type": "Complex",
-          "text": "Because she wanted to build muscle, she started doing strength training.",
-          "translation": "Karena dia ingin membangun otot, dia mulai melakukan latihan kekuatan."
+          "text": "The benefits of strength training, such as increased muscle mass and improved bone density, have been widely documented in medical research.",
+          "translation": "Manfaat latihan kekuatan, seperti peningkatan massa otot dan kepadatan tulang yang lebih baik, telah dokumentasikan secara luas dalam penelitian medis."
         },
         {
           "type": "Compound",
-          "text": "Strength training is essential, and so is cardio exercise.",
-          "translation": "Latihan kekuatan sangat penting, dan begitu juga olahraga kardio."
+          "text": "While running and swimming are excellent forms of cardiovascular exercise, strength training should not be neglected as it also plays a crucial role in overall fitness.",
+          "translation": "Meskipun berlari dan berenang adalah bentuk latihan kardiovaskular yang sangat baik, latihan kekuatan tidak boleh diabaikan karena juga berperan penting dalam keseluruhan kebugaran."
         },
         {
           "type": "Compound-Complex",
-          "text": "While strength training is essential for building muscle, it is also important to remember that cardio exercise is necessary for overall health, and she does both.",
-          "translation": "Sementara latihan kekuatan sangat penting untuk membangun otot, juga penting untuk diingat bahwa olahraga kardio diperlukan untuk kesehatan secara keseluruhan, dan dia melakukan keduanya."
+          "text": "However, it's worth noting that overdoing it with strength training can lead to muscle fatigue and decreased performance, so it's essential to strike a balance between exercise and rest.",
+          "translation": "Namun, perlu diingat bahwa melakukan latihan kekuatan secara berlebihan dapat menyebabkan kelelahan otot dan penurunan kinerja, sehingga sangat penting untuk mencapai keseimbangan antara olahraga dan istirahat."
         }
       ],
       "synonymMeanings": [
-        "pelatihan kekuatan",
-        "pembangunan otot",
-        "pengembangan kekuatan",
-        "latihan beban"
+        "latihan otot",
+        "program kekuatan",
+        "aktivitas kekuatan",
+        "latihan fisik"
       ]
     },
     {
