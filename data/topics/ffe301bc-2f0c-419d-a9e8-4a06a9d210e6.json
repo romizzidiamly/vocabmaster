@@ -1700,9 +1700,42 @@
         "Quietness",
         "muteness"
       ],
-      "definition": "The absence of sound or speech",
+      "definition": "The state or quality of being quiet or still, with no sound.",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "discovered",
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "The silence in the library was oppressive.",
+          "translation": "Suasana keheningan di perpustakaan sangat menekan."
+        },
+        {
+          "type": "Complex",
+          "text": "The sudden silence that followed the argument was a stark contrast to the earlier loud discussion.",
+          "translation": "Keheningan tiba-tiba yang mengikuti perdebatan itu merupakan kontras yang tegas dengan percakapan keras yang terjadi sebelumnya."
+        },
+        {
+          "type": "Compound",
+          "text": "The silence was broken by the sound of the clock ticking, and the students began to murmur among themselves.",
+          "translation": "Keheningan itu terputus oleh suara jam berdering, dan para siswa mulai berbisik-bisik di antara mereka."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "Although the silence in the room was palpable, the students still managed to engage in a heated discussion, but it was eventually broken by the sound of the teacher entering the room.",
+          "translation": "Meskipun ketidakaktifan suara di ruangan sangat terasa, para siswa masih berhasil mengadakan diskusi yang sengit, namun akhirnya terputus oleh suara guru yang memasuki ruangan."
+        }
+      ],
+      "phonetics": {
+        "us": "/ˈsɪləns/",
+        "uk": "/ˈsaɪləns/"
+      },
+      "meaning": "Ketidakaktifan suara.",
+      "synonymMeanings": [
+        "Ketidakaktifan suara",
+        "Keheningan",
+        "Keterpisahan suara",
+        "Ketidakterdengaranan"
+      ]
     },
     {
       "id": "ad4c44ed-7d7a-4c25-ab17-266eb271e283",
