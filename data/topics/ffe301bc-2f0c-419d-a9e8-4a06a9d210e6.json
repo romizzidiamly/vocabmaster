@@ -140,31 +140,40 @@
         "Temperature rise",
         "climate crisis"
       ],
-      "definition": "The gradual increase in Earth's temperature due to greenhouse\ngases",
+      "definition": "The gradual increase in the overall temperature of the Earth's atmosphere, primarily caused by human activities that release greenhouse gases, such as carbon dioxide and methane.",
       "userGuesses": [],
-      "status": "hidden",
-      "meaning": "Meaning not found.",
+      "status": "discovered",
+      "meaning": "Peningasan global",
       "phonetics": {
-        "us": "/.../",
-        "uk": "/.../"
+        "us": "/ɡloʊbəlˈwɔːrmɪŋ/",
+        "uk": "/ˈɡloʊbəlˈwɔːmɪŋ/"
       },
       "examples": [
         {
           "type": "Simple",
-          "text": "Usage of Global warming is important."
+          "text": "The increasing levels of carbon dioxide in the atmosphere are causing global warming.",
+          "translation": "Peningasan global disebabkan oleh peningkatan kadar karbon dioksida di atmosfer."
         },
         {
           "type": "Complex",
-          "text": "Because Global warming matters, we should study it."
+          "text": "Climate change, which is a result of global warming, has severe consequences for our planet.",
+          "translation": "Perubahan iklim, yang merupakan akibat dari peningasan global, memiliki konsekuensi yang serius bagi planet kita."
         },
         {
           "type": "Compound",
-          "text": "The word is Global warming, and it is useful."
+          "text": "The effects of global warming are being felt across the world, from melting glaciers to rising sea levels.",
+          "translation": "Dampak peningasan global dirasakan di seluruh dunia, dari melelehnya gletser hingga kenaikan permukaan laut."
         },
         {
           "type": "Compound-Complex",
-          "text": "If we use Global warming correctly, we succeed, so let's try."
+          "text": "While some countries are taking steps to reduce their carbon footprint, others are still contributing to global warming by relying heavily on fossil fuels.",
+          "translation": "Meskipun beberapa negara telah mengambil langkah untuk mengurangi jejak karbon mereka, lainnya masih berkontribusi pada peningasan global dengan bergantung pada bahan bakar fosil."
         }
+      ],
+      "synonymMeanings": [
+        "Panasan global",
+        "Perubahan iklim",
+        "Peningkatan suhu"
       ]
     },
     {
