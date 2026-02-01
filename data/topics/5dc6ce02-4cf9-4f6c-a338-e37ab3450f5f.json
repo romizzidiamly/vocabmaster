@@ -1657,41 +1657,40 @@
         "Self-respect",
         "self-worth"
       ],
-      "definition": "a person's belief and confidence in their own ability and value",
+      "definition": "The feeling of being proud of oneself and having confidence in one's abilities and worth.",
       "userGuesses": [],
-      "status": "hidden",
-      "meaning": "harga diri",
+      "status": "discovered",
+      "meaning": "Kepustakan diri sendiri",
       "phonetics": {
-        "us": "/ˌself əˈstiːm/",
-        "uk": "/ˌself ɛˈstiːm/"
+        "us": "/sɛlfˈiːstəm/",
+        "uk": "/sɛlfˈiːstəm/"
       },
       "examples": [
         {
           "type": "Simple",
-          "text": "She has low self-esteem.",
-          "translation": "Dia memiliki harga diri yang rendah."
+          "text": "Low self-esteem can lead to mental health problems.",
+          "translation": "Kepustakan diri sendiri yang rendah dapat menyebabkan masalah kesehatan mental."
         },
         {
           "type": "Complex",
-          "text": "Because she failed the exam, she has low self-esteem.",
-          "translation": "Karena dia gagal ujian, dia memiliki harga diri yang rendah."
+          "text": "If we foster a supportive environment, individuals will develop high self-esteem and achieve their goals.",
+          "translation": "Jika kami menciptakan lingkungan yang mendukung, individu akan mengembangkan kepuasan diri sendiri yang tinggi dan mencapai tujuan mereka."
         },
         {
           "type": "Compound",
-          "text": "She has low self-esteem, and she is very shy.",
-          "translation": "Dia memiliki harga diri yang rendah, dan dia sangat pemalu."
+          "text": "Self-esteem is closely linked to happiness and success, and individuals with high self-esteem tend to be more confident and motivated.",
+          "translation": "Kepustakan diri sendiri erat kaitannya dengan kebahagiaan dan kesuksesan, dan individu dengan kepuasan diri sendiri yang tinggi cenderung lebih percaya diri dan termotivasi."
         },
         {
           "type": "Compound-Complex",
-          "text": "Although she has low self-esteem, she is trying to improve herself, and she is taking classes to become more confident.",
-          "translation": "Meskipun dia memiliki harga diri yang rendah, dia berusaha untuk meningkatkan diri, dan dia mengambil kelas untuk menjadi lebih percaya diri."
+          "text": "While self-esteem is an important aspect of personal development, it is also affected by external factors such as social media and peer pressure, which can negatively impact an individual's self-esteem.",
+          "translation": "Meskipun kepuasan diri sendiri adalah aspek penting dalam pengembangan diri, namun juga dipengaruhi oleh faktor-faktor eksternal seperti media sosial dan tekanan teman, yang dapat mengganggu kepuasan diri sendiri seseorang dengan cara negatif."
         }
       ],
       "synonymMeanings": [
-        "kebanggaan diri",
-        "percaya diri",
-        "kepercayaan diri",
-        "harga diri sendiri"
+        "Kepada diri sendiri",
+        "Percaya diri",
+        "Kepuasan dalam diri"
       ]
     },
     {
