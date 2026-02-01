@@ -948,9 +948,41 @@
         "Sustainable design",
         "eco-friendly construction"
       ],
-      "definition": "Environmentally conscious building design",
+      "definition": "The design and construction of buildings and other structures that have a minimal impact on the environment and often use sustainable materials and renewable energy sources.",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "discovered",
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Green architecture is becoming increasingly popular in urban areas.",
+          "translation": "Arsitektur hijau semakin populer di daerah perkotaan."
+        },
+        {
+          "type": "Complex",
+          "text": "The use of green architecture in new buildings can significantly reduce energy consumption and greenhouse gas emissions.",
+          "translation": "Penggunaan arsitektur hijau dalam bangunan baru dapat signifikan mengurangi konsumsi energi dan emisi gas rumah kaca."
+        },
+        {
+          "type": "Compound",
+          "text": "Green architecture and sustainable practices go hand in hand, making our cities more environmentally friendly.",
+          "translation": "Arsitektur hijau dan praktik ramah lingkungan beriringan, membuat kota kita lebih ramah lingkungan."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "The implementation of green architecture in urban planning can have a positive impact on the environment, but it also requires careful consideration of economic and social factors.",
+          "translation": "Pelaksanaan arsitektur hijau dalam perencanaan kota dapat memiliki dampak positif pada lingkungan, tetapi juga memerlukan pertimbangan hati-hati terhadap faktor ekonomi dan sosial."
+        }
+      ],
+      "phonetics": {
+        "us": "/ˈɡriːn ɑːrkɪˈtɛktʃər/",
+        "uk": "/ˈɡriːn ɑːrkɪˈtɛktʃər/"
+      },
+      "meaning": "Arsitektur hijau",
+      "synonymMeanings": [
+        "Arsitektur lingkungan",
+        "Arsitektur berkelanjutan",
+        "Arsitektur ramah lingkungan"
+      ]
     },
     {
       "id": "a63b77a4-e6e1-46c4-b316-db3ed26f325c",
