@@ -1451,9 +1451,41 @@
         "Conservation",
         "power-saving"
       ],
-      "definition": "Using less energy to achieve the\nsame output",
+      "definition": "The practice of using less energy than is needed to achieve a particular goal, often by using more efficient equipment or systems.",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "discovered",
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "To reduce the impact of climate change, it is essential to prioritize energy efficiency.",
+          "translation": "Untuk mengurangi dampak perubahan iklim, penting untuk memberikan prioritas pada penghematan energi."
+        },
+        {
+          "type": "Complex",
+          "text": "Implementing energy-efficient technologies in our homes can significantly reduce energy consumption, which, in turn, helps to mitigate the effects of global warming.",
+          "translation": "Mengimplementasikan teknologi penghematan energi di rumah-rumah kita dapat secara signifikan mengurangi konsumsi energi, sehingga dapat membantu mengurangi dampak perubahan iklim global."
+        },
+        {
+          "type": "Compound",
+          "text": "In addition to installing solar panels, using energy-efficient appliances and turning off lights when not in use are also crucial steps in achieving energy efficiency.",
+          "translation": "Selain menginstal panel surya, menggunakan perangkat penghematan energi dan mematikan lampu ketika tidak digunakan juga merupakan langkah penting dalam mencapai penghematan energi."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "Furthermore, governments and businesses can play a vital role in promoting energy efficiency by investing in research and development of new technologies and providing incentives for individuals and organizations to adopt sustainable practices.",
+          "translation": "Selain itu, pemerintah dan perusahaan juga dapat berperan penting dalam mendorong penghematan energi dengan berinvestasi pada penelitian dan pengembangan teknologi baru dan memberikan insentif bagi individu dan organisasi untuk menerapkan praktik yang berkelanjutan."
+        }
+      ],
+      "phonetics": {
+        "us": "/ɛn.ɚ.dʒi ɛ.fɪˈsɪs.nɪs/",
+        "uk": "/ɛn.ə.dʒi ɛ.fɪˈsɪs.nɪs/"
+      },
+      "meaning": "Penghematan energi",
+      "synonymMeanings": [
+        "Penghematan energi",
+        "Kinerja energi yang efektif",
+        "Manfaat energi yang optimal"
+      ]
     },
     {
       "id": "f174466d-9ce7-4c98-946d-afd8e1ad1529",
