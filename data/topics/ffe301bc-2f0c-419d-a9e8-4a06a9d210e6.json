@@ -1211,9 +1211,42 @@
         "Water shortage",
         "drought"
       ],
-      "definition": "A lack of sufficient water resources\nto meet demand",
+      "definition": "A situation where there is not enough water to meet the needs of a place or its inhabitants.",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "discovered",
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Water scarcity is a significant problem in many parts of the world.",
+          "translation": "Keterbatasan air merupakan masalah signifikan di banyak bagian dunia."
+        },
+        {
+          "type": "Complex",
+          "text": "The increasing demand for water has led to water scarcity in several regions, which in turn affects the livelihoods of local communities.",
+          "translation": "Tingginya permintaan air telah menyebabkan keterbatasan air di beberapa wilayah, yang pada akhirnya memengaruhi kehidupan masyarakat setempat."
+        },
+        {
+          "type": "Compound",
+          "text": "Water scarcity and climate change are two major issues that require immediate attention from governments and international organizations.",
+          "translation": "Keterbatasan air dan perubahan iklim merupakan dua masalah besar yang memerlukan perhatian segera dari pemerintah dan organisasi internasional."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "The lack of water resources has led to water scarcity in many areas, which affects the economic growth of these regions and the quality of life of their inhabitants, ultimately threatening the sustainability of the ecosystem.",
+          "translation": "Kurangnya sumber daya air telah menyebabkan keterbatasan air di banyak wilayah, yang memengaruhi pertumbuhan ekonomi daerah-daerah tersebut dan kualitas hidup penduduknya, akhirnya mengancam keberlangsungan ekosistem."
+        }
+      ],
+      "phonetics": {
+        "us": "/ˈwɔːtər skærˈsɪti/",
+        "uk": "/ˈwɔːtər skærˈsɪti/"
+      },
+      "meaning": "Keterbatasan air",
+      "synonymMeanings": [
+        "Kurangnya air",
+        "Keterbatasan sumber daya air",
+        "Krisis air",
+        "Sulitnya mendapatkan air"
+      ]
     },
     {
       "id": "ee6ae0c5-a3ef-48a8-a22a-37353653b0de",
