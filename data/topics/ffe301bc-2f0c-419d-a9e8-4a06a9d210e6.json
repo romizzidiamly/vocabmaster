@@ -929,9 +929,41 @@
         "soil",
         "enrichment"
       ],
-      "definition": "The process of decomposing\norganic waste into nutrient-rich soil",
+      "definition": "The process of breaking down organic materials, such as food waste and garden waste, into a nutrient-rich fertilizer.",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "discovered",
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Composting is a sustainable way to reduce waste and create a natural fertilizer.",
+          "translation": "Mengompos adalah cara yang ramah lingkungan untuk mengurangi limbah dan menciptakan pupuk alami."
+        },
+        {
+          "type": "Complex",
+          "text": "Because composting can help to reduce greenhouse gas emissions, it is essential for us to adopt this practice in our daily lives.",
+          "translation": "Karena kompos dapat membantu mengurangi emisi gas rumah kaca, maka hal ini sangat penting bagi kita untuk menerapkan praktik ini dalam kehidupan sehari-hari."
+        },
+        {
+          "type": "Compound",
+          "text": "Composting reduces waste and creates a natural fertilizer, which can improve soil quality, and also helps to mitigate the effects of climate change.",
+          "translation": "Mengompos mengurangi limbah dan menciptakan pupuk alami, yang dapat meningkatkan kualitas tanah, serta membantu mengurangi dampak perubahan iklim."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "However, despite its numerous benefits, many people still do not understand the importance of composting, and this lack of awareness is a major obstacle to its widespread adoption.",
+          "translation": "Meskipun memiliki banyak keuntungan, namun banyak orang masih tidak mengerti pentingnya mengompos, dan kekurangan kesadaran ini adalah salah satu hambatan besar untuk menerapkan praktik ini secara luas."
+        }
+      ],
+      "phonetics": {
+        "us": "/ˈkɑm.pɑːstɪŋ/",
+        "uk": "/ˈkɒmpɒstɪŋ/"
+      },
+      "meaning": "Proses penguraian bahan-bahan organik menjadi pupuk yang kaya nutrisi.",
+      "synonymMeanings": [
+        "Mengurai bahan-bahan organik",
+        "Membuat pupuk organik",
+        "Mengurangi limbah dengan cara alami"
+      ]
     },
     {
       "id": "33850c07-cd2b-4fc7-be44-d2e914a19a1c",
