@@ -1903,41 +1903,40 @@
         "Heart health",
         "stamina"
       ],
-      "definition": "The state of being physically fit and healthy, especially in relation to the heart and lungs.",
+      "definition": "The state of being physically fit through regular exercise, especially aerobic exercise, to improve the functioning of the heart, lungs, and blood vessels.",
       "userGuesses": [],
-      "status": "hidden",
-      "meaning": "Kesegaran kardiovaskular",
+      "status": "discovered",
+      "meaning": "Kesehatan jantung dan pembuluh darah",
       "phonetics": {
-        "us": "/ˌkɑrdioʊˈvæskjʊlər/",
-        "uk": "/ˌkɑːdioʊˈvæskjʊlə/"
+        "us": "/ˌkɑrdiəˈvæskjʊlər fɪtnəs/",
+        "uk": "/ˌkɑːrdiəˈvæskjʊlər fɪtˌnɛs/"
       },
       "examples": [
         {
           "type": "Simple",
-          "text": "Regular exercise improves cardiovascular fitness.",
-          "translation": "Olahraga teratur meningkatkan kesegaran kardiovaskular."
+          "text": "Regular exercise is essential for maintaining cardiovascular fitness.",
+          "translation": "Latihan teratur sangat penting untuk menjaga kesehatan jantung dan pembuluh darah."
         },
         {
           "type": "Complex",
-          "text": "Because regular exercise is essential for cardiovascular fitness, I try to exercise every day.",
-          "translation": "Karena olahraga teratur sangat penting untuk kesegaran kardiovaskular, aku berusaha berolahraga setiap hari."
+          "text": "While many people believe that cardiovascular fitness can be improved through diet alone, research suggests that regular exercise is also crucial.",
+          "translation": "Meskipun banyak orang percaya bahwa kesehatan jantung dan pembuluh darah dapat ditingkatkan melalui pola makan saja, penelitian menunjukkan bahwa latihan teratur juga sangat penting."
         },
         {
           "type": "Compound",
-          "text": "Cardiovascular fitness is important, and exercise is fun, so I work out every morning.",
-          "translation": "Kesegaran kardiovaskular sangat penting, dan berolahraga itu menyenangkan, jadi aku berolahraga setiap pagi."
+          "text": "Exercise and a balanced diet can both improve cardiovascular fitness, but they have different effects on the body.",
+          "translation": "Latihan dan pola makan seimbang dapat berdua meningkatkan kesehatan jantung dan pembuluh darah, tetapi keduanya memiliki efek yang berbeda pada tubuh."
         },
         {
           "type": "Compound-Complex",
-          "text": "While some people think that cardiovascular fitness is only for athletes, I believe that it is essential for everyone, because regular exercise can prevent heart disease, and it also helps to reduce stress.",
-          "translation": "Sementara beberapa orang berpikir bahwa kesegaran kardiovaskular hanya untuk atlet, aku percaya bahwa itu sangat penting untuk semua orang, karena olahraga teratur dapat mencegah penyakit jantung, dan juga membantu mengurangi stres."
+          "text": "While regular exercise can improve cardiovascular fitness in the short term, it is the long-term consistency of exercise that really matters for maintaining good health.",
+          "translation": "Meskipun latihan teratur dapat meningkatkan kesehatan jantung dan pembuluh darah dalam jangka pendek, faktor yang paling penting untuk menjaga kesehatan yang baik adalah konsistensi latihan jangka panjang."
         }
       ],
       "synonymMeanings": [
-        "kesegaran jasmani",
-        "kesehatan jantung",
-        "kesegaran fisik",
-        "kebugaran"
+        "kesehatan cardio",
+        "kesehatan pernapasan",
+        "keseimbangan jantung dan pembuluh darah"
       ]
     },
     {
