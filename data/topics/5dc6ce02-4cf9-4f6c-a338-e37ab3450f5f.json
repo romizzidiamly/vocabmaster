@@ -1555,41 +1555,41 @@
         "Self-discipline",
         "regulation"
       ],
-      "definition": "the practice of training people to obey rules or a code of behaviour, using punishment or other negative consequences for misbehaviour",
+      "definition": "A branch of knowledge, especially one that is studied in a university or college.",
       "userGuesses": [],
-      "status": "hidden",
-      "meaning": "disiplin",
+      "status": "discovered",
+      "meaning": "Bidang ilmu",
       "phonetics": {
-        "us": "/ˈdɪsəplɪn/",
+        "us": "/ˈdɪsɪplɪn/",
         "uk": "/ˈdɪsɪplɪn/"
       },
       "examples": [
         {
           "type": "Simple",
-          "text": "She has a strong discipline that helps her study every day.",
-          "translation": "Dia memiliki disiplin yang kuat yang membantunya belajar setiap hari."
+          "text": "The new course is part of the department of discipline.",
+          "translation": "Kursus baru itu merupakan bagian dari departemen ilmu."
         },
         {
           "type": "Complex",
-          "text": "Because she has a strong discipline, she can finish her homework on time.",
-          "translation": "Karena dia memiliki disiplin yang kuat, dia dapat menyelesaikan pekerjaan rumahnya tepat waktu."
+          "text": "Students must study a range of disciplines to gain a broad understanding of the subject",
+          "translation": "Mahasiswa harus mempelajari berbagai bidang ilmu untuk memperoleh pemahaman yang luas tentang subjek."
         },
         {
           "type": "Compound",
-          "text": "I need discipline to study, and I also need a quiet place to focus.",
-          "translation": "Saya membutuhkan disiplin untuk belajar, dan saya juga membutuhkan tempat yang tenang untuk fokus."
+          "text": "Business studies and law are related disciplines, and both are taught at university.",
+          "translation": "Ilmu bisnis dan hukum merupakan bidang-bidang ilmu yang berhubungan, dan keduanya diajarkan di universitas."
         },
         {
           "type": "Compound-Complex",
-          "text": "While I was studying, I realized that having discipline is important, but it is also important to have a quiet place to focus, and I need both to succeed.",
-          "translation": "Ketika saya sedang belajar, saya menyadari bahwa memiliki disiplin sangat penting, tetapi juga penting untuk memiliki tempat yang tenang untuk fokus, dan saya membutuhkan keduanya untuk sukses."
+          "text": "By studying different disciplines, students can develop their critical thinking skills and learn how to apply theoretical knowledge to real-world problems.",
+          "translation": "Dengan mempelajari berbagai bidang ilmu, mahasiswa dapat mengembangkan kemampuan berpikir kritis dan mengetahui cara mengaplikasikan pengetahuan teori pada masalah-masalah nyata."
         }
       ],
       "synonymMeanings": [
-        "pengendalian diri",
-        "kedisiplinan",
-        "pengawasan",
-        "penindakan"
+        "Bidang ilmu",
+        "Disiplin ilmu",
+        "Lingkungan ilmu",
+        "Kawasan ilmu"
       ]
     },
     {
