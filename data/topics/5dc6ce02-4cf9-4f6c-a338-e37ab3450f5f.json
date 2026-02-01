@@ -2679,31 +2679,40 @@
         "Neuromuscular control",
         "conscious movement"
       ],
-      "definition": "The ability to focus on muscle engagement during exercise",
+      "definition": "A close connection between the mind and muscles that enables an individual to understand and control their physical movements.",
       "userGuesses": [],
-      "status": "hidden",
-      "meaning": "Meaning not found.",
+      "status": "discovered",
+      "meaning": "Hubungan otak dan otot yang erat",
       "phonetics": {
-        "us": "/.../",
-        "uk": "/.../"
+        "us": "/maɪndˈmʌsəl kɒnˈɛkʃən/",
+        "uk": "/maɪndˈmʌsəl kɒnˈɛkʃən/"
       },
       "examples": [
         {
           "type": "Simple",
-          "text": "Usage of Mind-muscle connection is important."
+          "text": "Developing a strong mind-muscle connection is crucial for physical therapy.",
+          "translation": "Membangun hubungan otak dan otot yang kuat sangat penting dalam terapi fisik."
         },
         {
           "type": "Complex",
-          "text": "Because Mind-muscle connection matters, we should study it."
+          "text": "Although it takes time and effort to establish a good mind-muscle connection, it is essential for achieving optimal physical performance.",
+          "translation": "Meskipun membutuhkan waktu dan usaha untuk membangun hubungan otak dan otot yang baik, hal ini sangat penting untuk mencapai performa fisik yang optimal."
         },
         {
           "type": "Compound",
-          "text": "The word is Mind-muscle connection, and it is useful."
+          "text": "Regular exercise and training can help develop a strong mind-muscle connection, whereas a sedentary lifestyle can hinder progress.",
+          "translation": "Latihan reguler dan pelatihan dapat membantu membangun hubungan otak dan otot yang kuat, sedangkan gaya hidup tidak aktif dapat menghambat kemajuan."
         },
         {
           "type": "Compound-Complex",
-          "text": "If we use Mind-muscle connection correctly, we succeed, so let's try."
+          "text": "Furthermore, developing a strong mind-muscle connection requires a combination of mental discipline and physical exercise, whereas a lack of focus and motivation can hinder progress and lead to disappointment.",
+          "translation": "Selain itu, membangun hubungan otak dan otot yang kuat memerlukan kombinasi disiplin mental dan latihan fisik, sedangkan kekurangan fokus dan motivasi dapat menghambat kemajuan dan menyebabkan kekecewaan."
         }
+      ],
+      "synonymMeanings": [
+        "hubungan otak dan tubuh",
+        "pengendalian otot",
+        "keterampilan motorik"
       ]
     }
   ],
