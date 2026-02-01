@@ -2511,14 +2511,42 @@
         "Rest period",
         "healing phase"
       ],
-      "definition": "The period needed for muscles to heal after exercise",
+      "definition": "The time needed for something or someone to recover from an injury, illness, or other adverse situation.",
       "userGuesses": [],
-      "status": "hidden",
-      "meaning": "n/a",
+      "status": "discovered",
+      "meaning": "Waktu pemulihan",
       "phonetics": {
-        "us": "n/a",
-        "uk": "n/a"
-      }
+        "us": "/riːkəvəriː taɪm/",
+        "uk": "/riːkjʊvəriː taɪm/"
+      },
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "The recovery time for severe burns can take several months.",
+          "translation": "Waktu pemulihan untuk luka bakar parah membutuhkan beberapa bulan."
+        },
+        {
+          "type": "Complex",
+          "text": "If a patient has a history of heart problems, the recovery time after surgery may be longer.",
+          "translation": "Jika pasien memiliki riwayat masalah jantung, waktu pemulihan setelah operasi mungkin lebih lama."
+        },
+        {
+          "type": "Compound",
+          "text": "The recovery time and the cost of treatment are two of the most important factors to consider when choosing a hospital.",
+          "translation": "Waktu pemulihan dan biaya perawatan adalah dua hal yang paling penting untuk diperhatikan ketika memilih rumah sakit."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "The recovery time for athletes who suffer from concussions can be lengthy due to the complexity of the injury, but the right treatment can significantly reduce the recovery time.",
+          "translation": "Waktu pemulihan bagi atlet yang mengalami cedera kepala dapat lama karena kompleksitas cedera, namun perawatan yang tepat dapat mengurangi waktu pemulihan secara signifikan."
+        }
+      ],
+      "synonymMeanings": [
+        "Pemulihan",
+        "Peremajaan",
+        "Pengobatan",
+        "Pulihannya"
+      ]
     },
     {
       "id": "ff064543-c1dd-4d9d-a3e1-520a5dd33e0a",
