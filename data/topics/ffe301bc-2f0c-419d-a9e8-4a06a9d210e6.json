@@ -1263,9 +1263,42 @@
         "Eco-friendly farming",
         "regenerative agriculture"
       ],
-      "definition": "Farming practices that protect the\nenvironment",
+      "definition": "Agricultural practices that produce food without harming the environment.",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "discovered",
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Sustainable agriculture has become a vital aspect of modern farming.",
+          "translation": "Pertanian berkelanjutan telah menjadi aspek penting dalam pertanian modern."
+        },
+        {
+          "type": "Complex",
+          "text": "While sustainable agriculture has many benefits, it also requires significant investment in new technology.",
+          "translation": "Meskipun pertanian berkelanjutan memiliki banyak keuntungan, namun juga memerlukan investasi signifikan dalam teknologi baru."
+        },
+        {
+          "type": "Compound",
+          "text": "Sustainable agriculture is not only an environmental issue, but also an economic and social one.",
+          "translation": "Pertanian berkelanjutan bukan hanya masalah lingkungan, tetapi juga masalah ekonomi dan sosial."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we adopt sustainable agriculture practices, we can reduce our carbon footprint and increase food production, which will have a positive impact on the environment and the economy.",
+          "translation": "Jika kita menerapkan praktik pertanian berkelanjutan, kita dapat mengurangi jejak karbon dan meningkatkan produksi pangan, yang akan memiliki dampak positif pada lingkungan dan ekonomi."
+        }
+      ],
+      "phonetics": {
+        "us": "/səˈstɪnəbəl ˌægrɪˈkʌltʃər/",
+        "uk": "/səˈstɪnəbəl ˌægrɪˈkʌltʃər/"
+      },
+      "meaning": "Pertanian berkelanjutan",
+      "synonymMeanings": [
+        "Pertanian lestari",
+        "Pertanian hijau",
+        "Pertanian berkelanjutan sumber daya",
+        "Pertanian ramah lingkungan"
+      ]
     },
     {
       "id": "878e3121-6e5c-45a9-847c-26ec6e5495cd",
