@@ -913,9 +913,42 @@
         "Threatened wildlife",
         "vulnerable species"
       ],
-      "definition": "A species at risk of extinction",
+      "definition": "A species of animal or plant that is in danger of becoming extinct because of its low population or threats such as habitat destruction.",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "discovered",
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "The rapid growth of the human population has led to the decline of endangered species worldwide.",
+          "translation": "Pertumbuhan penduduk manusia yang cepat telah menyebabkan penurunan spesies terancam punah di seluruh dunia."
+        },
+        {
+          "type": "Complex",
+          "text": "While some people argue that conservation efforts are essential to protect endangered species, others believe that these efforts are often ineffective.",
+          "translation": "Meskipun ada yang berpendapat bahwa upaya pelestarian sangat penting untuk melindungi spesies terancam punah, ada juga yang berpikir bahwa upaya tersebut sering kali tidak efektif."
+        },
+        {
+          "type": "Compound",
+          "text": "The destruction of habitats and the over-exploitation of natural resources have been major threats to endangered species, and governments must take action to prevent these problems.",
+          "translation": "Destruction lingkungan hidup dan eksploitasi sumber daya alam yang berlebihan telah menjadi ancaman besar bagi spesies terancam punah, dan pemerintah harus mengambil tindakan untuk mencegah masalah tersebut."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "Not only have endangered species been affected by climate change, but also by human activities such as deforestation and pollution, which have led to a significant decline in their populations.",
+          "translation": "Bukan hanya spesies terancam punah yang terpengaruh oleh perubahan iklim, tetapi juga oleh kegiatan manusia seperti deforestasi dan polusi, yang telah menyebabkan penurunan signifikan dalam populasi mereka."
+        }
+      ],
+      "phonetics": {
+        "us": "/ɛnˈdɑːndʒərdʒd spɪˈsiːz/",
+        "uk": "/ɛndˈændʒərdʒd spɪˈsiːz/"
+      },
+      "meaning": "Spesies yang terancam punah",
+      "synonymMeanings": [
+        "Spesies langka",
+        "Hewan yang terancam punah",
+        "Tumbuhan yang terancam punah",
+        "Spesies yang berada di ambang punah"
+      ]
     },
     {
       "id": "fea6fb4f-138a-4228-b766-46635cbae2ef",
