@@ -1190,9 +1190,42 @@
         "Environmentally aware",
         "green-minded"
       ],
-      "definition": "Aware of and concerned about\nenvironmental issues",
+      "definition": "Concerned about and actively working to reduce the negative impact of one's actions on the environment.",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "discovered",
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Many people are now eco-conscious and recycle their trash.",
+          "translation": "Banyak orang saat ini peduli lingkungan dan mengumpulkan sampah yang dapat didaur ulang."
+        },
+        {
+          "type": "Complex",
+          "text": "The company's decision to invest in renewable energy is a clear example of its eco-conscious approach to business.",
+          "translation": "Keputusan perusahaan untuk berinvestasi dalam energi terbarukan merupakan contoh jelas dari pendekatan perusahaan yang peduli lingkungan dalam menjalankan bisnis."
+        },
+        {
+          "type": "Compound",
+          "text": "The government is launching a new campaign to promote eco-consciousness among citizens, and the school is also implementing a recycling program.",
+          "translation": "Pemerintah meluncurkan kampanye baru untuk mempromosikan kesadaran akan pentingnya peduli lingkungan di kalangan warga, dan sekolah juga melaksanakan program daur ulang."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "The city's eco-conscious policies have led to a significant reduction in air pollution, which has improved the quality of life for residents, but the city still faces challenges in implementing these policies effectively.",
+          "translation": "Kebijakan pemerintah yang peduli lingkungan telah menyebabkan penurunan signifikan polusi udara, yang telah meningkatkan kualitas hidup warga, namun kota masih menghadapi tantangan dalam melaksanakan kebijakan tersebut secara efektif."
+        }
+      ],
+      "phonetics": {
+        "us": "/ˌiːkoʊˈkɑːnʃəs/",
+        "uk": "/ˌiːkəʊˈkɒnʃəs/"
+      },
+      "meaning": "Peduli lingkungan dan berusaha mengurangi dampak negatif dari tindakan-tindakan kita.",
+      "synonymMeanings": [
+        "ramah lingkungan",
+        "peduli lingkungan",
+        "terkonser dengan lingkungan",
+        "berhati-hati terhadap lingkungan"
+      ]
     },
     {
       "id": "b92d1851-bf39-44a3-a7c0-62711bc6afc9",
