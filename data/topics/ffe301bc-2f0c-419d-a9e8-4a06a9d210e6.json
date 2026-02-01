@@ -1125,9 +1125,41 @@
         "disposal",
         "planning"
       ],
-      "definition": "The process of handling and\ndisposing of waste efficiently",
+      "definition": "The systematic collection, transport, processing, and disposal of waste materials.",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "discovered",
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Effective waste management is crucial for maintaining a clean environment.",
+          "translation": "Manajemen limbah yang efektif sangat penting untuk menjaga lingkungan yang bersih."
+        },
+        {
+          "type": "Complex",
+          "text": "While some cities have implemented advanced waste management systems, many others still struggle with inadequate waste disposal facilities.",
+          "translation": "Sementara beberapa kota telah mengimplementasikan sistem manajemen limbah canggih, banyak lainnya masih mengalami kesulitan dengan fasilitas pengelolaan limbah yang tidak memadai."
+        },
+        {
+          "type": "Compound",
+          "text": "Waste management and recycling are two sides of the same coin.",
+          "translation": "Manajemen limbah dan daur ulang adalah dua sisi mata uang yang sama."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "In addition to reducing greenhouse gas emissions, implementing efficient waste management practices can also help to conserve natural resources and protect public health.",
+          "translation": "Selain mengurangi emisi gas rumah kaca, melaksanakan praktek-praktek manajemen limbah yang efisien juga dapat membantu melestarikan sumber daya alam dan melindungi kesehatan masyarakat."
+        }
+      ],
+      "phonetics": {
+        "us": "/weɪst mænɪdʒmənt/",
+        "uk": "/weɪst mænɪdʒmənt/"
+      },
+      "meaning": "Manajemen limbah",
+      "synonymMeanings": [
+        "pengelolaan limbah",
+        "pengurangan limbah",
+        "penanganan limbah"
+      ]
     },
     {
       "id": "03912aa1-5e90-467e-9080-de00146cba9c",
