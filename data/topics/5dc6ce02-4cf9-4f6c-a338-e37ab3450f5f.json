@@ -2180,41 +2180,41 @@
         "Exercise cycle",
         "movement count"
       ],
-      "definition": "The act of doing or saying something again, especially because it has a particular effect or achieves a particular result.",
+      "definition": "The act of doing or saying the same thing again and again, often as a way of emphasizing a point or to make something more memorable.",
       "userGuesses": [],
-      "status": "hidden",
-      "meaning": "Pengulangan",
+      "status": "discovered",
+      "meaning": "Ulangan atau pengulangan",
       "phonetics": {
-        "us": "/ˌrɛpɪˈtɪʃən/",
-        "uk": "/ˌrepɪˈtɪʃən/"
+        "us": "/riːpɪtɪʃən/",
+        "uk": "/riːpɪtɪʃən/"
       },
       "examples": [
         {
           "type": "Simple",
-          "text": "The teacher warned the student about the repetition of his mistakes.",
-          "translation": "Guru itu memperingatkan siswa tentang pengulangan kesalahannya."
+          "text": "The teacher repeated the instructions several times to ensure the students understood.",
+          "translation": "Guru mengulangi instruksi beberapa kali untuk memastikan siswa memahami."
         },
         {
           "type": "Complex",
-          "text": "Because the company did not correct its mistakes, the repetition of errors led to its downfall.",
-          "translation": "Karena perusahaan itu tidak memperbaiki kesalahannya, pengulangan kesalahan itu menyebabkan kehancurannya."
+          "text": "The researcher's findings were based on several studies that had all concluded the same thing, but she still felt the need to repeat the results to emphasize the significance.",
+          "translation": "Temuan peneliti ini berdasarkan beberapa penelitian yang telah memutuskan hal yang sama, namun dia masih merasa perlu mengulangi hasilnya untuk menekankan pentingnya."
         },
         {
           "type": "Compound",
-          "text": "The repetition of the exercise helped me build muscle, and I also lost weight.",
-          "translation": "Pengulangan latihan itu membantu saya membangun otot, dan saya juga kehilangan berat badan."
+          "text": "The teacher repeated the question, and the student repeated the answer, but they both forgot to turn in their work on time.",
+          "translation": "Guru mengulangi pertanyaan, dan siswa mengulangi jawabannya, namun mereka sama-sama lupa menyerahkan pekerjaan tepat waktu."
         },
         {
           "type": "Compound-Complex",
-          "text": "While I was practicing the piano, I realized that the repetition of certain melodies was necessary to master the piece, but it was also boring, and I needed to take breaks occasionally.",
-          "translation": "Saat saya berlatih piano, saya menyadari bahwa pengulangan beberapa melodi tertentu diperlukan untuk menguasai bagian itu, tapi juga membosankan, dan saya perlu beristirahat sesekali."
+          "text": "Although the students had studied the material for several months, the teacher still felt the need to repeat certain key concepts to ensure they were understood, and she also encouraged them to ask questions if they were unsure.",
+          "translation": "Meskipun siswa telah belajar materi selama beberapa bulan, guru masih merasa perlu mengulangi beberapa konsep kunci untuk memastikan mereka dipahami, dan dia juga mendorong mereka untuk bertanya jika mereka tidak yakin."
         }
       ],
       "synonymMeanings": [
-        "pengulangan",
-        "peniruan",
-        "mengulang",
-        "mengulangi"
+        "Ulangan",
+        "Pengulangan",
+        "Ulang",
+        "Rekaman"
       ]
     },
     {
