@@ -9,9 +9,9 @@
         "Wellness",
         "good health"
       ],
-      "definition": "The state of being happy, healthy, and comfortable.",
+      "definition": "The state of being happy, healthy, and prosperous.",
       "userGuesses": [],
-      "status": "hidden",
+      "status": "discovered",
       "meaning": "Kesejahteraan",
       "phonetics": {
         "us": "/ˈwɛlˌbiɪŋ/",
@@ -20,30 +20,29 @@
       "examples": [
         {
           "type": "Simple",
-          "text": "She prioritizes her well-being by exercising regularly.",
-          "translation": "Dia memprioritaskan kesejahteraannya dengan berolahraga secara teratur."
+          "text": "Exercise is essential for our well-being.",
+          "translation": "Olahraga sangat penting untuk kesejahteraan kita."
         },
         {
           "type": "Complex",
-          "text": "Because she eats a balanced diet, her well-being has improved significantly.",
-          "translation": "Karena dia makan makanan seimbang, kesejahteraannya telah meningkat secara signifikan."
+          "text": "Because regular exercise improves our well-being, we should make it a habit.",
+          "translation": "Karena olahraga teratur meningkatkan kesejahteraan kita, kita sebaiknya menjadikannya kebiasaan."
         },
         {
           "type": "Compound",
-          "text": "She exercises regularly and eats a healthy diet to maintain her well-being.",
-          "translation": "Dia berolahraga secara teratur dan makan makanan sehat untuk menjaga kesejahteraannya."
+          "text": "I prioritize my well-being, and I also value my relationships.",
+          "translation": "Saya mengutamakan kesejahteraan saya, dan saya juga menghargai hubungan saya."
         },
         {
           "type": "Compound-Complex",
-          "text": "While she was on vacation, she prioritized her well-being by exercising regularly, and as a result, she felt more energized because she had also been eating a balanced diet.",
-          "translation": "Ketika dia sedang berlibur, dia memprioritaskan kesejahteraannya dengan berolahraga secara teratur, dan sebagai hasilnya, dia merasa lebih berenergi karena dia juga telah makan makanan seimbang."
+          "text": "While I prioritize my well-being, and I also value my relationships, I believe that a balance between the two is crucial because it affects my overall happiness.",
+          "translation": "Saya mengutamakan kesejahteraan saya, dan saya juga menghargai hubungan saya, tetapi saya percaya bahwa keseimbangan antara keduanya sangat penting karena mempengaruhi kebahagiaan saya secara keseluruhan."
         }
       ],
       "synonymMeanings": [
         "Kesehatan",
         "Kebahagiaan",
-        "Kenyamanan",
-        "Keberuntungan"
+        "Keselamatan"
       ]
     },
     {
