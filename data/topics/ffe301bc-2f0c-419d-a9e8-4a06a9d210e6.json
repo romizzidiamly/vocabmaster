@@ -601,9 +601,41 @@
         "Preservation",
         "sustainability"
       ],
-      "definition": "The protection and preservation of\nnatural resources",
+      "definition": "The act of saving or preserving something (such as the environment or a resource) from being wasted or destroyed.",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "discovered",
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "The government has launched a conservation program to protect endangered species.",
+          "translation": "Pemerintah telah meluncurkan program pengawetan untuk melindungi spesies yang terancam punah."
+        },
+        {
+          "type": "Complex",
+          "text": "The effects of climate change on the environment have led to an urgent need for conservation efforts.",
+          "translation": "Dampak perubahan iklim terhadap lingkungan telah menyebabkan kebutuhan mendesak untuk meningkatkan upaya pengawetan."
+        },
+        {
+          "type": "Compound",
+          "text": "The city has implemented new laws to reduce pollution, as well as conservation efforts to protect its forests.",
+          "translation": "Kota ini telah menerapkan hukum baru untuk mengurangi polusi, serta upaya pengawetan untuk melindungi hutan-hutannya."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "The lack of funding for conservation projects has hindered the efforts of local communities to protect their natural resources, but the government's recent initiatives have provided a glimmer of hope.",
+          "translation": "Keterbatasan dana untuk proyek-proyek pengawetan telah menghambat usaha masyarakat lokal untuk melindungi sumber daya alam mereka, namun inisiatif pemerintah baru-baru ini telah menyediakan harapan yang sedikit."
+        }
+      ],
+      "phonetics": {
+        "us": "/kənˈsɜrvʌʃən/",
+        "uk": "/kɒnˈsɜːvəʃən/"
+      },
+      "meaning": "Pengawetan",
+      "synonymMeanings": [
+        "Pengelolaan lingkungan",
+        "Pengamanan sumber daya",
+        "Hutan lindung"
+      ]
     },
     {
       "id": "cddc6965-6bf1-4f12-8fa5-96b8b02bea0c",
