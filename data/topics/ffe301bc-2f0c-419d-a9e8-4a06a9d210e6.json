@@ -385,9 +385,41 @@
         "Contamination",
         "degradation"
       ],
-      "definition": "The introduction of harmful\nsubstances into the environment",
+      "definition": "The presence of harmful substances or products in the environment, especially air and water.",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "discovered",
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Pollution is a major concern in many developing countries.",
+          "translation": "Kerusakan lingkungan menjadi masalah besar di banyak negara berkembang."
+        },
+        {
+          "type": "Complex",
+          "text": "The increasing amount of pollution in our oceans is causing a decline in marine life.",
+          "translation": "Kenaikan kadar polusi di laut kami menyebabkan penurunan jumlah kehidupan laut."
+        },
+        {
+          "type": "Compound",
+          "text": "Pollution and climate change are two of the main reasons for the loss of biodiversity.",
+          "translation": "Kerusakan lingkungan dan perubahan iklim merupakan dua alasan utama hilangnya keanekaragaman hayati."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we do not take immediate action to reduce pollution, it will have serious consequences for our health and the environment.",
+          "translation": "Jika kita tidak mengambil tindakan segera untuk mengurangi polusi, maka akan akan membawa konsekuensi serius bagi kesehatan dan lingkungan kami."
+        }
+      ],
+      "phonetics": {
+        "us": "/ˈpɑːlʊˌteɪʃən/",
+        "uk": "/ˈpɒlʊteɪʃən/"
+      },
+      "meaning": "Kerusakan lingkungan karena adanya zat-zat berbahaya",
+      "synonymMeanings": [
+        "Kerusakan lingkungan",
+        "Pencemaran",
+        "Kontaminasi"
+      ]
     },
     {
       "id": "a5f9ce6a-2962-429b-884c-a3f30aaa531b",
