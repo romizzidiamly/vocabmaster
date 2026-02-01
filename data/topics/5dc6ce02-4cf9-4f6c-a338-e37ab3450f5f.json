@@ -273,11 +273,11 @@
       ],
       "definition": "a medical condition in which the body does not produce enough insulin, leading to high blood sugar levels",
       "userGuesses": [],
-      "status": "hidden",
+      "status": "discovered",
       "meaning": "penyakit diabetes",
       "phonetics": {
         "us": "/daɪəˈbiːtiːz/",
-        "uk": "/ˈdʌɪəbiːtiːz/"
+        "uk": "/ˈdaɪəbɪtiːz/"
       },
       "examples": [
         {
@@ -287,18 +287,18 @@
         },
         {
           "type": "Complex",
-          "text": "Because she has diabetes, she needs to control her diet.",
-          "translation": "Karena dia menderita penyakit diabetes, dia perlu mengontrol pola makannya."
+          "text": "Because she has diabetes, she has to monitor her blood sugar levels constantly.",
+          "translation": "Karena dia menderita penyakit diabetes, dia harus terus-menerus memantau kadar gula darahnya."
         },
         {
           "type": "Compound",
-          "text": "She has diabetes and her brother has high blood pressure.",
-          "translation": "Dia menderita penyakit diabetes dan saudaranya memiliki tekanan darah tinggi."
+          "text": "She has diabetes and her brother has it too.",
+          "translation": "Dia menderita penyakit diabetes dan saudaranya juga menderitanya."
         },
         {
           "type": "Compound-Complex",
-          "text": "While she has diabetes, her brother has high blood pressure, and because of this, they both need to take care of their health.",
-          "translation": "Sementara dia menderita penyakit diabetes, saudaranya memiliki tekanan darah tinggi, dan karena itu, mereka berdua perlu menjaga kesehatan mereka."
+          "text": "While she has diabetes, her brother has it too, and because of that, they both have to be careful with their diet.",
+          "translation": "Sementara dia menderita penyakit diabetes, saudaranya juga menderitanya, dan karena itu, mereka berdua harus berhati-hati dengan pola makan mereka."
         }
       ],
       "synonymMeanings": [
