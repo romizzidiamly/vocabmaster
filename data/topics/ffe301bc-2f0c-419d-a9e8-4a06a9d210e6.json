@@ -1232,9 +1232,41 @@
         "species",
         "protection"
       ],
-      "definition": "The protection of animal species and\nhabitats",
+      "definition": "The practice of protecting and conserving wild animals and their habitats.",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "discovered",
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Wildlife preservation is essential for maintaining biodiversity.",
+          "translation": "Konservasi satwa liar sangat penting untuk menjaga keanekaragaman hayati."
+        },
+        {
+          "type": "Complex",
+          "text": "The government has implemented various policies to ensure effective wildlife preservation, which has led to a significant increase in the population of endangered species.",
+          "translation": "Pemerintah telah menerapkan berbagai kebijakan untuk memastikan konservasi satwa liar efektif, yang telah menyebabkan peningkatan populasi spesies yang terancam secara signifikan."
+        },
+        {
+          "type": "Compound",
+          "text": "Wildlife preservation and conservation of natural resources are closely linked.",
+          "translation": "Konservasi satwa liar dan pelestarian sumber daya alam sangat terkait satu sama lain."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "The impact of human activities on wildlife preservation is a major concern, as it can lead to habitat destruction and the decline of endangered species, which in turn can have severe consequences for the ecosystem.",
+          "translation": "Dampakgiatan manusia terhadap konservasi satwa liar merupakan kekhawatiran utama, karena dapat menyebabkan destruktif habitat dan penurunan spesies yang terancam, yang pada gilirannya dapat menyebabkan konsekuensi yang parah bagi sistem ekosistem."
+        }
+      ],
+      "phonetics": {
+        "us": "/ˌwaɪldˌlaɪf ˌprɛzərˈveɪʃən/",
+        "uk": "/ˌwaɪldˌlaɪf ˌprɛzərveɪˈʃən/"
+      },
+      "meaning": "Konservasi satwa liar dan habitatnya.",
+      "synonymMeanings": [
+        "konservasi satwa liar",
+        "pelestarian satwa liar",
+        "perlindungan lingkungan"
+      ]
     },
     {
       "id": "bfd95897-2d18-4f86-b198-69e30f4d21c9",
