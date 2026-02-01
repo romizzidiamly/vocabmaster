@@ -1298,9 +1298,42 @@
         "Eco-programs",
         "conservation efforts"
       ],
-      "definition": "Programs that promote\nenvironmental sustainability",
+      "definition": "Actions taken to reduce the negative impact of human activities on the environment.",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "discovered",
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "The new government has implemented several green initiatives to reduce carbon emissions.",
+          "translation": "Pemerintah baru ini telah melaksanakan beberapa inisiatif lingkungan untuk mengurangi emisi karbon."
+        },
+        {
+          "type": "Complex",
+          "text": "The increasing demand for sustainable energy has led to the development of new green initiatives in the industry.",
+          "translation": "Tuntutan yang meningkat untuk energi terbarukan telah memicu perkembangan inisiatif lingkungan baru dalam industri."
+        },
+        {
+          "type": "Compound",
+          "text": "Green initiatives can be seen in many areas of our lives, from reducing waste to using public transport.",
+          "translation": "Inisiatif lingkungan dapat dilihat dalam banyak aspek kehidupan kita, mulai dari mengurangi limbah hingga menggunakan transportasi umum."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "While some people argue that green initiatives are too expensive, others believe that the long-term benefits outweigh the costs.",
+          "translation": "Meskipun beberapa orang berpendapat bahwa inisiatif lingkungan terlalu mahal, orang lain percaya bahwa manfaat jangka panjang melebihi biaya."
+        }
+      ],
+      "phonetics": {
+        "us": "/ˈɡriːn ɪnɪˈsɪətɪvz/",
+        "uk": "/ˈɡriːn ɪnɪˈsɪtɪvz/"
+      },
+      "meaning": "Inisiatif lingkungan",
+      "synonymMeanings": [
+        "usaha lingkungan",
+        "inisiatif hijau",
+        "upaya ramah lingkungan",
+        "program lingkungan"
+      ]
     },
     {
       "id": "0402d020-05d2-44d0-ade2-082685504891",
