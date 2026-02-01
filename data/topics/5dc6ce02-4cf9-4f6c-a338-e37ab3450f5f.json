@@ -1271,40 +1271,40 @@
         "Teenage years",
         "youth"
       ],
-      "definition": "The period of life when a person is developing from a child into an adult, from about the age of 13 to 19.",
+      "definition": "The period of life when a person is developing from a child to an adult, typically between the ages of 13 and 19.",
       "userGuesses": [],
-      "status": "hidden",
-      "meaning": "Masa remaja",
+      "status": "discovered",
+      "meaning": "Periode pembentukan remaja",
       "phonetics": {
-        "us": "/ˌædəˈlesns/",
-        "uk": "/ˌædəˈlɛsəns/"
+        "us": "/ədˈɒlsəns",
+        "uk": "/ædˈɒlsəns/"
       },
       "examples": [
         {
           "type": "Simple",
-          "text": "She began to develop her own interests during adolescence.",
-          "translation": "Dia mulai mengembangkan minatnya sendiri selama masa remaja."
+          "text": "The challenges of adolescence can be difficult for many young people to overcome.",
+          "translation": "Periode pembentukan remaja sering kali menjadi kesulitan bagi banyak remaja."
         },
         {
           "type": "Complex",
-          "text": "Because she had a difficult time in adolescence, she struggled to form close relationships as an adult.",
-          "translation": "Karena dia mengalami masa sulit selama masa remaja, dia berjuang untuk membentuk hubungan dekat sebagai orang dewasa."
+          "text": "As a result of peer pressure, many teenagers during adolescence engage in risk-taking behaviors.",
+          "translation": "Karena tekanan dari teman-teman, banyak remaja selama periode pembentukan remaja melakukan perilaku berisiko."
         },
         {
           "type": "Compound",
-          "text": "Adolescence is a challenging time, and many teenagers struggle with identity issues, but most eventually find their place in the world, and some even become leaders.",
-          "translation": "Masa remaja adalah waktu yang menantang, dan banyak remaja berjuang dengan masalah identitas, tapi kebanyakan akhirnya menemukan tempat mereka di dunia, dan beberapa bahkan menjadi pemimpin."
+          "text": "Adolescence is a period of significant physical, emotional, and social change for young people, but it is also a time of great opportunity.",
+          "translation": "Periode pembentukan remaja adalah masa perubahan signifikan secara fisik, emosi, dan sosial bagi remaja, tetapi juga merupakan masa kesempatan yang besar."
         },
         {
           "type": "Compound-Complex",
-          "text": "While adolescence can be a tumultuous period, during which teenagers often experience mood swings and rebel against authority, it is also a time of great opportunity for growth and self-discovery, because they are learning to navigate complex social relationships and develop their own sense of purpose.",
-          "translation": "Sementara masa remaja bisa menjadi periode yang berubah-ubah, di mana remaja sering mengalami perubahan mood dan memberontak melawan otoritas, itu juga merupakan waktu besar untuk pertumbuhan dan penemuan diri, karena mereka sedang belajar untuk mengarungi hubungan sosial yang kompleks dan mengembangkan tujuan mereka sendiri."
+          "text": "While some teenagers struggle to cope with the emotional demands of adolescence, others find the experience to be a transformative and empowering one.",
+          "translation": "Meskipun beberapa remaja mengalami kesulitan dalam menghadapi tuntutan emosi selama periode pembentukan remaja, lainnya menemukan pengalaman tersebut sebagai pengalaman transformatif dan memotivasi."
         }
       ],
       "synonymMeanings": [
-        "Masa puber",
-        "Masa transisi",
-        "Masa perkembangan"
+        "perempuan remaja",
+        "remaja",
+        "masa remaja"
       ]
     },
     {
