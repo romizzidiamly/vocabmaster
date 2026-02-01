@@ -52,31 +52,41 @@
         "Species richness",
         "ecological diversity"
       ],
-      "definition": "The variety of plant and animal life in\na particular habitat",
+      "definition": "The variety of different plants, animals, and microorganisms that live in an ecosystem, and the genetic diversity within each species.",
       "userGuesses": [],
-      "status": "hidden",
-      "meaning": "Meaning not found.",
+      "status": "discovered",
+      "meaning": "Keanekaragaman hayati",
       "phonetics": {
-        "us": "/.../",
-        "uk": "/.../"
+        "us": "/baɪəˈdɪvərʃɪti/",
+        "uk": "/baɪəˈdɪvərˌsɪti/"
       },
       "examples": [
         {
           "type": "Simple",
-          "text": "Usage of Biodiversity is important."
+          "text": "The destruction of rainforests has led to a significant loss of biodiversity.",
+          "translation": "Penghancuran hutan hujan telah menyebabkan kerugian besar akan keanekaragaman hayati."
         },
         {
           "type": "Complex",
-          "text": "Because Biodiversity matters, we should study it."
+          "text": "Although climate change is a major threat to biodiversity, conservation efforts have been made to protect endangered species.",
+          "translation": "Meskipun perubahan iklim merupakan ancaman besar terhadap keanekaragaman hayati, upaya konservasi telah dilakukan untuk melindungi spesies yang terancam punah."
         },
         {
           "type": "Compound",
-          "text": "The word is Biodiversity, and it is useful."
+          "text": "Deforestation and pollution are two major causes of biodiversity loss, and it is essential to address these issues to prevent further damage.",
+          "translation": "Penghancuran hutan dan polusi merupakan dua penyebab utama kehilangan keanekaragaman hayati, dan sangat penting untuk menangani masalah-masalah ini untuk mencegah kerusakan lebih lanjut."
         },
         {
           "type": "Compound-Complex",
-          "text": "If we use Biodiversity correctly, we succeed, so let's try."
+          "text": "While the preservation of biodiversity is crucial for maintaining ecosystem balance, it is also important to acknowledge the impact of human activities on the environment.",
+          "translation": "Meskipun pelestarian keanekaragaman hayati sangat penting untuk menjaga keseimbangan ekosistem, juga penting untuk mengakui dampak aktivitas manusia terhadap lingkungan."
         }
+      ],
+      "synonymMeanings": [
+        "keanekaragaman spesies",
+        "keragaman hayati",
+        "kehilangan spesies",
+        "perubahan spesies"
       ]
     },
     {
