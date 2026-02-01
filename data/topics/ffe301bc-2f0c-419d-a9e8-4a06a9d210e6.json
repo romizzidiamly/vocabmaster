@@ -1278,41 +1278,41 @@
         "Environmental impact",
         "resource consumption"
       ],
-      "definition": "the effect that a person, company, etc. has on the environment, for example by the amount of energy they use, the waste they produce, etc.",
+      "definition": "The amount of land, water, or other resources required to produce the food, energy, and other products that a person or organization uses.",
       "userGuesses": [],
-      "status": "hidden",
+      "status": "discovered",
       "examples": [
         {
           "type": "Simple",
-          "text": "The company is trying to reduce its ecological footprint.",
-          "translation": "Perusahaan tersebut berusaha mengurangi jejak ekologisnya."
+          "text": "The increasing ecological footprint of our city poses a significant threat to its sustainability.",
+          "translation": "Jejak lingkungan hidup kota kami semakin meningkat dan mengancam keberlangsungan kota kami."
         },
         {
           "type": "Complex",
-          "text": "Because the company uses renewable energy, its ecological footprint is smaller than that of other companies.",
-          "translation": "Karena perusahaan tersebut menggunakan energi terbarukan, jejak ekologisnya lebih kecil dibandingkan dengan perusahaan lain."
+          "text": "Although the new policy aims to reduce the ecological footprint of industries, its effectiveness is still uncertain.",
+          "translation": "Meskipun kebijakan baru itu bertujuan untuk mengurangi jejak lingkungan hidup industri, namun efektifitas kebijakan tersebut masih belum terjamin."
         },
         {
           "type": "Compound",
-          "text": "The company reduced its ecological footprint and increased its profits.",
-          "translation": "Perusahaan tersebut mengurangi jejak ekologisnya dan meningkatkan keuntungannya."
+          "text": "The government has implemented several measures to reduce the ecological footprint of transportation, including promoting the use of electric vehicles and improving public transportation.",
+          "translation": "Pemerintah telah menetapkan beberapa kebijakan untuk mengurangi jejak lingkungan hidup transportasi, termasuk mempromosikan penggunaan kendaraan listrik dan meningkatkan kualitas transportasi umum."
         },
         {
           "type": "Compound-Complex",
-          "text": "While the company was reducing its ecological footprint, it also increased its profits, because it was able to save money on energy costs.",
-          "translation": "Saat perusahaan tersebut mengurangi jejak ekologisnya, juga meningkatkan keuntungannya, karena dapat menghemat biaya energi."
+          "text": "However, despite these efforts, the ecological footprint of our country remains one of the highest in the world, mainly due to the rapid growth of the population and the increasing demand for consumer goods.",
+          "translation": "Namun, meskipun upaya-upaya tersebut, jejak lingkungan hidup negara kami masih salah satu yang tertinggi di dunia, terutama karena pertumbuhan populasi yang cepat dan meningkatnya kebutuhan masyarakat akan barang-barang konsumsi."
         }
       ],
       "phonetics": {
-        "us": "/ˌɛkəˈlɒdʒɪkəl ˈfʊtprɪnt/",
-        "uk": "/ˌɛkəˈlɒdʒɪkəl ˈfʊtprɪnt/"
+        "us": "/ɪˈkɒlədʒɪkəl ˈfɔːptoʊt/",
+        "uk": "/ɪˈkɒlədʒɪkəl ˈfɔːptoʊt/"
       },
-      "meaning": "jejak ekologis",
+      "meaning": "Jejak lingkungan hidup",
       "synonymMeanings": [
-        "dampak lingkungan",
-        "tanda ekologis",
-        "bekas lingkungan",
-        "pengaruh alam"
+        "Dampak lingkungan",
+        "Pengaruh ekologi",
+        "Kerentanan lingkungan",
+        "Kapasitas lingkungan"
       ]
     },
     {
