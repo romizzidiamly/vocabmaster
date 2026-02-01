@@ -2634,31 +2634,40 @@
         "Burnout",
         "physical strain"
       ],
-      "definition": "Excessive exercise that leads to fatigue and decreased performance",
+      "definition": "Excessive exercise or physical activity, especially without adequate rest, leading to physical or mental fatigue.",
       "userGuesses": [],
-      "status": "hidden",
-      "meaning": "Meaning not found.",
+      "status": "discovered",
+      "meaning": "Peregangan otot atau kelelahan fisik akibat latihan yang berlebihan tanpa istirahat yang cukup.",
       "phonetics": {
-        "us": "/.../",
-        "uk": "/.../"
+        "us": "/ˌoʊvərˈtreɪnɪŋ/",
+        "uk": "/ˌoʊvərˈtreɪnɪŋ/"
       },
       "examples": [
         {
           "type": "Simple",
-          "text": "Usage of Overtraining is important."
+          "text": "Overtraining can lead to serious health problems.",
+          "translation": "Peregangan otot dapat menyebabkan masalah kesehatan serius."
         },
         {
           "type": "Complex",
-          "text": "Because Overtraining matters, we should study it."
+          "text": "While many athletes train hard, they often ignore the risks of overtraining and its consequences on their health.",
+          "translation": "Meskipun banyak atlet melakukan latihan keras, mereka sering mengabaikan risiko peregangan otot serta dampaknya pada kesehatan mereka."
         },
         {
           "type": "Compound",
-          "text": "The word is Overtraining, and it is useful."
+          "text": "Regular exercise is essential for a healthy lifestyle, but overtraining can be detrimental to one's well-being.",
+          "translation": "Latihan teratur sangat penting untuk gaya hidup sehat, tetapi peregangan otot dapat merugikan kesejahteraan seseorang."
         },
         {
           "type": "Compound-Complex",
-          "text": "If we use Overtraining correctly, we succeed, so let's try."
+          "text": "Overtraining can cause muscle fatigue, which may lead to decreased performance and increased risk of injury, especially for athletes who do not take adequate rest and nutrition.",
+          "translation": "Peregangan otot dapat menyebabkan kelelahan otot, yang dapat mengarah pada penurunan kinerja dan peningkatan risiko cedera, terutama bagi atlet yang tidak mengambil istirahat dan nutrisi yang cukup."
         }
+      ],
+      "synonymMeanings": [
+        "Penggunaan fisik yang berlebihan",
+        "Kelelahan fisik akibat latihan",
+        "Latihan yang tidak seimbang"
       ]
     },
     {
