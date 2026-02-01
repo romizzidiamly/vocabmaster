@@ -227,41 +227,41 @@
         "Heart disease",
         "circulatory disorder"
       ],
-      "definition": "any disease of the heart or the blood vessels, such as heart disease or stroke",
+      "definition": "A medical condition that affects the heart and blood vessels, often caused by a lack of exercise, a poor diet, and smoking.",
       "userGuesses": [],
-      "status": "hidden",
-      "meaning": "penyakit kardiovaskular",
+      "status": "discovered",
+      "meaning": "Penyakit peredaran darah",
       "phonetics": {
-        "us": "/ˌkɑːrdioʊˈvæskjʊlər/",
-        "uk": "/ˌkɑːdiəʊˈvæskjʊlə/"
+        "us": "/ˌkɑr.dioʊˈvæskjʊˌlɛr dɪˈziːz/",
+        "uk": "/ˌkɑːr.dioʊˈvæskjʊˌlɛr dɪˈziːz/"
       },
       "examples": [
         {
           "type": "Simple",
-          "text": "Cardiovascular disease is a major cause of death worldwide.",
-          "translation": "Penyakit kardiovaskular adalah penyebab utama kematian di seluruh dunia."
+          "text": "Cardiovascular disease is the leading cause of death worldwide.",
+          "translation": "Penyakit peredaran darah adalah penyebab utama kematian di seluruh dunia."
         },
         {
           "type": "Complex",
-          "text": "Because cardiovascular disease can be caused by a variety of factors, it is essential to identify the root cause of the problem.",
-          "translation": "Karena penyakit kardiovaskular dapat disebabkan oleh berbagai faktor, maka sangat penting untuk mengidentifikasi penyebab utama masalah tersebut."
+          "text": "Regular exercise can help reduce the risk of cardiovascular disease in individuals who are overweight.",
+          "translation": "Latihan teratur dapat membantu mengurangi risiko penyakit peredaran darah pada individu yang kelebihan berat badan."
         },
         {
           "type": "Compound",
-          "text": "Cardiovascular disease is a serious health issue, and regular exercise can help prevent it, but a healthy diet is also necessary.",
-          "translation": "Penyakit kardiovaskular adalah masalah kesehatan yang serius, dan olahraga teratur dapat membantu mencegahnya, tetapi pola makan sehat juga diperlukan."
+          "text": "Smoking is a major risk factor for cardiovascular disease and heart attacks, while a healthy diet and regular exercise can help prevent them.",
+          "translation": "Merokok adalah faktor risiko utama penyakit peredaran darah dan serangan jantung, sedangkan diet seimbang dan latihan teratur dapat membantu mencegahnya."
         },
         {
           "type": "Compound-Complex",
-          "text": "While cardiovascular disease is a major cause of death worldwide, it can be prevented by a combination of regular exercise, a healthy diet, and not smoking, because these factors can help reduce the risk of heart disease.",
-          "translation": "Sementara penyakit kardiovaskular adalah penyebab utama kematian di seluruh dunia, namun dapat dicegah dengan kombinasi olahraga teratur, pola makan sehat, dan tidak merokok, karena faktor-faktor tersebut dapat membantu mengurangi risiko penyakit jantung."
+          "text": "If you have a family history of cardiovascular disease, you should consult with your doctor about the best ways to prevent it, such as maintaining a healthy weight, exercising regularly, and following a balanced diet.",
+          "translation": "Jika Anda memiliki riwayat keluarga penyakit peredaran darah, sebaiknya Anda berkonsultasi dengan dokter tentang cara terbaik untuk mencegahnya, seperti menjaga berat badan yang sehat, berolahraga secara teratur, dan mengikuti diet seimbang."
         }
       ],
       "synonymMeanings": [
         "penyakit jantung",
         "penyakit pembuluh darah",
-        "gangguan kardiovaskular",
-        "penyakit sirkulasi darah"
+        "penyakit peredaran darah koroner",
+        "penyakit pernapasan"
       ]
     },
     {
