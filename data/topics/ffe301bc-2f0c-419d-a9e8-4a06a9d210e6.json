@@ -959,9 +959,42 @@
         "Environmentally friendly",
         "sustainable"
       ],
-      "definition": "Not harmful to the environment",
+      "definition": "Produced or designed to be environmentally friendly.",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "discovered",
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "The company's eco-friendly practices have reduced pollution in the area.",
+          "translation": "Praktik perusahaan ramah lingkungan telah mengurangi polusi di daerah tersebut."
+        },
+        {
+          "type": "Complex",
+          "text": "However, the cost of eco-friendly products is still relatively high, which may discourage consumers from buying them.",
+          "translation": "Namun, biaya produk ramah lingkungan masih relatif tinggi, yang mungkin menghambat konsumen untuk membelinya."
+        },
+        {
+          "type": "Compound",
+          "text": "The government has introduced several policies to promote eco-friendly transportation, including incentives for electric car owners.",
+          "translation": "Pemerintah telah mengenalkan beberapa kebijakan untuk mempromosikan transportasi ramah lingkungan, termasuk insentif bagi pemilik mobil listrik."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "While eco-friendly packaging has become increasingly popular, its effectiveness in reducing waste is still a topic of debate among environmentalists.",
+          "translation": "Meskipun pengemasan ramah lingkungan telah menjadi semakin populer, ke efektifannya dalam mengurangi limbah masih menjadi topik perdebatan di kalangan lingkungan hidup."
+        }
+      ],
+      "phonetics": {
+        "us": "/ˌiːkoʊˈfrɛndli/",
+        "uk": "/ˌiːkəʊˈfrendli/"
+      },
+      "meaning": "Ramah lingkungan",
+      "synonymMeanings": [
+        "Ramah lingkungan",
+        "Lingkungan",
+        "Hijau",
+        "Peduli lingkungan"
+      ]
     },
     {
       "id": "2bbd67e9-6a78-4116-9d7a-27e67cfba2ff",
