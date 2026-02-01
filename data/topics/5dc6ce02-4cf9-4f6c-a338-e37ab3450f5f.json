@@ -918,41 +918,41 @@
         "Detox effects",
         "cravings"
       ],
-      "definition": "physical and mental problems that happen when someone stops taking a drug or drinking alcohol after using it or drinking it regularly",
+      "definition": "Physical and psychological reactions that occur when a person stops taking a substance to which they have become addicted.",
       "userGuesses": [],
-      "status": "hidden",
-      "meaning": "gejala putus obat atau alkohol",
+      "status": "discovered",
+      "meaning": "Gejala perlawanan kesehatan yang timbul ketika seseorang berhenti mengonsumsi zat yang telah menyebabkan kecanduan.",
       "phonetics": {
-        "us": "/wɪðˈdrɔːl ˈsɪmp.təmz/",
-        "uk": "/wɪθˈdrɔːl ˈsɪmptəmz/"
+        "us": "/ˌwɪdrɔːwəl ˈsɪmp.təmz/",
+        "uk": "/ˌwɪdrəwəl ˈsɪmp.təmz/"
       },
       "examples": [
         {
           "type": "Simple",
-          "text": "The patient experienced withdrawal symptoms after stopping the medication.",
-          "translation": "Pasien mengalami gejala putus obat setelah berhenti minum obat."
+          "text": "Many people experience withdrawal symptoms after quitting smoking.",
+          "translation": "Banyak orang mengalami gejala perlawanan kesehatan setelah berhenti merokok."
         },
         {
           "type": "Complex",
-          "text": "When she stopped drinking, she suffered from withdrawal symptoms because her body had become dependent on alcohol.",
-          "translation": "Ketika dia berhenti minum, dia menderita gejala putus alkohol karena tubuhnya sudah tergantung pada alkohol."
+          "text": "The severity of withdrawal symptoms can vary greatly from person to person, depending on factors such as the length of addiction.",
+          "translation": "Kebanyakan gejala perlawanan kesehatan dapat berbeda-beda dari satu orang ke orang lainnya, tergantung pada berbagai faktor seperti lama kecanduan."
         },
         {
           "type": "Compound",
-          "text": "The doctor warned the patient about withdrawal symptoms, and the patient decided to quit smoking.",
-          "translation": "Dokter memperingatkan pasien tentang gejala putus obat, dan pasien memutuskan untuk berhenti merokok."
+          "text": "Withdrawal symptoms include headaches, nausea, and irritability, as well as sleep disturbances and mood swings.",
+          "translation": "Gejala perlawanan kesehatan termasuk sakit kepala, mual, dan ketegangan, serta gangguan tidur dan perubahan suasana hati."
         },
         {
           "type": "Compound-Complex",
-          "text": "While the new drug helped many patients, it also caused severe withdrawal symptoms in some cases, which made the doctors question its effectiveness, and they decided to conduct further research.",
-          "translation": "Sementara obat baru membantu banyak pasien, obat itu juga menyebabkan gejala putus obat yang parah dalam beberapa kasus, yang membuat dokter mempertanyakan efektivitasnya, dan mereka memutuskan untuk melakukan penelitian lebih lanjut."
+          "text": "Although some people may experience mild withdrawal symptoms, others may experience severe symptoms that require medical attention, such as hallucinations and seizures.",
+          "translation": "Meskipun beberapa orang mungkin mengalami gejala perlawanan kesehatan ringan, orang lain mungkin mengalami gejala perlawanan kesehatan yang parah yang memerlukan perhatian medis, seperti halusinasi dan kejang-kejang."
         }
       ],
       "synonymMeanings": [
-        "gejala sakaw",
-        "gejala penarikan",
-        "reaksi putus zat",
-        "gejala abstinen"
+        "gejala perlawanan",
+        "reaksi perlawanan",
+        "gejala kesehatan negatif",
+        "gejala kecanduan"
       ]
     },
     {
