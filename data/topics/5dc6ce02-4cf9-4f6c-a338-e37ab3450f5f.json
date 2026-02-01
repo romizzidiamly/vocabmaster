@@ -1314,40 +1314,40 @@
         "Maturation",
         "biological development"
       ],
-      "definition": "the period of life when a young person develops physically and sexually into an adult",
+      "definition": "The stage of physical and emotional development during which a person becomes sexually mature.",
       "userGuesses": [],
-      "status": "hidden",
-      "meaning": "masa puber",
+      "status": "discovered",
+      "meaning": "Periode perkembangan fisik dan emosi ketika seseorang mencapai kematangan seksual.",
       "phonetics": {
         "us": "/ˈpʌbərti/",
-        "uk": "/ˈpjuːbəti/"
+        "uk": "/ˈpʌbərti/"
       },
       "examples": [
         {
           "type": "Simple",
-          "text": "Girls usually enter puberty earlier than boys.",
-          "translation": "Gadis-gadis biasanya memasuki masa puber lebih awal daripada laki-laki."
+          "text": "The onset of puberty can be a challenging time for many adolescents.",
+          "translation": "Awal perkembangan remaja seringkali menimbulkan kesulitan bagi banyak remaja."
         },
         {
           "type": "Complex",
-          "text": "Because she was going through puberty, she experienced mood swings.",
-          "translation": "Karena dia sedang mengalami masa puber, dia mengalami perubahan mood."
+          "text": "Because of the physical changes that occur during puberty, many young people experience anxiety about their appearance.",
+          "translation": "Karena perubahan fisik yang terjadi selama masa remaja, banyak remaja merasa khawatir tentang penampilan mereka."
         },
         {
           "type": "Compound",
-          "text": "Puberty is a challenging time, and adolescents often feel embarrassed and self-conscious, but they also start to develop new skills and interests.",
-          "translation": "Masa puber adalah waktu yang menantang, dan remaja sering merasa malu dan tidak percaya diri, tetapi mereka juga mulai mengembangkan keterampilan dan minat baru."
+          "text": "The physical and emotional changes that occur during puberty affect not only the individual but also their family.",
+          "translation": "Perubahan fisik dan emosi yang terjadi selama masa remaja tidak hanya mempengaruhi individu itu sendiri, tetapi juga keluarganya."
         },
         {
           "type": "Compound-Complex",
-          "text": "While puberty can be a difficult time for many teenagers, because they have to navigate significant physical and emotional changes, it is also a period of great opportunity for growth and self-discovery, as they begin to explore their own identities and form meaningful relationships with others.",
-          "translation": "Sementara masa puber dapat menjadi waktu yang sulit bagi banyak remaja, karena mereka harus menghadapi perubahan fisik dan emosional yang signifikan, ini juga merupakan periode kesempatan besar untuk pertumbuhan dan penemuan diri, karena mereka mulai mengeksplorasi identitas mereka sendiri dan membentuk hubungan yang bermakna dengan orang lain."
+          "text": "The onset of puberty can lead to emotional changes, which in turn can affect the individual's relationships with their family and friends.",
+          "translation": "Awal perkembangan remaja dapat menyebabkan perubahan emosi, yang kemudian dapat mempengaruhi hubungan individu dengan keluarga dan teman-temannya."
         }
       ],
       "synonymMeanings": [
-        "masa akil balig",
-        "masa remaja",
-        "peralihan dari anak-anak ke dewasa"
+        "Masa remaja",
+        "Kematangan seksual",
+        "Periode perkembangan"
       ]
     },
     {
