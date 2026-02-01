@@ -590,9 +590,42 @@
         "Land degradation",
         "drought expansion"
       ],
-      "definition": "The process of fertile land becoming\ndesert",
+      "definition": "The process of a region becoming increasingly arid and dry as a result of climate change, overgrazing, or other human activities.",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "discovered",
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Desertification is a major environmental concern in many parts of the world.",
+          "translation": "Penggusuran hutan menjadi masalah lingkungan yang besar di berbagai wilayah di dunia."
+        },
+        {
+          "type": "Complex",
+          "text": "The increasing rate of desertification is largely due to human activities such as deforestation and overgrazing.",
+          "translation": "Tingkat penggusuran hutan yang meningkat sebagian besar disebabkan oleh kegiatan manusia seperti penghutanan dan penggembalaan yang berlebihan."
+        },
+        {
+          "type": "Compound",
+          "text": "Desertification and climate change are two major challenges facing the world today, and urgent action is needed to address them.",
+          "translation": "Penggusuran hutan dan perubahan iklim adalah dua tantangan besar yang dihadapi dunia saat ini, dan tindakan cepat diperlukan untuk mengatasi mereka."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "While desertification can have devastating consequences for local ecosystems, it also has a significant impact on global climate patterns, which can lead to more frequent and severe weather events.",
+          "translation": "Meskipun penggusuran hutan dapat memiliki konsekuensi yang mematikan bagi ekosistem lokal, namun juga memiliki dampak yang signifikan pada pola iklim global, yang dapat menyebabkan peristiwa cuaca yang lebih sering dan parah."
+        }
+      ],
+      "phonetics": {
+        "us": "/dɪzərˌtɪˈfɪkəˈn/ ",
+        "uk": "/dɪsəʳˌtɪˈfɪkəˈn/"
+      },
+      "meaning": "Penggusuran hutan dan pola penggunaan tanah yang tidak bertanggung jawab",
+      "synonymMeanings": [
+        "Penghutanan",
+        "Penggembalaan yang berlebihan",
+        "Pengrusakan lingkungan",
+        "Penggusuran lahan"
+      ]
     },
     {
       "id": "c064e831-5a69-490f-bdaa-50316cb9a199",
