@@ -2049,41 +2049,40 @@
         "Intense cardio",
         "interval training"
       ],
-      "definition": "a type of exercise that involves short periods of very hard work, followed by short periods of rest",
+      "definition": "A type of exercise where short periods of high-intensity activity are followed by periods of rest or low-intensity activity.",
       "userGuesses": [],
-      "status": "hidden",
-      "meaning": "Latihan Intervensi Interval Intensitas Tinggi",
+      "status": "discovered",
+      "meaning": "Latihan Interval Kecepatan Tinggi",
       "phonetics": {
-        "us": "/haɪ ɪnˈtɛnsɪti ˈɪnərvəl ˈtreɪnɪŋ/",
-        "uk": "/haɪ ɪnˈtɛnsɪti ˈɪnərvəl ˈtreɪnɪŋ/"
+        "us": "/haɪ ˌɪntɪnsɪti 'ntɝ vl ˈintɝvəl trɛnɪŋ/",
+        "uk": "/haɪ ˌɪntɪnsɪti 'ntɝ vl ˈɪntɛrvəl trɛnɪŋ/"
       },
       "examples": [
         {
           "type": "Simple",
-          "text": "I do high-intensity interval training three times a week.",
-          "translation": "Aku melakukan latihan intervensi interval intensitas tinggi tiga kali seminggu."
+          "text": "Regularly engaging in High-Intensity Interval Training can improve cardiovascular health.",
+          "translation": "Melakukan Latihan Interval Kecepatan Tinggi secara teratur dapat meningkatkan kesehatan jantung."
         },
         {
           "type": "Complex",
-          "text": "Because high-intensity interval training is effective, I have decided to incorporate it into my workout routine.",
-          "translation": "Karena latihan intervensi interval intensitas tinggi efektif, aku telah memutuskan untuk memasukkannya ke dalam rutinitas olahraga aku."
+          "text": "While High-Intensity Interval Training is effective for weight loss, it may not be suitable for everyone.",
+          "translation": "Meskipun Latihan Interval Kecepatan Tinggi efektif untuk menurunkan berat badan, namun mungkin tidak cocok untuk semua orang."
         },
         {
           "type": "Compound",
-          "text": "I do high-intensity interval training and yoga to stay healthy, and I also eat a balanced diet.",
-          "translation": "Aku melakukan latihan intervensi interval intensitas tinggi dan yoga untuk menjaga kesehatan, dan aku juga mengonsumsi makanan seimbang."
+          "text": "High-Intensity Interval Training and proper nutrition are both essential for achieving a healthy lifestyle.",
+          "translation": "Latihan Interval Kecepatan Tinggi dan gizi yang tepat sama-sama penting untuk mencapai gaya hidup sehat."
         },
         {
           "type": "Compound-Complex",
-          "text": "While I have been doing high-intensity interval training for months, I have also been eating a balanced diet, and as a result, I feel more energetic, but my friend, who only does yoga, feels more relaxed.",
-          "translation": "Sementara aku telah melakukan latihan intervensi interval intensitas tinggi selama berbulan-bulan, aku juga telah mengonsumsi makanan seimbang, dan sebagai hasilnya, aku merasa lebih berenergi, tetapi teman aku, yang hanya melakukan yoga, merasa lebih rileks."
+          "text": "Individuals with certain medical conditions should consult their doctor before engaging in High-Intensity Interval Training, as it may exacerbate their condition.",
+          "translation": "Orang-orang dengan kondisi medis tertentu sebaiknya berkonsultasi dengan dokter sebelum melakukan Latihan Interval Kecepatan Tinggi, karena hal ini mungkin memperburuk kondisinya."
         }
       ],
       "synonymMeanings": [
-        "Latihan Kardio",
-        "Latihan Pemulihan",
-        "Latihan Fisik",
-        "Latihan Kondisi"
+        "Latihan Kecepatan Tinggi",
+        "Latihan Interval",
+        "Peregangan Intensitas Tinggi"
       ]
     },
     {
