@@ -614,41 +614,40 @@
         "Outbreak",
         "pandemic"
       ],
-      "definition": "a disease that spreads quickly and affects many people at the same time",
+      "definition": "A widespread outbreak of disease, especially one caused by a highly infectious agent.",
       "userGuesses": [],
-      "status": "hidden",
-      "meaning": "wabah penyakit",
+      "status": "discovered",
+      "meaning": "Wabah penyakit yang menyebar luas",
       "phonetics": {
-        "us": "/ˌɛpɪˈdɛmɪk/",
-        "uk": "/ˌɛpɪˈdɛmɪk/"
+        "us": "/ɪˈpɪdɛmɪk/",
+        "uk": "/ɪˈpɪdɛmɪk/"
       },
       "examples": [
         {
           "type": "Simple",
-          "text": "The flu epidemic spread rapidly across the country.",
-          "translation": "Wabah flu menyebar dengan cepat di seluruh negeri."
+          "text": "The city is experiencing an epidemic of influenza.",
+          "translation": "Kota ini sedang mengalami wabah influenza."
         },
         {
           "type": "Complex",
-          "text": "Because the city's water supply was contaminated, an epidemic of cholera broke out.",
-          "translation": "Karena pasokan air kota terkontaminasi, wabah kolera pecah."
+          "text": "Due to the severe weather conditions, the epidemic of dengue fever has reached an alarming rate.",
+          "translation": "Karena kondisi cuaca yang ekstrem, wabah demam berdarah telah mencapai tingkat yang sangat membahayakan."
         },
         {
           "type": "Compound",
-          "text": "The doctor worked tirelessly to combat the epidemic, and the nurse helped her with the patients.",
-          "translation": "Dokter bekerja tanpa lelah untuk melawan wabah penyakit, dan perawat membantunya dengan pasien."
+          "text": "The new vaccine has been developed to combat the ongoing epidemic of measles, and it is expected to be widely available soon.",
+          "translation": "Vaksin baru telah dikembangkan untuk melawan wabah campak yang berlangsung, dan diharapkan akan tersedia luas segera."
         },
         {
           "type": "Compound-Complex",
-          "text": "While the government was trying to contain the epidemic, the lack of medical supplies made it difficult to treat the patients, and the situation became increasingly dire.",
-          "translation": "Saat pemerintah berusaha untuk mengendalikan wabah penyakit, kurangnya persediaan medis membuatnya sulit untuk mengobati pasien, dan situasinya menjadi semakin genting."
+          "text": "As a result of the inadequate healthcare system, the epidemic of tuberculosis has spread rapidly throughout the country, which has led to a significant increase in mortality rates.",
+          "translation": "Sebagai akibat dari sistem kesehatan yang tidak memadai, wabah penyakit tuberkulosis telah menyebar dengan cepat di seluruh negeri, yang telah menyebabkan peningkatan signifikan tingkat kematian."
         }
       ],
       "synonymMeanings": [
-        "penyakit menular",
-        "penyebaran penyakit",
-        "wabah",
-        "penyakit yang meluas"
+        "Wabah penyakit",
+        "Penyakit menular",
+        "Pandemi"
       ]
     },
     {
