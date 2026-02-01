@@ -1592,9 +1592,41 @@
         "Environmental adaptability",
         "sustainability"
       ],
-      "definition": "The ability of ecosystems or\nsocieties to withstand climate change",
+      "definition": "The ability of a community, ecosystem, or organization to withstand and recover from the impacts of climate change.",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "discovered",
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Developing countries need to build climate resilience to mitigate the effects of global warming.",
+          "translation": "Negara-negara berkembang perlu membangun kemampuan tahan iklim untuk mengurangi dampak perubahan suhu global."
+        },
+        {
+          "type": "Complex",
+          "text": "The city's climate resilience strategies include investing in renewable energy and promoting sustainable agriculture practices.",
+          "translation": "Strategi kemampuan tahan iklim kota tersebut mencakup investasi di bidang energi terbarukan dan promosi praktik pertanian berkelanjutan."
+        },
+        {
+          "type": "Compound",
+          "text": "Climate resilience is crucial for the survival of many ecosystems, and it requires a concerted effort from governments and local communities.",
+          "translation": "Kemampuan tahan iklim sangat penting bagi kelangsungan hidup banyak ekosistem, dan membutuhkan upaya yang solid dari pemerintah dan komunitas lokal."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "While governments have implemented policies to enhance climate resilience, much work remains to be done to mitigate the impacts of climate change, especially in vulnerable communities.",
+          "translation": "Meskipun pemerintah telah melaksanakan kebijakan untuk meningkatkan kemampuan tahan iklim, banyak pekerjaan yang masih harus dilakukan untuk mengurangi dampak perubahan iklim, terutama di komunitas yang rentan."
+        }
+      ],
+      "phonetics": {
+        "us": "/ˈklɪmɪt rɛzɪˈstəns/",
+        "uk": "/ˈklɪmɪt rɛzɪˈstəns/"
+      },
+      "meaning": "Kemampuan suatu komunitas, ekosistem, atau organisasi untuk menahan dan pulih dari dampak perubahan iklim.",
+      "synonymMeanings": [
+        "Kemampuan adaptasi iklim",
+        "Kemampuan tahan perubahan iklim",
+        "Kemampuan resistensi iklim"
+      ]
     },
     {
       "id": "d566c01d-426d-44be-b364-aaec8817df85",
