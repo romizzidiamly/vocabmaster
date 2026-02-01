@@ -350,9 +350,41 @@
         "Green energy",
         "sustainable power"
       ],
-      "definition": "Energy sourced from naturally\nreplenishing resources",
+      "definition": "Energy that is constantly being renewed and cannot be used up.",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "discovered",
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Renewable energy is a vital component of a sustainable future.",
+          "translation": "Energi yang dapat diperbarui adalah komponen vital masa depan yang berkelanjutan."
+        },
+        {
+          "type": "Complex",
+          "text": "The increasing demand for energy has led to the development of renewable energy sources.",
+          "translation": "Tingginya permintaan energi telah menyebabkan perkembangan sumber-sumber energi yang dapat diperbarui."
+        },
+        {
+          "type": "Compound",
+          "text": "Renewable energy and sustainable development are closely linked, and one cannot exist without the other.",
+          "translation": "Energi yang dapat diperbarui dan pengembangan berkelanjutan sangat terkait, dan tidak dapat hidup tanpanya."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "Not only do renewable energy sources reduce our reliance on fossil fuels, but they also provide numerous economic and environmental benefits.",
+          "translation": "Bukan saja sumber energi yang dapat diperbarui mengurangi ketergantungan kita pada bahan bakar fosil, tetapi juga memberikan manfaat ekonomi dan lingkungan yang banyak."
+        }
+      ],
+      "phonetics": {
+        "us": "/rɛˈnuːəbəl ˈɛnədʒi/",
+        "uk": "/rɛˈnuːəbəl ˈɛnədʒi/"
+      },
+      "meaning": "Energi yang dapat diperbarui secara terus-menerus dan tidak dapat dimanfaatkan habis.",
+      "synonymMeanings": [
+        "Energi berkelanjutan",
+        "Energi terbarukan",
+        "Energi hijau"
+      ]
     },
     {
       "id": "9c45bf32-d927-4b4c-87bc-6b90b2373cb6",
