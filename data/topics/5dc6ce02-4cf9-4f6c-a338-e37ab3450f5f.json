@@ -1947,40 +1947,40 @@
         "Muscle growth",
         "bodybuilding"
       ],
-      "definition": "the growth and increase in size of muscle cells, which can happen as a result of exercise, especially weight training",
+      "definition": "The increase in size of muscle fibres, often resulting from resistance training.",
       "userGuesses": [],
-      "status": "hidden",
-      "meaning": "hipertrofi otot",
+      "status": "discovered",
+      "meaning": "Pengembangan otot",
       "phonetics": {
-        "us": "/hʌɪˈpɝːtrəfi/",
-        "uk": "/haɪˈpɜːtrəfi/"
+        "us": "/ˈmʌsəl ˌhɪpərˈtrɒfi/",
+        "uk": "/ˈmʌsəl ˌhɪpərˈtrɒfɪ/"
       },
       "examples": [
         {
           "type": "Simple",
-          "text": "Muscle hypertrophy occurs when muscle cells grow and increase in size.",
-          "translation": "Hipertrofi otot terjadi ketika sel otot tumbuh dan meningkatkan ukurannya."
+          "text": "Regular exercise can lead to muscle hypertrophy.",
+          "translation": "Latihan teratur dapat menyebabkan pengembangan otot."
         },
         {
           "type": "Complex",
-          "text": "Because muscle hypertrophy is a complex process, it requires a combination of proper nutrition, adequate rest, and consistent training.",
-          "translation": "Karena hipertrofi otot adalah proses yang kompleks, maka diperlukan kombinasi gizi yang tepat, istirahat yang cukup, dan pelatihan yang konsisten."
+          "text": "Muscle hypertrophy is a common consequence of adopting a strict workout routine.",
+          "translation": "Pengembangan otot adalah konsekuensi umum dari mengadopsi rutinitas kebugaran ketat."
         },
         {
           "type": "Compound",
-          "text": "Muscle hypertrophy is a desirable outcome for many athletes, and it can be achieved through weight training and proper nutrition, or through the use of supplements and steroids.",
-          "translation": "Hipertrofi otot adalah hasil yang diinginkan oleh banyak atlet, dan dapat dicapai melalui pelatihan beban dan gizi yang tepat, atau melalui penggunaan suplemen dan steroid."
+          "text": "Resistance training and a balanced diet are essential for achieving muscle hypertrophy, as well as maintaining overall health.",
+          "translation": "Latihan tahanan dan diet seimbang sangat penting untuk mencapai pengembangan otot, serta menjaga kesehatan secara keseluruhan."
         },
         {
           "type": "Compound-Complex",
-          "text": "While muscle hypertrophy is a desirable outcome for many athletes, it can be difficult to achieve, because it requires a combination of proper nutrition, adequate rest, and consistent training, and also because it can be influenced by factors such as genetics and overall health.",
-          "translation": "Sementara hipertrofi otot adalah hasil yang diinginkan oleh banyak atlet, namun dapat sulit untuk dicapai, karena memerlukan kombinasi gizi yang tepat, istirahat yang cukup, dan pelatihan yang konsisten, dan juga karena dapat dipengaruhi oleh faktor-faktor seperti genetik dan kesehatan secara keseluruhan."
+          "text": "While some individuals may experience muscle hypertrophy without changing their lifestyle, regular exercise and a healthy diet can significantly improve muscle growth and overall fitness, which can lead to a range of physical and mental health benefits.",
+          "translation": "Meskipun beberapa individu mungkin mengalami pengembangan otot tanpa mengubah gaya hidup mereka, latihan teratur dan diet sehat dapat secara signifikan meningkatkan pertumbuhan otot dan kondisi fisik secara keseluruhan, yang dapat menyebabkan berbagai manfaat kesehatan fisik dan mental."
         }
       ],
       "synonymMeanings": [
-        "pembesaran otot",
-        "pertumbuhan otot",
-        "peningkatan massa otot"
+        "Pengembangan jaringan otot",
+        "Pengembangan massa otot",
+        "Pertumbuhan otot"
       ]
     },
     {
