@@ -2268,41 +2268,40 @@
         "Pre-workout routine",
         "stretching"
       ],
-      "definition": "an activity that you do to prepare yourself for a physical or mental effort",
+      "definition": "An activity that helps you prepare for a physical or mental challenge by gradually increasing your level of activity or difficulty.",
       "userGuesses": [],
-      "status": "hidden",
-      "meaning": "pemanasan",
+      "status": "discovered",
+      "meaning": "Peregangan",
       "phonetics": {
-        "us": "/ˈwɔrm ʌp/",
-        "uk": "/ˈwɔːm ʌp/"
+        "us": "/wɔrm ʌp/",
+        "uk": "/wɔːm ʌp/"
       },
       "examples": [
         {
           "type": "Simple",
-          "text": "The team did a warm-up before the game.",
-          "translation": "Tim melakukan pemanasan sebelum pertandingan."
+          "text": "The warm-up exercises before a marathon are essential to prevent injuries.",
+          "translation": "Latihan peregangan sebelum lari marathon sangatlah penting untuk mencegah cedera."
         },
         {
           "type": "Complex",
-          "text": "Because the concert was about to start, the singer did a quick warm-up to loosen her vocal cords.",
-          "translation": "Karena konser akan segera dimulai, penyanyi melakukan pemanasan cepat untuk melemaskan tali vokalnya."
+          "text": "The researchers emphasized the importance of a proper warm-up before participating in any strenuous physical activity.",
+          "translation": "Para peneliti menekankan pentingnya melakukan peregangan yang tepat sebelum berpartisipasi dalam aktivitas fisik yang berat."
         },
         {
           "type": "Compound",
-          "text": "The coach made the players do a warm-up, and then they started to practice their skills.",
-          "translation": "Pelatih membuat pemain melakukan pemanasan, lalu mereka mulai berlatih keterampilan mereka."
+          "text": "The coach advised his team to do a combination of stretching and cardio exercises as a warm-up before the game.",
+          "translation": "Pelatih memberi saran kepada timnya untuk melakukan kombinasi latihan stretching dan kardiovaskular sebagai peregangan sebelum pertandingan."
         },
         {
           "type": "Compound-Complex",
-          "text": "While the other team was doing their warm-up, our team was already preparing their strategy, because they knew that the game was going to be tough.",
-          "translation": "Saat tim lain melakukan pemanasan, tim kami sudah mempersiapkan strategi mereka, karena mereka tahu bahwa pertandingan akan sulit."
+          "text": "If you're not familiar with the sport, it's crucial to do a proper warm-up to avoid strains and injuries, which can be caused by a sudden increase in physical activity.",
+          "translation": "Jika Anda tidak familiar dengan olahraga tersebut, sangatlah penting untuk melakukan peregangan yang tepat untuk menghindari serangan dan cedera, yang dapat disebabkan oleh peningkatan fisik yang tiba-tiba."
         }
       ],
       "synonymMeanings": [
-        "persiapan",
-        "pembukaan",
-        "pengenalan",
-        "penyajian"
+        "Latihan peregangan",
+        "Pengaktifan",
+        "Peregangan fisik"
       ]
     },
     {
