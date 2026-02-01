@@ -2556,31 +2556,40 @@
         "Metabolic byproduct",
         "fatigue cause"
       ],
-      "definition": "A substance that builds up in muscles during intense exercise",
+      "definition": "A sour-tasting, milky liquid produced when muscle tissue breaks down, found in yogurt, milk, and other dairy products.",
       "userGuesses": [],
-      "status": "hidden",
-      "meaning": "Meaning not found.",
+      "status": "discovered",
+      "meaning": "Asam laktat",
       "phonetics": {
-        "us": "/.../",
-        "uk": "/.../"
+        "us": "/ˈlæktɪk ˈæsɪd/",
+        "uk": "/ˈlæktɪk ˈæsɪd/"
       },
       "examples": [
         {
           "type": "Simple",
-          "text": "Usage of Lactic acid is important."
+          "text": "The lactic acid in yogurt helps maintain a healthy digestive system.",
+          "translation": "Asam laktat dalam yoghurt membantu menjaga keseimbangan pencernaan yang sehat."
         },
         {
           "type": "Complex",
-          "text": "Because Lactic acid matters, we should study it."
+          "text": "Because lactic acid is produced during intense physical activity, athletes often consume dairy products to replenish their muscle stores.",
+          "translation": "Karena asam laktat diproduksi selama aktivitas fisik yang intens, atlet sering mengonsumsi produk susu untuk mengganti cadangan otot mereka."
         },
         {
           "type": "Compound",
-          "text": "The word is Lactic acid, and it is useful."
+          "text": "The lactic acid in milk is responsible for its sour taste, while also providing essential nutrients.",
+          "translation": "Asam laktat dalam susu bertanggung jawab atas rasanya yang asam, sementara juga menyediakan nutrisi esensial."
         },
         {
           "type": "Compound-Complex",
-          "text": "If we use Lactic acid correctly, we succeed, so let's try."
+          "text": "However, some people may experience stomach discomfort after consuming lactic acid-rich foods, which can be attributed to individual differences in digestive enzymes and gut bacteria.",
+          "translation": "Namun, beberapa orang mungkin mengalami ketidaknyamanan perut setelah mengonsumsi makanan yang kaya akan asam laktat, yang dapat disebabkan oleh perbedaan individu dalam enzim pencernaan dan bakteri usus."
         }
+      ],
+      "synonymMeanings": [
+        "Asam organik",
+        "Asam hidroklorik",
+        "Asam lemak"
       ]
     },
     {
