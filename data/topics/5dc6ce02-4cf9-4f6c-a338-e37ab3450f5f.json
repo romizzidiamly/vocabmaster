@@ -1058,9 +1058,9 @@
         "Lung disease",
         "breathing disorder"
       ],
-      "definition": "a disease or condition that affects the lungs or airways, making it difficult to breathe",
+      "definition": "a disease or condition that affects the lungs or airways, such as pneumonia or asthma",
       "userGuesses": [],
-      "status": "hidden",
+      "status": "discovered",
       "meaning": "penyakit pernapasan",
       "phonetics": {
         "us": "/rɪˈspɪrətɔri/",
@@ -1079,19 +1079,19 @@
         },
         {
           "type": "Compound",
-          "text": "She has a respiratory illness, and she also has a fever.",
-          "translation": "Dia menderita penyakit pernapasan, dan dia juga demam."
+          "text": "She has a respiratory illness, and she also has a skin condition.",
+          "translation": "Dia menderita penyakit pernapasan, dan dia juga memiliki kondisi kulit."
         },
         {
           "type": "Compound-Complex",
-          "text": "She has a respiratory illness, and because she has been smoking for years, she also has a persistent cough, but she is trying to quit.",
-          "translation": "Dia menderita penyakit pernapasan, dan karena dia telah merokok selama bertahun-tahun, dia juga memiliki batuk yang persisten, tapi dia berusaha untuk berhenti."
+          "text": "Although she has a respiratory illness, she still goes to work, but she needs to take regular breaks to use her inhaler.",
+          "translation": "Meskipun dia menderita penyakit pernapasan, dia masih pergi bekerja, tetapi dia perlu mengambil istirahat teratur untuk menggunakan inhalernya."
         }
       ],
       "synonymMeanings": [
         "penyakit paru-paru",
-        "gangguan pernapasan",
-        "infeksi saluran pernapasan"
+        "penyakit pernafasan",
+        "gangguan pernapasan"
       ]
     },
     {
