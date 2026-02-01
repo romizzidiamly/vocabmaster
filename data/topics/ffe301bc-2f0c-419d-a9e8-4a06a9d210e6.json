@@ -968,9 +968,41 @@
         "degradation",
         "deforestation"
       ],
-      "definition": "The process of damaging natural\nenvironments",
+      "definition": "The state of being destroyed or ruined, especially of natural environments or ecosystems.",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "discovered",
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "The destruction of habitats has led to the extinction of many species.",
+          "translation": "Penghancuran habitat telah menyebabkan kepunahan banyak spesies."
+        },
+        {
+          "type": "Complex",
+          "text": "The rapid growth of cities is a major contributor to habitat destruction, which has severe consequences for the environment.",
+          "translation": "Pertumbuhan kota yang cepat adalah penyumbang utama penghancuran habitat, yang memiliki konsekuensi serius bagi lingkungan."
+        },
+        {
+          "type": "Compound",
+          "text": "Habitat destruction and pollution are two major environmental problems that need to be addressed.",
+          "translation": "Penghancuran habitat dan pencemaran adalah dua masalah lingkungan utama yang perlu diatasi."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "The government's lack of action on habitat destruction has led to a significant decline in biodiversity, resulting in the loss of many ecosystem services, including clean water and air.",
+          "translation": "Kurangnya tindakan pemerintah terhadap penghancuran habitat telah menyebabkan penurunan signifikan keanekaragaman hayati, yang mengakibatkan hilangnya banyak jasa ekosistem, termasuk air dan udara bersih."
+        }
+      ],
+      "phonetics": {
+        "us": "/hæbɪtət dɪstrʌkˈʃən/",
+        "uk": "/hæbɪtət dɪstrʌkˈʃən/"
+      },
+      "meaning": "Penghancuran habitat",
+      "synonymMeanings": [
+        "Kerusakan lingkungan",
+        "Pengrusakan alam",
+        "Hancurnya ekosistem"
+      ]
     },
     {
       "id": "8c063859-c513-402b-b494-3876ab01d0cf",
