@@ -2386,31 +2386,41 @@
         "Quickness",
         "nimbleness"
       ],
-      "definition": "The ability to move quickly and easily",
+      "definition": "The ability to move quickly and easily with a smooth, fluid motion.",
       "userGuesses": [],
-      "status": "hidden",
-      "meaning": "Meaning not found.",
+      "status": "discovered",
+      "meaning": "Kemampuan bergerak dengan cepat dan lincah",
       "phonetics": {
-        "us": "/.../",
-        "uk": "/.../"
+        "us": "/əˈdʒɪlti/",
+        "uk": "/əˈdʒɪlti/"
       },
       "examples": [
         {
           "type": "Simple",
-          "text": "Usage of Agility is important."
+          "text": "The athlete's agility allowed her to dodge her opponent's attack.",
+          "translation": "Kemampuan kecepatan dan kelincahan atlet memungkinkannya menghindari serangan lawan."
         },
         {
           "type": "Complex",
-          "text": "Because Agility matters, we should study it."
+          "text": "The company's agility in responding to market changes has been crucial to its survival.",
+          "translation": "Kemampuan perusahaan untuk beradaptasi dengan perubahan pasar sangat penting bagi kelangsungan hidupnya."
         },
         {
           "type": "Compound",
-          "text": "The word is Agility, and it is useful."
+          "text": "The company's agility and creativity led to the development of innovative products.",
+          "translation": "Kemampuan kecepatan dan kreativitas perusahaan menghasilkan produk inovatif."
         },
         {
           "type": "Compound-Complex",
-          "text": "If we use Agility correctly, we succeed, so let's try."
+          "text": "The company's agility in responding to market changes has led to increased customer satisfaction, which in turn has resulted in higher sales figures.",
+          "translation": "Kemampuan perusahaan untuk beradaptasi dengan perubahan pasar telah meningkatkan kepuasan pelanggan, sehingga akhirnya meningkatkan nilai penjualan."
         }
+      ],
+      "synonymMeanings": [
+        "Cepat bergerak",
+        "Lincah",
+        "Beradaptasi",
+        "Kreatif"
       ]
     },
     {
