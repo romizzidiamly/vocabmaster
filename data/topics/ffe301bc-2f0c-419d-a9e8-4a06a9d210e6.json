@@ -873,9 +873,41 @@
         "Compostable",
         "organic"
       ],
-      "definition": "Capable of being decomposed by\nnatural processes",
+      "definition": "Able to be broken down by living organisms and returned to the earth.",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "discovered",
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "The use of biodegradable plastic bags can help reduce pollution.",
+          "translation": "Penggunaan tas plastik yang dapat terurai dapat membantu mengurangi polusi."
+        },
+        {
+          "type": "Complex",
+          "text": "While biodegradable products are considered more environmentally friendly, they still require careful disposal.",
+          "translation": "Meskipun produk yang dapat terurai dianggap lebih ramah lingkungan, mereka masih memerlukan penanganan sampah yang hati-hati."
+        },
+        {
+          "type": "Compound",
+          "text": "Biodegradable waste and recyclable materials should be disposed of separately.",
+          "translation": "Sisa makanan yang dapat terurai dan bahan-bahan yang dapat didaur ulang harus dipisahkan dan dibuang dengan benar."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we use biodegradable products, we can reduce the amount of waste that ends up in landfills, but the production process often involves the use of non-eco-friendly materials.",
+          "translation": "Jika kita menggunakan produk yang dapat terurai, kita dapat mengurangi jumlah sampah yang berakhir di tempat pembuangan akhir, namun proses produksi seringkali melibatkan penggunaan bahan-bahan yang tidak ramah lingkungan."
+        }
+      ],
+      "phonetics": {
+        "us": "/baɪəʊˌdiːˈɡrædʊbəl/",
+        "uk": "/baɪoʊdɪˈɡrædʊbəl/"
+      },
+      "meaning": "Dapat terurai oleh organisme hidup dan kembali ke tanah",
+      "synonymMeanings": [
+        "Organik",
+        "Dapat terurai secara alami",
+        "Ramah lingkungan"
+      ]
     },
     {
       "id": "e6193820-aca9-4cab-940c-bdef2c1105a6",
