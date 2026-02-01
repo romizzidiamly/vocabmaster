@@ -1179,40 +1179,40 @@
         "Workplace safety",
         "employee health"
       ],
-      "definition": "The department of medicine concerned with the prevention and treatment of job-related illnesses and injuries",
+      "definition": "The branch of medicine that deals with the maintenance and improvement of workers' health, especially in workplaces.",
       "userGuesses": [],
-      "status": "hidden",
-      "meaning": "Kesehatan kerja",
+      "status": "discovered",
+      "meaning": "Kesehatan dan keselamatan kerja",
       "phonetics": {
-        "us": "/ˌɒkjuˈpeɪʃənl ˈhɛlθ/",
-        "uk": "/ˌɒkjʊˈpeɪʃənl ˈhɛlθ/"
+        "us": "/ɑbjʊˈpeɪʃənəl ˈhɛlθ/",
+        "uk": "/ɒbjuːˈpeɪʃənəl ˈhɛlθ/"
       },
       "examples": [
         {
           "type": "Simple",
-          "text": "The company has a department of occupational health.",
-          "translation": "Perusahaan tersebut memiliki departemen kesehatan kerja."
+          "text": "The company has implemented various measures to improve occupational health and safety standards.",
+          "translation": "Perusahaan telah melaksanakan berbagai langkah untuk meningkatkan standar kesehatan dan keselamatan kerja."
         },
         {
           "type": "Complex",
-          "text": "Because the workers were exposed to toxic chemicals, the company had to invest in occupational health and safety programs.",
-          "translation": "Karena para pekerja terpapar bahan kimia beracun, perusahaan harus berinvestasi dalam program kesehatan dan keselamatan kerja."
+          "text": "While the government has established regulations to protect workers' health, many factories still fail to provide a safe working environment.",
+          "translation": "Meskipun pemerintah telah menetapkan regulasi untuk melindungi kesehatan pekerja, banyak pabrik masih gagal memberikan lingkungan kerja yang aman."
         },
         {
           "type": "Compound",
-          "text": "The company provides occupational health services and also offers fitness programs for employees.",
-          "translation": "Perusahaan menyediakan layanan kesehatan kerja dan juga menawarkan program kebugaran untuk karyawan."
+          "text": "The hospital has a special department for occupational health, which provides various services to workers with work-related injuries or illnesses.",
+          "translation": "Rumah sakit memiliki departemen khusus untuk kesehatan dan keselamatan kerja, yang menyediakan berbagai layanan bagi pekerja dengan cedera atau penyakit akibat pekerjaan."
         },
         {
           "type": "Compound-Complex",
-          "text": "While the company provides occupational health services, it also offers fitness programs for employees, because a healthy workforce is more productive.",
-          "translation": "Sementara perusahaan menyediakan layanan kesehatan kerja, mereka juga menawarkan program kebugaran untuk karyawan, karena tenaga kerja yang sehat lebih produktif."
+          "text": "However, despite the increasing awareness of the importance of occupational health, many workers continue to suffer from work-related health problems due to inadequate working conditions and lack of proper training.",
+          "translation": "Namun, meskipun kesadaran akan pentingnya kesehatan dan keselamatan kerja semakin meningkat, banyak pekerja masih menderita masalah kesehatan akibat pekerjaan karena lingkungan kerja yang tidak memadai dan kurangnya pelatihan yang tepat."
         }
       ],
       "synonymMeanings": [
-        "Kesehatan tempat kerja",
-        "Kesehatan pekerja",
-        "Kesehatan dan keselamatan kerja"
+        "keselamatan kerja",
+        "kesehatan pekerja",
+        "kesehatan dan keselamatan kerja"
       ]
     },
     {
