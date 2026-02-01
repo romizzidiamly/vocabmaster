@@ -1243,9 +1243,42 @@
         "Sustainable",
         "forest-friendly"
       ],
-      "definition": "Not contributing to deforestation",
+      "definition": "The practice or state of avoiding deforestation; the use of sustainable forest management to prevent the clearance of forests.",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "discovered",
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "The company has committed to being deforestation-free in all its operations.",
+          "translation": "Perusahaan tersebut telah menjanjikan untuk menjadi bebas deforestasi dalam semua operasinya."
+        },
+        {
+          "type": "Complex",
+          "text": "While some countries have made significant progress in reducing deforestation, many more need to be encouraged to adopt deforestation-free practices.",
+          "translation": "Meskipun beberapa negara telah mencapai kemajuan signifikan dalam mengurangi deforestasi, masih banyak yang perlu dipacu untuk menerima praktek konservasi hutan yang berkelanjutan."
+        },
+        {
+          "type": "Compound",
+          "text": "The government has launched a campaign to promote sustainable forest management and prevent deforestation, while the opposition has criticized the plan for being deforestation-free.",
+          "translation": "Pemerintah telah meluncurkan kampanye untuk mempromosikan pengelolaan hutan berkelanjutan dan mencegah deforestasi, sementara lawan politiknya mengecam rencana tersebut karena tidak menutupi deforestasi."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "However, the effectiveness of deforestation-free initiatives is often hampered by corruption, inadequate laws, and lack of public awareness, which must be addressed to ensure the long-term sustainability of forest ecosystems.",
+          "translation": "Namun, efektivitas inisiatif bebas deforestasi seringkali terhambat oleh korupsi, ketiadaan hukum yang cukup, dan kurangnya kesadaran publik, yang harus diatasi untuk menjamin keberlanjutan ekosistem hutan dalam jangka panjang."
+        }
+      ],
+      "phonetics": {
+        "us": "/dɛfɒrɪsˈteɪʃənˌfriː/",
+        "uk": "/dɛfɒrɪsˈteɪʃənˌfɹi/"
+      },
+      "meaning": "Konservasi hutan yang berkelanjutan",
+      "synonymMeanings": [
+        "konservasi hutan berkelanjutan",
+        "pengelolaan hutan berkelanjutan",
+        "tanpa deforestasi",
+        "bebas deforestasi"
+      ]
     },
     {
       "id": "71bc610f-714c-412c-b31d-5405ceca22cc",
