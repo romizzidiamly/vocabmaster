@@ -1745,40 +1745,40 @@
         "Strength training",
         "resistance exercise"
       ],
-      "definition": "a type of exercise, such as weightlifting or push-ups, that does not need oxygen to generate energy",
+      "definition": "Physical exercise that does not require oxygen, such as weightlifting, sprinting, or high-intensity interval training.",
       "userGuesses": [],
-      "status": "hidden",
-      "meaning": "latihan anaerobik",
+      "status": "discovered",
+      "meaning": "Latihan fisik tanpa menggunakan oksigen, seperti angkat besi, lari sprint, atau latihan interval intensitas tinggi.",
       "phonetics": {
-        "us": "/ˌænəˈroʊbɪk/",
-        "uk": "/ˌanəˈrəʊbɪk/"
+        "us": "/ˌænəˈrɒbɪk ɛksəˈraɪs/.",
+        "uk": "/ˌænəˈrɒbɪk ɛksəˈraɪs/"
       },
       "examples": [
         {
           "type": "Simple",
-          "text": "Anaerobic exercise is great for building muscle.",
-          "translation": "Latihan anaerobik sangat baik untuk membangun otot."
+          "text": "Anaerobic exercise helps to improve muscle strength and endurance.",
+          "translation": "Latihan fisik anaerobik membantu meningkatkan kekuatan dan kekuatan otot."
         },
         {
           "type": "Complex",
-          "text": "Because anaerobic exercise is high-intensity, it improves cardiovascular health.",
-          "translation": "Karena latihan anaerobik memiliki intensitas tinggi, maka dapat memperbaiki kesehatan kardiovaskular."
+          "text": "While aerobic exercise is essential for cardiovascular health, anaerobic exercise is crucial for building muscle mass.",
+          "translation": "Meskipun latihan fisik aerobik sangat penting untuk kesehatan jantung, latihan fisik anaerobik sangat penting untuk membangun massa otot."
         },
         {
           "type": "Compound",
-          "text": "I do anaerobic exercise and cardio to stay fit, and I also eat a healthy diet.",
-          "translation": "Saya melakukan latihan anaerobik dan kardio untuk tetap bugar, dan saya juga mengonsumsi makanan sehat."
+          "text": "Anaerobic exercise such as weightlifting and sprinting can be very effective in improving muscle strength and endurance, but it requires proper training and technique.",
+          "translation": "Latihan fisik anaerobik seperti angkat besi dan lari sprint dapat sangat efektif dalam meningkatkan kekuatan dan kekuatan otot, tetapi memerlukan pelatihan yang tepat dan teknik."
         },
         {
           "type": "Compound-Complex",
-          "text": "While anaerobic exercise is beneficial for muscle growth, it can be harmful if overdone, because it puts excessive strain on the muscles and joints, and I have learned this from my personal experience.",
-          "translation": "Sementara latihan anaerobik bermanfaat untuk pertumbuhan otot, latihan ini dapat membahayakan jika berlebihan, karena memberikan tekanan berlebih pada otot dan sendi, dan saya telah mempelajari hal ini dari pengalaman pribadi saya."
+          "text": "Anaerobic exercise has several benefits, including improved muscle strength and endurance, increased metabolism, and enhanced athletic performance, but it also requires careful planning and execution to avoid injuries and overtraining.",
+          "translation": "Latihan fisik anaerobik memiliki beberapa manfaat, termasuk kekuatan dan kekuatan otot yang ditingkatkan, metabolisme yang ditingkatkan, dan performa olahraga yang ditingkatkan, tetapi juga memerlukan perencanaan yang teliti dan pelaksanaan yang tepat untuk menghindari cedera dan pelatihan yang berlebihan."
         }
       ],
       "synonymMeanings": [
-        "senam",
-        "gaya hidup sehat",
-        "olahraga tanpa oksigen"
+        "Intensitas tinggi",
+        "Latihan interval",
+        "Tanpa oksigen"
       ]
     },
     {
