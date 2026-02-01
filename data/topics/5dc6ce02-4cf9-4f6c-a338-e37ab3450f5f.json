@@ -968,41 +968,41 @@
         "Inherited disease",
         "congenital disorder"
       ],
-      "definition": "a condition that someone is born with because of a problem with their genes",
+      "definition": "A condition caused by a fault in an individual's DNA that can lead to a range of physical or mental health problems.",
       "userGuesses": [],
-      "status": "hidden",
-      "meaning": "gangguan genetik",
+      "status": "discovered",
+      "meaning": "Kondisi yang disebabkan oleh kerusakan genetik dalam DNA individu yang dapat menyebabkan berbagai gangguan kesehatan fisik atau mental.",
       "phonetics": {
-        "us": "/dɪˈsɔrdər/",
-        "uk": "/dɪˈsɔːdə/"
+        "us": "/dʒɛnɛtɪk dɪsˈɔːrdər/",
+        "uk": "/dʒɛnˈɛtɪk dɪsˈɔːrdər/"
       },
       "examples": [
         {
           "type": "Simple",
-          "text": "The baby was born with a genetic disorder.",
-          "translation": "Bayi itu lahir dengan gangguan genetik."
+          "text": "Genetic disorders can have a significant impact on a person's quality of life.",
+          "translation": "Kondisi genetik dapat memiliki dampak yang signifikan terhadap kualitas hidup seseorang."
         },
         {
           "type": "Complex",
-          "text": "Because the family has a history of genetic disorders, they decided to have their children tested.",
-          "translation": "Karena keluarga memiliki riwayat gangguan genetik, mereka memutuskan untuk melakukan tes pada anak-anak mereka."
+          "text": "Researchers have been working tirelessly to develop new treatments for genetic disorders, which can be challenging to diagnose and manage.",
+          "translation": "Para peneliti telah bekerja keras untuk mengembangkan perawatan baru untuk kondisi genetik yang dapat sulit untuk didiagnosis dan diatasi."
         },
         {
           "type": "Compound",
-          "text": "The doctor diagnosed the patient with a genetic disorder, and she needed surgery immediately.",
-          "translation": "Dokter mendiagnosa pasien dengan gangguan genetik, dan dia memerlukan operasi segera."
+          "text": "Genetic disorders and environmental factors can interact to cause a range of health problems, including cancer and neurological disorders.",
+          "translation": "Kondisi genetik dan faktor lingkungan dapat berinteraksi untuk menyebabkan berbagai gangguan kesehatan, termasuk kanker dan penyakit sistem saraf."
         },
         {
           "type": "Compound-Complex",
-          "text": "While the new medication can help alleviate symptoms of genetic disorders, it is not a cure, and patients need to take it regularly because the disease can progress quickly if left untreated.",
-          "translation": "Sementara obat baru dapat membantu mengurangi gejala gangguan genetik, itu bukanlah obat, dan pasien perlu mengambilnya secara teratur karena penyakit dapat berkembang dengan cepat jika tidak diobati."
+          "text": "Furthermore, genetic disorders can be caused by a combination of genetic and environmental factors, making them even more difficult to diagnose and treat.",
+          "translation": "Selain itu, kondisi genetik dapat disebabkan oleh kombinasi faktor genetik dan lingkungan, sehingga membuatnya lebih sulit untuk didiagnosis dan diatasi."
         }
       ],
       "synonymMeanings": [
-        "kelainan bawaan",
-        "penyakit keturunan",
-        "gangguan keturunan",
-        "kelainan genetik"
+        "Kondisi genetik",
+        "Penyakit genetik",
+        "Kerusakan genetik",
+        "Kondisi lahir"
       ]
     },
     {
