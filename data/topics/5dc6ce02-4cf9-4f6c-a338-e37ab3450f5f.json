@@ -878,10 +878,10 @@
         "Dependency",
         "substance abuse"
       ],
-      "definition": "the state of being physically or mentally dependent on something, especially a drug",
+      "definition": "The state of being physically or mentally dependent on something, especially a substance such as a drug or an activity such as gambling.",
       "userGuesses": [],
-      "status": "hidden",
-      "meaning": "kecanduan",
+      "status": "discovered",
+      "meaning": "Ketergantungan",
       "phonetics": {
         "us": "/əˈdɪkʃən/",
         "uk": "/əˈdɪkʃən/"
@@ -889,29 +889,30 @@
       "examples": [
         {
           "type": "Simple",
-          "text": "She has an addiction to coffee.",
-          "translation": "Dia memiliki kecanduan terhadap kopi."
+          "text": "The government has launched a campaign to raise awareness about the dangers of addiction to social media.",
+          "translation": "Pemerintah telah meluncurkan kampanye untuk meningkatkan kesadaran tentang bahaya ketergantungan media sosial."
         },
         {
           "type": "Complex",
-          "text": "Because she started drinking at a young age, she developed an addiction to alcohol.",
-          "translation": "Karena dia mulai minum pada usia muda, dia mengembangkan kecanduan terhadap alkohol."
+          "text": "Studies have shown that people who suffer from addiction to cigarettes are more likely to develop other health problems.",
+          "translation": "Penelitian telah menunjukkan bahwa orang-orang yang menderita ketergantungan rokok lebih cenderung mengembangkan masalah kesehatan lainnya."
         },
         {
           "type": "Compound",
-          "text": "She has an addiction to coffee, and she also loves tea.",
-          "translation": "Dia memiliki kecanduan terhadap kopi, dan dia juga menyukai teh."
+          "text": "Addiction to smartphones has become a major problem in modern society, and parents need to take action to prevent it among their children.",
+          "translation": "Ketergantungan smartphone telah menjadi masalah besar di masyarakat modern, dan orang tua perlu mengambil tindakan untuk mencegahnya di kalangan anak-anak mereka."
         },
         {
           "type": "Compound-Complex",
-          "text": "While she was studying, she developed an addiction to coffee, and as a result, she started to drink it every morning, but she also realized that she needed to reduce her intake because it was affecting her sleep.",
-          "translation": "Saat dia belajar, dia mengembangkan kecanduan terhadap kopi, dan sebagai hasilnya, dia mulai minum setiap pagi, tetapi dia juga menyadari bahwa dia perlu mengurangi konsumsinya karena itu mempengaruhi tidurnya."
+          "text": "While some people claim that addiction to video games is a harmless habit, research has shown that excessive gaming can lead to mental health issues, especially among young people.",
+          "translation": "Meskipun ada orang-orang yang mengklaim bahwa ketergantungan game video adalah kebiasaan yang tidak berbahaya, penelitian telah menunjukkan bahwa bermain game secara berlebihan dapat menyebabkan masalah kesehatan mental, terutama di kalangan remaja."
         }
       ],
       "synonymMeanings": [
-        "kebiasaan buruk",
-        "ketergantungan",
-        "penyakit kecanduan"
+        "Ketergantungan fisik",
+        "Ketergantungan mental",
+        "Narkotika",
+        "Ketergantungan pada aktivitas"
       ]
     },
     {
