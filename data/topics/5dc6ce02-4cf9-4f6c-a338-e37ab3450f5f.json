@@ -1099,41 +1099,40 @@
         "Long-lasting illness",
         "persistent condition"
       ],
-      "definition": "a disease or condition that lasts for a long time, often for the rest of a person's life",
+      "definition": "A long-term health condition that cannot be cured and may require ongoing treatment.",
       "userGuesses": [],
-      "status": "hidden",
-      "meaning": "penyakit kronis",
+      "status": "discovered",
+      "meaning": "Penyakit kronis",
       "phonetics": {
-        "us": "/ˈkrɑnɪk/",
-        "uk": "/ˈkrɒnɪk/"
+        "us": "/krɑnɪk dɪˈziːz/",
+        "uk": "/krɒnɪk daɪˈziːz/"
       },
       "examples": [
         {
           "type": "Simple",
-          "text": "Diabetes is a chronic disease.",
-          "translation": "Diabetes adalah penyakit kronis."
+          "text": "The prevalence of chronic diseases has increased significantly over the past decade.",
+          "translation": "Kemunculan penyakit kronis telah meningkat secara signifikan dalam dekade terakhir."
         },
         {
           "type": "Complex",
-          "text": "Because she has a chronic disease, she needs to take medication every day.",
-          "translation": "Karena dia memiliki penyakit kronis, dia perlu mengonsumsi obat setiap hari."
+          "text": "While the causes of chronic diseases are multifaceted, lifestyle plays a significant role in their development.",
+          "translation": "Meskipun penyebab penyakit kronis sangat kompleks, gaya hidup berperan besar dalam perkembangannya."
         },
         {
           "type": "Compound",
-          "text": "Chronic diseases are expensive to treat, and they can also cause a lot of pain.",
-          "translation": "Penyakit kronis mahal biayanya, dan juga dapat menyebabkan banyak rasa sakit."
+          "text": "Chronic diseases and mental health disorders are often linked, making diagnosis challenging.",
+          "translation": "Penyakit kronis dan gangguan jiwa sering terkait, sehingga diagnosis menjadi sulit."
         },
         {
           "type": "Compound-Complex",
-          "text": "While chronic diseases can be managed with medication, they are often caused by a combination of genetic and environmental factors, and they can have a significant impact on a person's quality of life.",
-          "translation": "Sementara penyakit kronis dapat diatasi dengan obat, mereka sering disebabkan oleh kombinasi faktor genetik dan lingkungan, dan juga dapat memiliki dampak signifikan pada kualitas hidup seseorang."
+          "text": "As a result, the healthcare system struggles to provide adequate care for individuals with chronic diseases, particularly those from low-income backgrounds.",
+          "translation": "Dengan demikian, sistem kesehatan mengalami kesulitan memberikan perawatan yang memadai bagi individu dengan penyakit kronis, terutama bagi mereka dari latar belakang ekonomi rendah."
         }
       ],
       "synonymMeanings": [
-        "penyakit jangka panjang",
-        "penyakit menetap",
-        "penyakit berkepanjangan",
-        "penyakit yang berlangsung lama"
+        "Penyakit jangka panjang",
+        "Penyakit kronik",
+        "Penyakit berkepanjangan"
       ]
     },
     {
