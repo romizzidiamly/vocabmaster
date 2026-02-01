@@ -1209,9 +1209,41 @@
         "Natural farming",
         "eco-agriculture"
       ],
-      "definition": "The cultivation of crops without\nsynthetic chemicals",
+      "definition": "The practice of growing and raising plants and animals without the use of synthetic fertilizers, pesticides, or genetically modified organisms.",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "discovered",
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Organic farming is essential for a sustainable food supply.",
+          "translation": "Pertanian organik sangat penting untuk persediaan makanan yang berkelanjutan."
+        },
+        {
+          "type": "Complex",
+          "text": "The increasing popularity of organic farming has led to a decrease in the use of chemical pesticides.",
+          "translation": "Kebanyakan pertanian organik yang meningkat telah menyebabkan penurunan penggunaan pestisida kimia."
+        },
+        {
+          "type": "Compound",
+          "text": "Organic farming and animal husbandry have many similarities, but also several differences.",
+          "translation": "Pertanian organik dan peternakan ternak memiliki banyak kesamaan, tetapi juga beberapa perbedaan."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "Organic farming methods not only benefit the environment but also improve the quality of the crops, which in turn increases the income of farmers.",
+          "translation": "Metode pertanian organik tidak hanya menguntungkan lingkungan, tetapi juga meningkatkan kualitas hasil panen, yang pada gilirannya meningkatkan pendapatan petani."
+        }
+      ],
+      "phonetics": {
+        "us": "/ɔrˈɡænɪkˈfɑːrmɪŋ/",
+        "uk": "/ɔːrˈɡænɪkˈfɑːrmɪŋ/"
+      },
+      "meaning": "Pertanian organik",
+      "synonymMeanings": [
+        "pertanian alami",
+        "pertanian hijau",
+        "pertanian ramah lingkungan"
+      ]
     },
     {
       "id": "0ba7cfea-70c7-41fb-8eeb-568d8f5db933",
