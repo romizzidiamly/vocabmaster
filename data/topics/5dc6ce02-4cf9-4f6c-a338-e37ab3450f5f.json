@@ -2125,41 +2125,39 @@
         "Elastic training tools",
         "tension bands"
       ],
-      "definition": "a long, thin, rubber strip used for exercise, which strengthens muscles by resisting movement",
+      "definition": "A long, thin, flexible strip made of rubber or plastic that is used for exercising, especially for strengthening muscles.",
       "userGuesses": [],
-      "status": "hidden",
-      "meaning": "pita resistensi",
+      "status": "discovered",
+      "meaning": "Bingkisan tali elastis",
       "phonetics": {
-        "us": "/rəˈzistəns ˈbændz/",
-        "uk": "/rɪˈzɪstəns ˈbændz/"
+        "us": "/rɪsɪstənsˈbændz/",
+        "uk": "/rɪˈsɪstənsbændz/"
       },
       "examples": [
         {
           "type": "Simple",
-          "text": "She uses resistance bands to stay fit.",
-          "translation": "Dia menggunakan pita resistensi untuk menjaga kebugaran."
+          "text": "Resistance bands are a popular choice for home workouts.",
+          "translation": "Bingkisan tali elastis adalah pilihan yang populer untuk latihan di rumah."
         },
         {
           "type": "Complex",
-          "text": "Because resistance bands are portable, she can exercise anywhere.",
-          "translation": "Karena pita resistensi portable, dia bisa berolahraga di mana saja."
+          "text": "The researcher argued that resistance bands were a more effective way to improve muscle strength compared to traditional weights.",
+          "translation": "Peneliti tersebut berpendapat bahwa bingkisan tali elastis adalah cara yang lebih efektif untuk meningkatkan kekuatan otot dibandingkan dengan beban tradisional."
         },
         {
           "type": "Compound",
-          "text": "She uses resistance bands and does yoga to stay healthy, and she also eats a balanced diet.",
-          "translation": "Dia menggunakan pita resistensi dan melakukan yoga untuk menjaga kesehatan, dan dia juga makan makanan seimbang."
+          "text": "Resistance bands and dumbbells are both used for strengthening muscles, but in different ways.",
+          "translation": "Bingkisan tali elastis dan dumbbell sama-sama digunakan untuk menguatkan otot, tetapi dengan cara yang berbeda."
         },
         {
           "type": "Compound-Complex",
-          "text": "While she was on vacation, she used resistance bands to stay fit, because she knew that exercise is essential for her well-being, and she also wanted to enjoy her trip without worrying about her fitness.",
-          "translation": "Ketika dia sedang liburan, dia menggunakan pita resistensi untuk menjaga kebugaran, karena dia tahu bahwa olahraga sangat penting untuk kesejahteraannya, dan dia juga ingin menikmati perjalanannya tanpa khawatir tentang kebugarannya."
+          "text": "Although resistance bands are a convenient option for exercising, they can also be used as a substitute for traditional weights when space is limited, but not as a replacement for a good diet.",
+          "translation": "Meskipun bingkisan tali elastis adalah pilihan yang nyaman untuk berlatih, mereka juga dapat digunakan sebagai pengganti beban tradisional jika ruang terbatas, tetapi bukan sebagai pengganti pola makan yang seimbang."
         }
       ],
       "synonymMeanings": [
-        "pita olahraga",
-        "alat peregangan",
-        "pita elastis",
-        "peralatan kebugaran"
+        "Bingkisan tali latihan",
+        "Tali elastis kekuatan"
       ]
     },
     {
