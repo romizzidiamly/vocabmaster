@@ -531,41 +531,41 @@
         "Rehabilitation",
         "counseling"
       ],
-      "definition": "treatment for someone who is ill, either physically or mentally, intended to make them better or to help them deal with their condition",
+      "definition": "Treatment intended to cure or help a particular condition, especially a mental or physical one",
       "userGuesses": [],
-      "status": "hidden",
-      "meaning": "terapi",
+      "status": "discovered",
+      "meaning": "Terapi",
       "phonetics": {
-        "us": "/ˈθerəpi/",
-        "uk": "/ˈθɛrəpi/"
+        "us": "/ˈθɛrəpi/",
+        "uk": "/ˈθerəpi/"
       },
       "examples": [
         {
           "type": "Simple",
-          "text": "She is undergoing therapy to recover from her injury.",
+          "text": "She underwent therapy to recover from her injury.",
           "translation": "Dia menjalani terapi untuk pulih dari cedera tersebut."
         },
         {
           "type": "Complex",
-          "text": "Because she was experiencing anxiety, she started attending therapy sessions to learn how to manage her emotions.",
-          "translation": "Karena dia mengalami kecemasan, dia mulai menghadiri sesi terapi untuk belajar mengelola emosinya."
+          "text": "Because she was experiencing anxiety, she decided to attend therapy sessions.",
+          "translation": "Karena dia mengalami kecemasan, dia memutuskan untuk menghadiri sesi terapi."
         },
         {
           "type": "Compound",
-          "text": "The doctor recommended therapy, and she also started exercising regularly to improve her overall health.",
-          "translation": "Dokter menyarankan terapi, dan dia juga mulai berolahraga secara teratur untuk meningkatkan kesehatannya secara keseluruhan."
+          "text": "The doctor prescribed therapy and medication, and she started to feel better soon.",
+          "translation": "Dokter meresepkan terapi dan obat, dan dia mulai merasa lebih baik segera."
         },
         {
           "type": "Compound-Complex",
-          "text": "While attending therapy sessions to overcome her fear of public speaking, she also joined a debate club, and as a result, her confidence improved significantly, which in turn helped her to perform better at work.",
-          "translation": "Saat menghadiri sesi terapi untuk mengatasi rasa takutnya berbicara di depan umum, dia juga bergabung dengan klub debat, dan sebagai hasilnya, kepercayaan dirinya meningkat secara signifikan, yang pada gilirannya membantunya untuk berperforma lebih baik di tempat kerja."
+          "text": "While she was attending therapy sessions, her friends were very supportive, and she soon realized that the therapy was helping her to manage her stress.",
+          "translation": "Sementara dia menghadiri sesi terapi, teman-temannya sangat mendukung, dan dia segera menyadari bahwa terapi tersebut membantunya untuk mengelola stresnya."
         }
       ],
       "synonymMeanings": [
         "pengobatan",
         "perawatan",
         "penyembuhan",
-        "konseling"
+        "rehabilitasi"
       ]
     },
     {
