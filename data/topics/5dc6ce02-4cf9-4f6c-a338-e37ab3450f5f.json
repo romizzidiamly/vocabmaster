@@ -1702,41 +1702,40 @@
         "Cardio",
         "endurance training"
       ],
-      "definition": "exercise, such as running or cycling, that makes your heart and lungs work harder and is good for your health",
+      "definition": "Exercise that requires oxygen to generate energy, typically involving movement of the body or limbs.",
       "userGuesses": [],
-      "status": "hidden",
-      "meaning": "olahraga aerobik",
+      "status": "discovered",
+      "meaning": "Latihan olahraga yang memerlukan oksigen untuk menghasilkan energi, biasanya melibatkan gerakan tubuh atau anggota badan.",
       "phonetics": {
-        "us": "/ˌɛr.oʊˈbɪk ˈɛksərˌsaɪz/",
-        "uk": "/ˌɛərəʊˈbɪk ˈɛksəsaɪz/"
+        "us": "/ˌɛərəbɪk ˈɛksɝːsɪz/",
+        "uk": "/ˌɛərəbɪk ˈɛksɜːsɪs/"
       },
       "examples": [
         {
           "type": "Simple",
-          "text": "Aerobic exercise helps to reduce stress.",
-          "translation": "Olahraga aerobik membantu mengurangi stres."
+          "text": "Regular aerobic exercise can help to maintain a healthy weight.",
+          "translation": "Latihan olahraga aerobik secara teratur dapat membantu menjaga berat badan sehat."
         },
         {
           "type": "Complex",
-          "text": "Because aerobic exercise is good for the heart, it is often recommended by doctors.",
-          "translation": "Karena olahraga aerobik baik untuk jantung, maka seringkali direkomendasikan oleh dokter."
+          "text": "While jogging is an excellent form of aerobic exercise, it may not be suitable for everyone, especially those with joint problems.",
+          "translation": "Meskipun berlari merupakan bentuk olahraga aerobik yang sangat baik, namun mungkin tidak sesuai bagi semua orang, terutama mereka yang memiliki masalah sendi."
         },
         {
           "type": "Compound",
-          "text": "Aerobic exercise helps to reduce stress, and it also improves overall health.",
-          "translation": "Olahraga aerobik membantu mengurangi stres, dan juga meningkatkan kesehatan secara keseluruhan."
+          "text": "Aerobic exercise, such as cycling and swimming, can be done at home or in a gym, and is an excellent way to improve cardiovascular health.",
+          "translation": "Latihan olahraga aerobik, seperti bersepeda dan berenang, dapat dilakukan di rumah atau di gym, dan merupakan cara yang sangat baik untuk meningkatkan kesehatan jantung."
         },
         {
           "type": "Compound-Complex",
-          "text": "While aerobic exercise is good for the heart, it can be harmful if overdone, and people who engage in it regularly should also make sure to get enough rest, because otherwise they may experience fatigue.",
-          "translation": "Sementara olahraga aerobik baik untuk jantung, itu dapat berbahaya jika berlebihan, dan orang-orang yang terlibat di dalamnya secara teratur juga harus memastikan untuk mendapatkan istirahat yang cukup, karena jika tidak mereka mungkin mengalami kelelahan."
+          "text": "In addition to improving cardiovascular health, aerobic exercise has also been shown to reduce stress levels and improve overall well-being, which is why it is often recommended by doctors and health professionals.",
+          "translation": "Selain meningkatkan kesehatan jantung, latihan olahraga aerobik juga telah menunjukkan kemampuan untuk mengurangi tingkat stres dan meningkatkan kesejahteraan secara keseluruhan, sehingga sering direkomendasikan oleh dokter dan profesional kesehatan."
         }
       ],
       "synonymMeanings": [
-        "senam",
-        "latihan kekuatan",
-        "aktivitas fisik",
-        "olahraga kardio"
+        "olahraga kebugaran",
+        "olahraga cardio",
+        "olahraga kardiovaskular"
       ]
     },
     {
