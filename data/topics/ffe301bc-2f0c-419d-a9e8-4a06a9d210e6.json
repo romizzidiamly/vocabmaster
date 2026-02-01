@@ -306,9 +306,42 @@
         "Eco-friendliness",
         "conservation"
       ],
-      "definition": "The ability to maintain environmental\nbalance for future generations",
+      "definition": "The ability to be maintained at a certain level or standard without causing harm to the environment.",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "discovered",
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "The new government is committed to promoting sustainability in all aspects of life.",
+          "translation": "Pemerintahan baru tersebut berkomitmen untuk mempromosikan keberlanjutan dalam segala aspek kehidupan."
+        },
+        {
+          "type": "Complex",
+          "text": "Sustainability has become a major concern for many countries, which are struggling to maintain a balance between economic growth and environmental protection.",
+          "translation": "Keberlanjutan telah menjadi masalah utama bagi banyak negara yang berjuang untuk menjaga keseimbangan antara pertumbuhan ekonomi dan perlindungan lingkungan."
+        },
+        {
+          "type": "Compound",
+          "text": "Sustainability is essential for the well-being of future generations, and it can be achieved through the implementation of sustainable practices.",
+          "translation": "Keberlanjutan sangat penting untuk kesejahteraan generasi masa depan, dan dapat dicapai melalui implementasi praktek-praktek berkelanjutan."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "However, the pursuit of sustainability is often hindered by the lack of awareness among the general public, which can be addressed through education and public policy.",
+          "translation": "Namun, pengusaha keberlanjutan seringkali terhalang oleh kurangnya kesadaran di kalangan masyarakat umum, yang dapat diatasi melalui pendidikan dan kebijakan publik."
+        }
+      ],
+      "phonetics": {
+        "us": "/ˌsʌsˈteɪnəbɪlɪti/",
+        "uk": "/ˌsʌsˈteɪnəbɪlɪtɪ/"
+      },
+      "meaning": "Kemampuan untuk dipertahankan pada tingkat atau standar tertentu tanpa menyebabkan kerusakan lingkungan.",
+      "synonymMeanings": [
+        "Kemampuan berkelanjutan",
+        "Kapasitas lingkungan",
+        "Kelestarian",
+        "Kekelanjutan"
+      ]
     },
     {
       "id": "3aec6457-05db-464d-86b6-dcc61135aaf3",
