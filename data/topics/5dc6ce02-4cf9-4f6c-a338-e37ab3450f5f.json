@@ -1393,41 +1393,40 @@
         "Psychological growth",
         "emotional"
       ],
-      "definition": "the ability to control and understand your emotions, and to deal with situations in a sensible and adult way",
+      "definition": "The ability to control and understand one's own emotions, and to behave in a mature and responsible way, especially in difficult or challenging situations.",
       "userGuesses": [],
-      "status": "hidden",
-      "meaning": "kedewasaan emosional",
+      "status": "discovered",
+      "meaning": "Kematangan emosional",
       "phonetics": {
-        "us": "/ɪˈmoʊʃənl ˈmætʃərɪti/",
-        "uk": "/ɪˈməʊʃənl ˈmætʃərɪti/"
+        "us": "/ɛm.ʊˈʃən.əl maˈtɜːrɪti/",
+        "uk": "/ɛm.əʊ.ˈʃən.əl məˈtʊərɪti/"
       },
       "examples": [
         {
           "type": "Simple",
-          "text": "She has emotional maturity beyond her years.",
-          "translation": "Dia memiliki kedewasaan emosional yang melampaui usianya."
+          "text": "Developing emotional maturity is essential for achieving success in life.",
+          "translation": "Kematangan emosional yang berkembang sangat penting dalam mencapai kesuksesan dalam hidup."
         },
         {
           "type": "Complex",
-          "text": "Because she has emotional maturity, she can handle difficult situations.",
-          "translation": "Karena dia memiliki kedewasaan emosional, dia dapat menangani situasi sulit."
+          "text": "While many people struggle with emotional maturity, it is possible to develop this skill with practice and patience.",
+          "translation": "Banyak orang yang mengalami kesulitan dalam mengembangkan kematangan emosional, namun hal ini dapat dikembangkan dengan latihan dan kesabaran."
         },
         {
           "type": "Compound",
-          "text": "She has emotional maturity, and she is also very intelligent.",
-          "translation": "Dia memiliki kedewasaan emosional, dan dia juga sangat pintar."
+          "text": "Emotional maturity is characterized by a range of skills, including self-awareness, effective communication, and conflict resolution.",
+          "translation": "Kematangan emosional dapat ditunjukkan dengan berbagai kemampuan, seperti kesadaran diri, komunikasi efektif, dan penyelesaian konflik."
         },
         {
           "type": "Compound-Complex",
-          "text": "Although she is still young, she has emotional maturity, and she can handle difficult situations because she is confident.",
-          "translation": "Meskipun dia masih muda, dia memiliki kedewasaan emosional, dan dia dapat menangani situasi sulit karena dia percaya diri."
+          "text": "For instance, people with emotional maturity can handle stressful situations with ease, whereas those who lack this trait often become anxious or depressed.",
+          "translation": "Misalnya, orang dengan kematangan emosional dapat menangani situasi stres dengan mudah, sedangkan orang yang tidak memiliki sifat ini sering menjadi cemas atau depresi."
         }
       ],
       "synonymMeanings": [
-        "kedewasaan",
-        "kematangan",
-        "kestabilan emosional",
-        "keseimbangan mental"
+        "Kematangan jiwa",
+        "Kesiapsiagaan emosional",
+        "Kemampuan emosional"
       ]
     },
     {
