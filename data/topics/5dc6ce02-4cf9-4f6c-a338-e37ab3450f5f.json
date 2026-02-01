@@ -96,10 +96,10 @@
         "Diet",
         "nourishment"
       ],
-      "definition": "the study of food and how it affects the body, or the food that a person, animal, or plant needs to stay healthy",
+      "definition": "The study of food and how it affects the body, or the process of eating and using food to keep the body healthy",
       "userGuesses": [],
-      "status": "hidden",
-      "meaning": "gizi",
+      "status": "discovered",
+      "meaning": "Gizi",
       "phonetics": {
         "us": "/nuˈtrɪʃən/",
         "uk": "/njuːˈtrɪʃən/"
@@ -107,29 +107,30 @@
       "examples": [
         {
           "type": "Simple",
-          "text": "Eating a balanced diet is essential for good nutrition.",
-          "translation": "Mengonsumsi makanan seimbang sangat penting untuk gizi yang baik."
+          "text": "Proper nutrition is essential for good health.",
+          "translation": "Gizi yang tepat sangat penting untuk kesehatan yang baik."
         },
         {
           "type": "Complex",
-          "text": "Because she was concerned about her health, she started to learn about nutrition and how it affects the body.",
-          "translation": "Karena dia khawatir tentang kesehatannya, dia mulai mempelajari tentang gizi dan bagaimana itu mempengaruhi tubuh."
+          "text": "Because she had a poor diet, she decided to take a course on nutrition to learn how to eat healthier.",
+          "translation": "Karena dia memiliki pola makan yang buruk, dia memutuskan untuk mengikuti kursus gizi untuk belajar makan lebih sehat."
         },
         {
           "type": "Compound",
-          "text": "I love reading about nutrition and I also enjoy cooking healthy meals.",
-          "translation": "Saya suka membaca tentang gizi dan saya juga menikmati memasak makanan sehat."
+          "text": "I exercise regularly and I also eat a balanced diet to maintain good nutrition and overall health.",
+          "translation": "Saya berolahraga secara teratur dan saya juga makan makanan seimbang untuk menjaga gizi dan kesehatan secara keseluruhan."
         },
         {
           "type": "Compound-Complex",
-          "text": "While I was studying nutrition, I realized that eating a balanced diet is not only important for our physical health, but also for our mental well-being, and I also learned that regular exercise can help improve our overall health.",
-          "translation": "Saat saya belajar tentang gizi, saya menyadari bahwa mengonsumsi makanan seimbang tidak hanya penting untuk kesehatan fisik kita, tetapi juga untuk kesejahteraan mental kita, dan saya juga belajar bahwa olahraga teratur dapat membantu meningkatkan kesehatan kita secara keseluruhan."
+          "text": "While many people believe that a low-carb diet is the key to weight loss, others argue that a balanced nutrition plan, which includes a variety of foods, is more effective in the long run, because it provides the body with all the necessary nutrients.",
+          "translation": "Sementara banyak orang percaya bahwa diet rendah karbohidrat adalah kunci untuk menurunkan berat badan, yang lain berargumentasi bahwa rencana gizi seimbang, yang mencakup berbagai makanan, lebih efektif dalam jangka panjang, karena menyediakan tubuh dengan semua nutrisi yang diperlukan."
         }
       ],
       "synonymMeanings": [
-        "pemeliharaan",
-        "pemberian makan",
-        "kesehatan"
+        "Pemberian makan",
+        "Penggunaan makanan",
+        "Keseimbangan makanan",
+        "Pemasukan makanan"
       ]
     },
     {
