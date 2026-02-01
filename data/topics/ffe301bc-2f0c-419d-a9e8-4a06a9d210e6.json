@@ -1485,9 +1485,41 @@
         "Non-renewable reliance",
         "carbon dependence"
       ],
-      "definition": "The reliance on coal, oil, and gas for energy",
+      "definition": "A dependence on or reliance on fossil fuels, such as coal, oil, and gas, for energy.",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "discovered",
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "The country's economic growth is heavily reliant on fossil fuel dependency.",
+          "translation": "Pertumbuhan ekonomi negara sangat bergantung pada ketergantungan bahan bakar fosil."
+        },
+        {
+          "type": "Complex",
+          "text": "While the benefits of fossil fuel dependency are undeniable, its negative impacts on the environment are a major concern.",
+          "translation": "Meskipun manfaat ketergantungan pada bahan bakar fosil tidak dapat disangkal, dampak negatifnya terhadap lingkungan adalah kekhawatiran utama."
+        },
+        {
+          "type": "Compound",
+          "text": "Fossil fuel dependency is not only a major contributor to climate change but also a significant source of air pollution.",
+          "translation": "Ketergantungan pada bahan bakar fosil tidak hanya merupakan kontributor utama perubahan iklim, tetapi juga sumber utama polusi udara."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "As a result of the increasing global demand for energy, many countries are struggling to reduce their fossil fuel dependency, which in turn affects the environment and public health.",
+          "translation": "Dengan meningkatnya permintaan global akan energi, banyak negara harus berjuang untuk mengurangi ketergantungan pada bahan bakar fosil, sehingga mempengaruhi lingkungan dan kesehatan masyarakat."
+        }
+      ],
+      "phonetics": {
+        "us": "/ˈfoʊsəlˈfuːl ˈdɛpəndənsi/",
+        "uk": "/ˈfoʊsəlˈfuːl ˈdɛpəndənsi/"
+      },
+      "meaning": "Ketergantungan pada bahan bakar fosil",
+      "synonymMeanings": [
+        "ketergantungan pada energi fosil",
+        "penggunaan bahan bakar fosil",
+        "kebergantungan pada bahan bakar"
+      ]
     },
     {
       "id": "168fea23-206c-4725-9707-91aa168021d5",
