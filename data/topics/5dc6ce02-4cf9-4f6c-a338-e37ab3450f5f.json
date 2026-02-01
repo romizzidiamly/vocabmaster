@@ -315,7 +315,7 @@
       ],
       "definition": "a medical condition in which the blood pressure is higher than normal",
       "userGuesses": [],
-      "status": "hidden",
+      "status": "discovered",
       "meaning": "hipertensi",
       "phonetics": {
         "us": "/ˌhaɪpərˈtɛnʃən/",
@@ -329,24 +329,24 @@
         },
         {
           "type": "Complex",
-          "text": "Because I have a family history of hypertension, I need to be careful about my diet.",
-          "translation": "Karena saya memiliki riwayat keluarga hipertensi, saya perlu berhati-hati tentang pola makan saya."
+          "text": "Because I have a family history of hypertension, I need to monitor my blood pressure regularly.",
+          "translation": "Karena saya memiliki riwayat keluarga dengan hipertensi, saya perlu memantau tekanan darah saya secara teratur."
         },
         {
           "type": "Compound",
-          "text": "I exercise regularly and I eat healthy food, but I still have hypertension.",
-          "translation": "Saya berolahraga secara teratur dan saya makan makanan sehat, tetapi saya masih memiliki hipertensi."
+          "text": "I exercise regularly and I eat healthy food, but I still have hypertension and high cholesterol.",
+          "translation": "Saya berolahraga secara teratur dan saya makan makanan sehat, tetapi saya masih memiliki hipertensi dan kolesterol tinggi."
         },
         {
           "type": "Compound-Complex",
-          "text": "While I have been trying to control my hypertension through diet and exercise, my doctor has also prescribed medication, and I have been taking it regularly, but I still need to monitor my blood pressure closely.",
-          "translation": "Sementara saya telah berusaha untuk mengontrol hipertensi saya melalui diet dan olahraga, dokter saya juga telah meresepkan obat, dan saya telah mengambilnya secara teratur, tetapi saya masih perlu memantau tekanan darah saya dengan hati-hati."
+          "text": "While I was aware that obesity could lead to hypertension, I did not expect that I would develop kidney disease as a result of my condition, and now I have to undergo dialysis regularly.",
+          "translation": "Sementara saya menyadari bahwa obesitas bisa menyebabkan hipertensi, saya tidak mengharapkan bahwa saya akan mengembangkan penyakit ginjal sebagai hasil dari kondisi saya, dan sekarang saya harus menjalani dialisis secara teratur."
         }
       ],
       "synonymMeanings": [
         "tekanan darah tinggi",
         "penyakit jantung",
-        "gangguan kardiovaskular"
+        "penyakit kardiovaskular"
       ]
     },
     {
