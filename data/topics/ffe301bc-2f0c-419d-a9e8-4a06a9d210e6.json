@@ -515,9 +515,40 @@
         "Land degradation",
         "deforestation impact"
       ],
-      "definition": "The wearing away of the topsoil by\nwind or water",
+      "definition": "The process of soil being worn away by natural forces such as wind or water.",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "discovered",
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "The effects of soil erosion can be devastating to local ecosystems.",
+          "translation": "Erosi tanah dapat sangat merusak ekosistem setempat."
+        },
+        {
+          "type": "Complex",
+          "text": "While soil erosion is a natural process, human activities can exacerbate the problem.",
+          "translation": "Meskipun erosi tanah merupakan proses alami, kegiatan manusia dapat memperburuk masalah ini."
+        },
+        {
+          "type": "Compound",
+          "text": "Soil erosion and deforestation are two major threats to the environment.",
+          "translation": "Erosi tanah dan deforestasi adalah dua ancaman besar terhadap lingkungan."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "In areas prone to soil erosion, the use of terracing can help to mitigate the effects, but only if implemented correctly.",
+          "translation": "Di daerah yang rentan terhadap erosi tanah, penggunaan sistem lereng dapat membantu mengurangi dampaknya, asalkan diterapkan dengan benar."
+        }
+      ],
+      "phonetics": {
+        "us": "/ˈsoɪl ɪˈroʊʒən/",
+        "uk": "/ˈsoʊl ɪˈroʊʒən/"
+      },
+      "meaning": "Erosi tanah",
+      "synonymMeanings": [
+        "Lapukan tanah",
+        "Hancuran tanah"
+      ]
     },
     {
       "id": "fe67614a-5f0e-44cd-8b27-494c9e4c8609",
