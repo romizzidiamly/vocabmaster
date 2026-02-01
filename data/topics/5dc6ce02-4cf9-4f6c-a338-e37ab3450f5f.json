@@ -835,41 +835,40 @@
         "Natural medicine",
         "traditional healing"
       ],
-      "definition": "Medicines or treatments made from plants, used to prevent or cure diseases or medical conditions.",
+      "definition": "Natural products used to treat or prevent illness, often derived from plants.",
       "userGuesses": [],
-      "status": "hidden",
-      "meaning": "Obat-obatan atau pengobatan yang terbuat dari tanaman, digunakan untuk mencegah atau menyembuhkan penyakit atau kondisi medis.",
+      "status": "discovered",
+      "meaning": "Obat-obatan alami",
       "phonetics": {
-        "us": "/ˈərbəl rɪˈmɛdiz/",
-        "uk": "/ˈhɜːbəl rɪˈmiːdɪz/"
+        "us": "/hərˈbæl rɪˈmɛdi/",
+        "uk": "/hərˈbæl rɪˈmɛdi/"
       },
       "examples": [
         {
           "type": "Simple",
-          "text": "She uses herbal remedies to cure her headache.",
-          "translation": "Dia menggunakan obat-obatan herbal untuk menyembuhkan sakit kepalanya."
+          "text": "Herbal remedies have been used for centuries to treat various health conditions.",
+          "translation": "Obat-obatan alami telah digunakan selama berabad-abad untuk mengobati berbagai kondisi kesehatan."
         },
         {
           "type": "Complex",
-          "text": "Because herbal remedies are natural, they are often preferred over chemical-based medicines.",
-          "translation": "Karena obat-obatan herbal adalah alami, mereka sering lebih disukai daripada obat-obatan berbasis kimia."
+          "text": "While some people believe that herbal remedies are effective, others argue that their benefits are not backed by scientific evidence.",
+          "translation": "Meskipun beberapa orang percaya bahwa obat-obatan alami efektif, orang lain berargumentasi bahwa manfaatnya tidak didukung bukti ilmiah."
         },
         {
           "type": "Compound",
-          "text": "Herbal remedies are popular, and many people use them to cure their illnesses, but some are not effective.",
-          "translation": "Obat-obatan herbal populer, dan banyak orang menggunakan mereka untuk menyembuhkan penyakit mereka, tetapi beberapa tidak efektif."
+          "text": "Herbal remedies can be found in various forms, including teas, capsules, and ointments, which are often sold in health food stores.",
+          "translation": "Obat-obatan alami dapat ditemukan dalam berbagai bentuk, termasuk teh, kapsul, dan salep, yang seringkali dijual di toko makanan sehat."
         },
         {
           "type": "Compound-Complex",
-          "text": "While herbal remedies can be effective in treating some medical conditions, they can also interact with other medications, and therefore, patients should consult their doctors before using them, because some interactions can be harmful.",
-          "translation": "Sementara obat-obatan herbal dapat efektif dalam mengobati beberapa kondisi medis, mereka juga dapat berinteraksi dengan obat-obatan lain, dan oleh karena itu, pasien harus berkonsultasi dengan dokter mereka sebelum menggunakan mereka, karena beberapa interaksi dapat berbahaya."
+          "text": "In addition to their potential health benefits, herbal remedies are often preferred because they are a more natural alternative to conventional medications, which can have numerous side effects.",
+          "translation": "Selain potensi manfaat kesehatannya, obat-obatan alami sering dipilih karena merupakan alternatif alami yang lebih baik daripada obat konvensional, yang dapat memiliki efek sampingan yang banyak."
         }
       ],
       "synonymMeanings": [
-        "Pengobatan Alami",
-        "Obat Tradisional",
-        "Ramuan Herbal",
-        "Terapi Holistik"
+        "jamu",
+        "ramuan obat",
+        "remede alami"
       ]
     },
     {
