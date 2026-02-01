@@ -2470,31 +2470,41 @@
         "Alignment",
         "stance"
       ],
-      "definition": "The way in which a person holds their body",
+      "definition": "The position and angle in which someone or something is standing or sitting.",
       "userGuesses": [],
-      "status": "hidden",
-      "meaning": "Meaning not found.",
+      "status": "discovered",
+      "meaning": "Kepala atau cara berdiri seseorang atau sesuatu.",
       "phonetics": {
-        "us": "/.../",
-        "uk": "/.../"
+        "us": "/ˈpɒstrʊər/",
+        "uk": "/ˈpɒstrə/"
       },
       "examples": [
         {
           "type": "Simple",
-          "text": "Usage of Posture is important."
+          "text": "Maintaining good posture is essential for our overall health.",
+          "translation": "Menggunakan postur baik sangat penting untuk kesehatan kita secara keseluruhan."
         },
         {
           "type": "Complex",
-          "text": "Because Posture matters, we should study it."
+          "text": "While exercising, it's crucial to maintain a good posture to avoid any injuries.",
+          "translation": "Saat berolahraga, sangat penting untuk menjaga postur yang baik untuk menghindari cedera."
         },
         {
           "type": "Compound",
-          "text": "The word is Posture, and it is useful."
+          "text": "We should all strive to maintain a healthy posture, whether we're sitting or standing.",
+          "translation": "Kita semua harus berusaha menjaga postur yang sehat, baik duduk atau berdiri."
         },
         {
           "type": "Compound-Complex",
-          "text": "If we use Posture correctly, we succeed, so let's try."
+          "text": "In order to improve our physical fitness, we need to adopt a good posture and exercise regularly, which can be achieved by incorporating activities into our daily routine.",
+          "translation": "Untuk meningkatkan kebugaran fisik kita, kita perlu menggunakan postur yang baik dan berolahraga secara teratur, yang dapat dicapai dengan mengintegrasikan aktivitas ke dalam rutinitas harian kita."
         }
+      ],
+      "synonymMeanings": [
+        "sikap tubuh",
+        "kepala",
+        "tubuh",
+        "posisi"
       ]
     },
     {
