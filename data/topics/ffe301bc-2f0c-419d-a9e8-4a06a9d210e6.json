@@ -491,9 +491,42 @@
         "emissions",
         "pollutants"
       ],
-      "definition": "The release of carbon dioxide into\nthe atmosphere",
+      "definition": "The amount of carbon dioxide released into the atmosphere as a result of human activity.",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "discovered",
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "The increasing carbon emissions are causing severe climate change effects worldwide.",
+          "translation": "Peningkatan emisi karbon memicu efek perubahan iklim yang parah di seluruh dunia."
+        },
+        {
+          "type": "Complex",
+          "text": "While some argue that carbon emissions are essential for economic growth, others believe that they are a major threat to the environment.",
+          "translation": "Meskipun ada yang menyatakan bahwa emisi karbon sangat penting bagi pertumbuhan ekonomi, namun banyak pula yang percaya bahwa emisi karbon merupakan ancaman besar bagi lingkungan."
+        },
+        {
+          "type": "Compound",
+          "text": "The government has implemented policies to reduce carbon emissions and promote renewable energy sources, but they are not enough to meet the country's growing energy demands.",
+          "translation": "Pemerintah telah menerapkan kebijakan untuk mengurangi emisi karbon dan mendorong pengembangan sumber energi terbarukan, namun belum cukup untuk memenuhi meningkatnya kebutuhan energi negara."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "Although the use of electric vehicles can help reduce carbon emissions, it is still a relatively expensive option for many people, and only those with high disposable incomes can afford to buy them.",
+          "translation": "Meskipun penggunaan kendaraan listrik dapat membantu mengurangi emisi karbon, namun masih merupakan pilihan yang relatif mahal bagi banyak orang, dan hanya mereka yang memiliki penghasilan yang cukup tinggi yang dapat membelinya."
+        }
+      ],
+      "phonetics": {
+        "us": "/ˈkɑrbɑn ɪˈmɪʃənz/",
+        "uk": "/ˈkɑːrbɑn ɪˈmɪʃənz/"
+      },
+      "meaning": "Emisi karbon",
+      "synonymMeanings": [
+        "Emisi gas rumah kaca",
+        "Pengeluaran karbon dioksida",
+        "Pencemaran udara",
+        "Penggunaan bahan bakar fosil"
+      ]
     },
     {
       "id": "a570a321-dd2c-4130-9b12-5e283a7e6065",
