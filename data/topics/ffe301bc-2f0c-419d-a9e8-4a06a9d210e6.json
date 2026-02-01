@@ -394,9 +394,40 @@
         "exhaustible",
         "energy"
       ],
-      "definition": "Energy derived from finite resources",
+      "definition": "Forms of energy that cannot be renewed or replenished once they have been used.",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "discovered",
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "The increasing demand for non-renewable energy is a major environmental concern.",
+          "translation": "Tuntutan yang semakin meningkat atas energi tak terbarukan menimbulkan kekhawatiran lingkungan yang besar."
+        },
+        {
+          "type": "Complex",
+          "text": "While non-renewable energy sources, such as coal and oil, are still widely used today, they are expected to decline in the future.",
+          "translation": "Meskipun sumber energi tak terbarukan seperti batu bara dan minyak masih digunakan secara luas saat ini, namun diharapkan akan mengalami penurunan di masa depan."
+        },
+        {
+          "type": "Compound",
+          "text": "Non-renewable energy is a limited resource, and climate change is one of the consequences of its intensive use.",
+          "translation": "Energi tak terbarukan merupakan sumber daya yang terbatas, dan perubahan iklim merupakan salah satu dampak dari penggunaannya yang intensif."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "The depletion of non-renewable energy resources is a significant threat to the environment, and it is essential to invest in renewable energy sources to mitigate this threat.",
+          "translation": "Pengurangan sumber daya energi tak terbarukan merupakan ancaman besar bagi lingkungan, dan sangat penting untuk berinvestasi dalam sumber energi terbarukan untuk mengurangi ancaman ini."
+        }
+      ],
+      "phonetics": {
+        "us": "/nɑn rɪˈnuːəbl ˈɛnədʒi/",
+        "uk": "/nɒn rɪˈnuːəbəl ˈɛnədʒi/"
+      },
+      "meaning": "Energi tak terbarukan",
+      "synonymMeanings": [
+        "sumber energi tak dapat diperbarui",
+        "energi fosil"
+      ]
     },
     {
       "id": "b67f98ab-8a9c-4373-9d05-9b6adc300575",
