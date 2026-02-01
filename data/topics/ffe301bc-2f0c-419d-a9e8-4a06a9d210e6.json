@@ -1179,9 +1179,41 @@
         "Sustainable living",
         "waste-free habits"
       ],
-      "definition": "A way of living that minimizes waste\nproduction",
+      "definition": "A lifestyle that aims to minimize waste and the use of non-renewable resources, with the ultimate goal of zero waste being produced.",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "discovered",
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Adopting a zero-waste lifestyle is essential for protecting the environment.",
+          "translation": "Mengadopsi hidup bergaya tidak membuang sangat penting untuk melindungi lingkungan."
+        },
+        {
+          "type": "Complex",
+          "text": "While some people argue that a zero-waste lifestyle is unrealistic, many others believe that it is a necessary step towards a more sustainable future.",
+          "translation": "Meskipun ada yang berpendapat bahwa hidup bergaya tidak membuang tidak masuk akal, banyak orang lain percaya bahwa itu adalah langkah yang diperlukan menuju masa depan yang lebih berkelanjutan."
+        },
+        {
+          "type": "Compound",
+          "text": "By reducing our consumption of plastic and adopting a zero-waste lifestyle, we can significantly reduce the amount of waste we produce.",
+          "translation": "Dengan mengurangi konsumsi plastik dan mengadopsi hidup bergaya tidak membuang, kita dapat secara signifikan mengurangi jumlah sampah yang kita produksi."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "However, achieving a zero-waste lifestyle requires a significant change in our behavior, as well as a willingness to invest in sustainable products and services.",
+          "translation": "Namun, mencapai hidup bergaya tidak membuang memerlukan perubahan signifikan dalam perilaku kita, serta kesediaan untuk berinvestasi pada produk dan layanan yang berkelanjutan."
+        }
+      ],
+      "phonetics": {
+        "us": "/ˈziːroʊ wæst laɪfˈstaɪl/",
+        "uk": "/ˈzɪəroʊ ˌweɪst ˈlaɪfˈstaɪl/"
+      },
+      "meaning": "Hidup bergaya tidak membuang.",
+      "synonymMeanings": [
+        "Hidup berkelanjutan",
+        "Hidup hijau",
+        "Hidup ramah lingkungan"
+      ]
     }
   ],
   "createdAt": 1769720342578
