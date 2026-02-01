@@ -573,41 +573,39 @@
         "Immunization",
         "inoculation"
       ],
-      "definition": "The act of giving someone a vaccine to prevent them from getting a particular disease",
+      "definition": "The act of introducing a vaccine to the body, especially by injection, to provide immunity against a particular infectious disease.",
       "userGuesses": [],
-      "status": "hidden",
-      "meaning": "Vaksinasi",
+      "status": "discovered",
+      "meaning": "Pemberian vaksin",
       "phonetics": {
         "us": "/ˌvæksɪˈneɪʃən/",
-        "uk": "/ˌvaksɪˈneɪʃən/"
+        "uk": "/ˌvæksɪˈneɪʃən/"
       },
       "examples": [
         {
           "type": "Simple",
-          "text": "The doctor recommended vaccination against flu.",
-          "translation": "Dokter merekomendasikan vaksinasi terhadap flu."
+          "text": "Vaccination is an essential measure to prevent the spread of infectious diseases.",
+          "translation": "Pemberian vaksin adalah langkah penting untuk mencegah penyebaran penyakit menular."
         },
         {
           "type": "Complex",
-          "text": "Because vaccination is mandatory, all children must be vaccinated before starting school.",
-          "translation": "Karena vaksinasi adalah wajib, semua anak harus divaksinasi sebelum memulai sekolah."
+          "text": "The benefits of vaccination have been widely recognized by the medical community, but some people still hesitate to get vaccinated.",
+          "translation": "Manfaat vaksin telah dikenal luas oleh komunitas kedokteran, tetapi beberapa orang masih ragu untuk divaksin."
         },
         {
           "type": "Compound",
-          "text": "The hospital offers vaccination and medical check-ups for free, and people can visit the clinic or go to the hospital.",
-          "translation": "Rumah sakit menawarkan vaksinasi dan pemeriksaan medis secara gratis, dan orang dapat mengunjungi klinik atau pergi ke rumah sakit."
+          "text": "Vaccination programs have been implemented in many countries to control outbreaks of infectious diseases, but the success rate varies greatly.",
+          "translation": "Program vaksin telah diimplementasikan di banyak negara untuk mengendalikan wabah penyakit menular, tetapi tingkat keberhasilannya sangat beragam."
         },
         {
           "type": "Compound-Complex",
-          "text": "While vaccination is an effective way to prevent the spread of diseases, it is also important to note that some people may have adverse reactions, and therefore, they should consult their doctors before getting vaccinated, or they may choose to visit a specialist.",
-          "translation": "Sementara vaksinasi adalah cara yang efektif untuk mencegah penyebaran penyakit, juga penting untuk dicatat bahwa beberapa orang mungkin memiliki reaksi negatif, dan oleh karena itu, mereka harus berkonsultasi dengan dokter sebelum divaksinasi, atau mereka dapat memilih untuk mengunjungi seorang spesialis."
+          "text": "Although vaccination has been proven to be effective in preventing the spread of infectious diseases, its effectiveness can be compromised by various factors such as the quality of the vaccine and the level of public awareness.",
+          "translation": "Meskipun vaksin telah terbukti efektif dalam mencegah penyebaran penyakit menular, keefektifannya dapat terganggu oleh berbagai faktor seperti kualitas vaksin dan tingkat kesadaran masyarakat."
         }
       ],
       "synonymMeanings": [
-        "Imunisasi",
-        "Pemberian vaksin",
-        "Pengobatan pencegahan",
-        "Pencegahan penyakit"
+        "pemberian imunisasi",
+        "pengobatan dengan vaksin"
       ]
     },
     {
