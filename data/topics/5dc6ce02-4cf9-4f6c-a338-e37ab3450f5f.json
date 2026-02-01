@@ -1621,40 +1621,41 @@
         "Obligation",
         "accountability"
       ],
-      "definition": "The state or fact of being responsible, or something for which you are responsible",
+      "definition": "The state or fact of being accountable for something.",
       "userGuesses": [],
-      "status": "hidden",
+      "status": "discovered",
       "meaning": "Tanggung jawab",
       "phonetics": {
-        "us": "/rɪˌspɑnsəˈbɪlɪti/",
-        "uk": "/rɪˌspɒnsɪˈbɪlɪti/"
+        "us": "/ˌrɛspəˈnæbɪlɪti/",
+        "uk": "/ˌrɛspəˈnæbɪlɪti/"
       },
       "examples": [
         {
           "type": "Simple",
-          "text": "She feels a sense of responsibility for her actions.",
-          "translation": "Dia merasa memiliki rasa tanggung jawab atas tindakannya."
+          "text": "Many students feel overwhelmed by the responsibility of balancing schoolwork and part-time jobs.",
+          "translation": "Banyak siswa merasa terlalu berat oleh tanggung jawab untuk memadupadankan pekerjaan sekolah dan pekerjaan paruh waktu."
         },
         {
           "type": "Complex",
-          "text": "Because she is the manager, she has the responsibility to make important decisions.",
-          "translation": "Karena dia adalah manajer, dia memiliki tanggung jawab untuk membuat keputusan penting."
+          "text": "The government has a responsibility to ensure the safety of its citizens, especially those living in areas prone to natural disasters.",
+          "translation": "Pemerintah memiliki tanggung jawab untuk menjamin keselamatan warganya, terutama mereka yang tinggal di daerah yang rentan terhadap bencana alam."
         },
         {
           "type": "Compound",
-          "text": "I have a responsibility to my family, and I also have a responsibility to my job.",
-          "translation": "Saya memiliki tanggung jawab kepada keluarga saya, dan saya juga memiliki tanggung jawab kepada pekerjaan saya."
+          "text": "While it is the responsibility of parents to provide for their children, it is also the responsibility of the community to support them.",
+          "translation": "Meskipun tanggung jawab orang tua untuk menyediakan kebutuhan anak-anak mereka, namun tanggung jawab komunitas juga untuk mendukung mereka."
         },
         {
           "type": "Compound-Complex",
-          "text": "While I have a responsibility to my family, I also have a responsibility to my job, because my employer is counting on me to meet the deadlines.",
-          "translation": "Sementara saya memiliki tanggung jawab kepada keluarga saya, saya juga memiliki tanggung jawab kepada pekerjaan saya, karena majikan saya mengandalkan saya untuk memenuhi tenggat waktu."
+          "text": "The company has a responsibility to its employees, not only to provide them with a safe working environment but also to offer them opportunities for professional growth and development.",
+          "translation": "Perusahaan memiliki tanggung jawab kepada karyawannya, bukan hanya untuk menyediakan lingkungan kerja yang aman, tetapi juga untuk menawarkan mereka kesempatan untuk berkembang dan berkembang profesional."
         }
       ],
       "synonymMeanings": [
-        "Kewajiban",
-        "Tanggung jawab hukum",
-        "Akuntabilitas"
+        " Kewajiban",
+        "Keterlibatan",
+        "Kewenangan",
+        "Kemampuan"
       ]
     },
     {
