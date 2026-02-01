@@ -793,41 +793,39 @@
         "Alternative medicine",
         "integrative health"
       ],
-      "definition": "a approach to medicine that considers the whole person, including their physical, mental, and emotional health, when treating a disease or illness",
+      "definition": "A system of medical treatment that focuses on the whole person - the physical, mental, and spiritual - rather than just treating symptoms.",
       "userGuesses": [],
-      "status": "hidden",
-      "meaning": "pengobatan holistik",
+      "status": "discovered",
+      "meaning": "Pengobatan holistik yang melibatkan aspek fisik, mental, dan spiritual seseorang.",
       "phonetics": {
-        "us": "/hoʊˈlɪstɪk/",
-        "uk": "/həʊˈlɪstɪk/"
+        "us": "/hoʊˈlɪstɪk mɛdɪˈsiːn/",
+        "uk": "/hoʊˈlɪstɪk mɛdɪˈsiːn/"
       },
       "examples": [
         {
           "type": "Simple",
-          "text": "The doctor specialized in holistic medicine.",
-          "translation": "Dokter tersebut berspesialisasi dalam pengobatan holistik."
+          "text": "Some people prefer holistic medicine to conventional treatment for chronic illnesses.",
+          "translation": "Beberapa orang lebih memilih pengobatan holistik daripada pengobatan konvensional untuk penyakit kronis."
         },
         {
           "type": "Complex",
-          "text": "Because holistic medicine considers the whole person, it is often more effective than traditional treatments.",
-          "translation": "Karena pengobatan holistik mempertimbangkan keseluruhan seseorang, seringkali lebih efektif daripada perawatan tradisional."
+          "text": "The increasing popularity of holistic medicine has led to a significant shift in the way people think about health and wellness.",
+          "translation": "Kenaikan popularitas pengobatan holistik telah menyebabkan perubahan signifikan tentang cara orang berpikir tentang kesehatan dan kesejahteraan."
         },
         {
           "type": "Compound",
-          "text": "The hospital offered holistic medicine and traditional therapy, so patients had a choice.",
-          "translation": "Rumah sakit tersebut menawarkan pengobatan holistik dan terapi tradisional, sehingga pasien memiliki pilihan."
+          "text": "While conventional medicine focuses on treating symptoms, holistic medicine addresses the root cause of a problem, and conventional medicine is often more expensive.",
+          "translation": "Meskipun pengobatan konvensional fokus pada mengobati gejala, pengobatan holistik menangani penyebab pokok masalah, dan pengobatan konvensional seringkali lebih mahal."
         },
         {
           "type": "Compound-Complex",
-          "text": "While some doctors specialize in holistic medicine, others prefer traditional treatments, and because each approach has its own benefits, patients should consider their options carefully.",
-          "translation": "Sementara beberapa dokter berspesialisasi dalam pengobatan holistik, yang lain lebih suka perawatan tradisional, dan karena setiap pendekatan memiliki kelebihan masing-masing, pasien sebaiknya mempertimbangkan pilihan mereka dengan hati-hati."
+          "text": "The lack of scientific evidence supporting the effectiveness of holistic medicine is a major concern for many people, but proponents argue that it has been successful in treating various conditions, such as chronic pain and mental health issues.",
+          "translation": "Keterbatasan bukti ilmiah yang mendukung kemampuan pengobatan holistik adalah kekhawatiran utama bagi banyak orang, tapi pendukungnya berargumen bahwa pengobatan holistik telah berhasil mengobati berbagai kondisi, seperti nyeri kronis dan masalah kesehatan mental."
         }
       ],
       "synonymMeanings": [
-        "pengobatan alternatif",
-        "pengobatan komplementer",
-        "kedokteran integral",
-        "pengobatan menyeluruh"
+        "Pengobatan Integratif",
+        "Pengobatan Alternatif"
       ]
     },
     {
