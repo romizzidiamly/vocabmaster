@@ -442,41 +442,40 @@
         "Melancholy",
         "major depressive disorder"
       ],
-      "definition": "a mental state characterized by low mood, feelings of sadness, and a lack of interest or pleasure in activities",
+      "definition": "A state of low mood and aversion to activity that is characterised by feelings of sadness, hopelessness, and a lack of interest or pleasure in external stimuli.",
       "userGuesses": [],
-      "status": "hidden",
-      "meaning": "depresi",
+      "status": "discovered",
+      "meaning": "Kesedihan mental",
       "phonetics": {
-        "us": "/dɪˈprɛʃən/",
-        "uk": "/dɪˈprɛʃən/"
+        "us": "/ˈdɛprɛʃən/",
+        "uk": "/ˈdɛprɛʃn/"
       },
       "examples": [
         {
           "type": "Simple",
-          "text": "She has been suffering from depression for years.",
-          "translation": "Dia telah menderita depresi selama bertahun-tahun."
+          "text": "The increasing rate of depression among young people is a major concern.",
+          "translation": "Kesedihan mental yang semakin meningkat di kalangan remaja merupakan perhatian besar."
         },
         {
           "type": "Complex",
-          "text": "Because she lost her job, she felt depressed and isolated.",
-          "translation": "Karena dia kehilangan pekerjaannya, dia merasa depresi dan terisolasi."
+          "text": "The lack of exercise and poor diet are often cited as contributing factors to depression.",
+          "translation": "Kurangnya olahraga dan pola makan yang buruk sering dikemukakan sebagai faktor yang mempengaruhi kemunculan kesedihan mental."
         },
         {
           "type": "Compound",
-          "text": "She felt depressed, and she also felt anxious about her future.",
-          "translation": "Dia merasa depresi, dan dia juga merasa cemas tentang masa depannya."
+          "text": "The symptoms of depression are varied and can include feelings of sadness, loss of interest in activities, and changes in appetite or sleep patterns.",
+          "translation": "Gejala kesedihan mental beragam dan dapat mencakup perasaan sedih, hilang minat dalam aktivitas, dan perubahan pola makan atau pola tidur."
         },
         {
           "type": "Compound-Complex",
-          "text": "While she was going through a difficult time, she felt depressed because she had lost her job, and she also felt anxious about her future.",
-          "translation": "Saat dia menghadapi masa sulit, dia merasa depresi karena dia kehilangan pekerjaannya, dan dia juga merasa cemas tentang masa depannya."
+          "text": "In addition to the physical symptoms of depression, individuals may also experience emotional and social problems, such as feelings of guilt and shame, difficulty forming and maintaining relationships, and social withdrawal.",
+          "translation": "Selain gejala fisik kesedihan mental, individu juga mungkin mengalami masalah emosional dan sosial, seperti perasaan bersalah dan malu, kesulitan membentuk dan mempertahankan hubungan, serta penarikan diri sosial."
         }
       ],
       "synonymMeanings": [
-        "kesedihan",
-        "keputusasaan",
-        "kelesuan",
-        "ketidakberdayaan"
+        "Kesedihan mental",
+        "Mental gangguan",
+        "Kesurupan mental"
       ]
     },
     {
