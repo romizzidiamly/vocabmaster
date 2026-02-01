@@ -970,9 +970,42 @@
         "Eco-friendly progress",
         "responsible growth"
       ],
-      "definition": "Economic growth that meets present needs without harming future\ngenerations",
+      "definition": "The process of improving the quality of life while preserving natural resources for future generations.",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "discovered",
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "The government should prioritize sustainable development to ensure a better future.",
+          "translation": "Pemerintah seharusnya memberikan prioritas pada pengembangan yang berkelanjutan untuk menjamin masa depan yang lebih baik."
+        },
+        {
+          "type": "Complex",
+          "text": "While some argue that sustainable development is a myth, others believe it is the only way to save our planet from environmental disasters.",
+          "translation": "Meskipun beberapa orang mengklaim bahwa pengembangan yang berkelanjutan adalah mitos, orang lain percaya bahwa itu adalah satu-satunya jalan untuk menyelamatkan planet kami dari bencana lingkungan."
+        },
+        {
+          "type": "Compound",
+          "text": "Sustainable development is crucial for the survival of human civilization and the protection of our natural resources.",
+          "translation": "Pengembangan yang berkelanjutan sangat penting untuk bertahan hidup peradaban manusia dan melindungi sumber daya alam kami."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "However, sustainable development is not possible without the cooperation of governments, businesses, and individuals, and it requires a significant reduction in our carbon footprint.",
+          "translation": "Namun, pengembangan yang berkelanjutan tidak mungkin tanpa kerja sama pemerintah, perusahaan, dan individu, dan memerlukan pengurangan signifikan jejak karbon kami."
+        }
+      ],
+      "phonetics": {
+        "us": "/sʌstənəbəl dɛvələpmənt/",
+        "uk": "/sʌstənəbəl dɛvələpmənt/"
+      },
+      "meaning": "Pengembangan yang berkelanjutan",
+      "synonymMeanings": [
+        "Pengembangan berkelanjutan",
+        "Pengembangan lingkungan",
+        "Pengembangan berwawasan",
+        "Kembangan berdaya guna"
+      ]
     },
     {
       "id": "ef382c22-e4b2-48a2-8c36-6e706266875d",
