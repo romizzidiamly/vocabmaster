@@ -354,41 +354,38 @@
         "Hypersensitivity",
         "allergic reaction"
       ],
-      "definition": "a condition in which the body reacts badly to a particular food, substance, or other agent",
+      "definition": "An abnormal immune reaction to a particular substance which can cause a range of symptoms, from mild discomfort to life-threatening conditions.",
       "userGuesses": [],
-      "status": "hidden",
-      "meaning": "alergi",
+      "status": "discovered",
+      "meaning": "Reaksi alergi atau reaksi hipersensitif",
       "phonetics": {
-        "us": "/ˈælərdʒi/",
+        "us": "/ˈælərˌdʒi/",
         "uk": "/ˈælədʒi/"
       },
       "examples": [
         {
           "type": "Simple",
-          "text": "She has an allergy to peanuts.",
-          "translation": "Dia memiliki alergi kacang tanah."
+          "text": "The increasing number of people suffering from allergies is a major public health concern.",
+          "translation": "Jumlah orang yang menderita alergi meningkat dan menjadi masalah kesehatan masyarakat."
         },
         {
           "type": "Complex",
-          "text": "Because she has a severe allergy, she always carries an EpiPen with her.",
-          "translation": "Karena dia memiliki alergi parah, dia selalu membawa EpiPen dengannya."
+          "text": "While some people are born with allergies, others develop them later in life due to various environmental factors.",
+          "translation": "Namun, beberapa orang dilahirkan dengan alergi, sementara yang lain mengembangkan kondisi tersebut karena berbagai faktor lingkungan."
         },
         {
           "type": "Compound",
-          "text": "I have an allergy to shellfish, and I also get sick from eating dairy products.",
-          "translation": "Saya memiliki alergi kerang, dan saya juga jatuh sakit dari mengonsumsi produk susu."
+          "text": "The symptoms of an allergic reaction can range from mild, such as a runny nose, to severe, like anaphylactic shock.",
+          "translation": "Gejala reaksi alergi dapat beragam, mulai dari gejala ringan seperti hidung berair hingga gejala berat seperti kejutan anafilaksis."
         },
         {
           "type": "Compound-Complex",
-          "text": "While I have an allergy to gluten, my sister is not allergic, but she prefers to eat gluten-free food because she believes it is healthier, and she also avoids eating dairy products.",
-          "translation": "Sementara saya memiliki alergi gluten, adik saya tidak alergi, tapi dia lebih suka makan makanan bebas gluten karena dia percaya itu lebih sehat, dan dia juga menghindari mengonsumsi produk susu."
+          "text": "While some people may be able to manage their allergies with medication, others may need to take more drastic measures, such as avoiding certain foods or environments.",
+          "translation": "Meskipun beberapa orang mungkin dapat mengelola alergi mereka dengan obat-obatan, yang lain mungkin perlu melakukan tindakan lebih drastis, seperti menghindari makanan atau lingkungan tertentu."
         }
       ],
       "synonymMeanings": [
-        "sensitivitas",
-        "hipersensitivitas",
-        "intoleransi",
-        "kepekaan"
+        "Kerusakan, Reaksi Hipersensitif"
       ]
     },
     {
