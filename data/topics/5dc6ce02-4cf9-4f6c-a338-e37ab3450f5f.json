@@ -140,40 +140,40 @@
         "Overweight",
         "excessive fat"
       ],
-      "definition": "a condition in which someone is very fat and has a lot of body fat, which can be bad for their health",
+      "definition": "A medical condition in which a person has an excessive amount of body fat.",
       "userGuesses": [],
-      "status": "hidden",
-      "meaning": "obesitas",
+      "status": "discovered",
+      "meaning": "Kegemukan",
       "phonetics": {
-        "us": "/ˈoʊbəsiː/",
-        "uk": "/ˈəʊbɪsɪti/"
+        "us": "/ˌob.ɪˈsɪti/",
+        "uk": "/ˌəʊ.bɪˈsɪti/"
       },
       "examples": [
         {
           "type": "Simple",
-          "text": "Obesity is a major health problem.",
-          "translation": "Obesitas adalah masalah kesehatan yang besar."
+          "text": "Obesity is a major risk factor for heart disease.",
+          "translation": "Kegemukan adalah salah satu faktor resiko besar penyakit jantung."
         },
         {
           "type": "Complex",
-          "text": "Because obesity is a major health problem, people should eat healthy food.",
-          "translation": "Karena obesitas adalah masalah kesehatan yang besar, orang harus makan makanan sehat."
+          "text": "While some people may blame genetics for obesity, research suggests that diet and lifestyle play a significant role.",
+          "translation": "Meskipun beberapa orang mungkin menuduh genetik sebagai penyebab kegemukan, penelitian menunjukkan bahwa pola makan dan gaya hidup memiliki peran yang signifikan."
         },
         {
           "type": "Compound",
-          "text": "Obesity is a major health problem, and it can lead to diabetes.",
-          "translation": "Obesitas adalah masalah kesehatan yang besar, dan dapat menyebabkan diabetes."
+          "text": "Obesity and smoking are two major public health concerns in many countries.",
+          "translation": "Kegemukan dan merokok adalah dua masalah kesehatan masyarakat besar di banyak negara."
         },
         {
           "type": "Compound-Complex",
-          "text": "Although obesity is a major health problem, people who are overweight can still be healthy, but they should exercise regularly and eat healthy food.",
-          "translation": "Meskipun obesitas adalah masalah kesehatan yang besar, orang yang kelebihan berat badan masih dapat sehat, tetapi mereka harus berolahraga secara teratur dan makan makanan sehat."
+          "text": "The increasing prevalence of obesity worldwide is attributed to a combination of factors, including urbanization, lack of physical activity, and unhealthy eating habits.",
+          "translation": "Peningkatan prevalensi kegemukan di seluruh dunia disebabkan oleh kombinasi faktor-faktor, termasuk urbanisasi, kurangnya aktivitas fisik, dan kebiasaan makan yang tidak sehat."
         }
       ],
       "synonymMeanings": [
-        "kegemukan",
-        "kelebihan berat badan",
-        "keberatbadanan berlebih"
+        "Gemukan",
+        "Kerentanan",
+        "Kegemukan Berat"
       ]
     },
     {
