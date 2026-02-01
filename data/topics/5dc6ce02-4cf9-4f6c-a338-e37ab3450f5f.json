@@ -484,41 +484,41 @@
         "Nervous disorder",
         "panic disorder"
       ],
-      "definition": "a mental health condition in which a person feels extremely worried or nervous, often about things that might happen in the future",
+      "definition": "A mental health condition characterized by feelings of worry, nervousness, and fear that are persistent and overwhelming.",
       "userGuesses": [],
-      "status": "hidden",
-      "meaning": "gangguan kecemasan",
+      "status": "discovered",
+      "meaning": "Kondisi kesehatan mental yang disertai perasaan khawatir, gelisah, dan takut yang berkepanjangan dan menghantui.",
       "phonetics": {
-        "us": "/æŋˈzaɪəti ˈdɪsɔrdər/",
-        "uk": "/æŋˈzaɪəti ˈdɪsɔːdə/"
+        "us": "/ænˈsɪdəti dɪˈsɔrdər/",
+        "uk": "/ænˈsɪdəti daɪˈsɔːdə/"
       },
       "examples": [
         {
           "type": "Simple",
-          "text": "She has been diagnosed with an anxiety disorder.",
-          "translation": "Dia telah didiagnosa mengidap gangguan kecemasan."
+          "text": "The anxiety disorder has been a major obstacle in my academic career.",
+          "translation": "Saya menghadapi banyak tantangan dalam karier akademik saya karena gangguan kecemasan ini."
         },
         {
           "type": "Complex",
-          "text": "Because she has an anxiety disorder, she often feels overwhelmed by everyday tasks.",
-          "translation": "Karena dia mengidap gangguan kecemasan, dia sering merasa terlalu banyak untuk tugas sehari-hari."
+          "text": "The anxiety disorder has been a major obstacle in my academic career, which has led to a significant decrease in my self-esteem and confidence.",
+          "translation": "Saya menghadapi banyak tantangan dalam karier akademik saya karena gangguan kecemasan ini, sehingga mengakibatkan penurunan signifikan pada kepercayaan diri saya."
         },
         {
           "type": "Compound",
-          "text": "She has an anxiety disorder and also struggles with depression.",
-          "translation": "Dia mengidap gangguan kecemasan dan juga berjuang melawan depresi."
+          "text": "I have been experiencing anxiety disorder symptoms for the past year, and it has affected my relationships with my family and friends.",
+          "translation": "Saya telah mengalami gejala gangguan kecemasan selama setahun terakhir, dan hal ini telah mempengaruhi hubungan saya dengan keluarga dan teman-teman saya."
         },
         {
           "type": "Compound-Complex",
-          "text": "While she has been dealing with an anxiety disorder, she also struggles with depression because her mother had the same condition.",
-          "translation": "Sementara dia telah menghadapi gangguan kecemasan, dia juga berjuang melawan depresi karena ibunya memiliki kondisi yang sama."
+          "text": "I have been experiencing anxiety disorder symptoms for the past year, which has affected my relationships with my family and friends, and it has also led to a decrease in my productivity and academic performance.",
+          "translation": "Saya telah mengalami gejala gangguan kecemasan selama setahun terakhir, yang telah mempengaruhi hubungan saya dengan keluarga dan teman-teman saya, dan hal ini juga telah menyebabkan penurunan produktivitas dan kinerja akademik saya."
         }
       ],
       "synonymMeanings": [
-        "kecemasan",
-        "ketakutan",
-        "kekhawatiran",
-        "gangguan mental"
+        "Kecemasan",
+        "Gangguan kecemasan",
+        "Depresi",
+        "Kesedihan"
       ]
     },
     {
