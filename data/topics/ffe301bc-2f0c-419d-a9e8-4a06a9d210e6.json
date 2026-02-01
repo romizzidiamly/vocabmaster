@@ -937,9 +937,42 @@
         "Resource depletion",
         "exploitation"
       ],
-      "definition": "Excessive use of natural resources\nbeyond sustainability",
+      "definition": "The act of using more resources or goods than is necessary or sustainable.",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "discovered",
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "The world is suffering from overconsumption of fossil fuels.",
+          "translation": "Dunia saat ini menderita karena konsumsi bahan bakar fosil yang berlebihan."
+        },
+        {
+          "type": "Complex",
+          "text": "Overconsumption of resources has led to severe environmental degradation.",
+          "translation": "Penggunaan yang berlebihan sumber daya telah menyebabkan kerusakan lingkungan yang parah."
+        },
+        {
+          "type": "Compound",
+          "text": "The government has implemented policies to reduce overconsumption of water and electricity.",
+          "translation": "Pemerintah telah mengimplementasikan kebijakan untuk mengurangi penggunaan air dan listrik yang berlebihan."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "While overconsumption of food has become a major issue worldwide, the use of organic farming methods can help mitigate its effects.",
+          "translation": "Walaupun penggunaan bahan makanan yang berlebihan telah menjadi masalah besar di seluruh dunia, penggunaan metode pertanian organik dapat membantu mengurangi dampaknya."
+        }
+      ],
+      "phonetics": {
+        "us": "/əvərkɑnˈsʌmptʃən/",
+        "uk": "/əvər.kɒnˈsʌmptʃən/"
+      },
+      "meaning": "Penggunaan yang berlebihan",
+      "synonymMeanings": [
+        "Penggunaan berlebihan",
+        "Konsumsi yang tidak terkendali",
+        "Penggunaan yang tidak rasional",
+        "Eksploitasi sumber daya"
+      ]
     },
     {
       "id": "47e74a2e-4af4-401c-b3d5-3b95feb3eb98",
