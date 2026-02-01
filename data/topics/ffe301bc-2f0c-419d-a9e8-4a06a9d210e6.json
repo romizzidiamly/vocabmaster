@@ -1952,9 +1952,41 @@
         "atmospheric",
         "contaminants"
       ],
-      "definition": "Harmful substances released into the air",
+      "definition": "Substances, such as dust, smoke, and gases, that are in the air and can harm health or the environment.",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "discovered",
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "The increasing levels of airborne pollutants have been linked to various respiratory diseases.",
+          "translation": "Peningkatan kadar polusi udara telah terkait dengan berbagai penyakit pernapasan."
+        },
+        {
+          "type": "Complex",
+          "text": "While the government has implemented various policies to reduce airborne pollutants, the impact of these efforts is still unclear.",
+          "translation": "Meskipun pemerintah telah melaksanakan berbagai kebijakan untuk mengurangi polusi udara, dampak upaya-upaya tersebut masih belum jelas."
+        },
+        {
+          "type": "Compound",
+          "text": "Airborne pollutants, including particulate matter and nitrogen dioxide, are major contributors to air pollution.",
+          "translation": "Polusi udara, termasuk partikulat dan nitrogen dioksida, adalah kontributor utama polusi udara."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "Furthermore, airborne pollutants can also affect the quality of crops, leading to reduced yields and lower crop quality, which can have devastating effects on the economy.",
+          "translation": "Selain itu, polusi udara juga dapat mempengaruhi kualitas tanaman, yang berujung pada penurunan hasil panen dan kualitas tanaman yang lebih rendah, sehingga dapat berdampak buruk pada perekonomian."
+        }
+      ],
+      "phonetics": {
+        "us": "/ˈɛərbɔrn pɔlʊˌtæntɪz/",
+        "uk": "/ˈɛərbɔːn pɔləˌtæntɪz/"
+      },
+      "meaning": "Polusi udara",
+      "synonymMeanings": [
+        "Polusi udara",
+        "Kotoran udara",
+        "Zat berbahaya di udara"
+      ]
     },
     {
       "id": "692d6dc0-86bb-4ae4-a975-1239d4a6e87c",
