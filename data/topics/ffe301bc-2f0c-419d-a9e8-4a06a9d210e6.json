@@ -884,9 +884,42 @@
         "Waste management",
         "resource recovery"
       ],
-      "definition": "The process of converting waste into\nreusable material",
+      "definition": "The process of collecting and processing materials that would otherwise be thrown away so that they can be used again.",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "discovered",
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Recycling is essential for reducing waste and conserving natural resources.",
+          "translation": "Pengumpulan kembali adalah penting untuk mengurangi limbah dan melestarikan sumber daya alam."
+        },
+        {
+          "type": "Complex",
+          "text": "While recycling can help reduce the amount of waste in landfills, it is not a substitute for reducing consumption.",
+          "translation": "Meskipun pengumpulan kembali dapat membantu mengurangi jumlah limbah di tempat pembuangan, namun itu bukanlah pengganti untuk mengurangi konsumsi."
+        },
+        {
+          "type": "Compound",
+          "text": "Recycling and reusing materials can help the environment, and it is also a cost-effective way to conserve resources.",
+          "translation": "Pengumpulan kembali dan penggunaan kembali bahan-bahan dapat membantu lingkungan, dan itu juga merupakan cara yang efektif untuk melestarikan sumber daya."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If we do not reduce, reuse, and recycle, our planet will face severe environmental degradation, and this can lead to devastating consequences.",
+          "translation": "Jika kita tidak mengurangi, menggunaan kembali, dan mengumpulkan kembali, planet kita akan menghadapi kerusakan lingkungan yang parah, dan ini dapat menyebabkan konsekuensi yang menghawatirkan."
+        }
+      ],
+      "phonetics": {
+        "us": "/ˈrɪsɪklɪŋ/",
+        "uk": "/rɪˈsaɪkəlɪŋ/"
+      },
+      "meaning": "Pengumpulan dan pengolahan bahan-bahan yang akan dibuang untuk dapat digunakan kembali.",
+      "synonymMeanings": [
+        "penggunaan kembali",
+        "pengolahan kembali",
+        "pengumpulan ulang",
+        "konservasi"
+      ]
     },
     {
       "id": "cd8d97e2-8f5f-4035-9f37-52007366f677",
