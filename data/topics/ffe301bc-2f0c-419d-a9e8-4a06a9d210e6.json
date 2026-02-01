@@ -479,9 +479,41 @@
         "Environmental impact",
         "carbon emissions"
       ],
-      "definition": "The total amount of carbon dioxide\nemitted by an individual or activity",
+      "definition": "The amount of carbon dioxide and other greenhouse gases that are emitted into the atmosphere as a result of human activities.",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "discovered",
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "The increasing carbon footprint of our daily lives poses a significant threat to the environment.",
+          "translation": "Jejak karbon kehidupan sehari-hari yang semakin meningkat menjadi ancaman besar bagi lingkungan."
+        },
+        {
+          "type": "Complex",
+          "text": "Although governments have made efforts to reduce their carbon footprint, the pace of change has been slow.",
+          "translation": "Meskipun pemerintah telah berusaha mengurangi jejak karbon mereka, kecepatan perubahan masih lambat."
+        },
+        {
+          "type": "Compound",
+          "text": "The use of public transport and renewable energy can significantly reduce our carbon footprint, but it requires a change in our lifestyle.",
+          "translation": "Penggunaan transportasi umum dan energi terbarukan dapat menurunkan jejak karbon kita secara signifikan, tetapi itu memerlukan perubahan gaya hidup kita."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "However, despite the availability of alternative modes of transportation, the increasing carbon footprint of our daily lives poses a significant threat to the environment, and it is essential that we take immediate action to reduce our carbon emissions.",
+          "translation": "Namun, walaupun adanya alternatif moda transportasi, jejak karbon kehidupan sehari-hari yang semakin meningkat menjadi ancaman besar bagi lingkungan, dan penting bagi kita untuk mengambil tindakan segera untuk mengurangi emisi gas buang karbon kita."
+        }
+      ],
+      "phonetics": {
+        "us": "/ˈkɑrbən ˈfʊtprɪnt/",
+        "uk": "/ˈkɑːrbən ˈfʊtprɪnt/"
+      },
+      "meaning": "Jejak karbon",
+      "synonymMeanings": [
+        "Impak lingkungan",
+        "Emisi gas buang",
+        "Penggunaan energi tidak terbarukan"
+      ]
     },
     {
       "id": "d09ed5bc-bc19-48b6-89c9-ff2be62ac8a6",
