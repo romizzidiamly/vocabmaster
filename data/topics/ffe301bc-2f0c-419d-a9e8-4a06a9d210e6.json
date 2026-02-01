@@ -567,9 +567,41 @@
         "Net-zero emissions",
         "climate neutrality"
       ],
-      "definition": "Achieving a balance between carbon\nemissions and absorption",
+      "definition": "The state of not producing any greenhouse gas emissions, or offsetting emissions by investing in projects that reduce greenhouse gas emissions, such as wind farms or tree planting.",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "discovered",
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "The government aims to achieve carbon neutrality by 2050.",
+          "translation": "Pemerintah berupaya mencapai keanekaragaman karbon pada tahun 2050."
+        },
+        {
+          "type": "Complex",
+          "text": "While many countries are making efforts to reduce their carbon emissions, achieving carbon neutrality remains a significant challenge.",
+          "translation": "Meskipun banyak negara telah berupaya mengurangi emisi karbon mereka, mencapai keanekaragaman karbon tetaplah merupakan tantangan besar."
+        },
+        {
+          "type": "Compound",
+          "text": "The benefits of achieving carbon neutrality include reduced greenhouse gas emissions and improved air quality.",
+          "translation": "Manfaat dari mencapai keanekaragaman karbon meliputi pengurangan emisi gas rumah kaca dan meningkatnya kualitas udara."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "The transition to a carbon-neutral economy requires significant investments in renewable energy sources and sustainable infrastructure, while also addressing issues related to energy poverty and inequality.",
+          "translation": "Transisi ke ekonomi berkeanekaragaman karbon memerlukan investasi besar-besaran dalam sumber energi terbarukan dan infrastruktur yang berkelanjutan, sambil juga menangani masalah terkait kemiskinan energi dan ketidaksetaraan."
+        }
+      ],
+      "phonetics": {
+        "us": "/kɑrbən nɪˈtroʊsɪti/",
+        "uk": "/kɑrbən nɪˈtroʊsɪtɪ/"
+      },
+      "meaning": "Keanekaragaman karbon",
+      "synonymMeanings": [
+        "Keanekaragaman gas rumah kaca",
+        "Mengurangi emisi karbon",
+        "Menggunakan energi terbarukan"
+      ]
     },
     {
       "id": "83c37a22-57e5-415d-892b-0b7d12a441ca",
