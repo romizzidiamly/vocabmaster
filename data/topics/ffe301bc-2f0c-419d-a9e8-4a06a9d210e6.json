@@ -2148,9 +2148,41 @@
         "Emission reduction",
         "carbon sequestration"
       ],
-      "definition": "Efforts to reduce or prevent climate\nchange impacts",
+      "definition": "The act of reducing the production of gases that contribute to the greenhouse effect, such as carbon dioxide, in order to slow down global warming.",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "discovered",
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "The government has introduced policies to reduce carbon emissions and promote climate mitigation.",
+          "translation": "Pemerintah telah mengenalkan kebijakan untuk mengurangi emisi karbon dan mendorong upaya mitigasi iklim."
+        },
+        {
+          "type": "Complex",
+          "text": "Although climate change is a complex issue, reducing greenhouse gas emissions is a crucial step towards climate mitigation.",
+          "translation": "Meskipun perubahan iklim merupakan masalah kompleks, mengurangi emisi gas rumah kaca adalah langkah kritis dalam upaya mitigasi iklim."
+        },
+        {
+          "type": "Compound",
+          "text": "The benefits of climate mitigation include not only reducing the risk of climate-related disasters but also improving air quality and promoting sustainable development.",
+          "translation": "Keuntungan dari upaya mitigasi iklim mencakup tidak hanya mengurangi risiko bencana iklim, tetapi juga meningkatkan kualitas udara dan mendorong pembangunan berkelanjutan."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "The increasing level of greenhouse gas emissions is attributed to human activities such as burning fossil fuels and deforestation, which are major contributors to climate change, and reducing these emissions is essential for effective climate mitigation.",
+          "translation": "Peningkatan level emisi gas rumah kaca disebabkan oleh kegiatan manusia seperti pembakaran bahan bakar fosil dan deforestasi, yang merupakan kontributor utama perubahan iklim, sehingga mengurangi emisi ini sangat penting untuk upaya mitigasi iklim yang efektif."
+        }
+      ],
+      "phonetics": {
+        "us": "/ˈklaɪmɪt̬ ˌmaɪtɪˈɡeʃən/",
+        "uk": "/ˈklaɪmɪt̬ ˌmaɪtɪˈɡeɪʃən/"
+      },
+      "meaning": "Upaya pengurangan emisi gas berbasis karbon untuk mengurangi pemanasan global",
+      "synonymMeanings": [
+        "Upaya pengurangan dampak iklim",
+        "Pengurangan emisi gas berbasis karbon",
+        "Mengurangi pemanasan global"
+      ]
     },
     {
       "id": "57e33a22-0b64-403e-bf63-29a34c193488",
