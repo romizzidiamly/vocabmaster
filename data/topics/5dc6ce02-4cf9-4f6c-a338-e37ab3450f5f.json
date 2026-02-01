@@ -707,10 +707,10 @@
         "Recovery",
         "therapy"
       ],
-      "definition": "the process of helping someone who has been ill or in prison to become healthy or normal again",
+      "definition": "The process of helping someone who has been ill or in prison to become healthy or normal again",
       "userGuesses": [],
-      "status": "hidden",
-      "meaning": "rehabilitasi",
+      "status": "discovered",
+      "meaning": "Rehabilitasi",
       "phonetics": {
         "us": "/ˌrɛhəbɪlɪˈteɪʃən/",
         "uk": "/ˌriːhəbɪlɪˈteɪʃən/"
@@ -718,30 +718,30 @@
       "examples": [
         {
           "type": "Simple",
-          "text": "The patient underwent rehabilitation after the surgery.",
-          "translation": "Pasien menjalani rehabilitasi setelah operasi."
+          "text": "The hospital offers rehabilitation programs for patients with physical disabilities.",
+          "translation": "Rumah sakit tersebut menawarkan program rehabilitasi untuk pasien dengan disabilitas fisik."
         },
         {
           "type": "Complex",
-          "text": "Because she had been bedridden for months, she required rehabilitation to regain her strength.",
-          "translation": "Karena dia telah terbaring di tempat tidur selama berbulan-bulan, dia memerlukan rehabilitasi untuk mengembalikan kekuatannya."
+          "text": "Because she had a stroke, she needs rehabilitation to regain her ability to speak.",
+          "translation": "Karena dia mengalami stroke, dia memerlukan rehabilitasi untuk mendapatkan kembali kemampuan berbicaranya."
         },
         {
           "type": "Compound",
-          "text": "The hospital offered rehabilitation and the patient recovered quickly, and she was able to return home soon.",
-          "translation": "Rumah sakit menawarkan rehabilitasi dan pasien pulih dengan cepat, dan dia dapat kembali ke rumah segera."
+          "text": "The rehabilitation center helps patients, and it also trains doctors and nurses.",
+          "translation": "Pusat rehabilitasi membantu pasien, dan juga melatih dokter dan perawat."
         },
         {
           "type": "Compound-Complex",
-          "text": "While the new employee was undergoing rehabilitation because he had been injured on the job, his colleague helped him with his tasks, and they were both able to meet the deadline, although it was challenging.",
-          "translation": "Ketika karyawan baru menjalani rehabilitasi karena dia telah terluka saat bekerja, rekan kerjanya membantunya dengan tugas-tugasnya, dan mereka berdua dapat memenuhi deadline, meskipun itu menantang."
+          "text": "While the new policy has been implemented, the rehabilitation program has been modified, and it now includes counseling for patients and their families, because it has been proven to be effective.",
+          "translation": "Sementara kebijakan baru telah diimplementasikan, program rehabilitasi telah dimodifikasi, dan sekarang termasuk konseling untuk pasien dan keluarga mereka, karena telah terbukti efektif."
         }
       ],
       "synonymMeanings": [
-        "pemulihan",
-        "perbaikan",
-        "penyembuhan",
-        "pemuliharaan"
+        "Pemulihan",
+        "Pengembalian",
+        "Perbaikan",
+        "Pemasyarakatan"
       ]
     },
     {
