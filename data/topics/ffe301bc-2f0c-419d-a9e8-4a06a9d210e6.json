@@ -1485,9 +1485,41 @@
         "Environmental stability",
         "ecosystem harmony"
       ],
-      "definition": "A state of equilibrium in the natural\nenvironment",
+      "definition": "A state of equilibrium in which the interactions between living organisms and their environment are stable and sustainable.",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "discovered",
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "The destruction of natural habitats threatens the ecological balance of our planet.",
+          "translation": "Penghancuran habitat alam liar mengancam keseimbangan ekologi planet kita."
+        },
+        {
+          "type": "Complex",
+          "text": "While technological advancements have improved our quality of life, they have also disrupted the ecological balance of our ecosystems.",
+          "translation": "Meskipun kemajuan teknologi telah meningkatkan kualitas hidup kita, namun juga mengganggu keseimbangan ekologi sistem ekosistem kita."
+        },
+        {
+          "type": "Compound",
+          "text": "The ecological balance of the ocean is crucial for maintaining the health of marine life and preventing pollution.",
+          "translation": "Keseimbangan ekologi laut sangat penting untuk memelihara kesehatan kehidupan laut dan mencegah polusi."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "The increasing use of plastic has disrupted the ecological balance of our oceans, which in turn has led to the decline of marine life and the pollution of our coastlines.",
+          "translation": "Penggunaan plastik yang meningkat mengganggu keseimbangan ekologi laut kita, sehingga menyebabkan penurunan kehidupan laut dan polusi di pantai-pantai kita."
+        }
+      ],
+      "phonetics": {
+        "us": "/ɛkəˈlɒdʒɪkl ˈbæləns/",
+        "uk": "/ɛkəˈlɒdʒɪkl ˈbæləns/"
+      },
+      "meaning": "Keseimbangan ekologi",
+      "synonymMeanings": [
+        "keseimbangan lingkungan",
+        "stabilitas ekosistem",
+        "keserasian alam"
+      ]
     },
     {
       "id": "74842e1a-bea3-40fe-9ed6-f394ba299201",
