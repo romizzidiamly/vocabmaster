@@ -612,9 +612,42 @@
         "Marine depletion",
         "unsustainable fishing"
       ],
-      "definition": "The depletion of fish populations due\nto excessive fishing",
+      "definition": "The act of catching too many fish from a particular area, leading to a reduction in fish populations and potentially threatening the sustainability of the fishery.",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "discovered",
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Overfishing is a major concern in many parts of the world.",
+          "translation": "Perburuan ikan secara berlebihan merupakan masalah besar di banyak tempat di dunia."
+        },
+        {
+          "type": "Complex",
+          "text": "The lack of effective regulations has led to overfishing, resulting in the decline of many fish species.",
+          "translation": "Keterbatasan regulasi yang efektif telah menyebabkan perburuan ikan secara berlebihan, sehingga menurunkan banyak spesies ikan."
+        },
+        {
+          "type": "Compound",
+          "text": "Overfishing and pollution are two major threats to the health of our oceans.",
+          "translation": "Perburuan ikan secara berlebihan dan polusi adalah dua ancaman besar bagi kesehatan laut kita."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "While some countries have implemented measures to prevent overfishing, others still lack effective regulations, leading to further depletion of fish populations.",
+          "translation": "Meskipun beberapa negara telah menerapkan langkah-langkah untuk mencegah perburuan ikan secara berlebihan, beberapa negara lain masih kurang regulasi yang efektif, sehingga menyebabkan penurunan populasi ikan yang lebih parah."
+        }
+      ],
+      "phonetics": {
+        "us": "/ˌoʊvərˈfɪʃɪŋ/",
+        "uk": "/ˌoʊvərˈfɪʃɪŋ/"
+      },
+      "meaning": "Perburuan ikan secara berlebihan",
+      "synonymMeanings": [
+        "perburuan berlebihan",
+        "penangkapan berlebihan",
+        "eksploitasi kelebihan",
+        "penyebab kelebihan"
+      ]
     },
     {
       "id": "a6408784-9c93-40e9-a66f-fe1c272471f2",
