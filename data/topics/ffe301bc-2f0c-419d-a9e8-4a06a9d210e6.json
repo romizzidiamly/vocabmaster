@@ -959,9 +959,42 @@
         "Ecological damage",
         "habitat destruction"
       ],
-      "definition": "The deterioration of the natural world\ndue to human activity",
+      "definition": "The process of damaging the environment, especially through pollution or the destruction of natural habitats.",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "discovered",
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Environmental degradation is a major concern for many developing countries.",
+          "translation": "Pengrusakan lingkungan merupakan kekhawatiran besar bagi banyak negara berkembang."
+        },
+        {
+          "type": "Complex",
+          "text": "The increasing population has led to rapid environmental degradation in some parts of the world.",
+          "translation": "Kenaikan populasi telah menyebabkan pengrusakan lingkungan yang cepat dalam beberapa bagian dunia."
+        },
+        {
+          "type": "Compound",
+          "text": "The pollution of the air and water is causing severe environmental degradation, which is affecting the health of millions of people.",
+          "translation": "Polusi udara dan air menyebabkan pengrusakan lingkungan yang parah, yang mempengaruhi kesehatan jutaan orang."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "Although some efforts have been made to reduce environmental degradation, the problem still persists, and it is essential to find sustainable solutions to address this issue.",
+          "translation": "Meskipun beberapa upaya telah dilakukan untuk mengurangi pengrusakan lingkungan, masalah ini masih berlanjut, dan penting untuk menemukan solusi yang berkelanjutan untuk menangani masalah ini."
+        }
+      ],
+      "phonetics": {
+        "us": "/ˌɛn.vɪr.ən.mən.tal dɪ.ˈɡreɪ.dʒɪ.ʃən/",
+        "uk": "/ˌɛnvɪˈrɪnməntəl dɪˈɡreɪdʒɪˌeɪʃən/"
+      },
+      "meaning": "Pengrusakan lingkungan",
+      "synonymMeanings": [
+        "Penghancuran lingkungan",
+        "Pengrusakan alam",
+        "Dampak lingkungan",
+        "Kerusakan lingkungan hidup"
+      ]
     },
     {
       "id": "339dd33f-4174-407c-8204-194afca95e6e",
