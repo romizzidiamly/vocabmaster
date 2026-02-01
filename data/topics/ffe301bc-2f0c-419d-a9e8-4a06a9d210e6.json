@@ -436,9 +436,41 @@
         "Atmospheric warming",
         "climate impact"
       ],
-      "definition": "The trapping of heat in Earth’s\natmosphere due to gases like CO₂",
+      "definition": "The process by which certain gases in the Earth's atmosphere trap heat from the sun, leading to a rise in global temperatures.",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "discovered",
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "The increasing levels of carbon dioxide in the atmosphere contribute to the greenhouse effect.",
+          "translation": "Peningkatan kadar karbon dioksida di atmosfer memperbesar efek rumah kaca."
+        },
+        {
+          "type": "Complex",
+          "text": "However, the government has initiated various programs to reduce the impact of the greenhouse effect on the environment.",
+          "translation": "Namun, pemerintah telah meluncurkan berbagai program untuk mengurangi dampak efek rumah kaca terhadap lingkungan."
+        },
+        {
+          "type": "Compound",
+          "text": "The greenhouse effect is a natural phenomenon, but human activities have accelerated its impact.",
+          "translation": "Efek rumah kaca adalah fenomena alami, namun kegiatan manusia telah mempercepat dampaknya."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "While the greenhouse effect is a significant contributor to global warming, it is essential to note that other factors also play a crucial role in this process.",
+          "translation": "Meskipun efek rumah kaca merupakan kontributor signifikan pemanasan global, perlu diingat bahwa faktor lain juga berperan penting dalam proses ini."
+        }
+      ],
+      "phonetics": {
+        "us": "/ˈɡriːnhaʊs ɛfɛkt/",
+        "uk": "/ˈɡriːnhaʊs ɛfɛkt/"
+      },
+      "meaning": "Efek rumah kaca",
+      "synonymMeanings": [
+        "Efek isolasi panas",
+        "Pemanasan global",
+        "Efek gas buang"
+      ]
     },
     {
       "id": "ff24972f-9186-4683-8799-008d53da38cf",
