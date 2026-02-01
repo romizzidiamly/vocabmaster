@@ -52,41 +52,40 @@
         "Resistance",
         "defense"
       ],
-      "definition": "The state of being protected against a particular disease or infection, or the state of being safe from a particular harm or problem",
+      "definition": "The state of being resistant to a particular disease or infection, often due to the body's immune system.",
       "userGuesses": [],
-      "status": "hidden",
-      "meaning": "Kekebalan",
+      "status": "discovered",
+      "meaning": "Kekebalan tubuh terhadap suatu penyakit atau infeksi tertentu.",
       "phonetics": {
         "us": "/ɪˈmjuːnɪti/",
-        "uk": "/ɪˈmjuːnɪti/"
+        "uk": "/ɪˈmjuːnɪtɪ/"
       },
       "examples": [
         {
           "type": "Simple",
-          "text": "The vaccine provides immunity against the disease.",
-          "translation": "Vaksin tersebut memberikan kekebalan terhadap penyakit."
+          "text": "The new vaccine has been shown to provide immunity against deadly diseases.",
+          "translation": "Vaksin baru ini telah membuktikan bahwa dapat memberikan kekebalan tubuh terhadap penyakit berbahaya."
         },
         {
           "type": "Complex",
-          "text": "Because she had been vaccinated, she developed immunity to the disease that was going around.",
-          "translation": "Karena telah divaksinasi, dia mengembangkan kekebalan terhadap penyakit yang sedang menyebar."
+          "text": "The country's immunity to the economic crisis has been weakened due to the lack of investment in the education sector.",
+          "translation": "Kekebalan negara terhadap krisis ekonomi telah melemah karena kurangnya investasi di sektor pendidikan."
         },
         {
           "type": "Compound",
-          "text": "The doctor checked her immunity, and she was healthy, but her brother was sick.",
-          "translation": "Dokter memeriksa kekebalannya, dan dia sehat, tapi saudaranya sakit."
+          "text": "The new policy aims to enhance the country's immunity to diseases, while also promoting economic growth.",
+          "translation": "Kebijakan baru ini bertujuan untuk meningkatkan kekebalan tubuh negara terhadap penyakit, sementara juga mempromosikan pertumbuhan ekonomi."
         },
         {
           "type": "Compound-Complex",
-          "text": "While the vaccine provides immunity against the disease, it is not a guarantee that the person will not get infected, because other factors can also influence the outcome.",
-          "translation": "Sementara vaksin memberikan kekebalan terhadap penyakit, itu tidak menjamin bahwa orang tersebut tidak akan terinfeksi, karena faktor lain juga dapat mempengaruhi hasilnya."
+          "text": "However, the country's immunity to the economic crisis has been weakened due to the lack of investment in the education sector, which has led to a decline in the quality of human resources.",
+          "translation": "Namun, kekebalan negara terhadap krisis ekonomi telah melemah karena kurangnya investasi di sektor pendidikan, yang telah menyebabkan penurunan kualitas sumber daya manusia."
         }
       ],
       "synonymMeanings": [
-        "perlindungan",
-        "keamanan",
-        "pencegahan",
-        "perlindungan dari penyakit"
+        "kekebalan tubuh",
+        "penguatan sistem kekebalan",
+        "toleransi terhadap penyakit"
       ]
     },
     {
