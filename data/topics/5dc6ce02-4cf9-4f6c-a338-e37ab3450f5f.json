@@ -1142,41 +1142,40 @@
         "Short-term disease",
         "rapid-onset illness"
       ],
-      "definition": "a disease or condition that has a sudden onset, severe symptoms, and a relatively short duration",
+      "definition": "A sudden and severe illness that requires immediate medical attention.",
       "userGuesses": [],
-      "status": "hidden",
-      "meaning": "penyakit akut",
+      "status": "discovered",
+      "meaning": "Penyakit akut",
       "phonetics": {
-        "us": "/əˈkyūt/",
-        "uk": "/əˈkjuːt/"
+        "us": "/əˈkjuːt ɪlˈnɛs/.",
+        "uk": "/əˈkjuːt ɪlˈnɛs/"
       },
       "examples": [
         {
           "type": "Simple",
-          "text": "The patient was hospitalized due to an acute illness.",
-          "translation": "Pasien dirawat di rumah sakit karena penyakit akut."
+          "text": "The hospital has a special ward for patients suffering from acute illnesses.",
+          "translation": "Rumah sakit tersebut memiliki ruang khusus untuk pasien yang menderita penyakit akut."
         },
         {
           "type": "Complex",
-          "text": "Because the patient had a history of heart disease, the doctor suspected that the acute illness was related to it.",
-          "translation": "Karena pasien memiliki riwayat penyakit jantung, dokter menduga bahwa penyakit akut tersebut terkait dengan hal itu."
+          "text": "Due to the high mortality rate of acute illnesses, the government has implemented strict health protocols.",
+          "translation": "Karena tingginya tingkat kematian akibat penyakit akut, pemerintah telah menerapkan protokol kesehatan yang ketat."
         },
         {
           "type": "Compound",
-          "text": "The doctor treated the patient for both the acute illness and the chronic condition, and the patient made a full recovery.",
-          "translation": "Dokter mengobati pasien untuk penyakit akut dan kondisi kronis, dan pasien pulih sepenuhnya."
+          "text": "Acute illnesses can be caused by various factors, including poor diet and lack of exercise.",
+          "translation": "Penyakit akut dapat disebabkan oleh berbagai faktor, termasuk pola makan yang tidak seimbang dan kurangnya olahraga."
         },
         {
           "type": "Compound-Complex",
-          "text": "While the doctor treated the patient for the acute illness, the nurse also monitored the patient's condition because the patient had a history of heart disease, and the doctor suspected that the acute illness was related to it.",
-          "translation": "Saat dokter mengobati pasien untuk penyakit akut, perawat juga memantau kondisi pasien karena pasien memiliki riwayat penyakit jantung, dan dokter menduga bahwa penyakit akut tersebut terkait dengan hal itu."
+          "text": "In addition to the physical consequences of acute illnesses, patients often experience emotional trauma, which can have long-lasting effects on their mental health.",
+          "translation": "Selain konsekuensi fisik penyakit akut, pasien sering mengalami trauma emosional yang dapat memiliki efek jangka panjang pada kesehatan mental mereka."
         }
       ],
       "synonymMeanings": [
-        "penyakit tiba-tiba",
-        "penyakit serius",
         "penyakit berat",
-        "penyakit parah"
+        "penyakit serius",
+        "penyakit yang memerlukan perawatan segera"
       ]
     },
     {
