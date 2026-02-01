@@ -1833,40 +1833,40 @@
         "Suppleness",
         "mobility"
       ],
-      "definition": "The ability to change or be changed easily according to the situation.",
+      "definition": "The ability to bend or adapt easily.",
       "userGuesses": [],
-      "status": "hidden",
-      "meaning": "Kelenturan",
+      "status": "discovered",
+      "meaning": "Kemampuan menyesuaikan diri dengan mudah.",
       "phonetics": {
-        "us": "/flɛksəˈbɪlɪti/",
-        "uk": "/flɛksɪˈbɪlɪti/"
+        "us": "/ˈflɛksɪbɪlɪti/",
+        "uk": "/ˈflɛksɪbɪlɪti/"
       },
       "examples": [
         {
           "type": "Simple",
-          "text": "The new employee showed flexibility in her work schedule.",
-          "translation": "Karyawan baru itu menunjukkan kelenturan dalam jadwal kerjanya."
+          "text": "Many companies value flexibility in their employees.",
+          "translation": "Banyak perusahaan menghargai kemampuan menyesuaikan diri di kalangan karyawannya."
         },
         {
           "type": "Complex",
-          "text": "Because the company needs to adapt to the market, it requires flexibility from all employees.",
-          "translation": "Karena perusahaan perlu menyesuaikan diri dengan pasar, maka diperlukan kelenturan dari semua karyawan."
+          "text": "The flexibility of the new employee allowed the team to adapt quickly to her work style.",
+          "translation": "Kemampuan menyesuaikan diri dari karyawan baru memungkinkan tim untuk menyesuaikan diri dengan cepat gaya kerjanya."
         },
         {
           "type": "Compound",
-          "text": "The company offers flexibility in work hours, and employees can also work from home.",
-          "translation": "Perusahaan menawarkan kelenturan dalam jam kerja, dan karyawan juga bisa bekerja dari rumah."
+          "text": "The company's flexibility and willingness to learn from its mistakes helped it to grow rapidly.",
+          "translation": "Kemampuan menyesuaikan diri dan kesiapan perusahaan untuk belajar dari kesalahan-kesalahannya membantu perusahaan itu tumbuh dengan cepat."
         },
         {
           "type": "Compound-Complex",
-          "text": "While the new policy allows for flexibility in meeting deadlines, it also requires employees to be more responsible, because they have to manage their time effectively to meet the targets.",
-          "translation": "Sementara kebijakan baru memungkinkan kelenturan dalam memenuhi tenggat waktu, juga memerlukan karyawan untuk lebih bertanggung jawab, karena mereka harus mengelola waktu mereka dengan efektif untuk mencapai target."
+          "text": "The flexibility of the new policy allowed the company to respond quickly to changes in the market, and it also enabled employees to work from home more often.",
+          "translation": "Kemampuan menyesuaikan diri dari kebijakan baru memungkinkan perusahaan untuk bereaksi dengan cepat terhadap perubahan di pasar, dan juga memungkinkan karyawan untuk bekerja dari rumah lebih sering."
         }
       ],
       "synonymMeanings": [
         "Kemampuan menyesuaikan diri",
-        "Keluwesan",
-        "Keterbukaan"
+        "Kemampuan fleksibel",
+        "Kemampuan adaptif"
       ]
     },
     {
