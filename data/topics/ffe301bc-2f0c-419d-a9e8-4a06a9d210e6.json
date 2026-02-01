@@ -472,9 +472,41 @@
         "Aquatic contamination",
         "toxic discharge"
       ],
-      "definition": "The contamination of water bodies\nwith harmful substances",
+      "definition": "The presence of harmful substances in water, making it unfit for drinking, recreation, or other uses.",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "discovered",
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Water pollution is a serious issue in many parts of the world.",
+          "translation": "Kekotoran air merupakan masalah serius di banyak bagian dunia."
+        },
+        {
+          "type": "Complex",
+          "text": "Although the government has implemented stricter regulations, water pollution still remains a major concern.",
+          "translation": "Meskipun pemerintah telah menerapkan regulasi yang lebih ketat, kekotoran air masih menjadi masalah utama."
+        },
+        {
+          "type": "Compound",
+          "text": "Water pollution affects not only the environment but also the health of humans and animals.",
+          "translation": "Kekotoran air tidak hanya mempengaruhi lingkungan, tetapi juga kesehatan manusia dan hewan."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "However, the problem of water pollution can be solved if we work together to reduce our reliance on single-use plastics and implement sustainable waste management systems.",
+          "translation": "Namun, masalah kekotoran air dapat diatasi jika kita bekerja sama untuk mengurangi ketergantungan pada plastik sekali pakai dan menerapkan sistem pengelolaan limbah yang berkelanjutan."
+        }
+      ],
+      "phonetics": {
+        "us": "/ˈwɔtər pɑːlʊˈteɪʃən/",
+        "uk": "/ˈwɔtər pɒlʊˈteɪʃən/"
+      },
+      "meaning": "Kekotoran air",
+      "synonymMeanings": [
+        "Kerusakan air",
+        "Pencemaran air laut",
+        "Kekotoran perairan"
+      ]
     },
     {
       "id": "64769fae-812d-463d-a7d2-c9d52d7fd7c7",
