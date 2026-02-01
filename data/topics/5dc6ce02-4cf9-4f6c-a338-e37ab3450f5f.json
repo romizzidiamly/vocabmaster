@@ -2224,10 +2224,10 @@
         "Exercise round",
         "sequence"
       ],
-      "definition": "a group of things that belong together or have something in common",
+      "definition": "A set of things that belong together or are related in some way.",
       "userGuesses": [],
-      "status": "hidden",
-      "meaning": "sekumpulan atau kelompok",
+      "status": "discovered",
+      "meaning": "Suatu pengumpulan hal yang terkait atau berhubungan.",
       "phonetics": {
         "us": "/sɛt/",
         "uk": "/sɛt/"
@@ -2235,30 +2235,30 @@
       "examples": [
         {
           "type": "Simple",
-          "text": "The set of books includes a dictionary.",
-          "translation": "Sekumpulan buku tersebut termasuk kamus."
+          "text": "The new employee was given a set of tools to complete the task.",
+          "translation": "Direktur memberikan sekelompok alat kepada pekerja baru untuk menyelesaikan tugas."
         },
         {
           "type": "Complex",
-          "text": "Because the new policy was implemented, the set of rules had to be changed.",
-          "translation": "Karena kebijakan baru diterapkan, sekumpulan aturan harus diubah."
+          "text": "Although the company had set clear goals, the team struggled to meet them.",
+          "translation": "Meskipun perusahaan telah menetapkan tujuan yang jelas, tim masih kesulitan mencapai mereka."
         },
         {
           "type": "Compound",
-          "text": "I bought a set of knives, and I also bought a set of spoons.",
-          "translation": "Saya membeli sekumpulan pisau, dan saya juga membeli sekumpulan sendok."
+          "text": "The set of rules had been established years ago, but the company still struggled to comply with them.",
+          "translation": "Pengaturan aturan telah ditetapkan beberapa tahun yang lalu, tetapi perusahaan masih kesulitan mematuhi mereka."
         },
         {
           "type": "Compound-Complex",
-          "text": "While I was shopping, I bought a set of knives because they were on sale, and I also bought a set of spoons because I needed them.",
-          "translation": "Ketika saya berbelanja, saya membeli sekumpulan pisau karena mereka sedang diskon, dan saya juga membeli sekumpulan sendok karena saya membutuhkannya."
+          "text": "The team had set a high standard for themselves, but due to the lack of resources, they struggled to maintain it, which had a negative impact on the company's overall performance.",
+          "translation": "Tim telah menetapkan standar tinggi bagi diri mereka sendiri, tetapi karena kekurangan sumber daya, mereka kesulitan mempertahankannya, yang memiliki dampak negatif pada kinerja perusahaan secara keseluruhan."
         }
       ],
       "synonymMeanings": [
         "kelompok",
-        "kumpulan",
-        "sekumpulan",
-        "himpunan"
+        "pengumpulan",
+        "seri",
+        "rangkaian"
       ]
     },
     {
