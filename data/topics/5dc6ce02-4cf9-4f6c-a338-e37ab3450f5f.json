@@ -1772,41 +1772,41 @@
         "Stamina",
         "resilience"
       ],
-      "definition": "the ability to continue doing something over a long period of time, even when it is difficult or tiring",
+      "definition": "The ability to withstand or continue for a long time, especially in difficult or unpleasant conditions.",
       "userGuesses": [],
-      "status": "hidden",
-      "meaning": "ketahanan",
+      "status": "discovered",
+      "meaning": "Kemampuan untuk bertahan atau terus berlangsung dalam waktu lama, terutama dalam kondisi sulit atau tidak menyenangkan.",
       "phonetics": {
-        "us": "/ɛnˈdʊrəns/",
-        "uk": "/ɛnˈdjʊərəns/"
+        "us": "/ɛndərˈæns/",
+        "uk": "/ɛndəˈræns/"
       },
       "examples": [
         {
           "type": "Simple",
-          "text": "She has great endurance and can run a marathon.",
-          "translation": "Dia memiliki ketahanan yang luar biasa dan dapat berlari maraton."
+          "text": "The athlete's endurance was impressive as he completed the marathon in under four hours.",
+          "translation": "Kemampuan atlet untuk bertahan menempuh maraton dalam waktu kurang dari empat jam memang sangat impresif."
         },
         {
           "type": "Complex",
-          "text": "Because she trained every day, she was able to increase her endurance.",
-          "translation": "Karena dia berlatih setiap hari, dia dapat meningkatkan ketahanannya."
+          "text": "The company's ability to adapt to changing market conditions was a key factor in their success, which required a great deal of endurance over several years.",
+          "translation": "Kemampuan perusahaan untuk beradaptasi dengan perubahan kondisi pasar merupakan faktor utama kesuksesan mereka, yang memerlukan kemampuan bertahan dalam waktu yang lama."
         },
         {
           "type": "Compound",
-          "text": "She has endurance and speed, which makes her a great athlete, and she also has a strong will to win.",
-          "translation": "Dia memiliki ketahanan dan kecepatan, yang membuatnya atlet hebat, dan dia juga memiliki keinginan kuat untuk menang."
+          "text": "The long journey was tiring, but the tourist's endurance was tested even further by the scorching heat and dusty roads.",
+          "translation": "Perjalanan yang panjang itu sangat melelahkan, namun kemampuan bertahan wisatawan diuji bahkan lebih lama lagi oleh panas yang terik dan jalan berdebu."
         },
         {
           "type": "Compound-Complex",
-          "text": "While she was training, she realized that having endurance was not just about physical strength, but also about mental toughness, and this realization helped her to push through the challenges, which made her a better athlete, and she was proud of her progress.",
-          "translation": "Saat sedang berlatih, dia menyadari bahwa memiliki ketahanan bukan hanya tentang kekuatan fisik, tetapi juga tentang ketangguhan mental, dan pemahaman ini membantunya untuk melalui tantangan, yang membuatnya atlet yang lebih baik, dan dia bangga dengan kemajuannya."
+          "text": "While the hikers' endurance was impressive, their decision to continue the climb despite the stormy weather was not the wisest choice.",
+          "translation": "Meskipun kemampuan bertahan pendaki sangat menonjol, keputusan mereka untuk terus mendaki meskipun cuaca buruk bukanlah pilihan yang paling bijak."
         }
       ],
       "synonymMeanings": [
-        "daya tahan",
-        "ketabahan",
-        "kesabaran",
-        "kekuatan"
+        "Kerja keras",
+        "Kemampuan bertahan lama",
+        "Kekuatan mental",
+        "Kemampuan beradaptasi"
       ]
     },
     {
