@@ -399,41 +399,40 @@
         "Psychological wellness",
         "emotional"
       ],
-      "definition": "A person's condition with regard to their psychological and emotional well-being.",
+      "definition": "A person's emotional, psychological, and social well-being.",
       "userGuesses": [],
-      "status": "hidden",
-      "meaning": "Kesehatan mental",
+      "status": "discovered",
+      "meaning": "Kesejahteraan mental",
       "phonetics": {
-        "us": "/ˈmɛn.təl ˈhɛlθ/",
-        "uk": "/ˈmɛn.təl ˈhɛlθ/"
+        "us": "/mɛn.təl.hɛlθ/",
+        "uk": "/mɛn.təl.hɛlθ/"
       },
       "examples": [
         {
           "type": "Simple",
-          "text": "Mental health is very important.",
-          "translation": "Kesehatan mental sangat penting."
+          "text": "Maintaining good mental health is essential for a happy life.",
+          "translation": "Mengembangkan kesejahteraan mental yang baik sangat penting untuk hidup bahagia."
         },
         {
           "type": "Complex",
-          "text": "Because mental health is important, we should prioritize it.",
-          "translation": "Karena kesehatan mental penting, kita sebaiknya memprioritaskannya."
+          "text": "The increasing stress of modern life can have a negative impact on one's mental well-being, leading to depression and anxiety.",
+          "translation": "Stres yang semakin meningkat dalam kehidupan modern dapat memiliki dampak negatif pada keadaan mental seseorang, sehingga menyebabkan kecemasan dan depresi."
         },
         {
           "type": "Compound",
-          "text": "Mental health is important and we should prioritize it every day.",
-          "translation": "Kesehatan mental penting dan kita sebaiknya memprioritaskannya setiap hari."
+          "text": "Good mental health is essential for a happy life, and it's also crucial for maintaining a healthy relationship with others.",
+          "translation": "Kesejahteraan mental yang baik sangat penting untuk hidup bahagia, dan juga sangat penting untuk menjaga hubungan sehat dengan orang lain."
         },
         {
           "type": "Compound-Complex",
-          "text": "While mental health is important, we should also prioritize physical health because they are interconnected, and a healthy lifestyle can improve both.",
-          "translation": "Sementara kesehatan mental penting, kita juga sebaiknya memprioritaskan kesehatan fisik karena keduanya saling terkait, dan gaya hidup sehat dapat memperbaiki keduanya."
+          "text": "While some people may experience mental health issues due to genetics or environmental factors, it's also important to recognize the impact of social media on our mental well-being, as excessive screen time can lead to feelings of loneliness and isolation.",
+          "translation": "Meskipun beberapa orang mungkin mengalami masalah kesehatan mental karena faktor genetik atau lingkungan, juga penting untuk mengakui dampak media sosial terhadap kesejahteraan mental kita, karena waktu layar yang berlebihan dapat menyebabkan perasaan kesepian dan isolasi."
         }
       ],
       "synonymMeanings": [
-        "Keseimbangan jiwa",
+        "Kesejahteraan emosi",
         "Kesehatan jiwa",
-        "Kondisi mental",
-        "Kesejahteraan emosional"
+        "Mental"
       ]
     },
     {
