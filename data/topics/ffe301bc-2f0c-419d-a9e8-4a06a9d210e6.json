@@ -691,9 +691,41 @@
         "UV",
         "exposure"
       ],
-      "definition": "The thinning of Earth's ozone layer\ndue to chemicals",
+      "definition": "The destruction of the ozone layer in the Earth's atmosphere, which is caused by the release of pollutants such as chlorine and bromine.",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "discovered",
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "The depletion of the ozone layer is a major environmental concern.",
+          "translation": "Penghancuran lapisan ozon merupakan masalah lingkungan utama."
+        },
+        {
+          "type": "Complex",
+          "text": "If we do not take immediate action to reduce pollutants, the depletion of the ozone layer will continue to worsen.",
+          "translation": "Jika kami tidak mengambil tindakan segera untuk mengurangi zat pencemar, penghancuran lapisan ozon akan terus memburuk."
+        },
+        {
+          "type": "Compound",
+          "text": "The depletion of the ozone layer is causing more frequent and intense UV radiation, which is affecting human health and ecosystems.",
+          "translation": "Penghancuran lapisan ozon menyebabkan radiasi UV yang lebih sering dan intens, yang mempengaruhi kesehatan manusia dan lingkungan."
+        },
+        {
+          "type": "Compound-Complex",
+          "Text": "However, the depletion of the ozone layer is not the only environmental issue that we need to address, as climate change and pollution are also major concerns.",
+          "translation": "Namun, penghancuran lapisan ozon bukanlah satu-satunya masalah lingkungan yang harus kami tangani, karena perubahan iklim dan polusi juga merupakan masalah utama."
+        }
+      ],
+      "phonetics": {
+        "us": "/oʊˈzaɪn laɪər dɪˈpliːʃən/",
+        "uk": "/oʊˈzaɪn laɪər dɪˈpliːʃən/"
+      },
+      "meaning": "Penghancuran lapisan ozon atmosfer bumi yang disebabkan oleh pelepasan zat pencemar seperti klorin dan bromin.",
+      "synonymMeanings": [
+        "Penghancuran lapisan atmosfer",
+        "Penghancuran lapisan protektif",
+        "Kerusakan lapisan ozon"
+      ]
     },
     {
       "id": "58ed499a-619f-4e74-bed2-30b2c67c46e5",
