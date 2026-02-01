@@ -429,9 +429,41 @@
         "atmospheric",
         "contamination"
       ],
-      "definition": "The presence of harmful substances\nin the air",
+      "definition": "The presence of pollutants in the air, which can cause harm to the environment and human health.",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "discovered",
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Air pollution is a major environmental concern in many cities around the world.",
+          "translation": "Kebocoran udara merupakan masalah lingkungan yang signifikan di banyak kota di seluruh dunia."
+        },
+        {
+          "type": "Complex",
+          "text": "While air pollution is a significant problem in urban areas, its impact on human health is often underestimated.",
+          "translation": "Meskipun kebocoran udara merupakan masalah signifikan di daerah perkotaan, dampaknya terhadap kesehatan manusia sering kali diabaikan."
+        },
+        {
+          "type": "Compound",
+          "text": "Air pollution is caused by both human activities and natural factors, such as volcanic eruptions.",
+          "translation": "Kebocoran udara disebabkan oleh aktivitas manusia dan faktor alam, seperti erupsi gunung berapi."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "While it is true that air pollution is a significant problem in many countries, the measures taken by governments to address this issue have been inadequate, resulting in significant health consequences for citizens.",
+          "translation": "Meskipun benar bahwa kebocoran udara merupakan masalah signifikan di banyak negara, langkah-langkah yang diambil oleh pemerintah untuk mengatasi masalah ini tidak cukup, sehingga menyebabkan konsekuensi kesehatan yang signifikan bagi warga negara."
+        }
+      ],
+      "phonetics": {
+        "us": "/ˌɛr ˈpəʊlʊʃən/",
+        "uk": "/ˌɛər ˈpɒlʊʃən/"
+      },
+      "meaning": "Kebocoran udara",
+      "synonymMeanings": [
+        "Pencemaran udara",
+        "Kerusakan lingkungan",
+        "Polusi atmosfer"
+      ]
     },
     {
       "id": "e770c7d7-2b6c-4ed2-abd7-5141443a510b",
