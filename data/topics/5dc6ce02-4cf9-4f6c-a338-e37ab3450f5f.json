@@ -1994,41 +1994,41 @@
         "Caloric burn",
         "energy expenditure"
       ],
-      "definition": "the process by which the body changes food into energy and the raw materials needed for growth and repair",
+      "definition": "The process by which the body converts food into energy.",
       "userGuesses": [],
-      "status": "hidden",
-      "meaning": "metabolisme",
+      "status": "discovered",
+      "meaning": "Proses konversi makanan menjadi energi tubuh.",
       "phonetics": {
-        "us": "/məˈtæbəlɪzəm/",
-        "uk": "/məˈtæbɒlɪzəm/"
+        "us": "/mɪtəˈbɑːlɪzəm/",
+        "uk": "/mɛtəˈbɒlɪzəm/"
       },
       "examples": [
         {
           "type": "Simple",
-          "text": "A healthy diet can improve your metabolism.",
-          "translation": "Polanya makan yang sehat dapat meningkatkan metabolisme Anda."
+          "text": "Exercise can boost metabolism, leading to weight loss.",
+          "translation": "Olahraga dapat meningkatkan metabolisme, sehingga mengakibatkan penurunan berat badan."
         },
         {
           "type": "Complex",
-          "text": "Because she has a high metabolism, she can eat a lot without gaining weight.",
-          "translation": "Karena dia memiliki metabolisme yang tinggi, dia dapat makan banyak tanpa gemuk."
+          "text": "While a balanced diet is essential for maintaining a healthy metabolism, some people may need to adopt a more rigorous exercise routine.",
+          "translation": "Meskipun diet seimbang sangat penting untuk menjaga metabolisme sehat, beberapa orang mungkin perlu mengadopsi rutinitas olahraga lebih keras."
         },
         {
           "type": "Compound",
-          "text": "I exercise regularly and eat a healthy diet, but my metabolism is still slow.",
-          "translation": "Saya berolahraga teratur dan makan pola makan yang sehat, tetapi metabolisme saya masih lambat."
+          "text": "Eating too much sugar can slow down metabolism, while a lack of sleep can further exacerbate the problem.",
+          "translation": "Mengonsumsi terlalu banyak gula dapat memperlambat metabolisme, sementara kekurangan tidur dapat memperburuk masalah itu lebih lanjut."
         },
         {
           "type": "Compound-Complex",
-          "text": "While a slow metabolism can make it difficult to lose weight, regular exercise and a healthy diet can still help, because they increase the rate at which the body burns calories.",
-          "translation": "Meskipun metabolisme yang lambat dapat membuatnya sulit untuk menurunkan berat badan, olahraga teratur dan pola makan yang sehat masih dapat membantu, karena mereka meningkatkan laju di mana tubuh membakar kalori."
+          "text": "However, some research suggests that certain nutrients, such as vitamin D and omega-3 fatty acids, can actually help to increase metabolism and improve overall health, which may be beneficial for people with certain health conditions.",
+          "translation": "Namun, beberapa penelitian menunjukkan bahwa beberapa nutrisi, seperti vitamin D dan asam lemak omega-3, dapat sebenarnya membantu meningkatkan metabolisme dan meningkatkan kesehatan secara keseluruhan, yang mungkin bermanfaat bagi orang-orang dengan beberapa kondisi kesehatan tertentu."
         }
       ],
       "synonymMeanings": [
-        "pembakaran",
-        "pembelahan",
-        "pengubahan",
-        "penyerapan"
+        "pembakaran energi",
+        "proses energi",
+        "pengubahan makanan",
+        "konversi energi"
       ]
     },
     {
