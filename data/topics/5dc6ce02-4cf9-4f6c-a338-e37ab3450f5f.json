@@ -2591,41 +2591,40 @@
         "Fluid intake",
         "water consumption"
       ],
-      "definition": "The process of giving someone or something enough water or other liquid to keep them or it healthy and working properly",
+      "definition": "The process of taking in water to keep the body or a liquid healthy and functioning properly.",
       "userGuesses": [],
-      "status": "hidden",
-      "meaning": "pemberian cairan",
+      "status": "discovered",
+      "meaning": "Penggunaan air yang cukup",
       "phonetics": {
-        "us": "/haɪˈdreɪʃən/",
+        "us": "/hʌɪˈdreɪʃən/",
         "uk": "/haɪˈdreɪʃən/"
       },
       "examples": [
         {
           "type": "Simple",
-          "text": "Drinking water is essential for hydration.",
-          "translation": "Minum air sangat penting untuk pemberian cairan."
+          "text": "Proper hydration is essential for physical performance.",
+          "translation": "Penggunaan air yang cukup sangat penting untuk prestasi fisik."
         },
         {
           "type": "Complex",
-          "text": "Because she didn't drink enough water, her body lacked proper hydration, which made her feel weak.",
-          "translation": "Karena dia tidak minum air yang cukup, tubuhnya kekurangan cairan, sehingga membuatnya merasa lemah."
+          "text": "While many people believe that sports drinks are necessary for hydration, research suggests otherwise.",
+          "translation": "Meskipun banyak orang percaya bahwa minuman olahraga diperlukan untuk penggunaan air, penelitian lainnya menunjukkan sebaliknya."
         },
         {
           "type": "Compound",
-          "text": "I drink water to stay hydrated, and I also eat fruits to get more fluids.",
-          "translation": "Saya minum air untuk tetap terhidrasi, dan saya juga makan buah untuk mendapatkan lebih banyak cairan."
+          "text": "Regular hydration and a balanced diet are crucial for maintaining good health.",
+          "translation": "Penggunaan air yang teratur dan pola makan yang seimbang sangat penting untuk menjaga kesehatan yang baik."
         },
         {
           "type": "Compound-Complex",
-          "text": "While it's true that drinking water is essential for hydration, it's also important to note that eating foods with high water content can help, but only if you don't have certain medical conditions that require special hydration needs.",
-          "translation": "Sementara itu benar bahwa minum air sangat penting untuk pemberian cairan, juga penting untuk dicatat bahwa makan makanan dengan kandungan air tinggi dapat membantu, tetapi hanya jika Anda tidak memiliki kondisi medis tertentu yang memerlukan kebutuhan hidrasi khusus."
+          "text": "While some athletes may require additional hydration during intense training sessions, others may not need as much water if they are well-hydrated beforehand.",
+          "translation": "Meskipun beberapa atlet mungkin memerlukan penggunaan air tambahan selama sesi latihan intensitas tinggi, lainnya mungkin tidak perlu banyak air jika mereka telah mengonsumsi air yang cukup sebelumnya."
         }
       ],
       "synonymMeanings": [
-        "kelembaban",
-        "pemberian cairan",
-        "hidrasi",
-        "kelembapan"
+        "pemupukan air",
+        "penggunaan cairan",
+        "penjagaan kelembapan"
       ]
     },
     {
