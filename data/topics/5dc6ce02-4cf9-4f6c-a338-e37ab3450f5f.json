@@ -1527,39 +1527,29 @@
       ],
       "definition": "the state of being free from the control or influence of others",
       "userGuesses": [],
-      "status": "hidden",
-      "meaning": "kemerdekaan",
+      "status": "discovered",
+      "meaning": "Meaning not found.",
       "phonetics": {
-        "us": "/ɪndɪˈpɛndəns/",
-        "uk": "/ɪndɪˈpɛndəns/"
+        "us": "/.../",
+        "uk": "/.../"
       },
       "examples": [
         {
           "type": "Simple",
-          "text": "She values her independence.",
-          "translation": "Dia menghargai kemerdekaannya."
+          "text": "Usage of Independence is important."
         },
         {
           "type": "Complex",
-          "text": "Because she wanted to be independent, she learned how to manage her finances.",
-          "translation": "Karena dia ingin mandiri, dia belajar mengelola keuangannya."
+          "text": "Because Independence matters, we should study it."
         },
         {
           "type": "Compound",
-          "text": "She wanted independence, but she also needed support from her family.",
-          "translation": "Dia menginginkan kemerdekaan, tetapi dia juga membutuhkan dukungan dari keluarganya."
+          "text": "The word is Independence, and it is useful."
         },
         {
           "type": "Compound-Complex",
-          "text": "While she wanted independence and was determined to make it on her own, she also knew that sometimes she needed help, because her parents had taught her that it was okay to ask for support when necessary.",
-          "translation": "Sementara dia menginginkan kemerdekaan dan bertekad untuk berhasil dengan usahanya sendiri, dia juga tahu bahwa terkadang dia membutuhkan bantuan, karena orang tuanya telah mengajarkannya bahwa tidak apa-apa untuk meminta bantuan ketika diperlukan."
+          "text": "If we use Independence correctly, we succeed, so let's try."
         }
-      ],
-      "synonymMeanings": [
-        "kebebasan",
-        "otonomi",
-        "kedaulatan",
-        "mandiri"
       ]
     },
     {
