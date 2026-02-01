@@ -745,41 +745,41 @@
         "Undernourishment",
         "starvation"
       ],
-      "definition": "a state of health caused by a lack of food or a lack of certain nutrients in the food that you eat",
+      "definition": "A condition that occurs when the body does not get the nutrients it needs to function properly.",
       "userGuesses": [],
-      "status": "hidden",
-      "meaning": "kekurangan gizi",
+      "status": "discovered",
+      "meaning": "Keadaan kurang gizi",
       "phonetics": {
-        "us": "/ˌmælnʊˈtrɪʃən/",
-        "uk": "/ˌmæl.nʊˈtrɪʃən/"
+        "us": "/mælnʌtɪˈreɪʃən/",
+        "uk": "/mælˈnʌtɪreɪʃən/"
       },
       "examples": [
         {
           "type": "Simple",
-          "text": "The child suffered from malnutrition due to a poor diet.",
-          "translation": "Anak itu menderita kekurangan gizi karena pola makan yang buruk."
+          "text": "Malnutrition is a major health problem in developing countries.",
+          "translation": "Keadaan kurang gizi merupakan masalah kesehatan utama di negara-negara berkembang."
         },
         {
           "type": "Complex",
-          "text": "Because the family was unable to afford nutritious food, the child developed malnutrition.",
-          "translation": "Karena keluarga tidak mampu membeli makanan bergizi, anak itu mengalami kekurangan gizi."
+          "text": "The lack of access to nutritious food is a significant contributor to malnutrition in many parts of the world.",
+          "translation": "Keterbatasan akses makanan bergizi merupakan kontributor signifikan terhadap keadaan kurang gizi di banyak bagian dunia."
         },
         {
           "type": "Compound",
-          "text": "The region experienced famine and malnutrition, and many people suffered as a result.",
-          "translation": "Daerah tersebut mengalami kelaparan dan kekurangan gizi, dan banyak orang menderita akibatnya."
+          "text": "Malnutrition and poverty are closely linked, and addressing one issue requires addressing the other as well.",
+          "translation": "Keadaan kurang gizi dan kemiskinan terkait erat, sehingga menangani satu masalah memerlukan menangani masalah lainnya juga."
         },
         {
           "type": "Compound-Complex",
-          "text": "While the new government has implemented policies to reduce poverty, it has also struggled to address the issues of famine and malnutrition that have plagued the country for decades, because the problems are deeply rooted in the nation's history.",
-          "translation": "Sementara pemerintah baru telah melaksanakan kebijakan untuk mengurangi kemiskinan, juga berjuang untuk mengatasi masalah kelaparan dan kekurangan gizi yang telah melanda negara selama beberapa dekade, karena masalah-masalah tersebut sangat berakar dalam sejarah bangsa."
+          "text": "As a result of malnutrition, children are more likely to suffer from stunted growth and impaired cognitive development, which can have long-term consequences for their health and educational outcomes.",
+          "translation": "Sebagai hasil dari keadaan kurang gizi, anak-anak lebih cenderung mengalami pertumbuhan terhambat dan perkembangan kognitif yang terganggu, yang dapat memiliki konsekuensi jangka panjang bagi kesehatan dan hasil pendidikannya."
         }
       ],
       "synonymMeanings": [
-        "kekurangan gizi",
-        "kelaparan",
-        "kekurangan nutrisi",
-        "kekurangan makanan"
+        "Kurang gizi",
+        "Gizi buruk",
+        "Kekurangan nutrisi",
+        "Defisiensi nutrisi"
       ]
     },
     {
