@@ -1007,41 +1007,40 @@
         "Immunity",
         "defense system"
       ],
-      "definition": "the system that protects the body from infection and disease",
+      "definition": "The system and processes by which the body defends itself against disease-causing microorganisms and other foreign substances.",
       "userGuesses": [],
-      "status": "hidden",
-      "meaning": "sistem kekebalan tubuh",
+      "status": "discovered",
+      "meaning": "Sistem kekebalan tubuh",
       "phonetics": {
-        "us": "/ɪˈmuːn ˈsɪstəm/",
-        "uk": "/ɪˈmjuːn ˈsɪstəm/"
+        "us": "/ɪˈmjuːn sɪsˈteɪm/",
+        "uk": "/ɪˈmjuːn sɪsˈteɪm/"
       },
       "examples": [
         {
           "type": "Simple",
-          "text": "The immune system helps fight off infections.",
-          "translation": "Sistem kekebalan tubuh membantu melawan infeksi."
+          "text": "The immune system plays a crucial role in protecting us against diseases.",
+          "translation": "Sistem kekebalan tubuh memiliki peran penting dalam melindungi kita dari penyakit."
         },
         {
           "type": "Complex",
-          "text": "Because she had a healthy diet, her immune system was able to fight off the illness.",
-          "translation": "Karena dia memiliki pola makan yang sehat, sistem kekebalan tubuhnya dapat melawan penyakit tersebut."
+          "text": "If we do not take care of our immune system, we will be more susceptible to illnesses.",
+          "translation": "Jika kita tidak menjaga sistem kekebalan tubuh kita, kita akan lebih rentan terhadap penyakit."
         },
         {
           "type": "Compound",
-          "text": "The immune system protects the body, and it also helps to heal injuries.",
-          "translation": "Sistem kekebalan tubuh melindungi tubuh, dan juga membantu menyembuhkan luka."
+          "text": "The immune system is comprised of various cells and organs that work together to fight off infections, but it can be weakened by stress and poor diet.",
+          "translation": "Sistem kekebalan tubuh terdiri dari berbagai sel dan organ yang bekerja sama untuk melawan infeksi, tetapi dapat melemah karena stres dan diet buruk."
         },
         {
           "type": "Compound-Complex",
-          "text": "While the immune system protects the body from infection, it can sometimes overreact and cause problems, but a healthy lifestyle helps to balance it.",
-          "translation": "Saat sistem kekebalan tubuh melindungi tubuh dari infeksi, terkadang dapat bereaksi berlebihan dan menyebabkan masalah, tetapi gaya hidup sehat membantu menyeimbangkannya."
+          "text": "However, the effectiveness of the immune system can be compromised by factors such as genetics, lifestyle, and environmental factors, which can lead to a weakened immune response.",
+          "translation": "Namun, efektivitas sistem kekebalan tubuh dapat terganggu oleh faktor-faktor seperti genetik, gaya hidup, dan faktor lingkungan, yang dapat menyebabkan respon kekebalan melemah."
         }
       ],
       "synonymMeanings": [
-        "pertahanan tubuh",
-        "sistem pertahanan alami",
-        "kekebalan",
-        "daya tahan tubuh"
+        "Sistem pertahanan tubuh",
+        "Sistem perlindungan tubuh",
+        "Sistem perlawanan tubuh"
       ]
     },
     {
