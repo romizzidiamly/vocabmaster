@@ -1217,40 +1217,41 @@
         "Sanitation",
         "cleanliness"
       ],
-      "definition": "the state of being clean and free from dirt, bacteria, etc.",
+      "definition": "The practice of keeping oneself and one's environment clean and free from disease-causing agents.",
       "userGuesses": [],
-      "status": "hidden",
-      "meaning": "kebersihan",
+      "status": "discovered",
+      "meaning": "Kesederhanaan hidup dan lingkungan",
       "phonetics": {
-        "us": "/ˈhaɪ.dʒiːn/",
-        "uk": "/ˈhaɪ.dʒiːn/"
+        "us": "/haɪˈdʒiːn/",
+        "uk": "/haɪˈdʒiːn/"
       },
       "examples": [
         {
           "type": "Simple",
-          "text": "Personal hygiene is very important.",
-          "translation": "Kebersihan pribadi sangat penting."
+          "text": "Maintaining good hygiene is essential in preventing the spread of diseases.",
+          "translation": "Merawat kebersihan yang baik sangat penting untuk mencegah penyebaran penyakit."
         },
         {
           "type": "Complex",
-          "text": "Because hygiene is essential for our health, we need to wash our hands frequently.",
-          "translation": "Karena kebersihan sangat penting bagi kesehatan kita, kita perlu mencuci tangan secara teratur."
+          "text": "The lack of hygiene in public places can lead to the outbreak of waterborne diseases, which is a major concern for public health.",
+          "translation": "Kurangnya kesederhanaan hidup di tempat umum dapat menyebabkan kemunculan penyakit akibat air, yang merupakan masalah besar bagi kesehatan masyarakat."
         },
         {
           "type": "Compound",
-          "text": "Hygiene is important, and so is a healthy diet to maintain our overall well-being.",
-          "translation": "Kebersihan penting, dan begitu juga dengan pola makan sehat untuk menjaga kesejahteraan kita secara keseluruhan."
+          "text": "Good hygiene practices include washing hands regularly and using clean water, while poor hygiene can lead to the spread of diseases.",
+          "translation": "Praktek kebersihan yang baik meliputi mencuci tangan secara teratur dan menggunakan air bersih, sedangkan kebersihan yang buruk dapat menyebabkan penyebaran penyakit."
         },
         {
           "type": "Compound-Complex",
-          "text": "While hygiene is crucial for preventing illnesses, a balanced lifestyle that includes regular exercise and a healthy diet is also necessary, because it helps to boost our immune system.",
-          "translation": "Sementara kebersihan sangat penting untuk mencegah penyakit, gaya hidup seimbang yang mencakup olahraga teratur dan pola makan sehat juga diperlukan, karena hal ini membantu meningkatkan sistem kekebalan tubuh kita."
+          "text": "The importance of hygiene in schools cannot be overstated, as it can prevent the spread of diseases among students, and this is particularly crucial in areas with limited access to clean water and sanitation facilities.",
+          "translation": "Pentingnya kesederhanaan hidup di sekolah tidak bisa digambarkan dengan jelas, karena dapat mencegah penyebaran penyakit di kalangan siswa, dan hal ini sangat penting di daerah yang memiliki akses terhadap air bersih dan fasilitas sanitasi terbatas."
         }
       ],
       "synonymMeanings": [
-        "kebersihan",
-        "kesucian",
-        "kebijaksanaan"
+        "Kesederhanaan hidup",
+        "Kebersihan",
+        "Kemurnian",
+        "Kesucian"
       ]
     },
     {
