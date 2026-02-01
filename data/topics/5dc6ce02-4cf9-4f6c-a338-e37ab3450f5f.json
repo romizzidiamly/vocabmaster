@@ -654,41 +654,40 @@
         "Infectious",
         "transmittable"
       ],
-      "definition": "able to be spread by contact with someone or something that has the disease or feeling",
+      "definition": "Spreading or catching easily from one person or thing to another.",
       "userGuesses": [],
-      "status": "hidden",
-      "meaning": "menular",
+      "status": "discovered",
+      "meaning": "Mudah menular",
       "phonetics": {
-        "us": "/kənˈteɪdʒəs/",
-        "uk": "/kənˈteɪdʒəs/"
+        "us": "/kɑnˈteɪdʒəs/ ",
+        "uk": "/kɒnˈteɪdʒəs/"
       },
       "examples": [
         {
           "type": "Simple",
-          "text": "The contagious laugh spread quickly through the room.",
-          "translation": "Tawa menular itu menyebar dengan cepat di seluruh ruangan."
+          "text": "The highly contagious disease spread rapidly across the country.",
+          "translation": "Penyakit yang mudah menular itu menyebar dengan cepat di seluruh negeri."
         },
         {
           "type": "Complex",
-          "text": "Because the disease is contagious, we need to take precautions when visiting the patient.",
-          "translation": "Karena penyakit itu menular, kita perlu mengambil tindakan pencegahan saat mengunjungi pasien."
+          "text": "Although the virus was highly contagious, the government was able to contain its spread.",
+          "translation": "Meskipun virus itu mudah menular, pemerintah berhasil mengendalikan penyebarannya."
         },
         {
           "type": "Compound",
-          "text": "The contagious atmosphere in the stadium and the delicious food made the event unforgettable.",
-          "translation": "Atmosfer menular di stadion dan makanan yang lezat membuat acara itu tak terlupakan."
+          "text": "The highly contagious disease and lack of healthcare facilities made the situation extremely difficult for the patients.",
+          "translation": "Penyakit yang mudah menular dan kekurangan fasilitas kesehatan membuat situasi bagi pasien sangat sulit."
         },
         {
           "type": "Compound-Complex",
-          "text": "While the contagious energy of the crowd was exciting, the fact that the concert was outdoors and it was raining made the experience less enjoyable, but the lead singer's performance was still impressive.",
-          "translation": "Sementara energi menular kerumunan itu menyenangkan, kenyataan bahwa konser itu di luar ruangan dan hujan membuat pengalaman itu kurang menyenangkan, tetapi penampilan penyanyi utama masih mengesankan."
+          "text": "Although the new medicine was highly effective in treating the disease, its highly contagious nature made it difficult to control its spread, and as a result, the government had to implement strict measures to contain it.",
+          "translation": "Meskipun obat baru itu sangat efektif dalam mengobati penyakit, sifatnya yang mudah menular membuat sulit untuk mengendalikan penyebarannya, sehingga pemerintah harus mengambil tindakan ketat untuk mengendalikannya."
         }
       ],
       "synonymMeanings": [
-        "penyakit menular",
-        "infeksius",
-        "menyebar",
-        "menginfeksi"
+        "Menular",
+        "Mudah menyebar",
+        "Berjangkit"
       ]
     },
     {
