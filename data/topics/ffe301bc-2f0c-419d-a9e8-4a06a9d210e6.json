@@ -1939,9 +1939,40 @@
         "Environmental contamination",
         "non-biodegradable waste"
       ],
-      "definition": "The accumulation of plastic waste in the environment",
+      "definition": "The presence of plastic waste in the environment, especially in oceans and waterways, causing harm to wildlife and ecosystems.",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "discovered",
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "The increasing levels of plastic pollution in our oceans threaten the survival of many marine species.",
+          "translation": "Pencemaran plastik di laut kita semakin meningkat dan mengancam keberadaan spesies laut."
+        },
+        {
+          "type": "Complex",
+          "text": "While some people argue that plastic bags are convenient, others believe that the negative impact of plastic pollution on the environment outweighs these benefits.",
+          "translation": "Meskipun beberapa orang berpendapat bahwa tas plastik sangat nyaman, yang lainnya percaya bahwa dampak negatif pencemaran plastik terhadap lingkungan lebih besar daripada manfaatnya."
+        },
+        {
+          "type": "Compound",
+          "text": "Plastic pollution in the ocean has devastating effects on marine life and coastal ecosystems, but also harms human health through the consumption of contaminated seafood.",
+          "translation": "Pencemaran plastik di laut memiliki efek mematikan pada kehidupan laut dan ekosistem pesisir, serta mengancam kesehatan manusia melalui konsumsi ikan yang terkontaminasi."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "Furthermore, the impact of plastic pollution on the environment is exacerbated by the lack of effective waste management systems in many developing countries, which leads to a significant increase in plastic waste in our oceans.",
+          "translation": "Lebih lanjut, dampak pencemaran plastik terhadap lingkungan semakin parah karena kurangnya sistem pengelolaan sampah yang efektif di banyak negara berkembang, sehingga meningkatkan jumlah sampah plastik di laut kita secara signifikan."
+        }
+      ],
+      "phonetics": {
+        "us": "/ˈplæstɪk pəˈloʊʃən/",
+        "uk": "/ˈplæstɪk pəˈloʊʃən/"
+      },
+      "meaning": "Pencemaran plastik",
+      "synonymMeanings": [
+        "kebocoran plastik",
+        "pembuangan plastik"
+      ]
     },
     {
       "id": "349faf97-2e2c-45e0-ba67-ed24bf154cfc",
