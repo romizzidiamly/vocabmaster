@@ -1481,41 +1481,41 @@
         "Social influence",
         "group pressure"
       ],
-      "definition": "the strong influence of a group of people of the same age that can affect a person's behaviour",
+      "definition": "The influence or coercion exerted by a person's peer group to conform to their attitudes or behaviors.",
       "userGuesses": [],
-      "status": "hidden",
-      "meaning": "tekanan dari teman sebaya",
+      "status": "discovered",
+      "meaning": "Dorongan dari teman-teman untuk meniru sikap atau perilaku mereka.",
       "phonetics": {
-        "us": "/ˈpɪr ˈprɛʃər/",
-        "uk": "/ˈpɪə ˈprɛʃə/"
+        "us": "/pɪərˈprɛʃər/",
+        "uk": "/pɪərˈprɛʃər/"
       },
       "examples": [
         {
           "type": "Simple",
-          "text": "She gave in to peer pressure and started smoking.",
-          "translation": "Dia menyerah pada tekanan dari teman sebaya dan mulai merokok."
+          "text": "Many young people struggle with peer pressure to engage in substance abuse.",
+          "translation": "Banyak remaja menghadapi tekanan dari teman-teman untuk mencoba zat-zat terlarang."
         },
         {
           "type": "Complex",
-          "text": "Because she was influenced by peer pressure, she decided to join the club.",
-          "translation": "Karena dia dipengaruhi oleh tekanan dari teman sebaya, dia memutuskan untuk bergabung dengan klub tersebut."
+          "text": "While some argue that peer pressure can be a force for good, others believe it often leads to negative outcomes.",
+          "translation": "Meskipun ada yang berpendapat bahwa tekanan dari teman-teman dapat menjadi kekuatan yang baik, orang lain percaya bahwa sering kali mengarah pada hasil yang buruk."
         },
         {
           "type": "Compound",
-          "text": "Peer pressure made her feel anxious, and she didn't know what to do, but she still wanted to fit in.",
-          "translation": "Tekanan dari teman sebaya membuatnya merasa cemas, dan dia tidak tahu apa yang harus dilakukan, tapi dia masih ingin bergabung."
+          "text": "Peer pressure can lead to low self-esteem, and it can also encourage risk-taking behaviors.",
+          "translation": "Tekanan dari teman-teman dapat menyebabkan rendahnya harga diri, serta mendorong perilaku yang berisiko."
         },
         {
           "type": "Compound-Complex",
-          "text": "While peer pressure can be overwhelming, it is essential to remember that we have the power to make our own decisions, and we should not give in to something that we know is wrong, because if we do, we will regret it later.",
-          "translation": "Sementara tekanan dari teman sebaya dapat sangat menghancurkan, penting untuk diingat bahwa kita memiliki kekuatan untuk membuat keputusan kita sendiri, dan kita tidak boleh menyerah pada sesuatu yang kita tahu salah, karena jika kita melakukannya, kita akan menyesalinya nanti."
+          "text": "As a result of peer pressure, some individuals may feel compelled to participate in activities they would normally avoid, and this can lead to a range of negative consequences.",
+          "translation": "Karena dorongan dari teman-teman, beberapa individu mungkin merasa terpaksa untuk terlibat dalam aktivitas yang biasanya mereka hindari, dan hal ini dapat mengarah pada berbagai konsekuensi negatif."
         }
       ],
       "synonymMeanings": [
-        "pengaruh teman",
-        "desakan sebaya",
         "tekanan sosial",
-        "pengaruh kelompok"
+        "pengaruh dari teman-teman",
+        "dorongan dari kelompok",
+        "tekanan dari lingkungan"
       ]
     },
     {
