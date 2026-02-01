@@ -233,9 +233,42 @@
         "Tree planting",
         "reforestation"
       ],
-      "definition": "The planting of trees in an area\nwhere there was no forest",
+      "definition": "The act of planting trees in an area where there were none before, especially to prevent soil erosion or to improve the environment.",
       "userGuesses": [],
-      "status": "hidden"
+      "status": "discovered",
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Afforestation is a crucial step in combating climate change.",
+          "translation": "Pembibitan hutan merupakan langkah penting dalam memerangi perubahan iklim."
+        },
+        {
+          "type": "Complex",
+          "text": "Although afforestation is a time-consuming process, the benefits it provides to the environment are undeniable.",
+          "translation": "Meskipun proses pembibitan hutan memakan waktu lama, manfaat yang diberikannya pada lingkungan tidak dapat diragukan."
+        },
+        {
+          "type": "Compound",
+          "text": "Afforestation and reforestation are two distinct processes that are essential for preserving biodiversity.",
+          "translation": "Pembibitan hutan dan pembibitan kembali hutan adalah dua proses yang berbeda, tetapi keduanya sangat penting untuk melestarikan keanekaragaman hayati."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "While afforestation is a vital component of sustainable development, its success depends on various factors, including the type of trees planted and the level of community involvement.",
+          "translation": "Meskipun pembibitan hutan merupakan komponen penting dalam pengembangan berkelanjutan, kesuksesannya bergantung pada berbagai faktor, termasuk jenis pohon yang ditanam dan tingkat partisipasi masyarakat."
+        }
+      ],
+      "phonetics": {
+        "us": "/əfˈfɒstərɪʃən/",
+        "uk": "/əfˈfɒstərɪzeɪʃən/"
+      },
+      "meaning": "Pembibitan hutan",
+      "synonymMeanings": [
+        "Reforestation",
+        "Deforestation prevention",
+        "Tree planting",
+        "Environmental restoration"
+      ]
     },
     {
       "id": "9c9b3ffd-6a02-4c6f-a70f-da86e46ce1d1",
