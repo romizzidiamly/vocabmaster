@@ -2311,41 +2311,40 @@
         "Post-workout routine",
         "relaxation"
       ],
-      "definition": "a period of time for relaxing or doing something gentle after exercise or another energetic activity",
+      "definition": "To gradually reduce or stop an activity, especially after doing something physically demanding, in order to prevent overheating or injury.",
       "userGuesses": [],
-      "status": "hidden",
-      "meaning": "pendinginan",
+      "status": "discovered",
+      "meaning": "Melancong secara bertahap",
       "phonetics": {
-        "us": "/ˈkuːl daʊn/",
-        "uk": "/ˈkuːl daʊn/"
+        "us": "/kuːldaʊn/",
+        "uk": "/ˈkuːldaʊn/"
       },
       "examples": [
         {
           "type": "Simple",
-          "text": "After running, I need to cool down.",
-          "translation": "Setelah berlari, saya perlu pendinginan."
+          "text": "After finishing my strenuous workout, I decided to cool down with some light stretching.",
+          "translation": "Setelah menyelesaikan latihan fisik yang berat, aku memutuskan untuk melakukan peregangan ringan."
         },
         {
           "type": "Complex",
-          "text": "Because I exercised too much, I have to cool down to avoid injury.",
-          "translation": "Karena saya berolahraga terlalu banyak, saya harus pendinginan untuk menghindari cedera."
+          "text": "While I was running, I tried to cool down by walking slowly, but I still felt exhausted.",
+          "translation": "Saat aku berlari, aku mencoba untuk melancong dengan berjalan perlahan-lahan, tetapi aku masih merasa lelah."
         },
         {
           "type": "Compound",
-          "text": "I will cool down and then take a shower.",
-          "translation": "Saya akan pendinginan dan kemudian mandi."
+          "text": "To cool down, I went for a swim and then took a warm bath, which helped me relax.",
+          "translation": "Untuk melancong, aku pergi berenang dan kemudian mandi dengan air hangat, yang membantu aku merasa lebih santai."
         },
         {
           "type": "Compound-Complex",
-          "text": "While I was cooling down, I realized that I had forgotten my water bottle, so I had to go back to the locker room to get it.",
-          "translation": "Saat saya sedang pendinginan, saya menyadari bahwa saya telah lupa botol air saya, jadi saya harus kembali ke ruang ganti untuk mengambilnya."
+          "text": "Although I had been feeling tired, I managed to cool down by taking regular breaks and staying hydrated throughout the hike.",
+          "translation": "Meskipun aku merasa lelah, aku berhasil melancong dengan mengambil istirahat reguler dan tetap hidrasi selama berjalan hiking."
         }
       ],
       "synonymMeanings": [
-        "istirahat",
-        "relaksasi",
-        "pengurangan intensitas",
-        "pendinginan"
+        "beristirahatlah",
+        "melanjutkan dengan santai",
+        "mengecilkan intensitas"
       ]
     },
     {
