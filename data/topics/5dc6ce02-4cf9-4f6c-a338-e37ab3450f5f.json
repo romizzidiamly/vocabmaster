@@ -1357,41 +1357,40 @@
         "Intellectual growth",
         "mental development"
       ],
-      "definition": "The process by which the brain develops and matures, especially in children, and by which a person becomes able to think, learn, and understand more and more complex ideas and concepts.",
+      "definition": "The process by which the brain matures and becomes able to process and understand information.",
       "userGuesses": [],
-      "status": "hidden",
-      "meaning": "Perkembangan kognitif",
+      "status": "discovered",
+      "meaning": "Pengembangan kognitif",
       "phonetics": {
-        "us": "/kɑɡˈnɪtɪv dɪˈvɛləpmənt/",
-        "uk": "/kɒɡˈnɪtɪv dɪˈvɛləpmənt/"
+        "us": "/kɒɡ.ni.tɪv dɪ.vələp.mənt/",
+        "uk": "/kɒɡ.nɪ.tɪv dɪˈvɛləpmənt/"
       },
       "examples": [
         {
           "type": "Simple",
-          "text": "The child's cognitive development was remarkable.",
-          "translation": "Perkembangan kognitif anak itu luar biasa."
+          "text": "Cognitive development in children is a crucial aspect of their overall growth and learning experience.",
+          "translation": "Pengembangan kognitif anak-anak merupakan aspek penting dalam pertumbuhan dan pengalaman belajar mereka."
         },
         {
           "type": "Complex",
-          "text": "Because the child was exposed to a variety of stimuli, her cognitive development was enhanced.",
-          "translation": "Karena anak itu terpapar pada berbagai rangsangan, perkembangan kognitifnya ditingkatkan."
+          "text": "While cognitive development in early childhood is rapid, it can be hindered by a lack of access to quality education and healthcare.",
+          "translation": "Meskipun pengembangan kognitif pada masa kanak-kanak awal terjadi sangat cepat, namun dapat terhambat oleh kurangnya akses ke pendidikan dan kesehatan berkualitas."
         },
         {
           "type": "Compound",
-          "text": "The child's cognitive development was rapid, and she began reading books, and she started solving puzzles.",
-          "translation": "Perkembangan kognitif anak itu cepat, dan dia mulai membaca buku, dan dia mulai memecahkan teka-teki."
+          "text": "Cognitive development is influenced by various factors, including genetics, environment, and socio-economic status.",
+          "translation": "Pengembangan kognitif dipengaruhi oleh berbagai faktor, di antaranya genetik, lingkungan, dan status sosio-ekonomi."
         },
         {
           "type": "Compound-Complex",
-          "text": "While the child's cognitive development was remarkable because she was exposed to a variety of stimuli, she began reading books, and she started solving puzzles, which further enhanced her cognitive abilities.",
-          "translation": "Sementara perkembangan kognitif anak itu luar biasa karena dia terpapar pada berbagai rangsangan, dia mulai membaca buku, dan dia mulai memecahkan teka-teki, yang lebih lanjut meningkatkan kemampuan kognitifnya."
+          "text": "However, despite the importance of cognitive development, many children around the world are still denied access to quality education and healthcare, which can have long-term consequences on their cognitive abilities and overall well-being.",
+          "translation": "Namun, meskipun pentingnya pengembangan kognitif, masih banyak anak-anak di seluruh dunia yang tidak dapat memiliki akses ke pendidikan dan kesehatan berkualitas, yang dapat berdampak pada kemampuan kognitif dan kesejahteraan mereka dalam jangka panjang."
         }
       ],
       "synonymMeanings": [
-        "Perkembangan mental",
-        "Pertumbuhan intelektual",
-        "Perkembangan intelektual",
-        "Pengembangan kemampuan berpikir"
+        "Pengembangan otak",
+        "Perkembangan kemampuan berpikir",
+        "Pengembangan kemampuan intelektual"
       ]
     },
     {
