@@ -923,32 +923,41 @@
         "green",
         "power"
       ],
-      "definition": "Energy derived from sources other\nthan fossil fuels",
+      "definition": "Energy produced from sources other than fossil fuels, such as the sun, wind, and water.",
       "userGuesses": [],
-      "status": "hidden",
+      "status": "discovered",
       "examples": [
         {
           "type": "Simple",
-          "text": "Usage of Alternative energy is important."
+          "text": "The use of alternative energy can greatly reduce our reliance on fossil fuels.",
+          "translation": "Penggunaan energi alternatif dapat mengurangi ketergantungan kita pada bahan bakar fosil."
         },
         {
           "type": "Complex",
-          "text": "Because Alternative energy matters, we should study it."
+          "text": "While alternative energy sources are becoming increasingly popular, they still face significant challenges in terms of cost and efficiency.",
+          "translation": "Meskipun sumber energi alternatif semakin populer, mereka masih menghadapi tantangan yang signifikan dalam hal biaya dan efisiensi."
         },
         {
           "type": "Compound",
-          "text": "The word is Alternative energy, and it is useful."
+          "text": "Alternative energy sources, such as solar and wind power, are becoming more viable options for reducing our carbon footprint.",
+          "translation": "Sumber energi alternatif, seperti tenaga matahari dan angin, semakin menjadi pilihan yang lebih berdaya guna untuk mengurangi jejak karbon kita."
         },
         {
           "type": "Compound-Complex",
-          "text": "If we use Alternative energy correctly, we succeed, so let's try."
+          "text": "In recent years, there has been a significant increase in the adoption of alternative energy sources, particularly in countries with abundant renewable resources, which has led to a decrease in greenhouse gas emissions.",
+          "translation": "Dalam beberapa tahun terakhir, terjadi peningkatan signifikan dalam penerimaan sumber energi alternatif, terutama di negara-negara dengan sumber daya yang dapat diperbarui yang melimpah, yang telah menyebabkan penurunan emisi gas rumah kaca."
         }
       ],
       "phonetics": {
-        "us": "/.../",
-        "uk": "/.../"
+        "us": "/ɔːlˈtɜːrnɪt ˈɛnədʒi/",
+        "uk": "/ɔːlˈtɜːrnət ˈɛnədʒi/"
       },
-      "meaning": "Meaning not found."
+      "meaning": "Energi alternatif",
+      "synonymMeanings": [
+        "Energi terbarukan",
+        "Energi hijau",
+        "Energi bersih"
+      ]
     },
     {
       "id": "a3565396-5f5f-43c6-834a-f98c99f49239",
