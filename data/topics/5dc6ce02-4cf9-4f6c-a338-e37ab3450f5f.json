@@ -2424,40 +2424,41 @@
         "Midsection stability",
         "core fitness"
       ],
-      "definition": "The strength that you have in the central part of your body, which helps you to keep your balance and gives you power when you move",
+      "definition": "The central or most important part of something, especially its most powerful or essential element.",
       "userGuesses": [],
-      "status": "hidden",
-      "meaning": "Kekuatan inti",
+      "status": "discovered",
+      "meaning": "Inti kekuatan",
       "phonetics": {
         "us": "/kɔr ˈstrɛŋθ/",
-        "uk": "/kɔː ˈstrɛŋθ/"
+        "uk": "/kɔr ˈstrɛŋθ/"
       },
       "examples": [
         {
           "type": "Simple",
-          "text": "Having core strength is essential for good posture.",
-          "translation": "Mempunyai kekuatan inti sangat penting untuk postur tubuh yang baik."
+          "text": "A strong core is essential for good posture and overall health.",
+          "translation": "Inti kekuatan yang kuat sangat penting bagi postur tubuh dan kesehatan secara keseluruhan."
         },
         {
           "type": "Complex",
-          "text": "Because she regularly practices yoga, she has developed the core strength that enables her to perform complex poses.",
-          "translation": "Karena dia secara teratur berlatih yoga, dia telah mengembangkan kekuatan inti yang memungkinkannya untuk melakukan pose yang kompleks."
+          "text": "While some people may have naturally strong core muscles, regular exercise can also help improve core strength.",
+          "translation": "Meskipun beberapa orang mungkin memiliki otot inti kekuatan alami yang kuat, latihan fisik rutin juga dapat membantu meningkatkan kekuatan inti."
         },
         {
           "type": "Compound",
-          "text": "Core strength is important, and regular exercise helps to improve it, so I try to work out every day.",
-          "translation": "Kekuatan inti sangat penting, dan olahraga teratur membantu meningkatkannya, jadi saya mencoba berolahraga setiap hari."
+          "text": "In addition to its physical benefits, core strength is also important for mental focus and concentration.",
+          "translation": "Selain manfaat fisiknya, kekuatan inti juga penting untuk konsentrasi mental dan fokus."
         },
         {
           "type": "Compound-Complex",
-          "text": "While having strong arms and legs is important, core strength is also crucial because it helps to stabilize the body, and regular exercise can improve it, which is why I try to work out every day.",
-          "translation": "Sementara memiliki lengan dan kaki yang kuat sangat penting, kekuatan inti juga sangat penting karena membantu menstabilkan tubuh, dan olahraga teratur dapat meningkatkannya, yang merupakan alasan mengapa saya mencoba berolahraga setiap hari."
+          "text": "If you want to improve your core strength, you should start with simple exercises like planks and crunches, and then gradually move on to more challenging ones.",
+          "translation": "Jika Anda ingin meningkatkan kekuatan inti, Anda harus memulai dengan latihan sederhana seperti plank dan crunch, dan kemudian secara bertahap beralih ke latihan yang lebih menantang."
         }
       ],
       "synonymMeanings": [
-        "Kekuatan otot perut",
-        "Kekuatan pusat tubuh",
-        "Keseimbangan tubuh"
+        "Inti kekuatan",
+        "Kekuatan otot",
+        "Kekuatan tubuh",
+        "Kekuatan fisik"
       ]
     },
     {
