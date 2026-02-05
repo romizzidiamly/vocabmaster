@@ -1,0 +1,557 @@
+{
+  "id": "4adfa56b-51fb-4d59-9b87-33d254fd4c48",
+  "name": "EDUCATION",
+  "items": [
+    {
+      "id": "8ec84807-6d94-43db-99ed-60f6f811607c",
+      "word": "Academic",
+      "synonyms": [
+        "Scholarly",
+        "educational",
+        "intellectual"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "7588bdec-5ab4-4d18-a3d9-fccbbf042282",
+      "word": "Curriculum",
+      "synonyms": [
+        "Syllabus",
+        "program",
+        "coursework"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "f8b31923-e6fb-4db1-855e-e3c8aba657a2",
+      "word": "Pedagogy",
+      "synonyms": [
+        "Teaching",
+        "instruction",
+        "educational methods"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "63060479-b9a9-46e2-a3ee-94de8334064f",
+      "word": "Syllabus",
+      "synonyms": [
+        "Course outline",
+        "curriculum"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "90d827dd-66c1-45d6-b474-02d456ad4500",
+      "word": "Tuition",
+      "synonyms": [
+        "Fees",
+        "education costs"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "f8b16311-6059-46e6-bb8d-1521cf729282",
+      "word": "Assessment",
+      "synonyms": [
+        "Evaluation",
+        "examination",
+        "appraisal"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "c1d90914-c876-436b-8305-7d1d11019fb3",
+      "word": "Discipline",
+      "synonyms": [
+        "Subject",
+        "field",
+        "control"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "3b7427c0-39be-40e5-aa20-069986d932fc",
+      "word": "Higher education",
+      "synonyms": [
+        "Tertiary education",
+        "university education"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "3fc0840f-4bae-491f-b0ca-66702df8916e",
+      "word": "Literacy",
+      "synonyms": [
+        "Education",
+        "learning",
+        "knowledge"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "f0f8a12a-36a2-43e4-9cee-69b0f7c2b477",
+      "word": "Scholarship",
+      "synonyms": [
+        "Grant",
+        "financial aid",
+        "fellowship"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "77d898f8-ebe9-4a2c-87c1-4ffde5cc2b62",
+      "word": "Lecture",
+      "synonyms": [
+        "Talk",
+        "discourse",
+        "seminar"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "0909d437-cfe8-48f3-97e1-b236cc5800f7",
+      "word": "Seminar",
+      "synonyms": [
+        "Workshop",
+        "discussion",
+        "tutorial"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "cfb5db91-65e2-4e9f-967e-d1875e35ac84",
+      "word": "Workshop",
+      "synonyms": [
+        "Training",
+        "class",
+        "course"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "c1e1f3ce-4144-48f9-a37c-67b7c3311edb",
+      "word": "Tutorial",
+      "synonyms": [
+        "Lesson",
+        "coaching",
+        "guidance"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "d6fbb623-f71b-4b6c-b08f-6b906743f517",
+      "word": "Thesis",
+      "synonyms": [
+        "Dissertation",
+        "research paper"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "eb901496-7bcd-4df5-8086-886838070999",
+      "word": "Dissertation",
+      "synonyms": [
+        "Thesis",
+        "research work"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "797da1a6-80d5-4681-9a86-95c41d79a331",
+      "word": "Faculty",
+      "synonyms": [
+        "Professors",
+        "lecturers",
+        "educators"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "fed0a1cb-4211-42d6-8b06-7cb4e6490cda",
+      "word": "Professor",
+      "synonyms": [
+        "Lecturer",
+        "scholar",
+        "academic"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "41d7be89-3548-4cfc-86e8-dc649a05380a",
+      "word": "Undergraduate",
+      "synonyms": [
+        "College student",
+        "scholar"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "8ce4b9ac-ba26-45db-b680-552baf814f14",
+      "word": "Postgraduate",
+      "synonyms": [
+        "Graduate student",
+        "master's student"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "cd8c335a-fe5d-4483-9632-6c4209236824",
+      "word": "Internship",
+      "synonyms": [
+        "Apprenticeship",
+        "training",
+        "placement"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "3c026100-a321-4e18-9f10-0ee6b255d83b",
+      "word": "Vocational",
+      "synonyms": [
+        "Occupational",
+        "technical",
+        "career-based"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "8ab770c5-7d26-43c1-a67e-ece7b58afc31",
+      "word": "Accreditation",
+      "synonyms": [
+        "Certification",
+        "authorization",
+        "approval"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "77a1d54b-2c47-4155-b80a-dd644537c917",
+      "word": "Plagiarism",
+      "synonyms": [
+        "Copyright infringement",
+        "intellectual theft"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "ec09f99c-53d3-4748-9dba-4546d3202c0a",
+      "word": "Comprehension",
+      "synonyms": [
+        "Understanding",
+        "perception",
+        "cognition"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "db84960d-b56f-446e-a22a-dba44bc05c9b",
+      "word": "Standardized test",
+      "synonyms": [
+        "Assessment",
+        "exam",
+        "evaluation"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "18971bdb-0c72-425f-b8e5-a854b706c630",
+      "word": "E-learning",
+      "synonyms": [
+        "Online education",
+        "virtual learning"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "1956133d-916a-49bb-9d50-83752aa36552",
+      "word": "Distance learning",
+      "synonyms": [
+        "Online learning",
+        "remote education"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "e89cf99c-a2cf-4485-bcf8-5b3d3d59157f",
+      "word": "MOOC",
+      "synonyms": [
+        "Online class",
+        "e-course",
+        "virtual learning"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "1a6f41bc-3995-4bcf-9ffc-a71e9f5d1032",
+      "word": "Extracurricular activities",
+      "synonyms": [
+        "Clubs",
+        "sports",
+        "enrichment activities"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "d9c7a74e-e379-43e0-a148-88d842553e9c",
+      "word": "Merit-based system",
+      "synonyms": [
+        "Performance-based",
+        "achievement-oriented"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "f635b43c-753b-4973-877d-59ebd9430721",
+      "word": "Student loan",
+      "synonyms": [
+        "Educational loan",
+        "financial aid"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "54ad465a-9299-4368-a256-f2aa867944c4",
+      "word": "Dropout rate",
+      "synonyms": [
+        "School leaving rate",
+        "attrition rate"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "da213291-61d9-47d4-b4f3-f6d3e239006a",
+      "word": "Teacher-student ratio",
+      "synonyms": [
+        "Class size",
+        "instructor-student ratio"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "fc7ed0dd-8d3a-4919-a0d4-3ffddfc6d005",
+      "word": "Special needs education",
+      "synonyms": [
+        "Inclusive education",
+        "adaptive learning"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "1502257f-80af-4cc6-83fb-0e55aba36eb4",
+      "word": "STEM education",
+      "synonyms": [
+        "Technical education",
+        "applied sciences"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "1690e335-9fc5-465c-abb8-3ea9d0ccb36e",
+      "word": "Lifelong learning",
+      "synonyms": [
+        "Continuous learning",
+        "self-education"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "6cafe259-3c34-4c41-a6c2-60064e59c034",
+      "word": "Critical thinking",
+      "synonyms": [
+        "Analytical thinking",
+        "reasoning"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "09e09711-2764-4f28-8ab9-63b6dc38f5c8",
+      "word": "Blended learning",
+      "synonyms": [
+        "Hybrid learning",
+        "mixed-mode learning"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "a797fe4e-d24c-4e15-aad2-215190928879",
+      "word": "Flipped classroom",
+      "synonyms": [
+        "Reverse learning",
+        "interactive learning"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "a6e4c08b-8c0e-42fb-b2d6-3e20bc2842a4",
+      "word": "Gamification",
+      "synonyms": [
+        "Game-based learning",
+        "interactive learning"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "a1305d85-b072-4744-b8d9-15948ddd371c",
+      "word": "Adaptive learning",
+      "synonyms": [
+        "Personalized learning",
+        "AI-driven education"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "e2213b8e-a05e-4198-a207-aad8b8cd4a1e",
+      "word": "Artificial intelligence in education",
+      "synonyms": [
+        "AI-powered learning",
+        "intelligent tutoring"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "9a003973-d363-449b-b747-4b44ff2b0437",
+      "word": "Virtual classroom",
+      "synonyms": [
+        "Online class",
+        "digital classroom"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "b465d6da-bf0e-447a-8ba4-e1008520a50d",
+      "word": "EdTech",
+      "synonyms": [
+        "Digital education",
+        "online learning tools"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "1f762f85-7a3a-45ee-973a-2f2bf1fd8199",
+      "word": "Microlearning",
+      "synonyms": [
+        "Bite-sized learning",
+        "short lessons"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "01e0f6c6-1b94-426f-a327-488e7c48ace9",
+      "word": "Self-paced learning",
+      "synonyms": [
+        "Independent learning",
+        "flexible learning"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "84b0411e-91a9-47ab-804b-9c48092c9385",
+      "word": "Cloud-based learning",
+      "synonyms": [
+        "Online learning",
+        "remote access"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "5d852a0e-904d-49ab-b557-a7161d6c6b49",
+      "word": "Collaborative learning",
+      "synonyms": [
+        "Group learning",
+        "teamwork-based education"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "85c78257-ee94-4199-8f92-c6f18391d5e8",
+      "word": "Mobile learning",
+      "synonyms": [
+        "m-learning",
+        "portable education"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "19f806c4-9c67-4e68-92fe-8b3772696fc4",
+      "word": "Interactive whiteboard",
+      "synonyms": [
+        "Smartboard",
+        "digital board"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "e78d2eae-e517-4a26-8584-dbde72cca008",
+      "word": "Augmented reality in education",
+      "synonyms": [
+        "Immersive learning",
+        "interactive education"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "c7003a74-ea76-49bd-b30b-21035f7ea5f8",
+      "word": "Virtual reality in education",
+      "synonyms": [
+        "Immersive learning",
+        "simulated education"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    }
+  ],
+  "createdAt": 1770322339940
+}
