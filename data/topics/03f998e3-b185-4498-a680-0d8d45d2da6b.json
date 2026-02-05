@@ -1,0 +1,410 @@
+{
+  "id": "03f998e3-b185-4498-a680-0d8d45d2da6b",
+  "name": "VOCABULARY LIST FOR IELTS  (1)",
+  "items": [
+    {
+      "id": "27b4914e-a353-4179-b3fd-ec5cce8311aa",
+      "word": "Verbal Communication",
+      "synonyms": [
+        "Oral communication",
+        "speech"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "1fd726bc-578c-49dd-9bb6-893236367429",
+      "word": "Nonverbal Communication",
+      "synonyms": [
+        "Body language",
+        "gestures"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "abf9caba-ef60-40ca-9ccd-378d06ccf936",
+      "word": "Written Communication",
+      "synonyms": [
+        "Documentation",
+        "correspondence"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "510e31c9-75f3-4f31-91ab-ffae19f3ecbf",
+      "word": "Interpersonal Communication",
+      "synonyms": [
+        "Personal interaction",
+        "social exchange"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "f30431b5-9e36-450b-8a32-8fb430c99787",
+      "word": "Mass Communication",
+      "synonyms": [
+        "Broadcasting",
+        "public communication"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "18c4aa21-5b27-4286-8ce2-0177cd8af47d",
+      "word": "Digital Communication",
+      "synonyms": [
+        "Online communication",
+        "virtual interaction"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "012c53c7-f1ab-4458-a554-b997b7357779",
+      "word": "Active Listening",
+      "synonyms": [
+        "Attentive listening",
+        "engaged listening"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "34dfef7d-ad18-40d7-9aa9-916961b0c2d2",
+      "word": "Public Speaking",
+      "synonyms": [
+        "Oration",
+        "presentation"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "15a1ec58-55fa-4c25-97ed-ce930ecea9ee",
+      "word": "Persuasion",
+      "synonyms": [
+        "Influence",
+        "convincing"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "22580ede-83f1-4f12-b4bf-6a8455bd665f",
+      "word": "Feedback",
+      "synonyms": [
+        "Response",
+        "critique"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "8f710c0d-81e0-4fb9-8e58-3ddc417e84b7",
+      "word": "Clarity",
+      "synonyms": [
+        "Lucidity",
+        "precision"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "7302b9fc-bce1-4266-a709-66d9fb970c7a",
+      "word": "Tone",
+      "synonyms": [
+        "Manner",
+        "inflection"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "7709f066-7c92-4674-b2dc-42278f72484e",
+      "word": "Conciseness",
+      "synonyms": [
+        "Brevity",
+        "succinctness"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "7908ed57-61e5-4621-b304-dca0c6fb6705",
+      "word": "Articulation",
+      "synonyms": [
+        "Eloquence",
+        "enunciation"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "21ad3e64-917a-46c4-979f-4204cfb25d4a",
+      "word": "Diplomacy",
+      "synonyms": [
+        "Tact",
+        "discretion"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "050e4830-b561-4c17-bd73-70c0cc1e5a37",
+      "word": "Empathy",
+      "synonyms": [
+        "Compassion",
+        "understanding"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "41d4cb3a-cb5c-43b0-a877-9e9e39f7bf4f",
+      "word": "Assertiveness",
+      "synonyms": [
+        "Confidence",
+        "self-assurance"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "ee338e3d-0ca8-4544-8e51-3f5118093290",
+      "word": "Jargon",
+      "synonyms": [
+        "Terminology",
+        "technical language"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "95cfa41f-2d57-4eaa-99aa-2692ebd6cc6e",
+      "word": "Rhetoric",
+      "synonyms": [
+        "Oratory",
+        "eloquence"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "78e9d4c1-90a6-4ccd-b030-889f2a6fc71d",
+      "word": "Miscommunication",
+      "synonyms": [
+        "Misinterpretation",
+        "confusion"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "d645b634-b834-4c22-9dd0-52d560e6ac22",
+      "word": "Body Language",
+      "synonyms": [
+        "Nonverbal communication",
+        "gestures"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "24455d51-655a-4137-9e09-f56661d727b5",
+      "word": "Eye Contact",
+      "synonyms": [
+        "Visual engagement",
+        "direct",
+        "gaze"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "319133e2-1b95-4b23-bcea-9553e3e841de",
+      "word": "Tone of Voice",
+      "synonyms": [
+        "Vocal expression",
+        "intonation"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "241d8eee-223d-40b4-b51d-1cec028e3067",
+      "word": "Inflection",
+      "synonyms": [
+        "Modulation",
+        "intonation"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "aa93d4dc-4ebf-443d-8aec-70b1769378e0",
+      "word": "Listening Comprehension",
+      "synonyms": [
+        "Auditory understanding",
+        "receptive skills"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "913b2eed-aca8-4a90-8cf7-216963adec08",
+      "word": "Negotiation",
+      "synonyms": [
+        "Bargaining",
+        "mediation"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "7dbdd605-9dd0-4b74-b4bc-49f187b44da6",
+      "word": "Conflict Resolution",
+      "synonyms": [
+        "Mediation",
+        "dispute resolution"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "54c727e3-5f06-42eb-bfbd-47b52dab6317",
+      "word": "Small Talk",
+      "synonyms": [
+        "Chit-chat",
+        "informal talk"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "bae92973-d0be-4bb6-942b-6d6752a9fbc2",
+      "word": "Social Cues",
+      "synonyms": [
+        "Context clues",
+        "behavioral",
+        "signals"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "ddda7e61-944c-4f41-a955-ab4027a0cb84",
+      "word": "Virtual Communication",
+      "synonyms": [
+        "Online communication",
+        "remote interaction"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "c8f74945-f12c-4bf1-8a7a-283a1a032e23",
+      "word": "Cross-cultural Communication",
+      "synonyms": [
+        "Intercultural",
+        "communication",
+        "global interaction"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "52b9d9aa-5c5b-4e0c-9f3d-e8ca20d53e33",
+      "word": "Speech Impediment",
+      "synonyms": [
+        "Speech disorder",
+        "articulation difficulty"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "3968cf77-16c2-4d7d-a2fb-5dd14bd0792c",
+      "word": "Intonation",
+      "synonyms": [
+        "Modulation",
+        "inflection"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "215610e8-23e3-4e6b-9dc0-632f942ad45b",
+      "word": "Code-switching",
+      "synonyms": [
+        "Language shifting",
+        "bilingual switching"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "a1b005c5-f6a8-4477-bfe9-d253db44b50b",
+      "word": "Eloquence",
+      "synonyms": [
+        "Articulateness",
+        "expressiveness"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "a5e7d31f-86ff-4344-ace8-f355e7087601",
+      "word": "Redundancy",
+      "synonyms": [
+        "Wordiness",
+        "verbosity"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "d73619ed-1f31-4a90-b07c-4590f6cf810f",
+      "word": "Ambiguity",
+      "synonyms": [
+        "Vagueness",
+        "uncertainty"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "657a4d1d-f526-47cf-9b3d-bdfc7d4de6c4",
+      "word": "Gossip",
+      "synonyms": [
+        "Rumors",
+        "hearsay"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "4fca91ec-ef6a-4baa-a311-24db4835da9e",
+      "word": "Censorship",
+      "synonyms": [
+        "Restriction",
+        "suppression"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "23b02da4-005f-4754-aa7f-de03ade9328d",
+      "word": "Silence",
+      "synonyms": [
+        "Quietness",
+        "muteness"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    }
+  ],
+  "createdAt": 1770322420549
+}
