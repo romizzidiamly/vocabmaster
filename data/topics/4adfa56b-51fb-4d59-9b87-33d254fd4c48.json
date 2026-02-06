@@ -11,7 +11,7 @@
         "intellectual"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "7588bdec-5ab4-4d18-a3d9-fccbbf042282",
@@ -22,7 +22,7 @@
         "coursework"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "f8b31923-e6fb-4db1-855e-e3c8aba657a2",
@@ -33,7 +33,7 @@
         "educational methods"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "63060479-b9a9-46e2-a3ee-94de8334064f",
@@ -43,7 +43,7 @@
         "curriculum"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "90d827dd-66c1-45d6-b474-02d456ad4500",
@@ -53,7 +53,7 @@
         "education costs"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "f8b16311-6059-46e6-bb8d-1521cf729282",
@@ -64,7 +64,7 @@
         "appraisal"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "c1d90914-c876-436b-8305-7d1d11019fb3",
@@ -75,7 +75,7 @@
         "control"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "3b7427c0-39be-40e5-aa20-069986d932fc",
@@ -85,7 +85,7 @@
         "university education"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "3fc0840f-4bae-491f-b0ca-66702df8916e",
@@ -96,7 +96,7 @@
         "knowledge"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "f0f8a12a-36a2-43e4-9cee-69b0f7c2b477",
@@ -107,7 +107,7 @@
         "fellowship"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "77d898f8-ebe9-4a2c-87c1-4ffde5cc2b62",
@@ -118,7 +118,7 @@
         "seminar"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "0909d437-cfe8-48f3-97e1-b236cc5800f7",
@@ -129,7 +129,7 @@
         "tutorial"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "cfb5db91-65e2-4e9f-967e-d1875e35ac84",
@@ -140,7 +140,7 @@
         "course"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "c1e1f3ce-4144-48f9-a37c-67b7c3311edb",
@@ -151,7 +151,7 @@
         "guidance"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "d6fbb623-f71b-4b6c-b08f-6b906743f517",
@@ -161,7 +161,7 @@
         "research paper"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "eb901496-7bcd-4df5-8086-886838070999",
@@ -171,7 +171,7 @@
         "research work"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "797da1a6-80d5-4681-9a86-95c41d79a331",
@@ -182,7 +182,7 @@
         "educators"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "fed0a1cb-4211-42d6-8b06-7cb4e6490cda",
@@ -193,7 +193,7 @@
         "academic"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "41d7be89-3548-4cfc-86e8-dc649a05380a",
@@ -203,7 +203,7 @@
         "scholar"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "8ce4b9ac-ba26-45db-b680-552baf814f14",
@@ -213,7 +213,7 @@
         "master's student"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "cd8c335a-fe5d-4483-9632-6c4209236824",
@@ -224,7 +224,7 @@
         "placement"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "3c026100-a321-4e18-9f10-0ee6b255d83b",
@@ -235,7 +235,7 @@
         "career-based"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "8ab770c5-7d26-43c1-a67e-ece7b58afc31",
@@ -246,7 +246,7 @@
         "approval"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "77a1d54b-2c47-4155-b80a-dd644537c917",
@@ -256,7 +256,7 @@
         "intellectual theft"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "ec09f99c-53d3-4748-9dba-4546d3202c0a",
@@ -267,7 +267,7 @@
         "cognition"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "db84960d-b56f-446e-a22a-dba44bc05c9b",
@@ -278,7 +278,7 @@
         "evaluation"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "18971bdb-0c72-425f-b8e5-a854b706c630",
@@ -288,7 +288,7 @@
         "virtual learning"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "1956133d-916a-49bb-9d50-83752aa36552",
@@ -298,7 +298,7 @@
         "remote education"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "e89cf99c-a2cf-4485-bcf8-5b3d3d59157f",
@@ -309,7 +309,7 @@
         "virtual learning"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "1a6f41bc-3995-4bcf-9ffc-a71e9f5d1032",
@@ -320,7 +320,7 @@
         "enrichment activities"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "d9c7a74e-e379-43e0-a148-88d842553e9c",
@@ -330,7 +330,7 @@
         "achievement-oriented"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "f635b43c-753b-4973-877d-59ebd9430721",
@@ -340,7 +340,7 @@
         "financial aid"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "54ad465a-9299-4368-a256-f2aa867944c4",
@@ -350,7 +350,7 @@
         "attrition rate"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "da213291-61d9-47d4-b4f3-f6d3e239006a",
@@ -360,7 +360,7 @@
         "instructor-student ratio"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "fc7ed0dd-8d3a-4919-a0d4-3ffddfc6d005",
@@ -370,7 +370,7 @@
         "adaptive learning"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "1502257f-80af-4cc6-83fb-0e55aba36eb4",
@@ -380,7 +380,7 @@
         "applied sciences"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "1690e335-9fc5-465c-abb8-3ea9d0ccb36e",
@@ -390,7 +390,7 @@
         "self-education"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "6cafe259-3c34-4c41-a6c2-60064e59c034",
@@ -400,7 +400,7 @@
         "reasoning"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "09e09711-2764-4f28-8ab9-63b6dc38f5c8",
@@ -410,7 +410,7 @@
         "mixed-mode learning"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "a797fe4e-d24c-4e15-aad2-215190928879",
@@ -420,7 +420,7 @@
         "interactive learning"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "a6e4c08b-8c0e-42fb-b2d6-3e20bc2842a4",
@@ -430,7 +430,7 @@
         "interactive learning"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "a1305d85-b072-4744-b8d9-15948ddd371c",
@@ -440,7 +440,7 @@
         "AI-driven education"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "e2213b8e-a05e-4198-a207-aad8b8cd4a1e",
@@ -450,7 +450,7 @@
         "intelligent tutoring"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "9a003973-d363-449b-b747-4b44ff2b0437",
@@ -460,7 +460,7 @@
         "digital classroom"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "b465d6da-bf0e-447a-8ba4-e1008520a50d",
@@ -470,7 +470,7 @@
         "online learning tools"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "1f762f85-7a3a-45ee-973a-2f2bf1fd8199",
@@ -480,7 +480,7 @@
         "short lessons"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "01e0f6c6-1b94-426f-a327-488e7c48ace9",
@@ -490,7 +490,7 @@
         "flexible learning"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "84b0411e-91a9-47ab-804b-9c48092c9385",
@@ -500,7 +500,7 @@
         "remote access"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "5d852a0e-904d-49ab-b557-a7161d6c6b49",
@@ -510,7 +510,7 @@
         "teamwork-based education"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "85c78257-ee94-4199-8f92-c6f18391d5e8",
@@ -520,7 +520,7 @@
         "portable education"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "19f806c4-9c67-4e68-92fe-8b3772696fc4",
@@ -530,7 +530,7 @@
         "digital board"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "e78d2eae-e517-4a26-8584-dbde72cca008",
