@@ -1177,7 +1177,7 @@
       ],
       "definition": "The process of collecting and processing materials that would otherwise be thrown away so that they can be used again.",
       "userGuesses": [],
-      "status": "hidden",
+      "status": "discovered",
       "examples": [
         {
           "type": "Simple",
