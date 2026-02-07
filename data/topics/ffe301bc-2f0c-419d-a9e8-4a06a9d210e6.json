@@ -481,7 +481,7 @@
       ],
       "definition": "The amount of carbon dioxide and other greenhouse gases that are emitted into the atmosphere as a result of human activities.",
       "userGuesses": [],
-      "status": "hidden",
+      "status": "discovered",
       "examples": [
         {
           "type": "Simple",
