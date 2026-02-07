@@ -2224,7 +2224,7 @@
       ],
       "definition": "A situation where there is not enough water to meet the needs of a place or its inhabitants.",
       "userGuesses": [],
-      "status": "hidden",
+      "status": "discovered",
       "examples": [
         {
           "type": "Simple",
