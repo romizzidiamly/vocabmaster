@@ -1572,7 +1572,7 @@
       ],
       "definition": "Energy produced from sources other than fossil fuels, such as the sun, wind, and water.",
       "userGuesses": [],
-      "status": "hidden",
+      "status": "discovered",
       "examples": [
         {
           "type": "Simple",
