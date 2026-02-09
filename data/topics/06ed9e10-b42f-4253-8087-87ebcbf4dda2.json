@@ -201,7 +201,40 @@
         "tenure"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "discovered",
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Job security is a major concern for many employees.",
+          "translation": "Keamanan pekerjaan adalah kekhawatiran utama bagi banyak karyawan."
+        },
+        {
+          "type": "Complex",
+          "text": "The company's decision to downsize has undermined job security for many employees.",
+          "translation": "Keputusan perusahaan untuk mengurangi jumlah karyawan telah menghancurkan keamanan pekerjaan bagi banyak karyawan."
+        },
+        {
+          "type": "Compound",
+          "text": "Job security, flexibility, and good working conditions are essential for employee satisfaction.",
+          "translation": "Keamanan pekerjaan, fleksibilitas, dan kondisi kerja yang baik adalah penting untuk kepuasan karyawan."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "If employers prioritize job security, they may need to consider alternative methods of staffing, such as temporary workers or contractors.",
+          "translation": "Jika pengusaha memberikan prioritas keamanan pekerjaan, mereka mungkin perlu mempertimbangkan metode stafing alternatif, seperti pekerja sementara atau kontraktor."
+        }
+      ],
+      "phonetics": {
+        "us": "/dʒɒb sɛkjʊrɪti/",
+        "uk": "/dʒɒb sɛkjuːəri/"
+      },
+      "meaning": "Keamanan pekerjaan",
+      "synonymMeanings": [
+        "Kerja tetap",
+        "Kondisi kerja yang stabil",
+        "Keadilan pekerja"
+      ],
+      "definition": "The state of having a secure and stable job, free from the threat of redundancy or dismissal."
     },
     {
       "id": "99aef081-7e0e-4dcf-b708-ebd77b8e797e",
