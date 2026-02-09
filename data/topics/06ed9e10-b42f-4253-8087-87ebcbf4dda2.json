@@ -384,7 +384,41 @@
       "userGuesses": [
         "career advancement"
       ],
-      "status": "discovered"
+      "status": "discovered",
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "The company's promotion of the new product was highly successful.",
+          "translation": "Perusahaan tersebut berhasil memasarkan produk baru mereka."
+        },
+        {
+          "type": "Complex",
+          "text": "The marketing team's promotion of the new product helped to increase sales significantly.",
+          "translation": "Tim pemasaran berhasil meningkatkan penjualan produk baru tersebut secara signifikan."
+        },
+        {
+          "type": "Compound",
+          "text": "The company's expansion into new markets was accompanied by a large-scale promotion of their products.",
+          "translation": "Perusahaan tersebut memasuki pasar-pasar baru bersamaan dengan kampanye promosi produk mereka yang besar."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "The company's decision to promote the new product was influenced by the success of their previous campaigns, and it was also driven by the need to increase revenue.",
+          "translation": "Keputusan perusahaan untuk memasarkan produk baru mereka dipengaruhi oleh kesuksesan kampanye sebelumnya, serta didorong oleh kebutuhan meningkatkan pendapatan."
+        }
+      ],
+      "phonetics": {
+        "us": "/prəˈmuʊʃən/",
+        "uk": "/prəˈmʊʃən/"
+      },
+      "meaning": "Pemasaran atau promosi",
+      "synonymMeanings": [
+        "Pemasaran",
+        "Promosi Komersial",
+        "Iklan",
+        "Pengenalan"
+      ],
+      "definition": "The action of making something known or widely available in order to increase its popularity, especially a product or an idea."
     },
     {
       "id": "235ef38d-ced4-4649-85ab-bc992163fa9d",
