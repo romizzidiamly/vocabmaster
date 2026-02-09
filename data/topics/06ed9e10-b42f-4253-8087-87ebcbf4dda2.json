@@ -60,36 +60,37 @@
       "examples": [
         {
           "type": "Simple",
-          "text": "She is a doctor and has been practicing medicine for over 10 years.",
-          "translation": "Dia seorang dokter dan telah berlatih kedokteran selama lebih dari 10 tahun."
+          "text": "In order to pursue my dream profession, I decided to pursue a degree in engineering.",
+          "translation": "Untuk mengejar impian saya di pekerjaan profesi, saya memutuskan untuk melanjutkan pendidikan saya ke bidang teknik."
         },
         {
           "type": "Complex",
-          "text": "As a result of her hard work, she was able to secure a high-paying job in her profession.",
-          "translation": "Akibat kerja kerasnya, ia berhasil mendapatkan pekerjaan dengan gaji tinggi di profesi yang dilakukannya."
+          "text": "As a result of my passion for music, I have chosen a profession that allows me to express my creativity.",
+          "translation": "Akibat cinta saya dengan musik, saya telah memilih pekerjaan yang memungkinkan saya untuk mengekspresikan kreativitas saya."
         },
         {
           "type": "Compound",
-          "text": "She is a successful businesswoman and a skilled engineer in her profession, but she decided to pursue a career in politics.",
-          "translation": "Dia seorang wanita bisnis sukses dan insinyur berpengalaman di profesi yang dilakukannya, tetapi ia memutuskan untuk mengejar karir di dunia politik."
+          "text": "To be a successful entrepreneur, one needs to have a good profession and a supportive family.",
+          "translation": "Untuk menjadi sukses sebagai wirausaha, seseorang perlu memiliki pekerjaan yang baik dan keluarga yang mendukung."
         },
         {
           "type": "Compound-Complex",
-          "text": "Although she was initially hesitant to join the profession, she eventually found great satisfaction in her work as a teacher, which allowed her to make a positive impact on her students' lives.",
-          "translation": "Meskipun awalnya ia ragu untuk bergabung dalam profesi, akhirnya ia menemukan kepuasan besar dalam kerja sebagai guru, yang memungkinkannya untuk berdampak positif pada kehidupan murid-muridnya."
+          "text": "In order to succeed in a competitive profession, it is essential to have a strong education and to be willing to continuously learn and improve.",
+          "translation": "Untuk sukses di pekerjaan yang sangat kompetitif, sangat penting untuk memiliki pendidikan yang kuat dan bersedia terus belajar dan meningkatkan kemampuan."
         }
       ],
       "phonetics": {
-        "us": "/ˈprəʊfɛʃən/",
-        "uk": "/ˈprɒfɪʃən/"
+        "us": "/prəˈfɛʃən/",
+        "uk": "/prəˈfɛʃ.ən/"
       },
-      "meaning": "Profesi",
+      "meaning": "Pekerjaan yang dilakukan secara terus menerus dan memerlukan keterampilan tertentu",
       "synonymMeanings": [
-        "Pekerjaan",
-        "Kerja",
-        "Karir"
+        "Pekerjaan yang dilakukan secara terus menerus",
+        "Pekerjaan yang memerlukan keterampilan tertentu",
+        "Pekerjaan yang sesuai dengan minat",
+        "Pekerjaan yang memungkinkan ekspresi kreativitas"
       ],
-      "definition": "A person's regular occupation or job, especially one that requires special education, training, or skill."
+      "definition": "A person's regular paid occupation, especially one that requires special training, qualifications, or skills."
     },
     {
       "id": "dbac60ec-ab9e-4b0c-a36a-6ae505016a18",
