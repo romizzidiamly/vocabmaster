@@ -430,7 +430,40 @@
       "userGuesses": [
         "downgrade"
       ],
-      "status": "discovered"
+      "status": "discovered",
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "The company's decision to demote the manager was met with widespread criticism.",
+          "translation": "Perusahaan itu memutuskan untuk menurunkan pangkat manajer dan menerima kritik dari masyarakat."
+        },
+        {
+          "type": "Complex",
+          "text": "Despite his protests, the employee was demoted to a lower position after being accused of misconduct.",
+          "translation": "Meskipun ia berkeras menolak, karyawan itu akhirnya diturunkan ke posisi yang lebih rendah setelah dituduh melakukan pelanggaran."
+        },
+        {
+          "type": "Compound",
+          "text": "The employee was both demoted and given a warning for his poor performance.",
+          "translation": "Karyawan itu diturunkan pangkat dan diingatkan tentang perilakunya yang kurang baik."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "The company's decision to demote the manager was met with widespread criticism, and it was also accused of being unfair and biased.",
+          "translation": "Perusahaan itu memutuskan untuk menurunkan pangkat manajer dan menerima kritik dari masyarakat, dan juga dituduh tidak adil dan diskriminatif."
+        }
+      ],
+      "phonetics": {
+        "us": "/dɪˈmoʊʃən/",
+        "uk": "/dɪˈmoʊʃən/"
+      },
+      "meaning": "Kenaikan pangkat ke tingkat yang lebih rendah",
+      "synonymMeanings": [
+        "Kenaikan pangkat ke tingkat yang lebih rendah",
+        "Diturunkan pangkat",
+        "Ditunjuk ke posisi yang lebih rendah"
+      ],
+      "definition": "The act of reducing someone's status or position in a job or organization, often as a punishment."
     },
     {
       "id": "56ae42ab-e4f4-4112-9f35-cc4e8462209c",
