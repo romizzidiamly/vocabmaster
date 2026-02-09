@@ -10,9 +10,10 @@
         "career"
       ],
       "userGuesses": [
-        "profession"
+        "profession",
+        "career"
       ],
-      "status": "discovered"
+      "status": "mastered"
     },
     {
       "id": "4a9737ea-c413-46f0-b6bb-cdf8733db44e",
