@@ -193,7 +193,41 @@
         "employees"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "discovered",
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "The increasing workforce in emerging countries threatens the global economy.",
+          "translation": "Peningkatan angkatan kerja di negara-negara berkembang mengancam ekonomi dunia."
+        },
+        {
+          "type": "Complex",
+          "text": "Although the workforce in our industry has grown significantly, we still face a shortage of skilled workers.",
+          "translation": "Meskipun angkatan kerja di industri kami telah meningkat secara signifikan, kami masih menghadapi kekurangan tenaga kerja terlatih."
+        },
+        {
+          "type": "Compound",
+          "text": "The growing workforce and technological advancements have transformed the job market.",
+          "translation": "Peningkatan angkatan kerja dan kemajuan teknologi telah mengubah pasar kerja."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "The increasing workforce and lack of proper training have led to a significant decrease in productivity, which in turn affects the economy as a whole.",
+          "translation": "Peningkatan angkatan kerja dan kekurangan pelatihan yang tepat telah menyebabkan penurunan drastis dalam produktivitas, yang pada akhirnya mempengaruhi ekonomi secara keseluruhan."
+        }
+      ],
+      "phonetics": {
+        "us": "/ˈwɜːr.fɔːrs/",
+        "uk": "/ˈwɜːr.fɔːrs/"
+      },
+      "meaning": "Kerja paksa atau karyawan",
+      "synonymMeanings": [
+        "karyawan",
+        "tenaga kerja",
+        "angkatan kerja",
+        "bekerja"
+      ],
+      "definition": "The people employed in a particular industry or country."
     },
     {
       "id": "c6ca1cdb-e1d7-44c8-b002-3ffd3ab60292",
