@@ -147,7 +147,41 @@
         "joblessness",
         "redundancy"
       ],
-      "status": "mastered"
+      "status": "mastered",
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Unemployment rates have been rising in many countries.",
+          "translation": "Keterampilan tidak bekerja telah meningkat di banyak negara."
+        },
+        {
+          "type": "Complex",
+          "text": "The government has implemented various policies to reduce unemployment among young people.",
+          "translation": "Pemerintah telah menerapkan berbagai kebijakan untuk mengurangi keterampilan tidak bekerja di kalangan masyarakat muda."
+        },
+        {
+          "type": "Compound",
+          "text": "Unemployment and poverty are two major problems facing many societies today.",
+          "translation": "Keterampilan tidak bekerja dan kemiskinan adalah dua masalah besar yang dihadapi banyak masyarakat pada saat ini."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "The increasing rate of unemployment has led to a significant increase in crime rates, as many people are desperate for work.",
+          "translation": "Keterampilan tidak bekerja yang meningkat telah menyebabkan peningkatan signifikan dalam tingkat kejahatan, karena banyak orang yang sangat membutuhkan pekerjaan."
+        }
+      ],
+      "phonetics": {
+        "us": "/ˌʌnɛmˈplɔɪmənt/",
+        "uk": "/ˌʌnɛmˈplɔɪmənt/"
+      },
+      "meaning": "Keterampilan tidak bekerja atau tidak memiliki pekerjaan",
+      "synonymMeanings": [
+        "keterampilan kosong",
+        "tidak memiliki pekerjaan",
+        "tidak bekerja",
+        "miskin tenaga kerja"
+      ],
+      "definition": "The state of being without a job, especially when someone is actively looking for work."
     },
     {
       "id": "c382ece1-98b4-43da-ba7c-47134539b262",
