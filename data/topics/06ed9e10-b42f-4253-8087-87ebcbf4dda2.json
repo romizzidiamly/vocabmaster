@@ -78,9 +78,10 @@
         "redundancy"
       ],
       "userGuesses": [
-        "joblessness"
+        "joblessness",
+        "redundancy"
       ],
-      "status": "discovered"
+      "status": "mastered"
     },
     {
       "id": "c382ece1-98b4-43da-ba7c-47134539b262",
