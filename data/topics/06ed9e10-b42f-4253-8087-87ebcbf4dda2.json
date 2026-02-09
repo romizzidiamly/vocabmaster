@@ -1,0 +1,658 @@
+{
+  "id": "06ed9e10-b42f-4253-8087-87ebcbf4dda2",
+  "name": "WORK",
+  "items": [
+    {
+      "id": "cb3c3938-090b-4ded-b7f0-ffd0899035b3",
+      "word": "Occupation",
+      "synonyms": [
+        "Profession",
+        "career"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "4a9737ea-c413-46f0-b6bb-cdf8733db44e",
+      "word": "Profession",
+      "synonyms": [
+        "Career",
+        "vocation"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "dbac60ec-ab9e-4b0c-a36a-6ae505016a18",
+      "word": "Employment",
+      "synonyms": [
+        "Work",
+        "occupation"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "2a5c2125-6ce3-4433-9558-1beb0c737460",
+      "word": "Unemployment",
+      "synonyms": [
+        "Joblessness",
+        "redundancy"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "c382ece1-98b4-43da-ba7c-47134539b262",
+      "word": "Workforce",
+      "synonyms": [
+        "Labor force",
+        "employees"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "c6ca1cdb-e1d7-44c8-b002-3ffd3ab60292",
+      "word": "Job security",
+      "synonyms": [
+        "Employment stability",
+        "tenure"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "99aef081-7e0e-4dcf-b708-ebd77b8e797e",
+      "word": "Freelancer",
+      "synonyms": [
+        "Self-employed worker",
+        "contractor"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "aadefb54-2f33-4d1f-88ca-0f8c96ead0ca",
+      "word": "Entrepreneur",
+      "synonyms": [
+        "Business owner",
+        "innovator"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "373b7108-968e-43aa-8a55-ea74bbcc4843",
+      "word": "Internship",
+      "synonyms": [
+        "Work placement",
+        "training",
+        "program"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "3ef16041-64aa-408e-9a10-a27ce644fa24",
+      "word": "Promotion",
+      "synonyms": [
+        "Career advancement",
+        "elevation"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "235ef38d-ced4-4649-85ab-bc992163fa9d",
+      "word": "Demotion",
+      "synonyms": [
+        "Downgrade",
+        "dismissal"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "56ae42ab-e4f4-4112-9f35-cc4e8462209c",
+      "word": "Salary",
+      "synonyms": [
+        "Wages",
+        "income"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "3b317220-45c8-4df9-a652-c5746b0a1989",
+      "word": "Wages",
+      "synonyms": [
+        "Pay",
+        "earnings"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "81add737-4bd3-407e-a421-c85e75f61131",
+      "word": "Income",
+      "synonyms": [
+        "Earnings",
+        "revenue"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "d819e46a-9b63-4bcb-9b3b-e2afaa107321",
+      "word": "Overtime",
+      "synonyms": [
+        "Extra work",
+        "additional",
+        "shift"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "d304299e-74c0-4e98-af83-48a47638c2c2",
+      "word": "Bonus",
+      "synonyms": [
+        "Incentive",
+        "reward"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "b82284ae-f78d-4c1a-b724-88778d1ed25d",
+      "word": "Pension",
+      "synonyms": [
+        "Retirement fund",
+        "savings"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "7df0d4c8-7525-4989-9279-9e03ec02b0c0",
+      "word": "Work-life balance",
+      "synonyms": [
+        "Lifestyle management",
+        "equilibrium"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "0fcd4d43-e7e1-4dff-8658-88d079ec0767",
+      "word": "Job satisfaction",
+      "synonyms": [
+        "Work fulfillment",
+        "career",
+        "happiness"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "cda9adbc-c82e-4143-851e-5181126711b0",
+      "word": "Productivity",
+      "synonyms": [
+        "Efficiency",
+        "output"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "8529a15d-65c8-47c8-a63e-356a9897d4d3",
+      "word": "Efficiency",
+      "synonyms": [
+        "Effectiveness",
+        "proficiency"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "37c6bf64-61ce-4d44-aebb-f1915cebf5d8",
+      "word": "Redundancy",
+      "synonyms": [
+        "Layoff",
+        "dismissal"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "70d0ad4b-6011-4004-a1a2-70dc60f00004",
+      "word": "Resignation",
+      "synonyms": [
+        "Departure",
+        "quitting"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "35e717bf-e10f-423d-925b-0a76aa6ac0e0",
+      "word": "Termination",
+      "synonyms": [
+        "Dismissal",
+        "firing"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "692be3c1-793d-4cab-b41b-798f1a606177",
+      "word": "Recruitment",
+      "synonyms": [
+        "Hiring",
+        "employment"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "4dc82627-0326-4e2e-b057-212da13b5f8f",
+      "word": "Headhunting",
+      "synonyms": [
+        "Executive search",
+        "talent",
+        "scouting"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "857c1d93-c35b-445a-ab76-be3bf1243b2c",
+      "word": "Workplace discrimination",
+      "synonyms": [
+        "Bias",
+        "prejudice"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "1f5a5392-fd32-4e34-8875-51bc806ccf5c",
+      "word": "Trade union",
+      "synonyms": [
+        "Labor union",
+        "workers’",
+        "association"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "c667d785-2b04-4b43-a4e7-7c42d80ce4ff",
+      "word": "Corporate ladder",
+      "synonyms": [
+        "Career hierarchy",
+        "professional growth"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "eda4cb21-1a07-4cb7-9342-30eb56530495",
+      "word": "Glass ceiling",
+      "synonyms": [
+        "Career barrier",
+        "professional limitation"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "eb1aac8b-645f-430c-803a-1b79f93444cb",
+      "word": "Micromanagement",
+      "synonyms": [
+        "Overcontrol",
+        "close",
+        "monitoring"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "10fe9f2a-b5d0-4f8f-b77b-71b7062e1b7d",
+      "word": "Networking",
+      "synonyms": [
+        "Professional connections",
+        "business contacts"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "35e427aa-8fe8-4ef9-bd14-941b15bc8ae0",
+      "word": "Job burnout",
+      "synonyms": [
+        "Work fatigue",
+        "exhaustion"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "63cd00cb-f220-4b23-bf41-6f4369ad36ec",
+      "word": "Telecommuting",
+      "synonyms": [
+        "Remote work",
+        "working",
+        "from home"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "c072c870-7f4c-4356-b7a6-66e95f867ad9",
+      "word": "Freelancing",
+      "synonyms": [
+        "Self-employment",
+        "contract",
+        "work"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "75ea257b-5072-41c7-8f6d-b44dcd8c06a6",
+      "word": "Career progression",
+      "synonyms": [
+        "Professional growth",
+        "promotion"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "e8dd0ae0-5ca4-4e07-8c1b-b4a638a35684",
+      "word": "Apprenticeship",
+      "synonyms": [
+        "Internship",
+        "traineeship"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "032a792e-118a-487d-9bd3-635556c2a3a4",
+      "word": "Attrition",
+      "synonyms": [
+        "Employee turnover",
+        "downsizing"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "4d745bad-1881-44c8-b31d-26f67022df98",
+      "word": "Automation",
+      "synonyms": [
+        "Mechanization",
+        "robotics"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "3d12f930-5853-4f2c-8232-b2a379544590",
+      "word": "Blue-collar",
+      "synonyms": [
+        "Labor-intensive",
+        "hands-on"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "d35c0f52-5e17-4961-91ed-51955af7090d",
+      "word": "White-collar",
+      "synonyms": [
+        "Corporate",
+        "managerial"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "0a850f87-1f4e-47c4-8470-e1b42fa8cec0",
+      "word": "Brain drain",
+      "synonyms": [
+        "Talent exodus",
+        "workforce",
+        "migration"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "9eaaf15e-f6a5-49bf-bcef-2155cd69f00a",
+      "word": "Career ladder",
+      "synonyms": [
+        "Career path",
+        "professional",
+        "growth"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "74a8cbba-7039-4b4a-9ecd-305819b28555",
+      "word": "Commission",
+      "synonyms": [
+        "Incentive",
+        "percentage"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "55ad72f7-ce80-4567-af18-c092112803b3",
+      "word": "Competency",
+      "synonyms": [
+        "Skill",
+        "expertise"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "84bda0b8-8cbf-46ab-b768-402a758f7ccf",
+      "word": "Conglomerate",
+      "synonyms": [
+        "Corporation",
+        "multinational"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "4bf41a76-9853-4089-b23b-97b5f79b2d2b",
+      "word": "Dead-end job",
+      "synonyms": [
+        "Stagnant position",
+        "unpromising career"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "e81acc70-0546-4a4a-b148-057533ec6029",
+      "word": "Deductions",
+      "synonyms": [
+        "Withholdings",
+        "reductions"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "08f16e90-8b1c-40b2-9f22-9b5db546b79f",
+      "word": "Downsizing",
+      "synonyms": [
+        "Layoff",
+        "retrenchment"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "bca2b0c9-4144-45e9-b17d-ab2923304cf5",
+      "word": "Entrepreneurship",
+      "synonyms": [
+        "Business ownership",
+        "self-employment"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "870e1692-3467-405d-861b-479d10557284",
+      "word": "Fringe benefits",
+      "synonyms": [
+        "Perks",
+        "employee benefits"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "a2d9142e-fd24-4be1-9893-1fd2d17eac53",
+      "word": "Glassdoor review",
+      "synonyms": [
+        "Employee feedback",
+        "company rating"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "61bd7d97-bb95-43f3-b9bf-75be3f67d78d",
+      "word": "Hierarchy",
+      "synonyms": [
+        "Chain of command",
+        "ranking"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "1effc1d3-5359-4305-8e9b-8f6b4d0b4a99",
+      "word": "Job mobility",
+      "synonyms": [
+        "Career flexibility",
+        "advancement"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "091283e5-d901-4577-a78f-afef8d6610e5",
+      "word": "Layoff",
+      "synonyms": [
+        "Redundancy",
+        "dismissal"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "4dac9b31-36b3-4689-bafa-3c6dc64e911a",
+      "word": "Mentorship",
+      "synonyms": [
+        "Coaching",
+        "guidance"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "9b78a352-e352-4695-bc7d-6423397f712f",
+      "word": "Moonlighting",
+      "synonyms": [
+        "Side job",
+        "extra work"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "f84c8cd2-e99e-4018-8ed2-5f3791080ea9",
+      "word": "Outsourcing",
+      "synonyms": [
+        "Subcontracting",
+        "external hiring"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "517d0342-dab1-46ba-b403-3b65319fb565",
+      "word": "Probation period",
+      "synonyms": [
+        "Trial period",
+        "assessment",
+        "phase"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "c3cce863-b9c3-412c-91f1-ee717a6c94ce",
+      "word": "Reskilling",
+      "synonyms": [
+        "Retraining",
+        "upskilling"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "acf7402a-c04c-4024-9430-0cb10a28e001",
+      "word": "Severance package",
+      "synonyms": [
+        "Redundancy pay",
+        "compensation"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "5fc93f15-d2fb-4b7b-b724-bab756427c57",
+      "word": "Succession planning",
+      "synonyms": [
+        "Leadership development",
+        "career planning"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "41c01aef-59f0-47ac-b1b3-6134db0f57e0",
+      "word": "Unionization",
+      "synonyms": [
+        "Collective bargaining",
+        "labor organization"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "9798595e-f380-4a3a-ab79-053550051bf6",
+      "word": "Workplace morale",
+      "synonyms": [
+        "Job satisfaction",
+        "employee motivation"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    }
+  ],
+  "createdAt": 1770602925726
+}
