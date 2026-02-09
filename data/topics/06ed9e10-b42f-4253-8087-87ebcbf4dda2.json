@@ -247,7 +247,41 @@
         "self-employed worker",
         "contractor"
       ],
-      "status": "mastered"
+      "status": "mastered",
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Many students choose to work as freelancers during their university years.",
+          "translation": "Banyak mahasiswa memilih bekerja sebagai freelancer selama tahun-tahun mereka di universitas."
+        },
+        {
+          "type": "Complex",
+          "text": "As a freelancer, she has the flexibility to choose her own projects and work schedule.",
+          "translation": "Sebagai freelancer, ia memiliki fleksibilitas untuk memilih proyek dan jadwal kerja sendiri."
+        },
+        {
+          "type": "Compound",
+          "text": "Freelancers often face challenges in managing their time and finances effectively.",
+          "translation": "Freelancer sering menghadapi tantangan dalam mengelola waktu dan keuangan mereka secara efektif."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "However, many freelancers enjoy the freedom and autonomy that comes with working independently, which allows them to be more creative and innovative in their work.",
+          "translation": "Namun, banyak freelancer menyukai kebebasan dan otonomi yang datang dengan bekerja secara mandiri, yang memungkinkan mereka untuk lebih kreatif dan inovatif dalam pekerjaan mereka."
+        }
+      ],
+      "phonetics": {
+        "us": "/ˈfriːˌleɪnˌsɔːr/",
+        "uk": "/ˈfriːlˌeɪnzər/"
+      },
+      "meaning": "Seorang freelancer adalah orang yang menawarkan kemampuan dan jasa mereka kepada klien berdasarkan proyek, sering bekerja secara mandiri.",
+      "synonymMeanings": [
+        "penyedia jasa independen",
+        "pekerja lepas",
+        "penyedia jasa bebas",
+        "penyedia jasa proyek"
+      ],
+      "definition": "A person who offers their skills and services to clients on a project basis, often working independently."
     },
     {
       "id": "aadefb54-2f33-4d1f-88ca-0f8c96ead0ca",
