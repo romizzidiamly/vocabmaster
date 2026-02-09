@@ -60,35 +60,36 @@
       "examples": [
         {
           "type": "Simple",
-          "text": "I want to pursue a profession in medicine.",
-          "translation": "Saya ingin mengejar pekerjaan di bidang kedokteran."
+          "text": "She is a doctor and has been practicing medicine for over 10 years.",
+          "translation": "Dia seorang dokter dan telah berlatih kedokteran selama lebih dari 10 tahun."
         },
         {
           "type": "Complex",
-          "text": "Choosing the right profession is a crucial decision that can affect one's future career.",
-          "translation": "Memilih pekerjaan yang tepat adalah keputusan yang sangat penting yang dapat mempengaruhi masa depan karier seseorang."
+          "text": "As a result of her hard work, she was able to secure a high-paying job in her profession.",
+          "translation": "Akibat kerja kerasnya, ia berhasil mendapatkan pekerjaan dengan gaji tinggi di profesi yang dilakukannya."
         },
         {
           "type": "Compound",
-          "text": "Becoming a successful business owner requires a lot of hard work and experience in a particular profession.",
-          "translation": "Berubah menjadi seorang pengusaha sukses memerlukan banyak kerja keras dan pengalaman di bidang pekerjaan tertentu."
+          "text": "She is a successful businesswoman and a skilled engineer in her profession, but she decided to pursue a career in politics.",
+          "translation": "Dia seorang wanita bisnis sukses dan insinyur berpengalaman di profesi yang dilakukannya, tetapi ia memutuskan untuk mengejar karir di dunia politik."
         },
         {
           "type": "Compound-Complex",
-          "text": "While pursuing a profession in engineering, it's essential to stay updated with the latest technological advancements.",
-          "translation": "Sementara mengejar pekerjaan di bidang teknik, sangat penting untuk tetap terupdate dengan kemajuan teknologi terbaru."
+          "text": "Although she was initially hesitant to join the profession, she eventually found great satisfaction in her work as a teacher, which allowed her to make a positive impact on her students' lives.",
+          "translation": "Meskipun awalnya ia ragu untuk bergabung dalam profesi, akhirnya ia menemukan kepuasan besar dalam kerja sebagai guru, yang memungkinkannya untuk berdampak positif pada kehidupan murid-muridnya."
         }
       ],
       "phonetics": {
-        "us": "/ˈpro.foʊ.ʃən/",
-        "uk": "/ˈprɒ.fəʊ.ʃən/"
+        "us": "/ˈprəʊfɛʃən/",
+        "uk": "/ˈprɒfɪʃən/"
       },
-      "meaning": "Pekerjaan atau kegiatan yang seseorang dilatih untuk melakukan, terutama yang memerlukan banyak keahlian atau pendidikan.",
+      "meaning": "Profesi",
       "synonymMeanings": [
-        "profesi",
-        "karier"
+        "Pekerjaan",
+        "Kerja",
+        "Karir"
       ],
-      "definition": "A job or activity that someone is trained to do, especially one that requires a lot of skill or education."
+      "definition": "A person's regular occupation or job, especially one that requires special education, training, or skill."
     },
     {
       "id": "dbac60ec-ab9e-4b0c-a36a-6ae505016a18",
