@@ -100,7 +100,41 @@
       "userGuesses": [
         "occupation"
       ],
-      "status": "discovered"
+      "status": "discovered",
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "In many countries, finding employment is a major challenge for young people.",
+          "translation": "Di banyak negara, mencari pekerjaan adalah tantangan besar bagi generasi muda."
+        },
+        {
+          "type": "Complex",
+          "text": "While many people believe that employment is the key to a happy and fulfilling life, others argue that it can be a source of stress and anxiety.",
+          "translation": "Meskipun banyak orang percaya bahwa pekerjaan adalah kunci untuk kehidupan bahagia dan penuh makna, beberapa orang lain berpendapat bahwa pekerjaan dapat menjadi sumber stres dan kecemasan."
+        },
+        {
+          "type": "Compound",
+          "text": "Employment agencies often help job seekers find suitable employment opportunities, and career counseling services provide guidance on how to navigate the job market.",
+          "translation": "Biro pekerjaan sering membantu pencari kerja menemukan kesempatan pekerjaan yang sesuai, dan jasa konseling karir memberikan panduan tentang bagaimana menavigasi pasar kerja."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "In addition to providing employment opportunities, many companies also offer training and development programs to help employees improve their skills and advance their careers, which can lead to increased job satisfaction and reduced turnover rates.",
+          "translation": "Selain memberikan kesempatan pekerjaan, banyak perusahaan juga menawarkan program pelatihan dan pengembangan untuk membantu karyawan meningkatkan kemampuan dan maju karirnya, yang dapat menyebabkan peningkatan kepuasan kerja dan pengurangan tingkat pergantian pekerja."
+        }
+      ],
+      "phonetics": {
+        "us": "/ɛmˈploʊmənt/",
+        "uk": "/ɛmˈploʊmənt/"
+      },
+      "meaning": "Pekerjaan atau kegiatan menggaji seseorang untuk melakukan tugas tertentu",
+      "synonymMeanings": [
+        "Pekerjaan",
+        "Gaji",
+        "Pengangkatan",
+        "Menggaji"
+      ],
+      "definition": "The act of engaging or hiring someone to do a job, or the state of being employed."
     },
     {
       "id": "2a5c2125-6ce3-4433-9558-1beb0c737460",
