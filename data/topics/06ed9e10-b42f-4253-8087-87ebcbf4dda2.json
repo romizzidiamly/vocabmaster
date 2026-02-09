@@ -13,7 +13,40 @@
         "profession",
         "career"
       ],
-      "status": "mastered"
+      "status": "mastered",
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "The occupation of a doctor requires a lot of dedication and hard work.",
+          "translation": "Pekerjaan seorang dokter memerlukan dedikasi dan kerja keras yang besar."
+        },
+        {
+          "type": "Complex",
+          "text": "While many people consider a career in medicine to be a noble occupation, it is also extremely challenging.",
+          "translation": "Meskipun banyak orang memandang karir di bidang kedokteran sebagai pekerjaan mulia, namun juga sangat menantang."
+        },
+        {
+          "type": "Compound",
+          "text": "Being a teacher is not only a rewarding occupation, but it also allows individuals to make a positive impact on society.",
+          "translation": "Menjadi guru bukan hanya pekerjaan yang menguntungkan, tetapi juga memungkinkan individu untuk memiliki pengaruh positif pada masyarakat."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "The rising cost of living has forced many individuals to change their occupation in order to find more stable employment, which can be both a positive and negative experience.",
+          "translation": "Kenaikan biaya hidup telah memaksa banyak individu untuk mengubah pekerjaan mereka agar dapat menemukan pekerjaan yang lebih stabil, yang bisa menjadi pengalaman positif dan negatif sekaligus."
+        }
+      ],
+      "phonetics": {
+        "us": "/ɒkjuːˈpeɪʃən/",
+        "uk": "/ɒkjʊˈpeɪʃən/"
+      },
+      "meaning": "Pekerjaan utama",
+      "synonymMeanings": [
+        "profesi",
+        "pekerjaan utama",
+        "bidang kerja"
+      ],
+      "definition": "The job or profession that someone does, especially the one that they do for most of their adult life."
     },
     {
       "id": "4a9737ea-c413-46f0-b6bb-cdf8733db44e",
