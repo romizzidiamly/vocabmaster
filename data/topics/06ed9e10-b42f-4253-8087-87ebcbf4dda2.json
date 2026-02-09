@@ -56,7 +56,39 @@
         "vocation"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "discovered",
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "I want to pursue a profession in medicine.",
+          "translation": "Saya ingin mengejar pekerjaan di bidang kedokteran."
+        },
+        {
+          "type": "Complex",
+          "text": "Choosing the right profession is a crucial decision that can affect one's future career.",
+          "translation": "Memilih pekerjaan yang tepat adalah keputusan yang sangat penting yang dapat mempengaruhi masa depan karier seseorang."
+        },
+        {
+          "type": "Compound",
+          "text": "Becoming a successful business owner requires a lot of hard work and experience in a particular profession.",
+          "translation": "Berubah menjadi seorang pengusaha sukses memerlukan banyak kerja keras dan pengalaman di bidang pekerjaan tertentu."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "While pursuing a profession in engineering, it's essential to stay updated with the latest technological advancements.",
+          "translation": "Sementara mengejar pekerjaan di bidang teknik, sangat penting untuk tetap terupdate dengan kemajuan teknologi terbaru."
+        }
+      ],
+      "phonetics": {
+        "us": "/ˈpro.foʊ.ʃən/",
+        "uk": "/ˈprɒ.fəʊ.ʃən/"
+      },
+      "meaning": "Pekerjaan atau kegiatan yang seseorang dilatih untuk melakukan, terutama yang memerlukan banyak keahlian atau pendidikan.",
+      "synonymMeanings": [
+        "profesi",
+        "karier"
+      ],
+      "definition": "A job or activity that someone is trained to do, especially one that requires a lot of skill or education."
     },
     {
       "id": "dbac60ec-ab9e-4b0c-a36a-6ae505016a18",
