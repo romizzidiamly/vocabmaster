@@ -476,7 +476,40 @@
         "WAGES",
         "INCOME"
       ],
-      "status": "mastered"
+      "status": "mastered",
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "The salary of university professors is generally higher than that of high school teachers.",
+          "translation": "Gaji profesor universitas biasanya lebih tinggi daripada gaji guru SMA."
+        },
+        {
+          "type": "Complex",
+          "text": "Although the company claims to pay its employees a fair salary, many staff members are dissatisfied with their current compensation.",
+          "translation": "Meskipun perusahaan mengaku membayar karyawan dengan gaji yang adil, banyak staf merasa tidak puas dengan kompensasi mereka saat ini."
+        },
+        {
+          "type": "Compound",
+          "text": "The government has increased the minimum salary for public servants, but it still falls short of the standard living wage.",
+          "translation": "Pemerintah telah meningkatkan gaji minimum untuk pejabat publik, tetapi masih belum mencapai standar gaji hidup yang layak."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "On the one hand, a higher salary can motivate employees to work harder and be more productive, but on the other hand, it can also lead to higher expectations and increased pressure.",
+          "translation": "Dari satu sisi, gaji yang lebih tinggi dapat memotivasi karyawan untuk bekerja lebih keras dan lebih produktif, tetapi dari sisi lain, hal ini juga dapat menyebabkan harapan yang lebih tinggi dan tekanan yang lebih besar."
+        }
+      ],
+      "phonetics": {
+        "us": "/ˈsæləri/",
+        "uk": "/ˈsæləri/"
+      },
+      "meaning": "Gaji bulanan",
+      "synonymMeanings": [
+        "upah",
+        "penghasilan",
+        "hak gaji"
+      ],
+      "definition": "The amount of money that an employee is paid regularly, usually monthly or weekly, for their work."
     },
     {
       "id": "3b317220-45c8-4df9-a652-c5746b0a1989",
