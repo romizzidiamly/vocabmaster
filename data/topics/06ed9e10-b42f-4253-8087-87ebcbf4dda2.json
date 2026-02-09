@@ -136,7 +136,9 @@
         "training",
         "program"
       ],
-      "userGuesses": [],
+      "userGuesses": [
+        "work placement"
+      ],
       "status": "discovered"
     },
     {
