@@ -60,37 +60,37 @@
       "examples": [
         {
           "type": "Simple",
-          "text": "In order to pursue my dream profession, I decided to pursue a degree in engineering.",
-          "translation": "Untuk mengejar impian saya di pekerjaan profesi, saya memutuskan untuk melanjutkan pendidikan saya ke bidang teknik."
+          "text": "My profession has been teaching English for over 10 years.",
+          "translation": "Pekerjaan utama saya adalah mengajar bahasa Inggris selama lebih dari 10 tahun."
         },
         {
           "type": "Complex",
-          "text": "As a result of my passion for music, I have chosen a profession that allows me to express my creativity.",
-          "translation": "Akibat cinta saya dengan musik, saya telah memilih pekerjaan yang memungkinkan saya untuk mengekspresikan kreativitas saya."
+          "text": "The increasing demand for professionals in the IT sector has led to a rise in the number of universities offering courses in this field.",
+          "translation": "Kebutuhan meningkat untuk profesional di sektor teknologi informasi telah menyebabkan peningkatan jumlah universitas yang menawarkan program studi di bidang ini."
         },
         {
           "type": "Compound",
-          "text": "To be a successful entrepreneur, one needs to have a good profession and a supportive family.",
-          "translation": "Untuk menjadi sukses sebagai wirausaha, seseorang perlu memiliki pekerjaan yang baik dan keluarga yang mendukung."
+          "text": "Some people choose to change their profession after they get married, while others prefer to continue working in the same field.",
+          "translation": "Beberapa orang memilih untuk mengubah pekerjaan mereka setelah menikah, sementara yang lain lebih suka melanjutkan pekerjaan di bidang yang sama."
         },
         {
           "type": "Compound-Complex",
-          "text": "In order to succeed in a competitive profession, it is essential to have a strong education and to be willing to continuously learn and improve.",
-          "translation": "Untuk sukses di pekerjaan yang sangat kompetitif, sangat penting untuk memiliki pendidikan yang kuat dan bersedia terus belajar dan meningkatkan kemampuan."
+          "text": "Although many students are interested in pursuing a career in medicine, few of them are aware of the long and challenging process of becoming a professional doctor.",
+          "translation": "Meskipun banyak siswa tertarik untuk mengejar karir di bidang kedokteran, sedikit di antara mereka menyadari bahwa proses panjang dan berkelanjutan untuk menjadi seorang dokter profesional."
         }
       ],
       "phonetics": {
-        "us": "/prəˈfɛʃən/",
-        "uk": "/prəˈfɛʃ.ən/"
+        "us": "/ˈprɑːfəʃən/",
+        "uk": "/ˈprɒf.əʃən/"
       },
-      "meaning": "Pekerjaan yang dilakukan secara terus menerus dan memerlukan keterampilan tertentu",
+      "meaning": "Pekerjaan utama",
       "synonymMeanings": [
-        "Pekerjaan yang dilakukan secara terus menerus",
-        "Pekerjaan yang memerlukan keterampilan tertentu",
-        "Pekerjaan yang sesuai dengan minat",
-        "Pekerjaan yang memungkinkan ekspresi kreativitas"
+        "Pekerjaan",
+        "Karier",
+        "Jurusan",
+        "Pengalaman kerja"
       ],
-      "definition": "A person's regular paid occupation, especially one that requires special training, qualifications, or skills."
+      "definition": "A person's regular occupation or job."
     },
     {
       "id": "dbac60ec-ab9e-4b0c-a36a-6ae505016a18",
