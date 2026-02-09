@@ -9,7 +9,9 @@
         "Profession",
         "career"
       ],
-      "userGuesses": [],
+      "userGuesses": [
+        "profession"
+      ],
       "status": "discovered"
     },
     {
