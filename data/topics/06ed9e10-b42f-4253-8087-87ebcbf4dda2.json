@@ -173,7 +173,9 @@
         "Wages",
         "income"
       ],
-      "userGuesses": [],
+      "userGuesses": [
+        "WAGES"
+      ],
       "status": "discovered"
     },
     {
