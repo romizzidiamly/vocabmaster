@@ -293,7 +293,41 @@
       "userGuesses": [
         "innovator"
       ],
-      "status": "discovered"
+      "status": "discovered",
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "The entrepreneur's innovative idea revolutionized the industry.",
+          "translation": "Wirausaha itu berinisiatif dengan ide inovatif yang menggoyang industri."
+        },
+        {
+          "type": "Complex",
+          "text": "While some people view entrepreneurship as a high-risk venture, many others see it as an opportunity to create new jobs and stimulate economic growth.",
+          "translation": "Meskipun ada yang melihat wirausaha sebagai usaha berisiko tinggi, banyak yang melihatnya sebagai kesempatan untuk menciptakan lapangan kerja baru dan meningkatkan pertumbuhan ekonomi."
+        },
+        {
+          "type": "Compound",
+          "text": "The entrepreneur invested a significant amount of money in the business, but it paid off in the end.",
+          "translation": "Wirausaha itu menginvestasikan jumlah besar uang dalam bisnis, tetapi pada akhirnya segalanya berakhir dengan sukses."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "However, the entrepreneur's decision to expand the business to new markets was hindered by the lack of funding, which was exacerbated by the economic downturn.",
+          "translation": "Namun, keputusan wirausaha untuk memperluas bisnis ke pasar baru dipengaruhi oleh kekurangan dana, yang semakin parah oleh kemunduran ekonomi."
+        }
+      ],
+      "phonetics": {
+        "us": "/ɛntəˈpɾənɪːər/",
+        "uk": "/ɛntəˈpɹəʊnɪər/"
+      },
+      "meaning": "Wirausaha",
+      "synonymMeanings": [
+        "Pembuat Bisnis",
+        "Pengusaha",
+        "Wirausaha Kreatif",
+        "Pendiri Usaha"
+      ],
+      "definition": "A person who sets up and runs their own business or organization, taking on financial and management risks in the hope of making a profit."
     },
     {
       "id": "373b7108-968e-43aa-8a55-ea74bbcc4843",
