@@ -161,7 +161,9 @@
         "Downgrade",
         "dismissal"
       ],
-      "userGuesses": [],
+      "userGuesses": [
+        "downgrade"
+      ],
       "status": "discovered"
     },
     {
