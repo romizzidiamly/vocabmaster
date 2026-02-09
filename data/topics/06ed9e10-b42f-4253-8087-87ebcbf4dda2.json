@@ -341,7 +341,38 @@
         "work placement",
         "training"
       ],
-      "status": "discovered"
+      "status": "discovered",
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "During my internship, I gained valuable experience in marketing strategies.",
+          "translation": "Dalam pengalaman kerja praktis saya, saya memperoleh pengalaman berharga di strategi pemasaran."
+        },
+        {
+          "type": "Complex",
+          "text": "If you are a student, you can apply for an internship in a company to gain relevant work experience.",
+          "translation": "Jika Anda seorang siswa, Anda dapat mendaftar sebagai pengalaman kerja praktis di sebuah perusahaan untuk memperoleh pengalaman bekerja relevan."
+        },
+        {
+          "type": "Compound",
+          "text": "Many students take internships to gain hands-on experience, but they also learn a lot from their colleagues.",
+          "translation": "Banyak siswa yang melakukan pengalaman kerja praktis untuk memperoleh pengalaman langsung, namun mereka juga belajar banyak dari rekan-rekannya."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "While some companies offer internships to students, others require them to have relevant work experience before they can apply for an internship.",
+          "translation": "Sementara beberapa perusahaan menawarkan pengalaman kerja praktis kepada siswa, yang lain meminta mereka untuk memiliki pengalaman bekerja yang relevan sebelum mereka dapat mendaftar sebagai pengalaman kerja praktis."
+        }
+      ],
+      "phonetics": {
+        "us": "/ɪnˈtɜrnʃɪp/",
+        "uk": "/ɪnˈtɜːrnʃɪp/"
+      },
+      "meaning": "Pengalaman kerja praktis",
+      "synonymMeanings": [
+        "Pengalaman kerja, Pendidikan profesional"
+      ],
+      "definition": "A period of work experience, especially one that is unpaid and is designed to give a student or a young person practical training in a particular job or profession."
     },
     {
       "id": "3ef16041-64aa-408e-9a10-a27ce644fa24",
