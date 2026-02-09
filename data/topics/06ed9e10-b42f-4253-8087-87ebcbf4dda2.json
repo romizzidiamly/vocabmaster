@@ -111,9 +111,10 @@
         "contractor"
       ],
       "userGuesses": [
-        "self-employed worker"
+        "self-employed worker",
+        "contractor"
       ],
-      "status": "discovered"
+      "status": "mastered"
     },
     {
       "id": "aadefb54-2f33-4d1f-88ca-0f8c96ead0ca",
