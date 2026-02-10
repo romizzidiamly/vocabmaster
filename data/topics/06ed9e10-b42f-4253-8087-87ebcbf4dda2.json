@@ -893,7 +893,41 @@
         "dismissal"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "discovered",
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "The project was delayed due to redundancy in the workforce.",
+          "translation": "Proyek itu tertunda karena keterlaksanaan di kalangan karyawan."
+        },
+        {
+          "type": "Complex",
+          "text": "The company had to reduce redundancy in order to stay competitive in the global market.",
+          "translation": "Perusahaan itu harus mengurangi keterlaksanaan agar tetap bersaing di pasar global."
+        },
+        {
+          "type": "Compound",
+          "text": "The government's decision to reduce redundancy in the public sector led to widespread job losses.",
+          "translation": "Keputusan pemerintah untuk mengurangi keterlaksanaan di sektor publik menyebabkan banyak pekerja kehilangan pekerjaan."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "The economic downturn forced the company to reduce redundancy in order to stay afloat, but the decision had a negative impact on the workforce.",
+          "translation": "Krisis ekonomi memaksa perusahaan untuk mengurangi keterlaksanaan agar tetap bertahan, namun keputusan itu memiliki dampak negatif pada karyawan."
+        }
+      ],
+      "phonetics": {
+        "us": "/rɛdˈɪnˌdænsi/",
+        "uk": "/rɛdˈɪnˌdænsɪ/"
+      },
+      "meaning": "Keterlaksanaan yang berlebihan",
+      "synonymMeanings": [
+        "berlebihan",
+        "tidak perlu",
+        "eksistensial",
+        "tidak efektif"
+      ],
+      "definition": "The state of being unnecessary or excessive."
     },
     {
       "id": "70d0ad4b-6011-4004-a1a2-70dc60f00004",
@@ -903,7 +937,41 @@
         "quitting"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "discovered",
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "The CEO resigned due to health reasons.",
+          "translation": "Direktur utama mengundurkan diri karena alasan kesehatan."
+        },
+        {
+          "type": "Complex",
+          "text": "After the company's financial crisis, the CEO resigned, which led to a power struggle among the board members.",
+          "translation": "Setelah krisis keuangan perusahaan, direktur utama mengundurkan diri, yang menyebabkan konflik kekuasaan di antara anggota dewan."
+        },
+        {
+          "type": "Compound",
+          "text": "The employee resigned, and the company had to find a replacement, which was a challenging task.",
+          "translation": "Karyawan mengundurkan diri, dan perusahaan harus mencari pengganti, yang merupakan tugas yang menantang."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "Although the company offered a generous severance package, the employee resigned due to personal reasons, and the company had to recruit a new staff member, who had to undergo a rigorous training process.",
+          "translation": "Meskipun perusahaan menawarkan paket pengunduran diri yang sangat menguntungkan, karyawan mengundurkan diri karena alasan pribadi, dan perusahaan harus merekrut staf baru, yang harus mengikuti proses pelatihan yang sangat ketat."
+        }
+      ],
+      "phonetics": {
+        "us": "/rɪˈzɪndʒən/",
+        "uk": "/rəˈzɪndʒən/"
+      },
+      "meaning": "Pengunduran diri",
+      "synonymMeanings": [
+        "pengunduran diri",
+        "pemecatan",
+        "mengundurkan diri secara sukarela",
+        "menyatakan mundur"
+      ],
+      "definition": "The act of formally leaving a job or position."
     },
     {
       "id": "35e717bf-e10f-423d-925b-0a76aa6ac0e0",
