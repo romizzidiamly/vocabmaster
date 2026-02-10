@@ -849,7 +849,41 @@
         "proficiency"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "discovered",
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "The new production line is designed to increase efficiency and reduce costs.",
+          "translation": "Pipa produksi baru itu dirancang untuk meningkatkan efisiensi dan mengurangi biaya."
+        },
+        {
+          "type": "Complex",
+          "text": "The company has implemented various strategies to improve efficiency, including automating tasks and reducing energy consumption.",
+          "translation": "Perusahaan telah menerapkan beberapa strategi untuk meningkatkan efisiensi, termasuk mengautomatisasi tugas dan mengurangi konsumsi energi."
+        },
+        {
+          "type": "Compound",
+          "text": "Increasing efficiency and reducing waste are essential for a sustainable business model. This can be achieved by adopting green technologies and implementing efficient supply chain management.",
+          "translation": "Meningkatkan efisiensi dan mengurangi limbah sangat penting untuk model bisnis berkelanjutan. Hal ini dapat dicapai dengan menerapkan teknologi hijau dan mengimplementasikan pengelolaan rantai pasokan yang efektif."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "The introduction of new technology has improved efficiency in the manufacturing process, but it has also created new challenges, such as the need for more skilled workers and the potential for increased energy consumption.",
+          "translation": "Pengenalan teknologi baru telah meningkatkan efisiensi dalam proses manufaktur, tetapi juga menciptakan tantangan baru, seperti kebutuhan tenaga kerja yang lebih terampil dan potensi peningkatan konsumsi energi."
+        }
+      ],
+      "phonetics": {
+        "us": "/ɪˈfɪʃənsi/",
+        "uk": "/ɪˈfɪʃənsi/"
+      },
+      "meaning": "Kinerja yang efektif",
+      "synonymMeanings": [
+        "Kinerja yang baik",
+        "Proses yang efektif",
+        "Pengelolaan yang efektif",
+        "Kemampuan yang baik"
+      ],
+      "definition": "The ability to do things in the most efficient way, or the state of being able to do things easily and quickly."
     },
     {
       "id": "37c6bf64-61ce-4d44-aebb-f1915cebf5d8",
