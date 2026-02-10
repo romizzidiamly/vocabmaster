@@ -716,7 +716,41 @@
         "equilibrium"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "discovered",
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Maintaining a good work-life balance is essential for one's overall well-being.",
+          "translation": "Mengatur keseimbangan antara pekerjaan dan kehidupan pribadi sangat penting untuk kesehatan secara keseluruhan."
+        },
+        {
+          "type": "Complex",
+          "text": "If a person is able to manage their work and personal commitments effectively, they will achieve a better work-life balance.",
+          "translation": "Jika seseorang mampu mengelola komitmen kerja dan pribadi mereka dengan efektif, mereka akan mencapai keseimbangan antara pekerjaan dan kehidupan pribadi yang lebih baik."
+        },
+        {
+          "type": "Compound",
+          "text": "A person needs time to relax and recharge in order to maintain a good work-life balance, but they also need to be productive and meet their work responsibilities.",
+          "translation": "Seseorang memerlukan waktu untuk santai dan mengisi kembali agar dapat menjaga keseimbangan antara pekerjaan dan kehidupan pribadi yang baik, tetapi mereka juga harus produktif dan memenuhi tanggung jawab kerja mereka."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "In order to achieve a better work-life balance, individuals need to prioritize their time and energy, and also be mindful of their personal and professional goals.",
+          "translation": "Untuk mencapai keseimbangan antara pekerjaan dan kehidupan pribadi yang lebih baik, individu perlu memprioritaskan waktu dan energi mereka, serta peduli dengan tujuan pribadi dan profesional mereka."
+        }
+      ],
+      "phonetics": {
+        "us": "/ˈwɜːrklˌfaɪ blɑːns/",
+        "uk": "/ˈwɜːrk laɪ blɑːns/"
+      },
+      "meaning": "Keseimbangan antara pekerjaan dan kehidupan pribadi.",
+      "synonymMeanings": [
+        "Keseimbangan antara profesional dan pribadi",
+        "Keseimbangan antara pekerjaan dan waktu pribadi",
+        "Hidup seimbang",
+        "Keseimbangan antara kehidupan pribadi dan kerja"
+      ],
+      "definition": "The state of having a balance between one's work and personal life, allowing for the time and energy to devote to each."
     },
     {
       "id": "0fcd4d43-e7e1-4dff-8658-88d079ec0767",
