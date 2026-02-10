@@ -532,7 +532,40 @@
         "earnings"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "discovered",
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "The company decided to increase the wages of all its employees.",
+          "translation": "Perusahaan memutuskan untuk meningkatkan gaji pokok semua karyawannya."
+        },
+        {
+          "type": "Complex",
+          "text": "The rise in wages has led to an increase in the standard of living for many people.",
+          "translation": "Peningkatan gaji pokok telah menyebabkan peningkatan standar hidup bagi banyak orang."
+        },
+        {
+          "type": "Compound",
+          "text": "The government has introduced a new policy to reduce the gap between wages and inflation.",
+          "translation": "Pemerintah telah memperkenalkan kebijakan baru untuk mengurangi kesenjangan antara gaji pokok dan inflasi."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "However, the new policy has been criticized for not addressing the root cause of the problem, which is the low wages of many workers.",
+          "translation": "Namun, kebijakan baru ini telah dikritik karena tidak menangani sumber masalah yang sebenarnya, yaitu gaji pokok yang rendah banyak pekerja."
+        }
+      ],
+      "phonetics": {
+        "us": "/weɪdʒɪz/",
+        "uk": "/weɪdʒɪz/"
+      },
+      "meaning": "Gaji pokok",
+      "synonymMeanings": [
+        "upah",
+        "gaji",
+        "penghasilan"
+      ],
+      "definition": "The amount of money that an employee is paid regularly for their work."
     },
     {
       "id": "81add737-4bd3-407e-a421-c85e75f61131",
