@@ -11,7 +11,7 @@
       ],
       "definition": "An ecosystem is a community of living and non-living things, such as plants, animals, and microorganisms, interacting with each other in a specific environment.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "meaning": "Sistem ekosistem",
       "phonetics": {
         "us": "/iˈkɒsɪstəm/",
@@ -54,7 +54,7 @@
       ],
       "definition": "The variety of different plants, animals, and microorganisms that live in an ecosystem, and the genetic diversity within each species.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "meaning": "Keanekaragaman hayati",
       "phonetics": {
         "us": "/baɪəˈdɪvərʃɪti/",
@@ -98,7 +98,7 @@
       ],
       "definition": "A change in the Earth's climate, which is the average weather pattern in a particular region over a long period of time.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "meaning": "Perubahan iklim global",
       "phonetics": {
         "us": "/ˈklaɪmɪt ˈtʃeɪndʒ/",
@@ -142,7 +142,7 @@
       ],
       "definition": "The gradual increase in the overall temperature of the Earth's atmosphere, primarily caused by human activities that release greenhouse gases, such as carbon dioxide and methane.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "meaning": "Peningasan global",
       "phonetics": {
         "us": "/ɡloʊbəlˈwɔːrmɪŋ/",
@@ -186,7 +186,7 @@
       ],
       "definition": "The act of cutting down and clearing a large area of trees, often as a result of human activities such as farming or urban development.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -230,7 +230,7 @@
       ],
       "definition": "the act of planting trees in an area where they have been cut down",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -264,7 +264,7 @@
       ],
       "definition": "The act of planting trees in an area where there were none before, especially to prevent soil erosion or to improve the environment.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -308,7 +308,7 @@
       ],
       "definition": "The ability to be maintained at a certain level or standard without causing harm to the environment.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -352,7 +352,7 @@
       ],
       "definition": "Energy that is constantly being renewed and cannot be used up.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -396,7 +396,7 @@
       ],
       "definition": "Forms of energy that cannot be renewed or replenished once they have been used.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -438,7 +438,7 @@
       ],
       "definition": "The process by which certain gases in the Earth's atmosphere trap heat from the sun, leading to a rise in global temperatures.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -481,7 +481,7 @@
       ],
       "definition": "The amount of carbon dioxide and other greenhouse gases that are emitted into the atmosphere as a result of human activities.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -525,7 +525,7 @@
       ],
       "definition": "The amount of carbon dioxide released into the atmosphere as a result of human activity.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -569,7 +569,7 @@
       ],
       "definition": "The state of not producing any greenhouse gas emissions, or offsetting emissions by investing in projects that reduce greenhouse gas emissions, such as wind farms or tree planting.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -612,7 +612,7 @@
       ],
       "definition": "The presence of harmful substances or products in the environment, especially air and water.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -656,7 +656,7 @@
       ],
       "definition": "The presence of pollutants in the air, which can cause harm to the environment and human health.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -699,7 +699,7 @@
       ],
       "definition": "The presence of harmful substances in water, making it unfit for drinking, recreation, or other uses.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -742,7 +742,7 @@
       ],
       "definition": "The process of soil being worn away by natural forces such as wind or water.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -784,7 +784,7 @@
       ],
       "definition": "The process of a region becoming increasingly arid and dry as a result of climate change, overgrazing, or other human activities.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -828,7 +828,7 @@
       ],
       "definition": "The act of saving or preserving something (such as the environment or a resource) from being wasted or destroyed.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -871,7 +871,7 @@
       ],
       "definition": "The act of catching too many fish from a particular area, leading to a reduction in fish populations and potentially threatening the sustainability of the fishery.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -915,7 +915,7 @@
       ],
       "definition": "A species of animal or plant that is in danger of becoming extinct because of its low population or threats such as habitat destruction.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -959,7 +959,7 @@
       ],
       "definition": "The state of being completely destroyed or eliminated, especially of a species of plant or animal.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -1003,7 +1003,7 @@
       ],
       "definition": "The state of being destroyed or ruined, especially of natural environments or ecosystems.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -1047,7 +1047,7 @@
       ],
       "definition": "The destruction of the ozone layer in the Earth's atmosphere, which is caused by the release of pollutants such as chlorine and bromine.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -1090,7 +1090,7 @@
       ],
       "definition": "Produced or designed to be environmentally friendly.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -1134,7 +1134,7 @@
       ],
       "definition": "Able to be broken down by living organisms and returned to the earth.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -1177,7 +1177,7 @@
       ],
       "definition": "The process of collecting and processing materials that would otherwise be thrown away so that they can be used again.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -1222,7 +1222,7 @@
       ],
       "definition": "The process of breaking down organic materials, such as food waste and garden waste, into a nutrient-rich fertilizer.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -1265,7 +1265,7 @@
       ],
       "definition": "Agricultural practices that produce food without harming the environment.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -1309,7 +1309,7 @@
       ],
       "definition": "The practice of growing and raising plants and animals without the use of synthetic fertilizers, pesticides, or genetically modified organisms.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -1352,7 +1352,7 @@
       ],
       "definition": "A type of tourism that focuses on visiting and appreciating natural environments, such as national parks, forests, and wildlife reserves, while also contributing to their conservation.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -1396,7 +1396,7 @@
       ],
       "definition": "The practice of protecting and conserving wild animals and their habitats.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -1439,7 +1439,7 @@
       ],
       "definition": "The practice or state of avoiding deforestation; the use of sustainable forest management to prevent the clearance of forests.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -1483,7 +1483,7 @@
       ],
       "definition": "Concerned about and actively working to reduce the negative impact of one's actions on the environment.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -1527,7 +1527,7 @@
       ],
       "definition": "Actions taken to reduce the negative impact of human activities on the environment.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -1572,7 +1572,7 @@
       ],
       "definition": "Energy produced from sources other than fossil fuels, such as the sun, wind, and water.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -1615,7 +1615,7 @@
       ],
       "definition": "The practice of using less energy than is needed to achieve a particular goal, often by using more efficient equipment or systems.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -1658,7 +1658,7 @@
       ],
       "definition": "The ability to recognize and respect the impact of human activity on the environment.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -1702,7 +1702,7 @@
       ],
       "definition": "The state or quality of being quiet or still, with no sound.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -1746,7 +1746,7 @@
       ],
       "definition": "A state of equilibrium in which the interactions between living organisms and their environment are stable and sustainable.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -1789,7 +1789,7 @@
       ],
       "definition": "The ability of a community, ecosystem, or organization to withstand and recover from the impacts of climate change.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -1832,7 +1832,7 @@
       ],
       "definition": "The amount of land, water, or other resources required to produce the food, energy, and other products that a person or organization uses.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -1876,7 +1876,7 @@
       ],
       "definition": "A dependence on or reliance on fossil fuels, such as coal, oil, and gas, for energy.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -1919,7 +1919,7 @@
       ],
       "definition": "The act of using more resources or goods than is necessary or sustainable.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -1963,7 +1963,7 @@
       ],
       "definition": "Waste that is poisonous and can harm people's health and the environment.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -2007,7 +2007,7 @@
       ],
       "definition": "The presence of plastic waste in the environment, especially in oceans and waterways, causing harm to wildlife and ecosystems.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -2049,7 +2049,7 @@
       ],
       "definition": "The process of improving the quality of life while preserving natural resources for future generations.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -2093,7 +2093,7 @@
       ],
       "definition": "The design and construction of buildings and other structures that have a minimal impact on the environment and often use sustainable materials and renewable energy sources.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -2136,7 +2136,7 @@
       ],
       "definition": "The process of damaging the environment, especially through pollution or the destruction of natural habitats.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -2181,7 +2181,7 @@
       ],
       "definition": "Substances, such as dust, smoke, and gases, that are in the air and can harm health or the environment.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -2224,7 +2224,7 @@
       ],
       "definition": "A situation where there is not enough water to meet the needs of a place or its inhabitants.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -2269,7 +2269,7 @@
       ],
       "definition": "The systematic collection, transport, processing, and disposal of waste materials.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -2312,7 +2312,7 @@
       ],
       "definition": "The act of reducing the production of gases that contribute to the greenhouse effect, such as carbon dioxide, in order to slow down global warming.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -2355,7 +2355,7 @@
       ],
       "definition": "A lifestyle that aims to minimize waste and the use of non-renewable resources, with the ultimate goal of zero waste being produced.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
