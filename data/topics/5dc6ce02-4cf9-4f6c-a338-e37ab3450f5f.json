@@ -11,7 +11,7 @@
       ],
       "definition": "The state of being happy, healthy, and prosperous.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "meaning": "Kesejahteraan",
       "phonetics": {
         "us": "/ˈwɛlˌbiɪŋ/",
@@ -54,7 +54,7 @@
       ],
       "definition": "The state of being resistant to a particular disease or infection, often due to the body's immune system.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "meaning": "Kekebalan tubuh terhadap suatu penyakit atau infeksi tertentu.",
       "phonetics": {
         "us": "/ɪˈmjuːnɪti/",
@@ -97,7 +97,7 @@
       ],
       "definition": "The study of food and how it affects the body, or the process of eating and using food to keep the body healthy",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "meaning": "Gizi",
       "phonetics": {
         "us": "/nuˈtrɪʃən/",
@@ -141,7 +141,7 @@
       ],
       "definition": "A medical condition in which a person has an excessive amount of body fat.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "meaning": "Kegemukan",
       "phonetics": {
         "us": "/ˌob.ɪˈsɪti/",
@@ -184,7 +184,7 @@
       ],
       "definition": "A lifestyle that involves little or no physical activity, often leading to health problems.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "meaning": "Gaya hidup yang kurang aktif secara fisik",
       "phonetics": {
         "us": "/sɪdɛnˈtɛri lɪˈfaɪl/",
@@ -227,7 +227,7 @@
       ],
       "definition": "A medical condition that affects the heart and blood vessels, often caused by a lack of exercise, a poor diet, and smoking.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "meaning": "Penyakit peredaran darah",
       "phonetics": {
         "us": "/ˌkɑr.dioʊˈvæskjʊˌlɛr dɪˈziːz/",
@@ -271,7 +271,7 @@
       ],
       "definition": "a medical condition in which the body does not produce enough insulin, leading to high blood sugar levels",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "meaning": "penyakit diabetes",
       "phonetics": {
         "us": "/daɪəˈbiːtiːz/",
@@ -313,7 +313,7 @@
       ],
       "definition": "a medical condition in which the blood pressure is higher than normal",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "meaning": "hipertensi",
       "phonetics": {
         "us": "/ˌhaɪpərˈtɛnʃən/",
@@ -356,7 +356,7 @@
       ],
       "definition": "An abnormal immune reaction to a particular substance which can cause a range of symptoms, from mild discomfort to life-threatening conditions.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "meaning": "Reaksi alergi atau reaksi hipersensitif",
       "phonetics": {
         "us": "/ˈælərˌdʒi/",
@@ -397,7 +397,7 @@
       ],
       "definition": "A person's emotional, psychological, and social well-being.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "meaning": "Kesejahteraan mental",
       "phonetics": {
         "us": "/mɛn.təl.hɛlθ/",
@@ -440,7 +440,7 @@
       ],
       "definition": "A state of low mood and aversion to activity that is characterised by feelings of sadness, hopelessness, and a lack of interest or pleasure in external stimuli.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "meaning": "Kesedihan mental",
       "phonetics": {
         "us": "/ˈdɛprɛʃən/",
@@ -483,7 +483,7 @@
       ],
       "definition": "A mental health condition characterized by feelings of worry, nervousness, and fear that are persistent and overwhelming.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "meaning": "Kondisi kesehatan mental yang disertai perasaan khawatir, gelisah, dan takut yang berkepanjangan dan menghantui.",
       "phonetics": {
         "us": "/ænˈsɪdəti dɪˈsɔrdər/",
@@ -527,7 +527,7 @@
       ],
       "definition": "Treatment intended to cure or help a particular condition, especially a mental or physical one",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "meaning": "Terapi",
       "phonetics": {
         "us": "/ˈθɛrəpi/",
@@ -571,7 +571,7 @@
       ],
       "definition": "The act of introducing a vaccine to the body, especially by injection, to provide immunity against a particular infectious disease.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "meaning": "Pemberian vaksin",
       "phonetics": {
         "us": "/ˌvæksɪˈneɪʃən/",
@@ -613,7 +613,7 @@
       ],
       "definition": "A widespread outbreak of disease, especially one caused by a highly infectious agent.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "meaning": "Wabah penyakit yang menyebar luas",
       "phonetics": {
         "us": "/ɪˈpɪdɛmɪk/",
@@ -656,7 +656,7 @@
       ],
       "definition": "Spreading or catching easily from one person or thing to another.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "meaning": "Mudah menular",
       "phonetics": {
         "us": "/kɑnˈteɪdʒəs/ ",
@@ -699,7 +699,7 @@
       ],
       "definition": "The process of helping someone who has been ill or in prison to become healthy or normal again",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "meaning": "Rehabilitasi",
       "phonetics": {
         "us": "/ˌrɛhəbɪlɪˈteɪʃən/",
@@ -743,7 +743,7 @@
       ],
       "definition": "A condition that occurs when the body does not get the nutrients it needs to function properly.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "meaning": "Keadaan kurang gizi",
       "phonetics": {
         "us": "/mælnʌtɪˈreɪʃən/",
@@ -787,7 +787,7 @@
       ],
       "definition": "A system of medical treatment that focuses on the whole person - the physical, mental, and spiritual - rather than just treating symptoms.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "meaning": "Pengobatan holistik yang melibatkan aspek fisik, mental, dan spiritual seseorang.",
       "phonetics": {
         "us": "/hoʊˈlɪstɪk mɛdɪˈsiːn/",
@@ -829,7 +829,7 @@
       ],
       "definition": "Natural products used to treat or prevent illness, often derived from plants.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "meaning": "Obat-obatan alami",
       "phonetics": {
         "us": "/hərˈbæl rɪˈmɛdi/",
@@ -872,7 +872,7 @@
       ],
       "definition": "The state of being physically or mentally dependent on something, especially a substance such as a drug or an activity such as gambling.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "meaning": "Ketergantungan",
       "phonetics": {
         "us": "/əˈdɪkʃən/",
@@ -916,7 +916,7 @@
       ],
       "definition": "Physical and psychological reactions that occur when a person stops taking a substance to which they have become addicted.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "meaning": "Gejala perlawanan kesehatan yang timbul ketika seseorang berhenti mengonsumsi zat yang telah menyebabkan kecanduan.",
       "phonetics": {
         "us": "/ˌwɪdrɔːwəl ˈsɪmp.təmz/",
@@ -960,7 +960,7 @@
       ],
       "definition": "A condition caused by a fault in an individual's DNA that can lead to a range of physical or mental health problems.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "meaning": "Kondisi yang disebabkan oleh kerusakan genetik dalam DNA individu yang dapat menyebabkan berbagai gangguan kesehatan fisik atau mental.",
       "phonetics": {
         "us": "/dʒɛnɛtɪk dɪsˈɔːrdər/",
@@ -1004,7 +1004,7 @@
       ],
       "definition": "The system and processes by which the body defends itself against disease-causing microorganisms and other foreign substances.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "meaning": "Sistem kekebalan tubuh",
       "phonetics": {
         "us": "/ɪˈmjuːn sɪsˈteɪm/",
@@ -1047,7 +1047,7 @@
       ],
       "definition": "a disease or condition that affects the lungs or airways, such as pneumonia or asthma",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "meaning": "penyakit pernapasan",
       "phonetics": {
         "us": "/rɪˈspɪrətɔri/",
@@ -1090,7 +1090,7 @@
       ],
       "definition": "A long-term health condition that cannot be cured and may require ongoing treatment.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "meaning": "Penyakit kronis",
       "phonetics": {
         "us": "/krɑnɪk dɪˈziːz/",
@@ -1133,7 +1133,7 @@
       ],
       "definition": "A sudden and severe illness that requires immediate medical attention.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "meaning": "Penyakit akut",
       "phonetics": {
         "us": "/əˈkjuːt ɪlˈnɛs/.",
@@ -1176,7 +1176,7 @@
       ],
       "definition": "The branch of medicine that deals with the maintenance and improvement of workers' health, especially in workplaces.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "meaning": "Kesehatan dan keselamatan kerja",
       "phonetics": {
         "us": "/ɑbjʊˈpeɪʃənəl ˈhɛlθ/",
@@ -1219,7 +1219,7 @@
       ],
       "definition": "The practice of keeping oneself and one's environment clean and free from disease-causing agents.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "meaning": "Kesederhanaan hidup dan lingkungan",
       "phonetics": {
         "us": "/haɪˈdʒiːn/",
@@ -1263,7 +1263,7 @@
       ],
       "definition": "The period of life when a person is developing from a child to an adult, typically between the ages of 13 and 19.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "meaning": "Periode pembentukan remaja",
       "phonetics": {
         "us": "/ədˈɒlsəns",
@@ -1306,7 +1306,7 @@
       ],
       "definition": "The stage of physical and emotional development during which a person becomes sexually mature.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "meaning": "Periode perkembangan fisik dan emosi ketika seseorang mencapai kematangan seksual.",
       "phonetics": {
         "us": "/ˈpʌbərti/",
@@ -1349,7 +1349,7 @@
       ],
       "definition": "The process by which the brain matures and becomes able to process and understand information.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "meaning": "Pengembangan kognitif",
       "phonetics": {
         "us": "/kɒɡ.ni.tɪv dɪ.vələp.mənt/",
@@ -1392,7 +1392,7 @@
       ],
       "definition": "The ability to control and understand one's own emotions, and to behave in a mature and responsible way, especially in difficult or challenging situations.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "meaning": "Kematangan emosional",
       "phonetics": {
         "us": "/ɛm.ʊˈʃən.əl maˈtɜːrɪti/",
@@ -1435,7 +1435,7 @@
       ],
       "definition": "The ability to communicate and interact with others effectively in a social setting.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "meaning": "Keterampilan sosial",
       "phonetics": {
         "us": "/səʊʃəl skɪlz/",
@@ -1479,7 +1479,7 @@
       ],
       "definition": "The influence or coercion exerted by a person's peer group to conform to their attitudes or behaviors.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "meaning": "Dorongan dari teman-teman untuk meniru sikap atau perilaku mereka.",
       "phonetics": {
         "us": "/pɪərˈprɛʃər/",
@@ -1523,7 +1523,7 @@
       ],
       "definition": "the state of being free from the control or influence of others",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "meaning": "Meaning not found.",
       "phonetics": {
         "us": "/.../",
@@ -1557,7 +1557,7 @@
       ],
       "definition": "A branch of knowledge, especially one that is studied in a university or college.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "meaning": "Bidang ilmu",
       "phonetics": {
         "us": "/ˈdɪsɪplɪn/",
@@ -1601,7 +1601,7 @@
       ],
       "definition": "The state or fact of being accountable for something.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "meaning": "Tanggung jawab",
       "phonetics": {
         "us": "/ˌrɛspəˈnæbɪlɪti/",
@@ -1645,7 +1645,7 @@
       ],
       "definition": "The feeling of being proud of oneself and having confidence in one's abilities and worth.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "meaning": "Kepustakan diri sendiri",
       "phonetics": {
         "us": "/sɛlfˈiːstəm/",
@@ -1688,7 +1688,7 @@
       ],
       "definition": "Exercise that requires oxygen to generate energy, typically involving movement of the body or limbs.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "meaning": "Latihan olahraga yang memerlukan oksigen untuk menghasilkan energi, biasanya melibatkan gerakan tubuh atau anggota badan.",
       "phonetics": {
         "us": "/ˌɛərəbɪk ˈɛksɝːsɪz/",
@@ -1731,7 +1731,7 @@
       ],
       "definition": "Physical exercise that does not require oxygen, such as weightlifting, sprinting, or high-intensity interval training.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "meaning": "Latihan fisik tanpa menggunakan oksigen, seperti angkat besi, lari sprint, atau latihan interval intensitas tinggi.",
       "phonetics": {
         "us": "/ˌænəˈrɒbɪk ɛksəˈraɪs/.",
@@ -1774,7 +1774,7 @@
       ],
       "definition": "The ability to withstand or continue for a long time, especially in difficult or unpleasant conditions.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "meaning": "Kemampuan untuk bertahan atau terus berlangsung dalam waktu lama, terutama dalam kondisi sulit atau tidak menyenangkan.",
       "phonetics": {
         "us": "/ɛndərˈæns/",
@@ -1818,7 +1818,7 @@
       ],
       "definition": "The ability to bend or adapt easily.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "meaning": "Kemampuan menyesuaikan diri dengan mudah.",
       "phonetics": {
         "us": "/ˈflɛksɪbɪlɪti/",
@@ -1861,7 +1861,7 @@
       ],
       "definition": "The practice of exercising to improve muscular power, endurance, and strength.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "meaning": "Latihan kekuatan",
       "phonetics": {
         "us": "/strentʃtˈreɪnɪŋ/",
@@ -1905,7 +1905,7 @@
       ],
       "definition": "The state of being physically fit through regular exercise, especially aerobic exercise, to improve the functioning of the heart, lungs, and blood vessels.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "meaning": "Kesehatan jantung dan pembuluh darah",
       "phonetics": {
         "us": "/ˌkɑrdiəˈvæskjʊlər fɪtnəs/",
@@ -1948,7 +1948,7 @@
       ],
       "definition": "The increase in size of muscle fibres, often resulting from resistance training.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "meaning": "Pengembangan otot",
       "phonetics": {
         "us": "/ˈmʌsəl ˌhɪpərˈtrɒfi/",
@@ -1991,7 +1991,7 @@
       ],
       "definition": "The process by which the body converts food into energy.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "meaning": "Proses konversi makanan menjadi energi tubuh.",
       "phonetics": {
         "us": "/mɪtəˈbɑːlɪzəm/",
@@ -2035,7 +2035,7 @@
       ],
       "definition": "A type of exercise where short periods of high-intensity activity are followed by periods of rest or low-intensity activity.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "meaning": "Latihan Interval Kecepatan Tinggi",
       "phonetics": {
         "us": "/haɪ ˌɪntɪnsɪti 'ntɝ vl ˈintɝvəl trɛnɪŋ/",
@@ -2078,7 +2078,7 @@
       ],
       "definition": "The proportion of different components in the body, such as fat, muscle, and water.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "meaning": "Komposisi tubuh, yaitu rasio komponen-komponen dalam tubuh, seperti lemak, otot, dan air.",
       "phonetics": {
         "us": "/ˌboʊdi ˈkɒmpəzɪʃən/",
@@ -2122,7 +2122,7 @@
       ],
       "definition": "A long, thin, flexible strip made of rubber or plastic that is used for exercising, especially for strengthening muscles.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "meaning": "Bingkisan tali elastis",
       "phonetics": {
         "us": "/rɪsɪstənsˈbændz/",
@@ -2164,7 +2164,7 @@
       ],
       "definition": "The act of doing or saying the same thing again and again, often as a way of emphasizing a point or to make something more memorable.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "meaning": "Ulangan atau pengulangan",
       "phonetics": {
         "us": "/riːpɪtɪʃən/",
@@ -2208,7 +2208,7 @@
       ],
       "definition": "A set of things that belong together or are related in some way.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "meaning": "Suatu pengumpulan hal yang terkait atau berhubungan.",
       "phonetics": {
         "us": "/sɛt/",
@@ -2252,7 +2252,7 @@
       ],
       "definition": "An activity that helps you prepare for a physical or mental challenge by gradually increasing your level of activity or difficulty.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "meaning": "Peregangan",
       "phonetics": {
         "us": "/wɔrm ʌp/",
@@ -2295,7 +2295,7 @@
       ],
       "definition": "To gradually reduce or stop an activity, especially after doing something physically demanding, in order to prevent overheating or injury.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "meaning": "Melancong secara bertahap",
       "phonetics": {
         "us": "/kuːldaʊn/",
@@ -2338,7 +2338,7 @@
       ],
       "definition": "A type of exercise that involves jumping and changing direction quickly, often used to improve explosive power and speed.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "meaning": "Latihan melibatkan melompat dan mengubah arah dengan cepat, biasanya digunakan untuk meningkatkan kekuatan impulsif dan kecepatan.",
       "phonetics": {
         "us": "/plaɪ.əˈmɛtrɪks/",
@@ -2382,7 +2382,7 @@
       ],
       "definition": "The ability to move quickly and easily with a smooth, fluid motion.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "meaning": "Kemampuan bergerak dengan cepat dan lincah",
       "phonetics": {
         "us": "/əˈdʒɪlti/",
@@ -2426,7 +2426,7 @@
       ],
       "definition": "The central or most important part of something, especially its most powerful or essential element.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "meaning": "Inti kekuatan",
       "phonetics": {
         "us": "/kɔr ˈstrɛŋθ/",
@@ -2470,7 +2470,7 @@
       ],
       "definition": "The position and angle in which someone or something is standing or sitting.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "meaning": "Kepala atau cara berdiri seseorang atau sesuatu.",
       "phonetics": {
         "us": "/ˈpɒstrʊər/",
@@ -2514,7 +2514,7 @@
       ],
       "definition": "The time needed for something or someone to recover from an injury, illness, or other adverse situation.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "meaning": "Waktu pemulihan",
       "phonetics": {
         "us": "/riːkəvəriː taɪm/",
@@ -2558,7 +2558,7 @@
       ],
       "definition": "A sour-tasting, milky liquid produced when muscle tissue breaks down, found in yogurt, milk, and other dairy products.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "meaning": "Asam laktat",
       "phonetics": {
         "us": "/ˈlæktɪk ˈæsɪd/",
@@ -2601,7 +2601,7 @@
       ],
       "definition": "The process of taking in water to keep the body or a liquid healthy and functioning properly.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "meaning": "Penggunaan air yang cukup",
       "phonetics": {
         "us": "/hʌɪˈdreɪʃən/",
@@ -2644,7 +2644,7 @@
       ],
       "definition": "Excessive exercise or physical activity, especially without adequate rest, leading to physical or mental fatigue.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "meaning": "Peregangan otot atau kelelahan fisik akibat latihan yang berlebihan tanpa istirahat yang cukup.",
       "phonetics": {
         "us": "/ˌoʊvərˈtreɪnɪŋ/",
@@ -2687,7 +2687,7 @@
       ],
       "definition": "A training method in which periods of high-intensity exercise are alternated with periods of low-intensity exercise.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "meaning": "Latihan interval",
       "phonetics": {
         "us": "/ɪntərˈvæl.tʃən treɪnɪŋ/",
@@ -2730,7 +2730,7 @@
       ],
       "definition": "A close connection between the mind and muscles that enables an individual to understand and control their physical movements.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "meaning": "Hubungan otak dan otot yang erat",
       "phonetics": {
         "us": "/maɪndˈmʌsəl kɒnˈɛkʃən/",
