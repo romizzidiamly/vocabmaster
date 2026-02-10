@@ -761,7 +761,41 @@
         "happiness"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "discovered",
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Job satisfaction is a key factor in employee happiness.",
+          "translation": "Ketidakpuasan dalam pekerjaan adalah faktor utama dalam kebahagiaan karyawan."
+        },
+        {
+          "type": "Complex",
+          "text": "If employees are satisfied with their job, they will be more productive and efficient.",
+          "translation": "Jika karyawan puas dengan pekerjaannya, mereka akan lebih produktif dan efisien."
+        },
+        {
+          "type": "Compound",
+          "text": "Job satisfaction is closely related to job security and fair compensation.",
+          "translation": "Ketidakpuasan dalam pekerjaan erat kaitannya dengan keamanan pekerjaan dan kompensasi yang adil."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "However, many employees are not satisfied with their job due to a lack of opportunities for career advancement, which can lead to a decrease in job satisfaction over time.",
+          "translation": "Namun, banyak karyawan tidak puas dengan pekerjaannya karena kurangnya kesempatan untuk meningkatkan karir, yang dapat menyebabkan penurunan ketidakpuasan dalam pekerjaan waktu yang lama."
+        }
+      ],
+      "phonetics": {
+        "us": "/dʒɒb sætɪsˈfeɪʃən/",
+        "uk": "/dʒɒb sætɪsˈfeɪʃən/"
+      },
+      "meaning": "Ketidakpuasan dalam pekerjaan",
+      "synonymMeanings": [
+        "kepuasan kerja",
+        "ketenteraman pekerjaan",
+        "kebahagiaan pekerjaan",
+        "kesejahteraan pekerja"
+      ],
+      "definition": "A person's feeling of happiness and contentment with their job."
     },
     {
       "id": "cda9adbc-c82e-4143-851e-5181126711b0",
