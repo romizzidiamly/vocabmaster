@@ -913,7 +913,41 @@
         "firing"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "discovered",
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "The company will terminate the contract with the supplier due to their poor performance.",
+          "translation": "Perusahaan tersebut akan memutuskan kontrak dengan penyedia karena kinerja yang buruk."
+        },
+        {
+          "type": "Complex",
+          "text": "The termination of the project was a result of the team's inability to meet the deadline and the client's dissatisfaction with the work.",
+          "translation": "Pemutusan proyek tersebut merupakan akibat dari kesulitan tim dalam menyelesaikan deadline dan kekecewaan klien terhadap hasil pekerjaan."
+        },
+        {
+          "type": "Compound",
+          "text": "The company will terminate the employment of several employees, including John, due to company restructuring and cost-cutting measures.",
+          "translation": "Perusahaan tersebut akan memutuskan hubungan kerja dengan beberapa karyawan, termasuk John, karena restrukturisasi perusahaan dan pengurangan biaya."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "The termination of the contract was a result of the company's financial difficulties, which were exacerbated by the employee's poor performance and the supplier's failure to deliver the goods on time.",
+          "translation": "Pemutusan kontrak tersebut merupakan akibat dari kesulitan keuangan perusahaan yang dipicu oleh kinerja buruk karyawan dan kegagalan penyedia dalam mengirimkan barang tepat waktu."
+        }
+      ],
+      "phonetics": {
+        "us": "/tərˌmɪˈneɪʃən/",
+        "uk": "/tərˌmɪˈneɪʃən/"
+      },
+      "meaning": "Pemutusan hubungan",
+      "synonymMeanings": [
+        "Pemutusan hubungan",
+        "Penangguhan",
+        "Pengunduran diri",
+        "Penyelesaian"
+      ],
+      "definition": "The act of ending something, especially a job, contract, or relationship."
     },
     {
       "id": "692be3c1-793d-4cab-b41b-798f1a606177",
