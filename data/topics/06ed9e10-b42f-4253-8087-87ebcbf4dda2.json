@@ -10,7 +10,7 @@
         "career"
       ],
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -53,7 +53,7 @@
         "vocation"
       ],
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -97,7 +97,7 @@
         "occupation"
       ],
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -141,7 +141,7 @@
         "redundancy"
       ],
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -185,7 +185,7 @@
         "employees"
       ],
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -229,7 +229,7 @@
         "tenure"
       ],
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -272,7 +272,7 @@
         "contractor"
       ],
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -316,7 +316,7 @@
         "innovator"
       ],
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -361,7 +361,7 @@
         "program"
       ],
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -402,7 +402,7 @@
         "elevation"
       ],
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -446,7 +446,7 @@
         "dismissal"
       ],
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -489,7 +489,7 @@
         "income"
       ],
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -532,7 +532,7 @@
         "earnings"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "81add737-4bd3-407e-a421-c85e75f61131",
@@ -542,7 +542,7 @@
         "revenue"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "d819e46a-9b63-4bcb-9b3b-e2afaa107321",
@@ -553,7 +553,7 @@
         "shift"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "d304299e-74c0-4e98-af83-48a47638c2c2",
@@ -563,7 +563,7 @@
         "reward"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "b82284ae-f78d-4c1a-b724-88778d1ed25d",
@@ -573,7 +573,7 @@
         "savings"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "7df0d4c8-7525-4989-9279-9e03ec02b0c0",
@@ -583,7 +583,7 @@
         "equilibrium"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "0fcd4d43-e7e1-4dff-8658-88d079ec0767",
@@ -594,7 +594,7 @@
         "happiness"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "cda9adbc-c82e-4143-851e-5181126711b0",
@@ -604,7 +604,7 @@
         "output"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "8529a15d-65c8-47c8-a63e-356a9897d4d3",
@@ -614,7 +614,7 @@
         "proficiency"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "37c6bf64-61ce-4d44-aebb-f1915cebf5d8",
@@ -624,7 +624,7 @@
         "dismissal"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "70d0ad4b-6011-4004-a1a2-70dc60f00004",
@@ -634,7 +634,7 @@
         "quitting"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "35e717bf-e10f-423d-925b-0a76aa6ac0e0",
@@ -644,7 +644,7 @@
         "firing"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "692be3c1-793d-4cab-b41b-798f1a606177",
