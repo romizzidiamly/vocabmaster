@@ -586,7 +586,41 @@
         "shift"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "discovered",
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "The company pays employees for overtime work.",
+          "translation": "Perusahaan membayar gaji karyawan untuk pekerjaan lembur."
+        },
+        {
+          "type": "Complex",
+          "text": "If employees work overtime, they should be given extra pay, as it is their right.",
+          "translation": "Jika karyawan bekerja lembur, mereka harus mendapatkan gaji tambahan, karena itu adalah hak mereka."
+        },
+        {
+          "type": "Compound",
+          "text": "Working overtime is stressful, but it allows employees to earn extra income.",
+          "translation": "Bekerja lembur sangat melelahkan, namun itu memungkinkan karyawan untuk mendapatkan pendapatan tambahan."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "Many employees are not aware of their rights regarding overtime pay, and it is the responsibility of the management to educate them on this matter.",
+          "translation": "Banyak karyawan tidak menyadari hak mereka tentang pembayaran lembur, dan itu tanggung jawab manajemen untuk memberikan pendidikan tentang hal ini."
+        }
+      ],
+      "phonetics": {
+        "us": "/ˈoʊvərˌtaɪm/",
+        "uk": "/ˈoʊvərˌtaɪm/"
+      },
+      "meaning": "Jam lembur",
+      "synonymMeanings": [
+        "jam ekstra",
+        "jam tambahan",
+        "gaji lembur",
+        "jam malam"
+      ],
+      "definition": "More time spent working than what is considered normal, often paid for at a higher rate."
     },
     {
       "id": "d304299e-74c0-4e98-af83-48a47638c2c2",
