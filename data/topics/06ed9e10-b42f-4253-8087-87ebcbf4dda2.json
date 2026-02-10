@@ -805,7 +805,41 @@
         "output"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "discovered",
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Increasing productivity is essential for a company's success.",
+          "translation": "Meningkatkan kapasitas produksi sangat penting untuk kesuksesan suatu perusahaan."
+        },
+        {
+          "type": "Complex",
+          "text": "While many people believe that working longer hours improves productivity, research suggests that it can actually have the opposite effect.",
+          "translation": "Meskipun banyak orang percaya bahwa bekerja lebih lama dapat meningkatkan kapasitas produksi, penelitian menunjukkan bahwa sebenarnya dapat memiliki efek yang berlawanan."
+        },
+        {
+          "type": "Compound",
+          "text": "Improving productivity and reducing costs are the main goals of the company's new strategy.",
+          "translation": "Meningkatkan kapasitas produksi dan mengurangi biaya merupakan tujuan utama strategi baru perusahaan."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "In order to improve productivity, the company will implement new technology and provide additional training for employees, but it will also require a significant reduction in staffing levels.",
+          "translation": "Untuk meningkatkan kapasitas produksi, perusahaan akan melaksanakan teknologi baru dan menyediakan pelatihan tambahan bagi karyawan, tetapi juga akan memerlukan penurunan signifikan jumlah staf."
+        }
+      ],
+      "phonetics": {
+        "us": "/prɒdʌktɪvɪti/",
+        "uk": "/prɒdʌktɪvɪti/"
+      },
+      "meaning": "Kapasitas produksi",
+      "synonymMeanings": [
+        "Kapasitas kerja",
+        "Effisiensi",
+        "Output",
+        "Kinerja"
+      ],
+      "definition": "The rate at which a person or thing produces something; the amount of output from a system, machine, etc. per unit of time."
     },
     {
       "id": "8529a15d-65c8-47c8-a63e-356a9897d4d3",
