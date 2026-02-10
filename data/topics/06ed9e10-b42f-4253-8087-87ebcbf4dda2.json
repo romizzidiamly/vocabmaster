@@ -640,7 +640,40 @@
         "savings"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "discovered",
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Many countries provide a pension to their citizens after retirement.",
+          "translation": "Banyak negara memberikan pensiun kepada warga negara mereka setelah pensiun."
+        },
+        {
+          "type": "Complex",
+          "text": "The government has proposed a new pension scheme to improve the lives of elderly citizens.",
+          "translation": "Pemerintah telah mengusulkan rencana baru pensiun untuk meningkatkan kualitas hidup warga negara lanjut usia."
+        },
+        {
+          "type": "Compound",
+          "text": "The company offers a generous pension package to its employees, including a lump sum payment and a lifelong annuity.",
+          "translation": "Perusahaan menawarkan paket pensiun yang liberal kepada karyawannya, termasuk pembayaran sekaligus dan anuitas seumur hidup."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "The increasing cost of living has forced many people to reconsider their pension plans and choose a more affordable option.",
+          "translation": "Kenaikan biaya hidup telah mengharuskan banyak orang untuk mengulang rencana pensiun mereka dan memilih opsi yang lebih terjangkau."
+        }
+      ],
+      "phonetics": {
+        "us": "/ˈpɛn.ʃən/",
+        "uk": "/ˈpɛn.ʒən/"
+      },
+      "meaning": "Pensiun",
+      "synonymMeanings": [
+        "Uang pensiun",
+        "Jaminan pensiun",
+        "Asuransi pensiun"
+      ],
+      "definition": "A regular payment made to someone who is no longer working, usually because of old age."
     },
     {
       "id": "7df0d4c8-7525-4989-9279-9e03ec02b0c0",
