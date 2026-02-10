@@ -9,11 +9,8 @@
         "Profession",
         "career"
       ],
-      "userGuesses": [
-        "profession",
-        "career"
-      ],
-      "status": "mastered",
+      "userGuesses": [],
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -56,7 +53,7 @@
         "vocation"
       ],
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -99,10 +96,8 @@
         "Work",
         "occupation"
       ],
-      "userGuesses": [
-        "occupation"
-      ],
-      "status": "discovered",
+      "userGuesses": [],
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -145,11 +140,8 @@
         "Joblessness",
         "redundancy"
       ],
-      "userGuesses": [
-        "joblessness",
-        "redundancy"
-      ],
-      "status": "mastered",
+      "userGuesses": [],
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -192,10 +184,8 @@
         "Labor force",
         "employees"
       ],
-      "userGuesses": [
-        "LABOR FORCE"
-      ],
-      "status": "discovered",
+      "userGuesses": [],
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -239,7 +229,7 @@
         "tenure"
       ],
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -281,11 +271,8 @@
         "Self-employed worker",
         "contractor"
       ],
-      "userGuesses": [
-        "self-employed worker",
-        "contractor"
-      ],
-      "status": "mastered",
+      "userGuesses": [],
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -328,10 +315,8 @@
         "Business owner",
         "innovator"
       ],
-      "userGuesses": [
-        "innovator"
-      ],
-      "status": "discovered",
+      "userGuesses": [],
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -375,11 +360,8 @@
         "training",
         "program"
       ],
-      "userGuesses": [
-        "work placement",
-        "training"
-      ],
-      "status": "discovered",
+      "userGuesses": [],
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -419,10 +401,8 @@
         "Career advancement",
         "elevation"
       ],
-      "userGuesses": [
-        "career advancement"
-      ],
-      "status": "discovered",
+      "userGuesses": [],
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -465,10 +445,8 @@
         "Downgrade",
         "dismissal"
       ],
-      "userGuesses": [
-        "downgrade"
-      ],
-      "status": "discovered",
+      "userGuesses": [],
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -510,11 +488,8 @@
         "Wages",
         "income"
       ],
-      "userGuesses": [
-        "WAGES",
-        "INCOME"
-      ],
-      "status": "mastered",
+      "userGuesses": [],
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
