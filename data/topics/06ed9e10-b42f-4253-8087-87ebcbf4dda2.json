@@ -630,7 +630,40 @@
         "reward"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "discovered",
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "The company offers a bonus to employees who meet their quarterly targets.",
+          "translation": "Perusahaan menawarkan bonus kepada karyawan yang mencapai target kuarter mereka."
+        },
+        {
+          "type": "Complex",
+          "text": "The bonus is paid out only if the employee has worked for the company for at least five years.",
+          "translation": "Bonus dibayarkan hanya jika karyawan telah bekerja di perusahaan selama minimal lima tahun."
+        },
+        {
+          "type": "Compound",
+          "text": "The company's financial performance has improved significantly, allowing them to pay a bonus to their employees.",
+          "translation": "Kinerja keuangan perusahaan telah meningkat secara signifikan, sehingga mereka dapat membayar bonus kepada karyawan mereka."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "However, the bonus is only paid out if the employee has consistently met their performance targets over the past year.",
+          "translation": "Namun, bonus hanya dibayarkan jika karyawan telah konsisten mencapai target performanya selama setahun terakhir."
+        }
+      ],
+      "phonetics": {
+        "us": "/ˈbɒnəs/",
+        "uk": "/ˈbɒnəs/"
+      },
+      "meaning": "Tambahan gaji atau hadiah",
+      "synonymMeanings": [
+        "Hadiah",
+        "Tambahan",
+        "Penghargaan"
+      ],
+      "definition": "A payment made in addition to an employee's normal salary."
     },
     {
       "id": "b82284ae-f78d-4c1a-b724-88778d1ed25d",
