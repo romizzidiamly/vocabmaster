@@ -552,7 +552,9 @@
         "Pay",
         "earnings"
       ],
-      "userGuesses": [],
+      "userGuesses": [
+        "earnings"
+      ],
       "status": "discovered",
       "examples": [
         {
