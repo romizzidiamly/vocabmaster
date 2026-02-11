@@ -506,7 +506,9 @@
         "Wages",
         "income"
       ],
-      "userGuesses": [],
+      "userGuesses": [
+        "income"
+      ],
       "status": "discovered",
       "examples": [
         {
