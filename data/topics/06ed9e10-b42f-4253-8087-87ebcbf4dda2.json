@@ -657,9 +657,10 @@
         "reward"
       ],
       "userGuesses": [
-        "incentive"
+        "incentive",
+        "reward"
       ],
-      "status": "discovered",
+      "status": "mastered",
       "examples": [
         {
           "type": "Simple",
