@@ -553,9 +553,10 @@
         "earnings"
       ],
       "userGuesses": [
-        "earnings"
+        "earnings",
+        "pay"
       ],
-      "status": "discovered",
+      "status": "mastered",
       "examples": [
         {
           "type": "Simple",
