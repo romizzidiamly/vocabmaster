@@ -924,7 +924,9 @@
         "Layoff",
         "dismissal"
       ],
-      "userGuesses": [],
+      "userGuesses": [
+        "layoff"
+      ],
       "status": "discovered",
       "examples": [
         {
