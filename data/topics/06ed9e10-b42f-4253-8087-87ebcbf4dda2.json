@@ -1162,7 +1162,9 @@
         "contract",
         "work"
       ],
-      "userGuesses": [],
+      "userGuesses": [
+        "self-employment"
+      ],
       "status": "discovered"
     },
     {
