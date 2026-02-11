@@ -99,9 +99,10 @@
         "occupation"
       ],
       "userGuesses": [
-        "occupation"
+        "occupation",
+        "work"
       ],
-      "status": "discovered",
+      "status": "mastered",
       "examples": [
         {
           "type": "Simple",
