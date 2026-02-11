@@ -586,7 +586,7 @@
         "shift"
       ],
       "userGuesses": [],
-      "status": "hidden",
+      "status": "discovered",
       "examples": [
         {
           "type": "Simple",
