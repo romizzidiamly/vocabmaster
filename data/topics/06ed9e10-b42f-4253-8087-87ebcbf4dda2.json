@@ -1002,7 +1002,9 @@
         "Dismissal",
         "firing"
       ],
-      "userGuesses": [],
+      "userGuesses": [
+        "firing"
+      ],
       "status": "discovered",
       "examples": [
         {
