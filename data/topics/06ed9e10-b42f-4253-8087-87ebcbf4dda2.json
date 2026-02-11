@@ -507,9 +507,10 @@
         "income"
       ],
       "userGuesses": [
-        "income"
+        "income",
+        "wages"
       ],
-      "status": "discovered",
+      "status": "mastered",
       "examples": [
         {
           "type": "Simple",
