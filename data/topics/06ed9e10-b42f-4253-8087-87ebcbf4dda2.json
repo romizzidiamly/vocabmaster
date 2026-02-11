@@ -1174,7 +1174,9 @@
         "Professional growth",
         "promotion"
       ],
-      "userGuesses": [],
+      "userGuesses": [
+        "professional growth"
+      ],
       "status": "discovered"
     },
     {
