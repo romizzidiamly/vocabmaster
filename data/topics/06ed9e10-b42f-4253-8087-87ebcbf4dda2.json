@@ -598,7 +598,9 @@
         "Earnings",
         "revenue"
       ],
-      "userGuesses": [],
+      "userGuesses": [
+        "earnings"
+      ],
       "status": "discovered"
     },
     {
