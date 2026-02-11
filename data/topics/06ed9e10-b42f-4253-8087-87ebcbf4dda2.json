@@ -10,7 +10,7 @@
         "career"
       ],
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -53,7 +53,7 @@
         "vocation"
       ],
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -97,7 +97,7 @@
         "occupation"
       ],
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -141,7 +141,7 @@
         "redundancy"
       ],
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -185,7 +185,7 @@
         "employees"
       ],
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -229,7 +229,7 @@
         "tenure"
       ],
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -272,7 +272,7 @@
         "contractor"
       ],
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -316,7 +316,7 @@
         "innovator"
       ],
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -361,7 +361,7 @@
         "program"
       ],
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -402,7 +402,7 @@
         "elevation"
       ],
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -446,7 +446,7 @@
         "dismissal"
       ],
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -489,7 +489,7 @@
         "income"
       ],
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -532,7 +532,7 @@
         "earnings"
       ],
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -575,7 +575,7 @@
         "revenue"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "d819e46a-9b63-4bcb-9b3b-e2afaa107321",
@@ -586,7 +586,7 @@
         "shift"
       ],
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -630,7 +630,7 @@
         "reward"
       ],
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -673,7 +673,7 @@
         "savings"
       ],
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -716,7 +716,7 @@
         "equilibrium"
       ],
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -761,7 +761,7 @@
         "happiness"
       ],
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -805,7 +805,7 @@
         "output"
       ],
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -849,7 +849,7 @@
         "proficiency"
       ],
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -893,7 +893,7 @@
         "dismissal"
       ],
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -927,7 +927,7 @@
         "quitting"
       ],
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -971,7 +971,7 @@
         "firing"
       ],
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
