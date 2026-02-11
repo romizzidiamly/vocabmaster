@@ -280,7 +280,9 @@
         "Self-employed worker",
         "contractor"
       ],
-      "userGuesses": [],
+      "userGuesses": [
+        "self-employed worker"
+      ],
       "status": "discovered",
       "examples": [
         {
