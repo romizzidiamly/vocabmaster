@@ -281,9 +281,10 @@
         "contractor"
       ],
       "userGuesses": [
-        "self-employed worker"
+        "self-employed worker",
+        "contractor"
       ],
-      "status": "discovered",
+      "status": "mastered",
       "examples": [
         {
           "type": "Simple",
