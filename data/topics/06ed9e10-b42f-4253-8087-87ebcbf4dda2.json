@@ -1138,9 +1138,10 @@
         "exhaustion"
       ],
       "userGuesses": [
-        "work fatigue"
+        "work fatigue",
+        "exhaustion"
       ],
-      "status": "discovered"
+      "status": "mastered"
     },
     {
       "id": "63cd00cb-f220-4b23-bf41-6f4369ad36ec",
