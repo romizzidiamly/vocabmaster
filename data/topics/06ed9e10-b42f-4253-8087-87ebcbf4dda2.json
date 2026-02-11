@@ -98,7 +98,9 @@
         "Work",
         "occupation"
       ],
-      "userGuesses": [],
+      "userGuesses": [
+        "occupation"
+      ],
       "status": "discovered",
       "examples": [
         {
