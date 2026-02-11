@@ -375,7 +375,9 @@
         "training",
         "program"
       ],
-      "userGuesses": [],
+      "userGuesses": [
+        "training"
+      ],
       "status": "discovered",
       "examples": [
         {
