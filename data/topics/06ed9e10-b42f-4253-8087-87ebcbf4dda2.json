@@ -834,7 +834,9 @@
         "Efficiency",
         "output"
       ],
-      "userGuesses": [],
+      "userGuesses": [
+        "efficiency"
+      ],
       "status": "discovered",
       "examples": [
         {
