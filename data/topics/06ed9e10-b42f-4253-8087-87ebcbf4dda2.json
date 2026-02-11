@@ -327,7 +327,9 @@
         "Business owner",
         "innovator"
       ],
-      "userGuesses": [],
+      "userGuesses": [
+        "business owner"
+      ],
       "status": "discovered",
       "examples": [
         {
