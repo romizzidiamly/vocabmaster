@@ -328,9 +328,10 @@
         "innovator"
       ],
       "userGuesses": [
-        "business owner"
+        "business owner",
+        "innovator"
       ],
-      "status": "discovered",
+      "status": "mastered",
       "examples": [
         {
           "type": "Simple",
