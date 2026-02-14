@@ -10,7 +10,7 @@
         "career"
       ],
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -53,7 +53,7 @@
         "vocation"
       ],
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -97,7 +97,7 @@
         "occupation"
       ],
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -141,7 +141,7 @@
         "redundancy"
       ],
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -185,7 +185,7 @@
         "employees"
       ],
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -229,7 +229,7 @@
         "tenure"
       ],
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -272,7 +272,7 @@
         "contractor"
       ],
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -316,7 +316,7 @@
         "innovator"
       ],
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -361,7 +361,7 @@
         "program"
       ],
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -402,7 +402,7 @@
         "elevation"
       ],
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -446,7 +446,7 @@
         "dismissal"
       ],
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -489,7 +489,7 @@
         "income"
       ],
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -532,7 +532,7 @@
         "earnings"
       ],
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -575,7 +575,7 @@
         "revenue"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "d819e46a-9b63-4bcb-9b3b-e2afaa107321",
@@ -586,7 +586,7 @@
         "shift"
       ],
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -630,7 +630,7 @@
         "reward"
       ],
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -673,7 +673,7 @@
         "savings"
       ],
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -716,7 +716,7 @@
         "equilibrium"
       ],
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -761,7 +761,7 @@
         "happiness"
       ],
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -805,7 +805,7 @@
         "output"
       ],
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -849,7 +849,7 @@
         "proficiency"
       ],
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -893,7 +893,7 @@
         "dismissal"
       ],
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -927,7 +927,7 @@
         "quitting"
       ],
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -971,7 +971,7 @@
         "firing"
       ],
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -1015,7 +1015,7 @@
         "employment"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "4dc82627-0326-4e2e-b057-212da13b5f8f",
@@ -1026,7 +1026,7 @@
         "scouting"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "857c1d93-c35b-445a-ab76-be3bf1243b2c",
@@ -1036,7 +1036,7 @@
         "prejudice"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "1f5a5392-fd32-4e34-8875-51bc806ccf5c",
@@ -1047,7 +1047,7 @@
         "association"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "c667d785-2b04-4b43-a4e7-7c42d80ce4ff",
@@ -1057,7 +1057,7 @@
         "professional growth"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "eda4cb21-1a07-4cb7-9342-30eb56530495",
@@ -1067,7 +1067,7 @@
         "professional limitation"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "eb1aac8b-645f-430c-803a-1b79f93444cb",
@@ -1078,7 +1078,7 @@
         "monitoring"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "10fe9f2a-b5d0-4f8f-b77b-71b7062e1b7d",
@@ -1088,7 +1088,7 @@
         "business contacts"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "35e427aa-8fe8-4ef9-bd14-941b15bc8ae0",
@@ -1098,7 +1098,7 @@
         "exhaustion"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "63cd00cb-f220-4b23-bf41-6f4369ad36ec",
@@ -1109,7 +1109,7 @@
         "from home"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "c072c870-7f4c-4356-b7a6-66e95f867ad9",
@@ -1120,7 +1120,7 @@
         "work"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "75ea257b-5072-41c7-8f6d-b44dcd8c06a6",
@@ -1130,7 +1130,7 @@
         "promotion"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "e8dd0ae0-5ca4-4e07-8c1b-b4a638a35684",
@@ -1140,7 +1140,7 @@
         "traineeship"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "032a792e-118a-487d-9bd3-635556c2a3a4",
@@ -1150,7 +1150,7 @@
         "downsizing"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "4d745bad-1881-44c8-b31d-26f67022df98",
@@ -1160,7 +1160,7 @@
         "robotics"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "3d12f930-5853-4f2c-8232-b2a379544590",
@@ -1170,7 +1170,7 @@
         "hands-on"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "d35c0f52-5e17-4961-91ed-51955af7090d",
@@ -1180,7 +1180,7 @@
         "managerial"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "0a850f87-1f4e-47c4-8470-e1b42fa8cec0",
@@ -1191,7 +1191,7 @@
         "migration"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "9eaaf15e-f6a5-49bf-bcef-2155cd69f00a",
@@ -1202,7 +1202,7 @@
         "growth"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "74a8cbba-7039-4b4a-9ecd-305819b28555",
@@ -1212,7 +1212,7 @@
         "percentage"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "55ad72f7-ce80-4567-af18-c092112803b3",
@@ -1222,7 +1222,7 @@
         "expertise"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "84bda0b8-8cbf-46ab-b768-402a758f7ccf",
@@ -1232,7 +1232,7 @@
         "multinational"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "4bf41a76-9853-4089-b23b-97b5f79b2d2b",
@@ -1242,7 +1242,7 @@
         "unpromising career"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "e81acc70-0546-4a4a-b148-057533ec6029",
@@ -1252,7 +1252,7 @@
         "reductions"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "08f16e90-8b1c-40b2-9f22-9b5db546b79f",
@@ -1262,7 +1262,7 @@
         "retrenchment"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "bca2b0c9-4144-45e9-b17d-ab2923304cf5",
@@ -1272,7 +1272,7 @@
         "self-employment"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "870e1692-3467-405d-861b-479d10557284",
@@ -1282,7 +1282,7 @@
         "employee benefits"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "a2d9142e-fd24-4be1-9893-1fd2d17eac53",
@@ -1292,7 +1292,7 @@
         "company rating"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "61bd7d97-bb95-43f3-b9bf-75be3f67d78d",
@@ -1302,7 +1302,7 @@
         "ranking"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "1effc1d3-5359-4305-8e9b-8f6b4d0b4a99",
@@ -1312,7 +1312,7 @@
         "advancement"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "091283e5-d901-4577-a78f-afef8d6610e5",
@@ -1322,7 +1322,7 @@
         "dismissal"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "4dac9b31-36b3-4689-bafa-3c6dc64e911a",
@@ -1332,7 +1332,7 @@
         "guidance"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "9b78a352-e352-4695-bc7d-6423397f712f",
@@ -1342,7 +1342,7 @@
         "extra work"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "f84c8cd2-e99e-4018-8ed2-5f3791080ea9",
@@ -1352,7 +1352,7 @@
         "external hiring"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "517d0342-dab1-46ba-b403-3b65319fb565",
@@ -1363,7 +1363,7 @@
         "phase"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "c3cce863-b9c3-412c-91f1-ee717a6c94ce",
@@ -1373,7 +1373,7 @@
         "upskilling"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "acf7402a-c04c-4024-9430-0cb10a28e001",
@@ -1383,7 +1383,7 @@
         "compensation"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "5fc93f15-d2fb-4b7b-b724-bab756427c57",
@@ -1393,7 +1393,7 @@
         "career planning"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "41c01aef-59f0-47ac-b1b3-6134db0f57e0",
@@ -1403,7 +1403,7 @@
         "labor organization"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "9798595e-f380-4a3a-ab79-053550051bf6",
@@ -1413,7 +1413,7 @@
         "employee motivation"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     }
   ],
   "createdAt": 1770602925726
