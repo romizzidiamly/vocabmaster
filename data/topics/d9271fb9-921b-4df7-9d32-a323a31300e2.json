@@ -693,8 +693,41 @@
         "Shipping",
         "naval transport"
       ],
+      "definition": "The movement of goods or people by ship or boat.",
       "userGuesses": [],
-      "status": "discovered"
+      "status": "discovered",
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Maritime transport has become a vital part of global trade.",
+          "translation": "Transportasi laut telah menjadi bagian penting dari perdagangan global."
+        },
+        {
+          "type": "Complex",
+          "text": "While maritime transport offers many advantages, it also poses significant environmental risks.",
+          "translation": "Meskipun transportasi laut menawarkan banyak keuntungan, namun juga menimbulkan risiko lingkungan yang signifikan."
+        },
+        {
+          "type": "Compound",
+          "text": "Maritime transport is more efficient and cost-effective than land or air transport, and it allows us to transport larger quantities of goods.",
+          "translation": "Transportasi laut lebih efisien dan lebih menghemat biaya daripada transportasi darat atau udara, serta memungkinkan kita untuk mengangkut kuantitas barang yang lebih besar."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "However, the development of maritime transport has also led to increased pressure on ports and coastal ecosystems, which can have devastating effects on marine life.",
+          "translation": "Namun, perkembangan transportasi laut juga telah menyebabkan tekanan yang meningkat pada pelabuhan dan ekosistem pesisir, yang dapat memiliki efek menghancurkan pada kehidupan laut."
+        }
+      ],
+      "phonetics": {
+        "us": "/mɑːrˈɪtɪm trænzˈpɔrt/",
+        "uk": "/mɑːrˈɪtɪm trænzˈpɔːrt/"
+      },
+      "meaning": "Transportasi laut",
+      "synonymMeanings": [
+        "transportasi laut",
+        "kapal",
+        "nelayan"
+      ]
     },
     {
       "id": "fe9921ec-47b9-4e80-bd28-dc989934c2f1",
