@@ -102,8 +102,41 @@
         "private",
         "automobile"
       ],
+      "definition": "A vehicle, such as a car, that is owned and used by one person or family.",
       "userGuesses": [],
-      "status": "discovered"
+      "status": "discovered",
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "The use of private vehicles in urban areas is a significant contributor to air pollution.",
+          "translation": "Penggunaan kendaraan pribadi di kawasan perkotaan merupakan kontributor yang signifikan terhadap polusi udara."
+        },
+        {
+          "type": "Complex",
+          "text": "While some people prefer to use public transport, others rely on private vehicles for their daily commute.",
+          "translation": "Meskipun ada orang yang lebih suka menggunakan transportasi umum, orang lain bergantung pada kendaraan pribadi untuk perjalanan harian mereka."
+        },
+        {
+          "type": "Compound",
+          "text": "Private vehicles are a convenient option for long trips, but they can be expensive to maintain.",
+          "translation": "Kendaraan pribadi merupakan pilihan yang nyaman untuk perjalanan jauh, tetapi mereka dapat mahal untuk menjaga."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "However, the increasing number of private vehicles on the road has led to traffic congestion and environmental concerns, which have prompted governments to introduce policies to encourage the use of public transport.",
+          "translation": "Namun, meningkatnya jumlah kendaraan pribadi di jalan telah menyebabkan kemacetan lalu lintas dan kekhawatiran lingkungan, yang telah menyebabkan pemerintah untuk mewujudkan kebijakan untuk mendorong penggunaan transportasi umum."
+        }
+      ],
+      "phonetics": {
+        "us": "/praɪvɪt veeˈhɪkəl/",
+        "uk": "/praɪvɪt viːˈhɪkəl/"
+      },
+      "meaning": "Kendaraan pribadi",
+      "synonymMeanings": [
+        "Kendaraan pribadi",
+        "Mobil pribadi",
+        "Kendaraan roda empat"
+      ]
     },
     {
       "id": "35b08ef8-3177-41d4-bcf0-353b54b5b9ad",
