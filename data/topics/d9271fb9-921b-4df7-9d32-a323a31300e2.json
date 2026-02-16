@@ -22,7 +22,9 @@
         "communal",
         "transport"
       ],
-      "userGuesses": [],
+      "userGuesses": [
+        "MASS TRANSIT"
+      ],
       "status": "discovered"
     },
     {
