@@ -681,10 +681,42 @@
         "Aviation",
         "flight"
       ],
+      "definition": "Travel by aeroplane.",
       "userGuesses": [
         "AVIATION"
       ],
-      "status": "discovered"
+      "status": "discovered",
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "I prefer air travel because it is faster.",
+          "translation": "Saya lebih suka perjalanan udara karena lebih cepat."
+        },
+        {
+          "type": "Complex",
+          "text": "Air travel has many advantages, including saving time and reducing stress.",
+          "translation": "Perjalanan udara memiliki banyak kelebihan, termasuk menghemat waktu dan mengurangi stres."
+        },
+        {
+          "type": "Compound",
+          "text": "I chose air travel over other modes of transport because it is convenient and comfortable.",
+          "translation": "Saya memilih perjalanan udara di atas moda transportasi lain karena lebih nyaman dan mudah."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "While air travel is often considered fast and efficient, it can also be expensive, especially for long-distance flights.",
+          "translation": "Meskipun perjalanan udara sering dianggap cepat dan efisien, namun juga dapat mahal, terutama untuk penerbangan jarak jauh."
+        }
+      ],
+      "phonetics": {
+        "us": "/ˈɛər trævəl/",
+        "uk": "/ˈɛər trævəl/"
+      },
+      "meaning": "Perjalanan udara",
+      "synonymMeanings": [
+        "Perjalanan pesawat",
+        "Penerbangan"
+      ]
     },
     {
       "id": "c45e5786-04a4-4c34-a2de-1000687da49e",
