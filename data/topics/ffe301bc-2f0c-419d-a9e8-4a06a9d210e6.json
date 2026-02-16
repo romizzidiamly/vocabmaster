@@ -656,7 +656,7 @@
       ],
       "definition": "The presence of pollutants in the air, which can cause harm to the environment and human health.",
       "userGuesses": [],
-      "status": "hidden",
+      "status": "discovered",
       "examples": [
         {
           "type": "Simple",
