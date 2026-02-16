@@ -279,10 +279,44 @@
         "Green transport",
         "eco-friendly transit"
       ],
+      "definition": "The use of methods or systems of transportation that do not harm the environment and can be maintained in the long term.",
       "userGuesses": [
         "GREEN TRANSPORT"
       ],
-      "status": "discovered"
+      "status": "discovered",
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "The city is promoting sustainable transport by encouraging the use of bicycles.",
+          "translation": "Kota tersebut mendorong transportasi ramah lingkungan dengan menggalakkan penggunaan sepeda."
+        },
+        {
+          "type": "Complex",
+          "text": "The government has implemented various policies to promote sustainable transport, including the development of public transportation systems and the construction of bike lanes.",
+          "translation": "Pemerintah telah menerapkan berbagai kebijakan untuk meningkatkan transportasi ramah lingkungan, termasuk pengembangan sistem transportasi umum dan pembangunan jalur sepeda."
+        },
+        {
+          "type": "Compound",
+          "text": "The city has invested heavily in sustainable transport, but it still faces challenges in reducing air pollution.",
+          "translation": "Kota tersebut telah menginvestasikan banyak dalam transportasi ramah lingkungan, tetapi masih menghadapi tantangan dalam mengurangi polusi udara."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "The development of sustainable transport has many benefits, including reducing greenhouse gas emissions and improving air quality, but it also requires significant investment and infrastructure development.",
+          "translation": "Pengembangan transportasi ramah lingkungan memiliki banyak manfaat, termasuk mengurangi emisi gas rumah kaca dan meningkatkan kualitas udara, tetapi juga memerlukan investasi dan pengembangan infrastruktur yang signifikan."
+        }
+      ],
+      "phonetics": {
+        "us": "/səsˈteɪnəbəl tɹænˈspɔːt/",
+        "uk": "/səsˈteɪnəbəl tɹænˈsɔːt/"
+      },
+      "meaning": "Transportasi ramah lingkungan yang dapat dipertahankan jangka panjang.",
+      "synonymMeanings": [
+        "Transportasi hijau",
+        "Transportasi berkelanjutan",
+        "Pengangkutan ramah lingkungan",
+        "Mobilisasi berkelanjutan"
+      ]
     },
     {
       "id": "0470d289-8e06-4f9a-8f7a-0197ccf220b1",
