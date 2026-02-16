@@ -462,31 +462,41 @@
         "shared",
         "transport"
       ],
+      "definition": "A service that allows people to travel in vehicles with drivers, booked and paid for through a mobile app.",
       "userGuesses": [],
       "status": "discovered",
       "examples": [
         {
           "type": "Simple",
-          "text": ""
+          "text": "Ride-sharing services have become increasingly popular in major cities around the world.",
+          "translation": "Sistem pengemudi pribadi telah menjadi semakin populer di kota besar di seluruh dunia."
         },
         {
           "type": "Complex",
-          "text": ""
+          "text": "While some people prefer the convenience of ride-sharing, others argue that it is a threat to traditional taxi services.",
+          "translation": "Meskipun beberapa orang lebih suka kemudahan sistem pengemudi pribadi, orang lain berargumen bahwa hal ini merupakan ancaman bagi layanan taksi tradisional."
         },
         {
           "type": "Compound",
-          "text": ""
+          "text": "The rise of ride-sharing services has led to increased traffic congestion and environmental pollution.",
+          "translation": "Kenaikan sistem pengemudi pribadi telah menyebabkan peningkatan kemacetan lalu lintas dan polusi lingkungan."
         },
         {
           "type": "Compound-Complex",
-          "text": ""
+          "text": "Ride-sharing services have both positive and negative impacts on society, which need to be carefully considered when evaluating their effects.",
+          "translation": "Sistem pengemudi pribadi memiliki dampak positif dan negatif pada masyarakat, yang perlu dipertimbangkan dengan hati-hati ketika mengevaluasi efeknya."
         }
       ],
       "phonetics": {
-        "us": "/.../",
-        "uk": "/.../"
+        "us": "/raɪd-ˈʃerɪŋ/",
+        "uk": "/raɪd-ˈʃɛərɪŋ/"
       },
-      "meaning": "Meaning not found."
+      "meaning": "Sistem pengemudi pribadi yang dapat dibooking dan dibayar melalui aplikasi seluler.",
+      "synonymMeanings": [
+        "pengemudi pribadi",
+        "sistem pengantaran",
+        "sistem pengangkutan"
+      ]
     },
     {
       "id": "33a786c3-880c-4b45-95d6-fabbfe586fdf",
@@ -594,8 +604,42 @@
         "Energy efficiency",
         "fuel economy"
       ],
+      "definition": "The ability of a vehicle or engine to use fuel efficiently.",
       "userGuesses": [],
-      "status": "discovered"
+      "status": "discovered",
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "The new hybrid car has better fuel efficiency than our old car.",
+          "translation": "Mobil bensin hybrid baru tersebut memiliki kinerja bahan bakar yang lebih baik dari mobil kita yang lama."
+        },
+        {
+          "type": "Complex",
+          "text": "The increasing demand for fuel has led to a significant decrease in fuel efficiency due to a shortage of fuel supplies.",
+          "translation": "Kenaikan permintaan bahan bakar telah menyebabkan penurunan signifikan dalam kinerja bahan bakar karena kekurangan suplai bahan bakar."
+        },
+        {
+          "type": "Compound",
+          "text": "The new fuel-efficient engine and aerodynamic design have contributed to the car's improved fuel efficiency.",
+          "translation": "Mesin yang lebih ramah bahan bakar dan desain aerodinamis baru telah berkontribusi pada peningkatan kinerja bahan bakar mobil."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "However, despite the improvement in fuel efficiency, many consumers are still concerned about the high upfront costs of purchasing a fuel-efficient car, which may be offset by lower running costs over time.",
+          "translation": "Namun, meskipun ada peningkatan kinerja bahan bakar, banyak konsumen masih khawatir tentang biaya beli yang lebih mahal dari mobil yang lebih ramah bahan bakar, yang mungkin dapat seimbang dengan biaya operasional yang lebih rendah dalam waktu lama."
+        }
+      ],
+      "phonetics": {
+        "us": "/ˈfuːɛl ɛˈfɪʃiːnsi/",
+        "uk": "/ˈfuːəl ɛˈfɪʃənsi/"
+      },
+      "meaning": "Kinerja bahan bakar",
+      "synonymMeanings": [
+        "Kinerja bahan bakar",
+        "Efisiensi energi",
+        "Kapasitas bahan bakar",
+        "Kemampuan penggunaan bahan bakar"
+      ]
     },
     {
       "id": "29219636-5261-4819-904f-8ebec89b6fd7",
