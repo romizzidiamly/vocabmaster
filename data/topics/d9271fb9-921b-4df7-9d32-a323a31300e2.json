@@ -416,11 +416,43 @@
         "Subway",
         "underground rail"
       ],
+      "definition": "A system of rail transport in which electric trains run on fixed rails, often underground or elevated.",
       "userGuesses": [
         "SUBWAY",
         "UNDERGROUND RAIL"
       ],
-      "status": "mastered"
+      "status": "mastered",
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Many cities have a well-developed metro system.",
+          "translation": "Kota-kota besar banyak yang memiliki sistem transportasi kereta api listrik yang baik."
+        },
+        {
+          "type": "Complex",
+          "text": "The construction of a new metro system has brought many benefits to the city.",
+          "translation": "Pembangunan sistem transportasi kereta api listrik baru telah membawa banyak manfaat bagi kota."
+        },
+        {
+          "type": "Compound",
+          "text": "The city's metro system is an efficient way to travel, and it is also environmentally friendly.",
+          "translation": "Sistem transportasi kereta api listrik kota ini adalah cara efektif untuk bepergian, dan juga ramah lingkungan."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "While the metro system is a convenient option for commuters, it is also a source of pollution in the city.",
+          "translation": "Meskipun sistem transportasi kereta api listrik adalah opsi yang nyaman bagi pengguna jalan, namun juga merupakan sumber polusi di kota."
+        }
+      ],
+      "phonetics": {
+        "us": "/ˈmɛtroʊ ˈsɪs.təm/",
+        "uk": "/ˈmɛtroʊ ˈsɪstəm/"
+      },
+      "meaning": "Sistem transportasi kereta api listrik",
+      "synonymMeanings": [
+        "sistem transportasi kereta bawah tanah",
+        "sistem transportasi kereta api cepat"
+      ]
     },
     {
       "id": "5e4b95b3-1260-4b75-8aa2-4beb76f48088",
