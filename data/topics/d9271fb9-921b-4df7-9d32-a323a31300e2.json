@@ -235,8 +235,42 @@
         "Daily travel",
         "transit"
       ],
+      "definition": "The regular journey or trip that someone makes between home and work or school, typically daily.",
       "userGuesses": [],
-      "status": "discovered"
+      "status": "discovered",
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Commuting to the city center can be very time-consuming.",
+          "translation": "Perjalanan ke pusat kota sangat memakan waktu."
+        },
+        {
+          "type": "Complex",
+          "text": "Commuting to work has become more convenient with the introduction of new public transportation systems.",
+          "translation": "Perjalanan ke tempat kerja telah menjadi lebih nyaman dengan adanya sistem transportasi umum baru."
+        },
+        {
+          "type": "Compound",
+          "text": "Commuting to work and studying at night can be very tiring.",
+          "translation": "Perjalanan ke tempat kerja dan belajar di malam hari sangat melelahkan."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "Commuting to work has become more expensive with the rise of fuel prices, which has affected many people's budgets.",
+          "translation": "Perjalanan ke tempat kerja menjadi lebih mahal dengan naiknya harga bahan bakar, yang telah mempengaruhi banyak orang dalam anggaran mereka."
+        }
+      ],
+      "phonetics": {
+        "us": "/kəˈmjuːtɪŋ/",
+        "uk": "/kəˈmjuːtɪŋ/"
+      },
+      "meaning": "Perjalanan harian ke tempat kerja/pendidikan",
+      "synonymMeanings": [
+        "Perjalanan harian",
+        "Aktivitas harian",
+        "Pergerakan harian",
+        "Jalur harian"
+      ]
     },
     {
       "id": "9257222e-06dc-441c-8233-3a150d85d676",
