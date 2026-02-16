@@ -371,10 +371,43 @@
         "Bullet train",
         "express train"
       ],
+      "definition": "A train service that travels very quickly, typically at a speed of more than 320 kilometers per hour, and often uses a special track or route.",
       "userGuesses": [
         "BULLET TRAIN"
       ],
-      "status": "discovered"
+      "status": "discovered",
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "The introduction of high-speed rail has greatly reduced travel time between cities.",
+          "translation": "Pengenalan rel kereta api cepat telah sangat mengurangi waktu perjalanan antar kota."
+        },
+        {
+          "type": "Complex",
+          "text": "Because of the high cost of building high-speed rail, the government has been criticized for prioritizing this project over others.",
+          "translation": "Karena biaya besar yang diperlukan untuk membangun rel kereta api cepat, pemerintah telah mencritik karena memprioritaskan proyek ini daripada yang lain."
+        },
+        {
+          "type": "Compound",
+          "text": "High-speed rail is not only faster but also more environmentally friendly than traditional trains.",
+          "translation": "Rel kereta api cepat bukan hanya lebih cepat, tetapi juga lebih ramah lingkungan dibandingkan kereta api tradisional."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "While high-speed rail has many benefits, it also requires a significant investment of money and resources, which can be a challenge for developing countries.",
+          "translation": "Meskipun rel kereta api cepat memiliki banyak manfaat, namun juga memerlukan investasi besar dan sumber daya, yang dapat menjadi tantangan bagi negara-negara berkembang."
+        }
+      ],
+      "phonetics": {
+        "us": "/haɪˈspɪdˌreɪl/",
+        "uk": "/haɪˈspɪdˌreɪl/"
+      },
+      "meaning": "Rel kereta api cepat",
+      "synonymMeanings": [
+        "Rel kereta api cepat tinggi",
+        "Kereta api ekspres",
+        "Rel kereta api modern"
+      ]
     },
     {
       "id": "1737ab93-f511-4017-92a3-c5278dff2715",
@@ -407,11 +440,44 @@
         "Traffic laws",
         "road rules"
       ],
+      "definition": "Rules and instructions that govern the movement of vehicles, pedestrians, and other road users.",
       "userGuesses": [
         "TRAFFIC LAWS",
         "ROAD RULES"
       ],
-      "status": "mastered"
+      "status": "mastered",
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "In many cities, traffic regulations are designed to reduce congestion.",
+          "translation": "Dalam banyak kota, peraturan lalu lintas dirancang untuk mengurangi kemacetan."
+        },
+        {
+          "type": "Complex",
+          "text": "While some argue that stricter traffic regulations are necessary to improve road safety, others claim that they can actually increase congestion.",
+          "translation": "Meskipun ada yang berpendapat bahwa peraturan lalu lintas yang lebih ketat diperlukan untuk meningkatkan keselamatan jalan, orang lain mengklaim bahwa mereka bisa sebenarnya meningkatkan kemacetan."
+        },
+        {
+          "type": "Compound",
+          "text": "Traffic regulations and road maintenance are two key factors that contribute to a city's overall safety and efficiency.",
+          "translation": "Peraturan lalu lintas dan perawatan jalan adalah dua faktor utama yang berkontribusi pada keselamatan dan efisiensi kota secara keseluruhan."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "However, the implementation of traffic regulations can be challenging, especially in developing countries where resources are limited, and the infrastructure is often inadequate.",
+          "translation": "Namun, pelaksanaan peraturan lalu lintas dapat berliku-liku, terutama di negara berkembang di mana sumber daya terbatas, dan infrastruktur seringkali tidak memadai."
+        }
+      ],
+      "phonetics": {
+        "us": "/ˌtræfɪk ˌrɛɡjuːleɪʃənz/",
+        "uk": "/ˌtræfɪk ˌrɛɡjuːˈleɪʃənz/"
+      },
+      "meaning": "Peraturan lalu lintas",
+      "synonymMeanings": [
+        "aturan lalu lintas",
+        "peraturan jalan",
+        "aturan transportasi"
+      ]
     },
     {
       "id": "c1102b0d-d606-43de-88b9-7938ca14a5dc",
