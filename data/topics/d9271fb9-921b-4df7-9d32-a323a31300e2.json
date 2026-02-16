@@ -594,8 +594,41 @@
         "driverless",
         "vehicle"
       ],
+      "definition": "A vehicle that can operate independently without human input, using sensors and artificial intelligence to navigate and make decisions.",
       "userGuesses": [],
-      "status": "discovered"
+      "status": "discovered",
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "The development of autonomous vehicles is a major breakthrough in the field of transportation.",
+          "translation": "Pengembangan kendaraan otonom merupakan langkah maju besar di bidang transportasi."
+        },
+        {
+          "type": "Complex",
+          "text": "However, the integration of autonomous vehicles into existing traffic systems poses significant challenges.",
+          "translation": "Namun, penyebarluasan kendaraan otonom ke dalam sistem lalu lintas yang sudah ada menimbulkan tantangan signifikan."
+        },
+        {
+          "type": "Compound",
+          "text": "The benefits of autonomous vehicles include reduced traffic congestion, improved road safety, and increased mobility for the elderly and disabled.",
+          "translation": "Manfaat kendaraan otonom mencakup penurunan kemacetan lalu lintas, peningkatan keselamatan jalan, dan peningkatan mobilitas bagi orang lanjut usia dan disabilitas."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "While autonomous vehicles have the potential to revolutionize the transportation industry, there are also concerns about job displacement and cybersecurity risks.",
+          "translation": "Meskipun kendaraan otonom memiliki potensi untuk memperbarui industri transportasi, ada juga kekhawatiran tentang penggantian pekerjaan dan risiko keamanan siber."
+        }
+      ],
+      "phonetics": {
+        "us": "/ɔtənəməs veɪkəlz/",
+        "uk": "/ɔtənuːm vɪkəlz/"
+      },
+      "meaning": "Kendaraan otonom",
+      "synonymMeanings": [
+        "kendaraan tanpa pengemudi",
+        "kendaraan otomatis",
+        "kendaraan cerdas"
+      ]
     },
     {
       "id": "215350bd-f3a2-4cc7-9f20-0802fa79f275",
