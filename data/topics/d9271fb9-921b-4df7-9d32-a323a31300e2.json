@@ -562,8 +562,42 @@
         "Walkway",
         "foot traffic area"
       ],
+      "definition": "An area in a town or city where vehicles are not allowed and people can walk safely.",
       "userGuesses": [],
-      "status": "discovered"
+      "status": "discovered",
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "Cities around the world have been implementing pedestrian zones to reduce traffic congestion.",
+          "translation": "Berbagai kota di dunia telah menerapkan zona pejalan kaki untuk mengurangi kemacetan lalu lintas."
+        },
+        {
+          "type": "Complex",
+          "text": "Furthermore, many pedestrians prefer to walk in pedestrian zones rather than risk their lives crossing busy roads.",
+          "translation": "Selain itu, banyak orang lebih suka berjalan di zona pejalan kaki daripada mengambil risiko kehidupan mereka untuk menyeberangi jalan raya yang padat."
+        },
+        {
+          "type": "Compound",
+          "text": "Pedestrian zones are not only essential for the safety of pedestrians but also for the overall aesthetic appeal of a city.",
+          "translation": "Zona pejalan kaki bukan hanya penting untuk keselamatan pejalan kaki, tetapi juga untuk keseluruhan daya tarik estetika kota."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "However, some argue that pedestrian zones can lead to an increase in commercial activities, which can result in the displacement of local residents.",
+          "translation": "Namun, ada yang berpendapat bahwa zona pejalan kaki dapat menyebabkan peningkatan aktivitas komersial, yang dapat mengakibatkan pengusiran penduduk lokal."
+        }
+      ],
+      "phonetics": {
+        "us": "/pəˈdɛstriən ˈzoʊn/",
+        "uk": "/pəˈdɛstriən ˈzoʊn/"
+      },
+      "meaning": "Zona pejalan kaki",
+      "synonymMeanings": [
+        "area pedestrian",
+        "zona berjalan kaki",
+        "kawasan pejalan kaki",
+        "zona lalu lintas pejalan kaki"
+      ]
     },
     {
       "id": "12036da8-c366-4d4e-a4b6-cc9e755aa8fb",
