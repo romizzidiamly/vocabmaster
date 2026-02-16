@@ -352,7 +352,7 @@
       ],
       "definition": "Energy that is constantly being renewed and cannot be used up.",
       "userGuesses": [],
-      "status": "hidden",
+      "status": "discovered",
       "examples": [
         {
           "type": "Simple",
