@@ -56,9 +56,10 @@
         "gridlock"
       ],
       "userGuesses": [
-        "GRIDLOCK"
+        "GRIDLOCK",
+        "TRAFFIC JAM"
       ],
-      "status": "discovered"
+      "status": "mastered"
     },
     {
       "id": "2a376112-5eb0-487e-aa97-41c0d040884f",
