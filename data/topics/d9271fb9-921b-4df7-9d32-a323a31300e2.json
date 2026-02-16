@@ -55,7 +55,9 @@
         "Traffic jam",
         "gridlock"
       ],
-      "userGuesses": [],
+      "userGuesses": [
+        "GRIDLOCK"
+      ],
       "status": "discovered"
     },
     {
