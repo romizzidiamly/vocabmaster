@@ -9,10 +9,44 @@
         "Transit",
         "conveyance"
       ],
+      "definition": "The movement of people, goods, or information from one place to another.",
       "userGuesses": [
         "TRANSIT"
       ],
-      "status": "discovered"
+      "status": "discovered",
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "The transportation system in our city is quite efficient.",
+          "translation": "Sistem transportasi di kota kita cukup efisien."
+        },
+        {
+          "type": "Complex",
+          "text": "Due to the rapid growth of the city, the transportation infrastructure needs to be improved.",
+          "translation": "Karena pertumbuhan kota yang cepat, infrastruktur transportasi harus diperbaiki."
+        },
+        {
+          "type": "Compound",
+          "text": "The city's transportation system is efficient, but the roads are often congested.",
+          "translation": "Sistem transportasi kota kita cukup efisien, tetapi jalan-jalannya sering macet."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "The government has invested a lot in the transportation system, which has led to a significant reduction in traffic congestion, but the number of vehicles on the road is still increasing.",
+          "translation": "Pemerintah telah menginvestasikan banyak dalam sistem transportasi, yang telah menyebabkan penurunan signifikan dalam kemacetan lalu lintas, namun jumlah kendaraan di jalan masih meningkat."
+        }
+      ],
+      "phonetics": {
+        "us": "/trænzˈpɔr.təˌneɪ.ʃən/",
+        "uk": "/trænzˈpɔːrtəfeɪ.ʃən/"
+      },
+      "meaning": "Sistem transportasi",
+      "synonymMeanings": [
+        "sistem transportasi",
+        "infrastruktur transportasi",
+        "sarana transportasi",
+        "jaringan transportasi"
+      ]
     },
     {
       "id": "362a09c2-11ad-4406-bdbe-e7cb2368c0ae",
