@@ -1,0 +1,528 @@
+{
+  "id": "d9271fb9-921b-4df7-9d32-a323a31300e2",
+  "name": "TRANSPORTATION",
+  "items": [
+    {
+      "id": "5704ced9-d4bb-45cc-8fc7-48cb061b8e91",
+      "word": "Transportation",
+      "synonyms": [
+        "Transit",
+        "conveyance"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "362a09c2-11ad-4406-bdbe-e7cb2368c0ae",
+      "word": "Public Transport",
+      "synonyms": [
+        "Mass transit",
+        "communal",
+        "transport"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "68e1bae7-a6bc-4c2a-bb15-cfb8a72ad0f6",
+      "word": "Private Vehicle",
+      "synonyms": [
+        "Personal car",
+        "private",
+        "automobile"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "35b08ef8-3177-41d4-bcf0-353b54b5b9ad",
+      "word": "Infrastructure",
+      "synonyms": [
+        "Framework",
+        "foundation"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "029f9dfa-42f4-4f74-be26-2621945b8ff9",
+      "word": "Traffic Congestion",
+      "synonyms": [
+        "Traffic jam",
+        "gridlock"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "2a376112-5eb0-487e-aa97-41c0d040884f",
+      "word": "Commuting",
+      "synonyms": [
+        "Daily travel",
+        "transit"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "9257222e-06dc-441c-8233-3a150d85d676",
+      "word": "Sustainable Transport",
+      "synonyms": [
+        "Green transport",
+        "eco-friendly transit"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "0470d289-8e06-4f9a-8f7a-0197ccf220b1",
+      "word": "Carbon Emissions",
+      "synonyms": [
+        "Pollution",
+        "CO2 emissions"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "a91fa744-2232-4a32-ab67-f12c11017963",
+      "word": "High-Speed Rail",
+      "synonyms": [
+        "Bullet train",
+        "express train"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "1737ab93-f511-4017-92a3-c5278dff2715",
+      "word": "Metro System",
+      "synonyms": [
+        "Subway",
+        "underground rail"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "5e4b95b3-1260-4b75-8aa2-4beb76f48088",
+      "word": "Ride-Sharing",
+      "synonyms": [
+        "Carpooling",
+        "shared",
+        "transport"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "33a786c3-880c-4b45-95d6-fabbfe586fdf",
+      "word": "Traffic Regulations",
+      "synonyms": [
+        "Traffic laws",
+        "road rules"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "c1102b0d-d606-43de-88b9-7938ca14a5dc",
+      "word": "Road Safety",
+      "synonyms": [
+        "Traffic safety",
+        "accident",
+        "prevention"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "e68b1894-d5ed-4de1-afa6-0dd2cad098e9",
+      "word": "Pedestrian Zone",
+      "synonyms": [
+        "Walkway",
+        "foot traffic area"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "12036da8-c366-4d4e-a4b6-cc9e755aa8fb",
+      "word": "Cycle Lane",
+      "synonyms": [
+        "Bike path",
+        "cycling track"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "711d00c3-9f74-49ed-a500-e4450e463d99",
+      "word": "Electric Vehicle",
+      "synonyms": [
+        "EV",
+        "battery-powered",
+        "vehicle"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "eb9f9ccc-23d6-4ec1-bfe9-2617bfd8c9a3",
+      "word": "Autonomous Vehicle",
+      "synonyms": [
+        "Self-driving car",
+        "driverless",
+        "vehicle"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "215350bd-f3a2-4cc7-9f20-0802fa79f275",
+      "word": "Fuel Efficiency",
+      "synonyms": [
+        "Energy efficiency",
+        "fuel economy"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "29219636-5261-4819-904f-8ebec89b6fd7",
+      "word": "Air Travel",
+      "synonyms": [
+        "Aviation",
+        "flight"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "c45e5786-04a4-4c34-a2de-1000687da49e",
+      "word": "Maritime Transport",
+      "synonyms": [
+        "Shipping",
+        "naval transport"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "fe9921ec-47b9-4e80-bd28-dc989934c2f1",
+      "word": "Logistics",
+      "synonyms": [
+        "Supply chain",
+        "transportation planning"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "30eb5d85-f925-4e60-b74d-544cc5e88d5b",
+      "word": "Toll Road",
+      "synonyms": [
+        "Turnpike",
+        "paid highway"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "11fdb328-b842-47de-a3af-8f5dded6a689",
+      "word": "Traffic Violation",
+      "synonyms": [
+        "Road offense",
+        "driving",
+        "infraction"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "af30f9a1-b5ba-4ace-a08f-0317a4f5b3ea",
+      "word": "Peak Hours",
+      "synonyms": [
+        "Rush hour",
+        "high traffic",
+        "period"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "6aee2339-fbc5-4641-9458-49118d6172e5",
+      "word": "Gridlock",
+      "synonyms": [
+        "Traffic jam",
+        "standstill"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "6dca9d94-ab35-43f6-bd55-433879ad6666",
+      "word": "Expressway",
+      "synonyms": [
+        "Highway",
+        "motorway"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "9a84a94a-7d48-4c4b-baa9-bce775bceea1",
+      "word": "Urban Mobility",
+      "synonyms": [
+        "City transportation",
+        "transit",
+        "system"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "a583456f-3047-4283-bbac-21772624bbdf",
+      "word": "Traffic Accident",
+      "synonyms": [
+        "Road crash",
+        "vehicle",
+        "collision"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "c716b66c-df35-4431-ab91-44eeb2544058",
+      "word": "Car Dependency",
+      "synonyms": [
+        "Automobile reliance",
+        "private vehicle use"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "d57e83e2-ff5a-4659-ae7c-171c3b39ceea",
+      "word": "Hybrid Vehicle",
+      "synonyms": [
+        "Dual-powered car",
+        "eco-friendly vehicle"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "b04a51bb-7a41-4e3f-b49f-669cddc8aa5f",
+      "word": "Aviation Industry",
+      "synonyms": [
+        "Airline sector",
+        "aeronautics"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "7b47413b-541b-49e4-b6b2-c37099a2da83",
+      "word": "Traffic Surveillance",
+      "synonyms": [
+        "Road monitoring",
+        "traffic",
+        "cameras"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "40a44650-9abb-4200-8d38-9a9a324941ca",
+      "word": "Transport Policy",
+      "synonyms": [
+        "Mobility strategy",
+        "transit",
+        "planning"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "3529ae93-78b7-42fc-9970-a00b506a145f",
+      "word": "Congestion Charge",
+      "synonyms": [
+        "Traffic toll",
+        "urban fee"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "946b805e-33eb-40b5-94e5-2c7683e64e62",
+      "word": "Road Network",
+      "synonyms": [
+        "Highway system",
+        "street",
+        "grid"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "5f36bbb3-0017-40b3-afc2-4332c8aba53e",
+      "word": "Punctuality",
+      "synonyms": [
+        "Timeliness",
+        "promptness"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "fa55f954-a6fe-4f62-934b-9f975b114a1a",
+      "word": "Road Maintenance",
+      "synonyms": [
+        "Road repair",
+        "infrastructure",
+        "upkeep"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "87fff9e0-3cd6-471d-970c-32780f6d0357",
+      "word": "Multimodal Transport",
+      "synonyms": [
+        "Integrated transit",
+        "mixed",
+        "transport"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "1133eac6-7062-4692-beba-fc2d16b324bd",
+      "word": "Urban Sprawl",
+      "synonyms": [
+        "Suburban growth",
+        "city",
+        "expansion"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "3fc0a04d-07eb-4c1e-b404-d30e297c357c",
+      "word": "Air Pollution",
+      "synonyms": [
+        "Atmospheric",
+        "contamination",
+        "smog"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "ca6813db-6d18-4b8a-a123-ad89ad848f6a",
+      "word": "Vehicle Emissions",
+      "synonyms": [
+        "Exhaust gases",
+        "carbon",
+        "output"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "aa1b8283-4023-412f-919d-8f135706e84f",
+      "word": "Transport Hub",
+      "synonyms": [
+        "Transit center",
+        "interchange"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "94c544c0-4e1c-4d5d-b50e-63ff9f505a0d",
+      "word": "Parking Facilities",
+      "synonyms": [
+        "Parking lots",
+        "garages"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "2d9bc601-0330-4e0d-95fe-34f149a33549",
+      "word": "Freight Transport",
+      "synonyms": [
+        "Cargo shipping",
+        "logistics"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "cba10037-a4da-4eb2-a52e-531bd160eae8",
+      "word": "Lane Discipline",
+      "synonyms": [
+        "Road adherence",
+        "lane",
+        "regulation"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "c6e87b89-2e24-437c-8a53-649d1ec04645",
+      "word": "Sustainable Mobility",
+      "synonyms": [
+        "Eco-friendly transit",
+        "green",
+        "mobility"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "98d8f6cd-66e2-4159-b810-0e71739d0202",
+      "word": "Transport Equity",
+      "synonyms": [
+        "Fair mobility",
+        "inclusive transit"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "584fa959-9a1b-4088-a5fd-8e1789911f0d",
+      "word": "Intercity Transport",
+      "synonyms": [
+        "Long-distance travel",
+        "cross-city transit"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "db975c07-2440-43a9-9867-4d24e9aaa26a",
+      "word": "Rural Transport",
+      "synonyms": [
+        "Countryside transit",
+        "remote travel"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    },
+    {
+      "id": "a7346daf-4686-4baa-9f63-8c3b9643116d",
+      "word": "Smart Transport",
+      "synonyms": [
+        "Intelligent mobility",
+        "digital",
+        "transit"
+      ],
+      "userGuesses": [],
+      "status": "hidden"
+    }
+  ],
+  "createdAt": 1771272755393
+}
