@@ -145,8 +145,42 @@
         "Framework",
         "foundation"
       ],
+      "definition": "The basic systems and services that a country, region, or organization needs to function, such as roads, bridges, railways, schools, hospitals, and public utilities.",
       "userGuesses": [],
-      "status": "discovered"
+      "status": "discovered",
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "The government has invested heavily in the country's infrastructure to improve transportation and communication systems.",
+          "translation": "Pemerintah telah menginvestasikan banyak sumber daya untuk membangun infrastruktur transportasi dan komunikasi di negara ini."
+        },
+        {
+          "type": "Complex",
+          "text": "The lack of proper infrastructure has hindered the country's economic growth, making it difficult for businesses to operate efficiently.",
+          "translation": "Kurangnya infrastruktur yang memadai telah menghambat pertumbuhan ekonomi negara, sehingga membuat perusahaan kesulitan untuk beroperasi secara efisien."
+        },
+        {
+          "type": "Compound",
+          "text": "The construction of new roads and bridges has improved the country's infrastructure, but the quality of public transportation remains a concern.",
+          "translation": "Pembangunan jalan dan jembatan baru telah memperbaiki infrastruktur negara, namun kualitas transportasi umum masih menjadi perhatian."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "The government has implemented various policies to improve the country's infrastructure, including investing in renewable energy sources and promoting sustainable development, but more needs to be done to address the existing infrastructure gaps.",
+          "translation": "Pemerintah telah menerapkan berbagai kebijakan untuk memperbaiki infrastruktur negara, termasuk menginvestasikan sumber daya energi terbarukan dan mempromosikan pengembangan berkelanjutan, namun masih banyak yang perlu dilakukan untuk menutup kesenjangan infrastruktur yang ada."
+        }
+      ],
+      "phonetics": {
+        "us": "/ɪˈnfrəstrʌktʃər/",
+        "uk": "/ɪnˈfrɒstrʌktʃə/"
+      },
+      "meaning": "Sistem dasar dan layanan yang dibutuhkan oleh sebuah negara, wilayah, atau organisasi agar dapat berfungsi, seperti jalan, jembatan, rel kereta api, sekolah, rumah sakit, dan fasilitas umum.",
+      "synonymMeanings": [
+        "Fasilitas umum",
+        "Sistem pendukung",
+        "Bangunan umum",
+        "Pembangunan dasar"
+      ]
     },
     {
       "id": "029f9dfa-42f4-4f74-be26-2621945b8ff9",
