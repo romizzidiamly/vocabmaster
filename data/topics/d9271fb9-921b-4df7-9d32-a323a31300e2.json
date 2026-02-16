@@ -103,7 +103,9 @@
         "Bullet train",
         "express train"
       ],
-      "userGuesses": [],
+      "userGuesses": [
+        "BULLET TRAIN"
+      ],
       "status": "discovered"
     },
     {
