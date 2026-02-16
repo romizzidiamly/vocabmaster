@@ -90,7 +90,9 @@
         "Pollution",
         "CO2 emissions"
       ],
-      "userGuesses": [],
+      "userGuesses": [
+        "POLLUTION"
+      ],
       "status": "discovered"
     },
     {
