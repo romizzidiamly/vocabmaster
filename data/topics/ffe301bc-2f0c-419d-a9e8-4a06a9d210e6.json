@@ -2181,7 +2181,7 @@
       ],
       "definition": "Substances, such as dust, smoke, and gases, that are in the air and can harm health or the environment.",
       "userGuesses": [],
-      "status": "hidden",
+      "status": "discovered",
       "examples": [
         {
           "type": "Simple",
