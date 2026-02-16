@@ -396,7 +396,7 @@
       ],
       "definition": "Forms of energy that cannot be renewed or replenished once they have been used.",
       "userGuesses": [],
-      "status": "hidden",
+      "status": "discovered",
       "examples": [
         {
           "type": "Simple",
