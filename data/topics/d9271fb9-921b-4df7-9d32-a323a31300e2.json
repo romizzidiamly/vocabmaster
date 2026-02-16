@@ -431,7 +431,30 @@
         "transport"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "discovered",
+      "examples": [
+        {
+          "type": "Simple",
+          "text": ""
+        },
+        {
+          "type": "Complex",
+          "text": ""
+        },
+        {
+          "type": "Compound",
+          "text": ""
+        },
+        {
+          "type": "Compound-Complex",
+          "text": ""
+        }
+      ],
+      "phonetics": {
+        "us": "/.../",
+        "uk": "/.../"
+      },
+      "meaning": "Meaning not found."
     },
     {
       "id": "33a786c3-880c-4b45-95d6-fabbfe586fdf",
