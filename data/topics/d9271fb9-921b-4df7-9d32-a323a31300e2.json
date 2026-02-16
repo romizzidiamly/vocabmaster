@@ -140,9 +140,10 @@
         "road rules"
       ],
       "userGuesses": [
-        "TRAFFIC LAWS"
+        "TRAFFIC LAWS",
+        "ROAD RULES"
       ],
-      "status": "discovered"
+      "status": "mastered"
     },
     {
       "id": "c1102b0d-d606-43de-88b9-7938ca14a5dc",
