@@ -215,7 +215,9 @@
         "Aviation",
         "flight"
       ],
-      "userGuesses": [],
+      "userGuesses": [
+        "AVIATION"
+      ],
       "status": "discovered"
     },
     {
