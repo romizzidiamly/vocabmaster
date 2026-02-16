@@ -325,11 +325,44 @@
         "Pollution",
         "CO2 emissions"
       ],
+      "definition": "The release of carbon dioxide and other greenhouse gases into the atmosphere, primarily through burning fossil fuels, contributing to global warming and climate change.",
       "userGuesses": [
         "POLLUTION",
         "CO2 EMISSIONS"
       ],
-      "status": "mastered"
+      "status": "mastered",
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "The increasing carbon emissions are causing severe environmental damage.",
+          "translation": "Emisi gas buangan karbon semakin meningkat dan menyebabkan kerusakan lingkungan yang parah."
+        },
+        {
+          "type": "Complex",
+          "text": "The rising demand for energy has led to an increase in carbon emissions, resulting in more frequent natural disasters.",
+          "translation": "Kenaikan permintaan energi telah menyebabkan peningkatan emisi gas buangan karbon, yang pada gilirannya menyebabkan bencana alam yang lebih sering terjadi."
+        },
+        {
+          "type": "Compound",
+          "text": "Carbon emissions and air pollution have devastating effects on human health and the environment.",
+          "translation": "Emisi gas buangan karbon dan polusi udara memiliki dampak yang sangat dahsyat pada kesehatan manusia dan lingkungan."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "Government policies and international agreements have been implemented to reduce carbon emissions, but more needs to be done to mitigate the effects of climate change.",
+          "translation": "Kebijakan pemerintah dan perjanjian internasional telah diimplementasikan untuk mengurangi emisi gas buangan karbon, namun masih banyak yang perlu dilakukan untuk mengurangi dampak perubahan iklim."
+        }
+      ],
+      "phonetics": {
+        "us": "/ˈkɑrbən ˈemɪʃənz/",
+        "uk": "/ˈkɑːrbən ˈemɪʃənz/"
+      },
+      "meaning": "Emisi gas buangan karbon",
+      "synonymMeanings": [
+        "pengeluaran gas buangan karbon",
+        "emisi gas rumah kaca",
+        "pengeluaran karbon dioksida"
+      ]
     },
     {
       "id": "a91fa744-2232-4a32-ab67-f12c11017963",
