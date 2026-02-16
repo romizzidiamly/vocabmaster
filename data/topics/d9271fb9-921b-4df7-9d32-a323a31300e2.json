@@ -139,7 +139,9 @@
         "Traffic laws",
         "road rules"
       ],
-      "userGuesses": [],
+      "userGuesses": [
+        "TRAFFIC LAWS"
+      ],
       "status": "discovered"
     },
     {
