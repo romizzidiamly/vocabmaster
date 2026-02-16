@@ -9,7 +9,9 @@
         "Transit",
         "conveyance"
       ],
-      "userGuesses": [],
+      "userGuesses": [
+        "TRANSIT"
+      ],
       "status": "discovered"
     },
     {
