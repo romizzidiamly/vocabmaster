@@ -572,8 +572,41 @@
         "Bike path",
         "cycling track"
       ],
+      "definition": "A designated road or path, usually marked with signs or markings, where cyclists are allowed to ride.",
       "userGuesses": [],
-      "status": "discovered"
+      "status": "discovered",
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "The city has designated special lanes for cyclists to reduce traffic congestion.",
+          "translation": "Kota itu memiliki laluan khusus bagi pengendara sepeda untuk mengurangi kemacetan lalu lintas."
+        },
+        {
+          "type": "Complex",
+          "text": "The increasing popularity of cycling has led to the development of more cycle lanes in urban areas, which has improved air quality significantly.",
+          "translation": "Kenaikan popularitas sepeda telah menyebabkan peningkatan pembangunan laluan sepeda di daerah perkotaan, yang telah mengurangi kualitas udara secara signifikan."
+        },
+        {
+          "type": "Compound",
+          "text": "The city council has decided to allocate more funds for the construction of cycle lanes, which will be completed within the next two years.",
+          "translation": "Dewan kota telah memutuskan untuk mengalokasikan dana lebih banyak untuk pembangunan laluan sepeda, yang akan selesai dalam waktu dua tahun mendatang."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "The government has introduced a new law that requires all cities to have a minimum of 10% of their roads designated as cycle lanes, which will reduce traffic congestion and improve air quality.",
+          "translation": "Pemerintah telah mengenalkan undang-undang baru yang menetapkan bahwa semua kota harus memiliki setidaknya 10% jalan yang ditetapkan sebagai laluan sepeda, yang akan mengurangi kemacetan lalu lintas dan mengurangi kualitas udara."
+        }
+      ],
+      "phonetics": {
+        "us": "/ˈsaɪkəl leɪn/",
+        "uk": "/ˈsaɪkəl leɪn/"
+      },
+      "meaning": "Laluan sepeda",
+      "synonymMeanings": [
+        "Laluan sepeda khusus",
+        "Jalan sepeda",
+        "Rute sepeda"
+      ]
     },
     {
       "id": "711d00c3-9f74-49ed-a500-e4450e463d99",
