@@ -189,11 +189,44 @@
         "Traffic jam",
         "gridlock"
       ],
+      "definition": "A situation in which there is a large amount of traffic and vehicles are unable to move freely.",
       "userGuesses": [
         "GRIDLOCK",
         "TRAFFIC JAM"
       ],
-      "status": "mastered"
+      "status": "mastered",
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "The traffic congestion in the city has become a major problem.",
+          "translation": "Keterlambatan lalu lintas di kota ini telah menjadi masalah besar."
+        },
+        {
+          "type": "Complex",
+          "text": "The construction of new roads has failed to alleviate the traffic congestion that occurs during rush hour.",
+          "translation": "Pembangunan jalan baru gagal mengurangi keterlambatan lalu lintas yang terjadi pada jam sibuk."
+        },
+        {
+          "type": "Compound",
+          "text": "The traffic congestion and air pollution in the city are closely related problems.",
+          "translation": "Keterlambatan lalu lintas dan polusi udara di kota ini adalah masalah yang terkait erat."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "The traffic congestion on the highway is caused by a combination of factors, including the lack of public transportation and the increase in the number of private vehicles.",
+          "translation": "Keterlambatan lalu lintas di jalan tol disebabkan oleh kombinasi faktor-faktor, termasuk kurangnya angkutan umum dan peningkatan jumlah kendaraan pribadi."
+        }
+      ],
+      "phonetics": {
+        "us": "/ˈtræfɪk kənˈdʒesʃən/",
+        "uk": "/ˈtræfɪk kənˈdʒesʃən/"
+      },
+      "meaning": "Keterlambatan lalu lintas",
+      "synonymMeanings": [
+        "Keterlambatan lalu lintas",
+        "Mengemudi lambat",
+        "Kerusakan jalan"
+      ]
     },
     {
       "id": "2a376112-5eb0-487e-aa97-41c0d040884f",
