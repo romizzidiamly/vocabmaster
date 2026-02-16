@@ -569,7 +569,7 @@
       ],
       "definition": "The state of not producing any greenhouse gas emissions, or offsetting emissions by investing in projects that reduce greenhouse gas emissions, such as wind farms or tree planting.",
       "userGuesses": [],
-      "status": "hidden",
+      "status": "discovered",
       "examples": [
         {
           "type": "Simple",
