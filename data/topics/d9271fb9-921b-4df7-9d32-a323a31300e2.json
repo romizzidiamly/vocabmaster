@@ -116,9 +116,10 @@
         "underground rail"
       ],
       "userGuesses": [
-        "SUBWAY"
+        "SUBWAY",
+        "UNDERGROUND RAIL"
       ],
-      "status": "discovered"
+      "status": "mastered"
     },
     {
       "id": "5e4b95b3-1260-4b75-8aa2-4beb76f48088",
