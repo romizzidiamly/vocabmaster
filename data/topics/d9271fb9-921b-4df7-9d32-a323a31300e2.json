@@ -78,7 +78,9 @@
         "Green transport",
         "eco-friendly transit"
       ],
-      "userGuesses": [],
+      "userGuesses": [
+        "GREEN TRANSPORT"
+      ],
       "status": "discovered"
     },
     {
