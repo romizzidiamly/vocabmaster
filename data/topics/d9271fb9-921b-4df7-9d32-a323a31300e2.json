@@ -10,7 +10,7 @@
         "conveyance"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "362a09c2-11ad-4406-bdbe-e7cb2368c0ae",
@@ -21,7 +21,7 @@
         "transport"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "68e1bae7-a6bc-4c2a-bb15-cfb8a72ad0f6",
@@ -32,7 +32,7 @@
         "automobile"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "35b08ef8-3177-41d4-bcf0-353b54b5b9ad",
@@ -42,7 +42,7 @@
         "foundation"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "029f9dfa-42f4-4f74-be26-2621945b8ff9",
@@ -52,7 +52,7 @@
         "gridlock"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "2a376112-5eb0-487e-aa97-41c0d040884f",
@@ -62,7 +62,7 @@
         "transit"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "9257222e-06dc-441c-8233-3a150d85d676",
@@ -72,7 +72,7 @@
         "eco-friendly transit"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "0470d289-8e06-4f9a-8f7a-0197ccf220b1",
@@ -82,7 +82,7 @@
         "CO2 emissions"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "a91fa744-2232-4a32-ab67-f12c11017963",
@@ -92,7 +92,7 @@
         "express train"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "1737ab93-f511-4017-92a3-c5278dff2715",
@@ -102,7 +102,7 @@
         "underground rail"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "5e4b95b3-1260-4b75-8aa2-4beb76f48088",
@@ -113,7 +113,7 @@
         "transport"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "33a786c3-880c-4b45-95d6-fabbfe586fdf",
@@ -123,7 +123,7 @@
         "road rules"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "c1102b0d-d606-43de-88b9-7938ca14a5dc",
@@ -134,7 +134,7 @@
         "prevention"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "e68b1894-d5ed-4de1-afa6-0dd2cad098e9",
@@ -144,7 +144,7 @@
         "foot traffic area"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "12036da8-c366-4d4e-a4b6-cc9e755aa8fb",
@@ -154,7 +154,7 @@
         "cycling track"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "711d00c3-9f74-49ed-a500-e4450e463d99",
@@ -165,7 +165,7 @@
         "vehicle"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "eb9f9ccc-23d6-4ec1-bfe9-2617bfd8c9a3",
@@ -176,7 +176,7 @@
         "vehicle"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "215350bd-f3a2-4cc7-9f20-0802fa79f275",
@@ -186,7 +186,7 @@
         "fuel economy"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "29219636-5261-4819-904f-8ebec89b6fd7",
@@ -196,7 +196,7 @@
         "flight"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "c45e5786-04a4-4c34-a2de-1000687da49e",
@@ -206,7 +206,7 @@
         "naval transport"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "fe9921ec-47b9-4e80-bd28-dc989934c2f1",
