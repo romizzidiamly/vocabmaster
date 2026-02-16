@@ -612,7 +612,7 @@
       ],
       "definition": "The presence of harmful substances or products in the environment, especially air and water.",
       "userGuesses": [],
-      "status": "hidden",
+      "status": "discovered",
       "examples": [
         {
           "type": "Simple",
