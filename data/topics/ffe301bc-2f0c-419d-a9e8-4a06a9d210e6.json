@@ -1963,7 +1963,7 @@
       ],
       "definition": "Waste that is poisonous and can harm people's health and the environment.",
       "userGuesses": [],
-      "status": "hidden",
+      "status": "discovered",
       "examples": [
         {
           "type": "Simple",
