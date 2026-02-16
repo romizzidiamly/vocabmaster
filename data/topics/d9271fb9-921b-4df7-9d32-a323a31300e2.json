@@ -115,7 +115,9 @@
         "Subway",
         "underground rail"
       ],
-      "userGuesses": [],
+      "userGuesses": [
+        "SUBWAY"
+      ],
       "status": "discovered"
     },
     {
