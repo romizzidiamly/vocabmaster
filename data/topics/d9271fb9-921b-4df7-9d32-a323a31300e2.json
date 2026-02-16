@@ -56,10 +56,43 @@
         "communal",
         "transport"
       ],
+      "definition": "A system of vehicles, buses, and trains that carry large numbers of people from one place to another, often owned and operated by the government or private companies.",
       "userGuesses": [
         "MASS TRANSIT"
       ],
-      "status": "discovered"
+      "status": "discovered",
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "The city has developed a well-established public transport system.",
+          "translation": "Kota tersebut telah mengembangkan sistem transportasi umum yang baik."
+        },
+        {
+          "type": "Complex",
+          "text": "Despite its efforts to improve public transport, the city still faces traffic congestion.",
+          "translation": "Meskipun berusaha meningkatkan kualitas transportasi umum, kota tersebut masih mengalami kemacetan lalu lintas."
+        },
+        {
+          "type": "Compound",
+          "text": "The public transport system in this city is efficient, but the bus fares are relatively expensive.",
+          "translation": "Sistem transportasi umum di kota ini efisien, tapi tiket bus relatif mahal."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "The city's decision to invest in public transport has led to a significant reduction in private car ownership, as well as an improvement in air quality.",
+          "translation": "Keputusan kota untuk berinvestasi di transportasi umum telah menyebabkan penurunan signifikan pemilikan kendaraan pribadi, serta perbaikan kualitas udara."
+        }
+      ],
+      "phonetics": {
+        "us": "/ˈpʌblɪk trænzˈpɔrtn/",
+        "uk": "/ˈpʌblɪk trænzˈpɔːtən/"
+      },
+      "meaning": "Sarana transportasi umum",
+      "synonymMeanings": [
+        "Sarana transportasi massa",
+        "Angkutan umum",
+        "Transportasi publik"
+      ]
     },
     {
       "id": "68e1bae7-a6bc-4c2a-bb15-cfb8a72ad0f6",
