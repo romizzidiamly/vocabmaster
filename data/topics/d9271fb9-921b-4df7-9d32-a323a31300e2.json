@@ -91,9 +91,10 @@
         "CO2 emissions"
       ],
       "userGuesses": [
-        "POLLUTION"
+        "POLLUTION",
+        "CO2 EMISSIONS"
       ],
-      "status": "discovered"
+      "status": "mastered"
     },
     {
       "id": "a91fa744-2232-4a32-ab67-f12c11017963",
