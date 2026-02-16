@@ -1832,7 +1832,7 @@
       ],
       "definition": "The amount of land, water, or other resources required to produce the food, energy, and other products that a person or organization uses.",
       "userGuesses": [],
-      "status": "hidden",
+      "status": "discovered",
       "examples": [
         {
           "type": "Simple",
