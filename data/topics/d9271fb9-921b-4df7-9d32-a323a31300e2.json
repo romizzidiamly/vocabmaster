@@ -583,8 +583,41 @@
         "battery-powered",
         "vehicle"
       ],
+      "definition": "A vehicle that is powered by electricity, typically from a battery that can be charged from an external power source.",
       "userGuesses": [],
-      "status": "discovered"
+      "status": "discovered",
+      "examples": [
+        {
+          "type": "Simple",
+          "text": "The increasing demand for electric vehicles has led to a significant growth in the automotive industry.",
+          "translation": "Tuntutan Mobilitas listrik yang meningkat telah menyebabkan pertumbuhan yang signifikan dalam industri otomotif."
+        },
+        {
+          "type": "Complex",
+          "text": "Although electric vehicles have several advantages, including zero emissions and lower operating costs, they still require significant investment in infrastructure.",
+          "translation": "Meskipun Mobilitas listrik memiliki beberapa kelebihan, termasuk emisi nol dan biaya operasional yang lebih rendah, namun mereka masih memerlukan investasi yang signifikan dalam infrastruktur."
+        },
+        {
+          "type": "Compound",
+          "text": "Electric vehicles are becoming increasingly popular, and many governments are now offering incentives to encourage the adoption of these vehicles.",
+          "translation": "Mobilitas listrik menjadi semakin populer, dan banyak pemerintah sekarang menawarkan insentif untuk mendorong penggunaan kendaraan-kendaraan ini."
+        },
+        {
+          "type": "Compound-Complex",
+          "text": "As the demand for electric vehicles continues to rise, many manufacturers are investing heavily in research and development to improve their efficiency and reduce production costs.",
+          "translation": "Sementara permintaan Mobilitas listrik terus meningkat, banyak produsen sudah melakukan investasi besar-besaran dalam penelitian dan pengembangan untuk meningkatkan efisiensi dan mengurangi biaya produksi."
+        }
+      ],
+      "phonetics": {
+        "us": "/ɪˈlɛktrɪk ˈvɪhɪkəl/",
+        "uk": "/ɪˈlɛktɹɪk ˈvɪhɪkl/"
+      },
+      "meaning": "Mobilitas listrik",
+      "synonymMeanings": [
+        "Kendaraan listrik",
+        "Kendaraan bertenaga listrik",
+        "Kendaraan alternatif"
+      ]
     },
     {
       "id": "eb9f9ccc-23d6-4ec1-bfe9-2617bfd8c9a3",
