@@ -143,7 +143,7 @@
       ],
       "definition": "The basic systems and services that a country, region, or organization needs to function, such as roads, bridges, railways, schools, hospitals, and public utilities.",
       "userGuesses": [],
-      "status": "hidden",
+      "status": "discovered",
       "examples": [
         {
           "type": "Simple",
