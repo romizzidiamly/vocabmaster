@@ -447,7 +447,7 @@
       ],
       "definition": "A service that allows people to travel in vehicles with drivers, booked and paid for through a mobile app.",
       "userGuesses": [],
-      "status": "hidden",
+      "status": "discovered",
       "examples": [
         {
           "type": "Simple",
