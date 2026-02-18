@@ -361,7 +361,7 @@
       ],
       "definition": "A train service that travels very quickly, typically at a speed of more than 320 kilometers per hour, and often uses a special track or route.",
       "userGuesses": [],
-      "status": "hidden",
+      "status": "discovered",
       "examples": [
         {
           "type": "Simple",
