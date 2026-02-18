@@ -797,7 +797,7 @@
       ],
       "definition": "Travel by aeroplane.",
       "userGuesses": [],
-      "status": "hidden",
+      "status": "discovered",
       "examples": [
         {
           "type": "Simple",
