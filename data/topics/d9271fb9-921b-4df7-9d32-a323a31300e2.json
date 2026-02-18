@@ -11,7 +11,7 @@
       ],
       "definition": "The movement of people, goods, or information from one place to another.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -56,7 +56,7 @@
       ],
       "definition": "A system of vehicles, buses, and trains that carry large numbers of people from one place to another, often owned and operated by the government or private companies.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -100,7 +100,7 @@
       ],
       "definition": "A vehicle, such as a car, that is owned and used by one person or family.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -143,7 +143,7 @@
       ],
       "definition": "The basic systems and services that a country, region, or organization needs to function, such as roads, bridges, railways, schools, hospitals, and public utilities.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -187,7 +187,7 @@
       ],
       "definition": "A situation in which there is a large amount of traffic and vehicles are unable to move freely.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -230,7 +230,7 @@
       ],
       "definition": "The regular journey or trip that someone makes between home and work or school, typically daily.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -318,7 +318,7 @@
       ],
       "definition": "The release of carbon dioxide and other greenhouse gases into the atmosphere, primarily through burning fossil fuels, contributing to global warming and climate change.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -361,7 +361,7 @@
       ],
       "definition": "A train service that travels very quickly, typically at a speed of more than 320 kilometers per hour, and often uses a special track or route.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -404,7 +404,7 @@
       ],
       "definition": "A system of rail transport in which electric trains run on fixed rails, often underground or elevated.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -447,7 +447,7 @@
       ],
       "definition": "A service that allows people to travel in vehicles with drivers, booked and paid for through a mobile app.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -490,7 +490,7 @@
       ],
       "definition": "Rules and instructions that govern the movement of vehicles, pedestrians, and other road users.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -534,7 +534,7 @@
       ],
       "definition": "The condition of being safe when using or traveling on roads.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -578,7 +578,7 @@
       ],
       "definition": "An area in a town or city where vehicles are not allowed and people can walk safely.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -622,7 +622,7 @@
       ],
       "definition": "A designated road or path, usually marked with signs or markings, where cyclists are allowed to ride.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -666,7 +666,7 @@
       ],
       "definition": "A vehicle that is powered by electricity, typically from a battery that can be charged from an external power source.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -710,7 +710,7 @@
       ],
       "definition": "A vehicle that can operate independently without human input, using sensors and artificial intelligence to navigate and make decisions.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -753,7 +753,7 @@
       ],
       "definition": "The ability of a vehicle or engine to use fuel efficiently.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -797,7 +797,7 @@
       ],
       "definition": "Travel by aeroplane.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -839,7 +839,7 @@
       ],
       "definition": "The movement of goods or people by ship or boat.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -881,7 +881,7 @@
         "transportation planning"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "30eb5d85-f925-4e60-b74d-544cc5e88d5b",
@@ -891,7 +891,7 @@
         "paid highway"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "11fdb328-b842-47de-a3af-8f5dded6a689",
@@ -902,7 +902,7 @@
         "infraction"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "af30f9a1-b5ba-4ace-a08f-0317a4f5b3ea",
@@ -913,7 +913,7 @@
         "period"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "6aee2339-fbc5-4641-9458-49118d6172e5",
@@ -923,7 +923,7 @@
         "standstill"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "6dca9d94-ab35-43f6-bd55-433879ad6666",
@@ -933,7 +933,7 @@
         "motorway"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "9a84a94a-7d48-4c4b-baa9-bce775bceea1",
@@ -955,7 +955,7 @@
         "collision"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "c716b66c-df35-4431-ab91-44eeb2544058",
@@ -965,7 +965,7 @@
         "private vehicle use"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "d57e83e2-ff5a-4659-ae7c-171c3b39ceea",
@@ -975,7 +975,7 @@
         "eco-friendly vehicle"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "b04a51bb-7a41-4e3f-b49f-669cddc8aa5f",
@@ -985,7 +985,7 @@
         "aeronautics"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "7b47413b-541b-49e4-b6b2-c37099a2da83",
@@ -1007,7 +1007,7 @@
         "planning"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "3529ae93-78b7-42fc-9970-a00b506a145f",
@@ -1017,7 +1017,7 @@
         "urban fee"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "946b805e-33eb-40b5-94e5-2c7683e64e62",
@@ -1038,7 +1038,7 @@
         "promptness"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "fa55f954-a6fe-4f62-934b-9f975b114a1a",
@@ -1049,7 +1049,7 @@
         "upkeep"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "87fff9e0-3cd6-471d-970c-32780f6d0357",
@@ -1071,7 +1071,7 @@
         "expansion"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "3fc0a04d-07eb-4c1e-b404-d30e297c357c",
@@ -1082,7 +1082,7 @@
         "smog"
       ],
       "userGuesses": [],
-      "status": "discovered"
+      "status": "hidden"
     },
     {
       "id": "ca6813db-6d18-4b8a-a123-ad89ad848f6a",
