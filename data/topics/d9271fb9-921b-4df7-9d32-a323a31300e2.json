@@ -578,7 +578,7 @@
       ],
       "definition": "An area in a town or city where vehicles are not allowed and people can walk safely.",
       "userGuesses": [],
-      "status": "hidden",
+      "status": "discovered",
       "examples": [
         {
           "type": "Simple",
