@@ -710,7 +710,7 @@
       ],
       "definition": "A vehicle that can operate independently without human input, using sensors and artificial intelligence to navigate and make decisions.",
       "userGuesses": [],
-      "status": "hidden",
+      "status": "discovered",
       "examples": [
         {
           "type": "Simple",
