@@ -534,7 +534,7 @@
       ],
       "definition": "The condition of being safe when using or traveling on roads.",
       "userGuesses": [],
-      "status": "hidden",
+      "status": "discovered",
       "examples": [
         {
           "type": "Simple",
