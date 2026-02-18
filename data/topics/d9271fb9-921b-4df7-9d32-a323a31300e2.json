@@ -10,10 +10,8 @@
         "conveyance"
       ],
       "definition": "The movement of people, goods, or information from one place to another.",
-      "userGuesses": [
-        "TRANSIT"
-      ],
-      "status": "discovered",
+      "userGuesses": [],
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -57,10 +55,8 @@
         "transport"
       ],
       "definition": "A system of vehicles, buses, and trains that carry large numbers of people from one place to another, often owned and operated by the government or private companies.",
-      "userGuesses": [
-        "MASS TRANSIT"
-      ],
-      "status": "discovered",
+      "userGuesses": [],
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -104,7 +100,7 @@
       ],
       "definition": "A vehicle, such as a car, that is owned and used by one person or family.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -147,7 +143,7 @@
       ],
       "definition": "The basic systems and services that a country, region, or organization needs to function, such as roads, bridges, railways, schools, hospitals, and public utilities.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -190,11 +186,8 @@
         "gridlock"
       ],
       "definition": "A situation in which there is a large amount of traffic and vehicles are unable to move freely.",
-      "userGuesses": [
-        "GRIDLOCK",
-        "TRAFFIC JAM"
-      ],
-      "status": "mastered",
+      "userGuesses": [],
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -237,7 +230,7 @@
       ],
       "definition": "The regular journey or trip that someone makes between home and work or school, typically daily.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -280,10 +273,8 @@
         "eco-friendly transit"
       ],
       "definition": "The use of methods or systems of transportation that do not harm the environment and can be maintained in the long term.",
-      "userGuesses": [
-        "GREEN TRANSPORT"
-      ],
-      "status": "discovered",
+      "userGuesses": [],
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -326,11 +317,8 @@
         "CO2 emissions"
       ],
       "definition": "The release of carbon dioxide and other greenhouse gases into the atmosphere, primarily through burning fossil fuels, contributing to global warming and climate change.",
-      "userGuesses": [
-        "POLLUTION",
-        "CO2 EMISSIONS"
-      ],
-      "status": "mastered",
+      "userGuesses": [],
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -372,10 +360,8 @@
         "express train"
       ],
       "definition": "A train service that travels very quickly, typically at a speed of more than 320 kilometers per hour, and often uses a special track or route.",
-      "userGuesses": [
-        "BULLET TRAIN"
-      ],
-      "status": "discovered",
+      "userGuesses": [],
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -417,11 +403,8 @@
         "underground rail"
       ],
       "definition": "A system of rail transport in which electric trains run on fixed rails, often underground or elevated.",
-      "userGuesses": [
-        "SUBWAY",
-        "UNDERGROUND RAIL"
-      ],
-      "status": "mastered",
+      "userGuesses": [],
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -464,7 +447,7 @@
       ],
       "definition": "A service that allows people to travel in vehicles with drivers, booked and paid for through a mobile app.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -506,11 +489,8 @@
         "road rules"
       ],
       "definition": "Rules and instructions that govern the movement of vehicles, pedestrians, and other road users.",
-      "userGuesses": [
-        "TRAFFIC LAWS",
-        "ROAD RULES"
-      ],
-      "status": "mastered",
+      "userGuesses": [],
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -554,7 +534,7 @@
       ],
       "definition": "The condition of being safe when using or traveling on roads.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -598,7 +578,7 @@
       ],
       "definition": "An area in a town or city where vehicles are not allowed and people can walk safely.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -642,7 +622,7 @@
       ],
       "definition": "A designated road or path, usually marked with signs or markings, where cyclists are allowed to ride.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -686,7 +666,7 @@
       ],
       "definition": "A vehicle that is powered by electricity, typically from a battery that can be charged from an external power source.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -730,7 +710,7 @@
       ],
       "definition": "A vehicle that can operate independently without human input, using sensors and artificial intelligence to navigate and make decisions.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -773,7 +753,7 @@
       ],
       "definition": "The ability of a vehicle or engine to use fuel efficiently.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -816,10 +796,8 @@
         "flight"
       ],
       "definition": "Travel by aeroplane.",
-      "userGuesses": [
-        "AVIATION"
-      ],
-      "status": "discovered",
+      "userGuesses": [],
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
@@ -861,7 +839,7 @@
       ],
       "definition": "The movement of goods or people by ship or boat.",
       "userGuesses": [],
-      "status": "discovered",
+      "status": "hidden",
       "examples": [
         {
           "type": "Simple",
