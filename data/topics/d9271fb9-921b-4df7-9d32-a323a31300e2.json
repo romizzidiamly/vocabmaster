@@ -666,7 +666,7 @@
       ],
       "definition": "A vehicle that is powered by electricity, typically from a battery that can be charged from an external power source.",
       "userGuesses": [],
-      "status": "hidden",
+      "status": "discovered",
       "examples": [
         {
           "type": "Simple",
