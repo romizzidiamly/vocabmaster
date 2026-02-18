@@ -187,7 +187,7 @@
       ],
       "definition": "A situation in which there is a large amount of traffic and vehicles are unable to move freely.",
       "userGuesses": [],
-      "status": "hidden",
+      "status": "discovered",
       "examples": [
         {
           "type": "Simple",
