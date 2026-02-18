@@ -404,7 +404,7 @@
       ],
       "definition": "A system of rail transport in which electric trains run on fixed rails, often underground or elevated.",
       "userGuesses": [],
-      "status": "hidden",
+      "status": "discovered",
       "examples": [
         {
           "type": "Simple",
