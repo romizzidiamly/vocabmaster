@@ -490,7 +490,7 @@
       ],
       "definition": "Rules and instructions that govern the movement of vehicles, pedestrians, and other road users.",
       "userGuesses": [],
-      "status": "hidden",
+      "status": "discovered",
       "examples": [
         {
           "type": "Simple",
