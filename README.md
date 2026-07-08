@@ -56,6 +56,3 @@ Open [http://localhost:3000](http://localhost:3000) to start your mastery journe
 
 ## 🎯 Our Focus: IELTS Excellence
 This app is built to solve the #1 problem in IELTS Writing: **Repetitive Vocabulary**. By focusing on synonyms and diverse sentence structures, VocabMaster helps you hit that Band 7+ Lexical Resource and Grammatical Range & Accuracy.
-
----
-Built with ❤️ by Romi & Antigravity AI
